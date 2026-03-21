@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-21T19:24:05.835782+00:00",
+  "last_updated": "2026-03-21T21:22:05.693541+00:00",
   "source_counts": {
     "en": 36,
     "zh": 24
@@ -10,275 +10,70 @@
       "icon": "🤖",
       "color": "#7d6be8",
       "featured": true,
-      "articles": [
-        {
-          "title": "Nvidia cracks Beijing nod for H200 chip sales",
-          "url": "https://www.businessday.co.za/world/international-companies/2026-03-18-nvidia-cracks-beijings-nod-for-h200-chip-sales/",
-          "source": "businessday.co.za",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-03-18T16:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "ai_tech"
-        },
-        {
-          "title": "Nvidia Secures Chinese Approval for H200 Chip Sales and Develops Adapted Groq Chip , ETTelecom",
-          "url": "https://telecom.economictimes.indiatimes.com/news/devices/nvidia-secures-chinese-approval-for-h200-chip-sales-and-develops-adapted-groq-chip/129651043",
-          "source": "telecom.economictimes.indiatimes.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-03-18T11:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "ai_tech"
-        },
-        {
-          "title": "China AI Stocks Rise as Nvidia Huang Calls OpenClaw  the Next ChatGPT",
-          "url": "https://finance.yahoo.com/news/china-ai-stocks-rise-nvidia-070550311.html",
-          "source": "finance.yahoo.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-03-18T11:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "ai_tech"
-        },
-        {
-          "title": "China AI stocks rise as Nvidia Jensen Huang calls OpenClaw  the next ChatGPT",
-          "url": "https://www.moneycontrol.com/news/business/markets/china-s-ai-stocks-rise-as-nvidia-s-jensen-huang-calls-openclaw-the-next-chatgpt-13863869.html",
-          "source": "moneycontrol.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-03-18T07:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "ai_tech"
-        },
-        {
-          "title": "Nvidia gets Beijing nod for H200 chip sales , adapts Groq chip for China : sources",
-          "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/nvidia-gets-beijings-nod-h200-chip-sales-adapts-groq-chip-china-sources",
-          "source": "businesstimes.com.sg",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-03-18T06:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "ai_tech"
-        },
-        {
-          "title": "China AI startup Moonshot snags funds at US$18 billion valuation",
-          "url": "https://www.businesstimes.com.sg/startups-tech/china-ai-startup-moonshot-snags-funds-us18-billion-valuation",
-          "source": "businesstimes.com.sg",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-03-15T08:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "ai_tech"
-        }
-      ]
+      "articles": []
     },
     "foreign_policy": {
       "label": "Foreign Policy & Diplomacy",
       "icon": "🌐",
       "color": "#4f8de8",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "Bilder des Tages : Zwischen Sinn und Seide",
+          "url": "https://www.wort.lu/international/bilder-des-tages-zwischen-sinn-und-seide/95487164.html",
+          "source": "wort.lu",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-20T15:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "Bilder des Tages : Glühende Lava stürzt sich ins Meer",
+          "url": "https://www.wort.lu/international/bilder-des-tages-gluehende-lava-stuerzt-sich-ins-meer/95487164.html",
+          "source": "wort.lu",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-16T22:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "Emerging markets surge : Why are they outperforming again ?",
+          "url": "https://www.heraldscotland.com/business_hq/25939699.emerging-markets-surge-outperforming/",
+          "source": "heraldscotland.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-16T14:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "Afrique : Le continent réinvente le financement climatique",
+          "url": "https://fr.allafrica.com/stories/202603160522.html",
+          "source": "fr.allafrica.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-16T13:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        }
+      ]
     },
     "politics": {
       "label": "Politics & Governance",
       "icon": "🏛️",
       "color": "#9b6de8",
       "featured": false,
-      "articles": [
-        {
-          "title": "China key legislative tasks for 2026",
-          "url": "https://www.prnewswire.com/news-releases/chinas-key-legislative-tasks-for-2026-302716740.html",
-          "source": "prnewswire.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-03-18T02:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "China releases full text of NPC Standing Committee work report",
-          "url": "https://www.globalsecurity.org/wmd/library/news/china/2026/03/china-260316-pdo01.htm",
-          "source": "globalsecurity.org",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-03-16T11:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "全国人大代表买世蕊 ： 扎实开展民族团结进步法律监督 - 新乡新闻",
-          "url": "https://news.xxrb.com.cn/html/2026/xinxiang_0316/432101.html",
-          "source": "news.xxrb.com.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-03-16T04:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "全国人民代表大会常务委员会工作报告",
-          "url": "https://www.qstheory.cn/20260316/196642c813524c9699513d331f73bd4b/c.html",
-          "source": "qstheory.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-03-16T04:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "全国人民代表大会常务委员会工作报告",
-          "url": "http://www.banyuetan.org/yw/detail/20260316/1000200033137441773624179895663762_1.html",
-          "source": "banyuetan.org",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-03-16T03:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "全国人民代表大会常务委员会工作报告",
-          "url": "http://qstheory.cn/20260316/196642c813524c9699513d331f73bd4b/c.html",
-          "source": "qstheory.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-03-16T03:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "全国人民代表大会常务委员会工作报告 -- 时政 -- 人民网",
-          "url": "http://politics.people.com.cn/n1/2026/0316/c1001-40682342.html",
-          "source": "politics.people.com.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-03-16T02:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "两会受权发布丨全国人民代表大会常务委员会工作报告",
-          "url": "http://news.china.com.cn/2026-03/16/content_118383684.shtml",
-          "source": "news.china.com.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-03-15T19:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "全国人民代表大会常务委员会工作报告",
-          "url": "https://www.stdaily.com/web/2026-03/15/content_485836.html",
-          "source": "stdaily.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-03-15T10:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "全国人民代表大会常务委员会工作报告 -- 2026年全国两会 -- 人民网",
-          "url": "http://lianghui.people.com.cn/2026/n1/2026/0315/c461827-40682222.html",
-          "source": "lianghui.people.com.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-03-15T08:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "两会受权发布丨全国人民代表大会常务委员会工作报告",
-          "url": "https://www.news.cn/politics/20260315/bfc2a93919af46208459d9681242158c/c.html",
-          "source": "news.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-03-15T08:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "全国人民代表大会常务委员会工作报告",
-          "url": "http://www.legaldaily.com.cn/index_article/content/2026-03/15/content_9357116.html",
-          "source": "legaldaily.com.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-03-15T07:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "两会受权发布丨全国人民代表大会常务委员会工作报告 _ 南方网",
-          "url": "https://news.southcn.com/node_52f8ac148e/87c0784e02.shtml",
-          "source": "news.southcn.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-03-15T07:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "全文丨全国人民代表大会常务委员会工作报告",
-          "url": "https://finance.sina.com.cn/tech/roll/2026-03-15/doc-inhqzzfv9605140.shtml",
-          "source": "finance.sina.com.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-03-15T07:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "全国人民代表大会常务委员会工作报告",
-          "url": "http://www.81.cn/yw_208727/16448931.html",
-          "source": "81.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-03-15T06:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        }
-      ]
+      "articles": []
     },
     "military_security": {
       "label": "Military & Security",
@@ -305,6 +100,18 @@
           "language": "zh",
           "type": "wire",
           "published": "2026-03-20T12:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "新聞幕後 ／ 共機驟減真相 ！ 北京趁 「 川習會 」 前誘騙美國 國安官員全說了 | 政治 | 三立新聞網 SETN . COM",
+          "url": "https://www.setn.com/News.aspx?NewsID=1810027",
+          "source": "setn.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-03-20T03:30:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -359,12 +166,156 @@
           "category": "military_security"
         },
         {
+          "title": "Taiwan detects 36 Chinese aircraft , 8 vessels , ship around itself",
+          "url": "https://aninews.in/news/world/asia/taiwan-detects-36-chinese-aircraft-8-vessels-ship-around-itself20260318161547/",
+          "source": "aninews.in",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-18T12:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Xi Jinping anticorruption drive sweeps up senior Chinese military chiefs - Grenada Chronicle – Daily Grenada And Caribbean News",
+          "url": "https://grenadachronicle.com/xi-jinpings-anticorruption-drive-sweeps-up-senior-chinese-military-chiefs/",
+          "source": "grenadachronicle.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-18T06:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
           "title": "中国首颗柔性机械臂卫星升空 开启在轨服务新篇章 _ 军事频道 _ 中华网",
           "url": "https://military.china.com/news/13004177/20260318/49331865.html",
           "source": "military.china.com",
           "language": "zh",
           "type": "wire",
           "published": "2026-03-18T04:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Xi Jinping anticorruption drive sweeps up senior Chinese military chiefs - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
+          "url": "https://dominicanrepublicpost.com/xi-jinpings-anticorruption-drive-sweeps-up-senior-chinese-military-chiefs/",
+          "source": "dominicanrepublicpost.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-18T03:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Xi Jinping anticorruption drive sweeps up senior Chinese military chiefs | Xi Jinping News",
+          "url": "https://www.aljazeera.com/news/2026/3/18/xi-jinpings-anticorruption-drive-sweeps-up-senior-chinese-military-chiefs",
+          "source": "aljazeera.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-18T02:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Taiwan detects 28 Chinese sorties around itself",
+          "url": "http://www.japanherald.com/news/278927967/taiwan-detects-28-chinese-sorties-around-itself",
+          "source": "japanherald.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-17T21:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Taiwan detects 28 Chinese sorties around itself",
+          "url": "http://www.chinanationalnews.com/news/278927967/taiwan-detects-28-chinese-sorties-around-itself",
+          "source": "chinanationalnews.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-17T20:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Taiwan detects 28 Chinese sorties around itself",
+          "url": "http://www.singaporestar.com/news/278927967/taiwan-detects-28-chinese-sorties-around-itself",
+          "source": "singaporestar.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-17T18:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Taiwan detects 28 Chinese sorties around itself",
+          "url": "http://www.calcuttanews.net/news/278927967/taiwan-detects-28-chinese-sorties-around-itself",
+          "source": "calcuttanews.net",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-17T18:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Taiwan detects 28 Chinese sorties around itself",
+          "url": "http://www.cambodiantimes.com/news/278927967/taiwan-detects-28-chinese-sorties-around-itself",
+          "source": "cambodiantimes.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-17T18:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Taiwan detects 28 Chinese sorties around itself",
+          "url": "http://www.bignewsnetwork.com/news/278927967/taiwan-detects-28-chinese-sorties-around-itself",
+          "source": "bignewsnetwork.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-17T18:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "China Most Advanced Aircraft Carrier Seen in Satellite Photo",
+          "url": "https://www.newsweek.com/chinas-most-advanced-aircraft-carrier-seen-in-satellite-photo-11689748",
+          "source": "newsweek.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-17T16:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Taiwan detects 28 Chinese sorties around itself",
+          "url": "https://aninews.in/news/world/asia/taiwan-detects-28-chinese-sorties-around-itself20260317205928/",
+          "source": "aninews.in",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-17T16:30:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -401,6 +352,30 @@
           "language": "en",
           "type": "wire",
           "published": "2026-03-17T04:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Taiwan Sees Return of Chinese Military Presence After Iran War Slowdown",
+          "url": "https://www.breitbart.com/national-security/2026/03/16/taiwan-sees-return-chinese-military-presence-after-iran-war-slowdown/",
+          "source": "breitbart.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-17T02:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Taiwan Sees Return of Chinese Military Presence After Iran War Slowdown",
+          "url": "https://www.breitbart.com/asia/2026/03/16/taiwan-sees-return-chinese-military-presence-after-iran-war-slowdown/",
+          "source": "breitbart.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-16T22:30:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -545,89 +520,523 @@
       "icon": "📈",
       "color": "#3dbd86",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "Idą podwyżki stóp procentowych w Europie",
+          "url": "https://www.pb.pl/ida-podwyzki-stop-procentowych-w-europie-briefing-makroekonomiczny-1258298",
+          "source": "pb.pl",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-21T10:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "伊朗战事对中国影响几何 ？- 虎嗅网",
+          "url": "https://www.huxiu.com/article/4843634.html",
+          "source": "huxiu.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-03-20T17:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "Oil shocks in the Malaysian perspective",
+          "url": "https://asianews.network/oil-shocks-in-the-malaysian-perspective/",
+          "source": "asianews.network",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-19T06:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "《 数说城市 》 之昆山市 _ 中华网",
+          "url": "https://digi.china.com/articles/20260319/202603191828120.html",
+          "source": "digi.china.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-03-19T05:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "Oil shocks in the Malaysian perspective",
+          "url": "https://www.thestar.com.my/business/insight/2026/03/19/oil-shocks-in-the-malaysian-perspective",
+          "source": "thestar.com.my",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-18T23:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "G20 in frenata : rallenta la crescita del Pil nel quarto trimestre , aumentano i timori per leconomia globale – LMF – LaMiaFinanza",
+          "url": "https://www.lamiafinanza.it/2026/03/g20-in-frenata-rallenta-la-crescita-del-pil-nel-quarto-trimestre-aumentano-i-timori-per-leconomia-globale/",
+          "source": "lamiafinanza.it",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-17T10:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "Un segnale di recessione economica | cosa succede in Cina",
+          "url": "https://www.zazoom.it/2026-03-16/un-segnale-di-recessione-economica-cosa-succede-in-cina/18842902/",
+          "source": "zazoom.it",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-16T06:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "中国的新碳排放目标将考验GDP增长与气候行动之间的平衡",
+          "url": "http://www.ftchinese.com/story/001109189",
+          "source": "ftchinese.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-03-16T04:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "Building strong foundations - Newspaper",
+          "url": "https://www.dawn.com/news/1982229/building-strong-foundations",
+          "source": "dawn.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-16T03:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "China factory output and consumption beat forecasts , while property investment contraction slows",
+          "url": "https://www.cnbc.com/2026/03/16/china-data-today-retail-sales-property-industrial-production.html",
+          "source": "cnbc.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-16T03:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "中国的新碳排放目标将考验GDP增长与气候行动之间的平衡",
+          "url": "https://www.ftchinese.com/story/001109189",
+          "source": "ftchinese.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-03-16T02:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "《 前瞻  十五五 》： 中国经济增长的新框架",
+          "url": "https://baijiahao.baidu.com/s?id=1859776630929384742",
+          "source": "baijiahao.baidu.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-03-16T01:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "Global growth seen steady in 2026 if oil shock Eases : Fitch",
+          "url": "https://www.moneycontrol.com/world/global-growth-seen-steady-in-2026-if-oil-shock-eases-fitch-article-13860922.html",
+          "source": "moneycontrol.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-15T14:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "Global growth to continue at steady pace if oil price shock short - lived : Fitch",
+          "url": "http://www.irishsun.com/news/278923324/global-growth-to-continue-at-steady-pace-if-oil-price-shock-short-lived-fitch",
+          "source": "irishsun.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-15T12:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "Global growth to continue at steady pace if oil price shock short - lived : Fitch",
+          "url": "https://aninews.in/news/business/global-growth-to-continue-at-steady-pace-if-oil-price-shock-short-lived-fitch20260315153810/",
+          "source": "aninews.in",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-15T10:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        }
+      ]
     },
     "society": {
       "label": "Society & Culture",
       "icon": "👥",
       "color": "#d49040",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "桃竹苗分署舉辦 「 多元及培力就業計畫 」 提案說明會 歡迎報名",
+          "url": "https://n.yam.com/Article/20260319880104",
+          "source": "n.yam.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-03-19T11:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "古巴 ， 最危险的时刻  来了 _ 凤凰网",
+          "url": "https://news.ifeng.com/c/8rclri2YNSi",
+          "source": "news.ifeng.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-03-19T10:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "संघर्ष का शतरंज",
+          "url": "https://panchjanya.com/2026/03/07/460959/sci-tech/the-chessboard-of-conflict/",
+          "source": "panchjanya.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-19T09:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "桃竹苗分署舉辦116年度 「 多元及培力就業計畫 」 提案說明會 協助民間團體順利提案",
+          "url": "https://n.yam.com/Article/20260319333802",
+          "source": "n.yam.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-03-19T06:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "परिवर्तन , राजनीतिक संस्कार र समृद्धि",
+          "url": "https://www.karobardaily.com/news/353981",
+          "source": "karobardaily.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-18T06:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "构建就业友好型发展方式 做好  开局之年  经济工作① _ 大陆 _ 国内新闻 _ 新闻 _ 齐鲁网",
+          "url": "https://news.iqilu.com/china/gedi/2026/0318/5899014.shtml",
+          "source": "news.iqilu.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-03-18T04:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "„ Visul chinezesc  se micșorează pentru generația Z . Un doctorand a povestit că a ajuns să livreze mâncare",
+          "url": "https://www.antena3.ro/externe/mapamond/visul-chinezesc-se-micsoreaza-pentru-generatia-z-780886.html",
+          "source": "antena3.ro",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-17T23:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "《 2025年中国财政政策执行情况报告 》 发布 预算执行情况总体较好",
+          "url": "https://baijiahao.baidu.com/s?id=1859888605541634998",
+          "source": "baijiahao.baidu.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-03-17T13:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "Sir Don McCullin :  La mia vita ha acquisito uno scopo e un significato grazie alla fotografia",
+          "url": "https://it.euronews.com/cultura/2026/03/17/sir-don-mccullin-la-mia-vita-ha-acquisito-uno-scopo-e-un-significato-grazie-alla-fotografi",
+          "source": "it.euronews.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-17T07:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "构建就业友好型发展方式 做好  开局之年  经济工作① _ 央广网",
+          "url": "https://finance.cnr.cn/gundong/20260317/t20260317_527553849.shtml",
+          "source": "finance.cnr.cn",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-03-17T03:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "中共的道德说教 年轻一代不买账",
+          "url": "https://www.aboluowang.com/2026/0317/2360679.html",
+          "source": "aboluowang.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-03-17T02:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "【 名家專欄 】 中共的道德説教 年輕一代不買帳 | 共產主義 | 中國年輕人 | 經濟壓力",
+          "url": "https://www.epochtimes.com/b5/26/3/13/n14718264.htm",
+          "source": "epochtimes.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-03-16T19:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "Вигенин пред ученици - посланици на ЕП : Европа трябва да осъзнае собствената си сила и да отстоява интересите си ᐉ Новини от Fakti . bg - България",
+          "url": "https://fakti.bg/bulgaria/1041710-vigenin-pred-uchenici-poslanici-na-ep-evropa-trabva-da-osaznae-sobstvenata-si-sila-i-da-otstoava-interesite-si",
+          "source": "fakti.bg",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-16T04:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "【 微博精粹 】 奇葩 ： 你可以任意歧视河南人 ， 但不可以歧视中国人",
+          "url": "https://www.aboluowang.com/2026/0316/2360305.html",
+          "source": "aboluowang.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-03-16T03:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "如何拓宽就业  新空间 ， 续写稳岗增收新篇章 ？",
+          "url": "https://www.stcn.com/article/detail/3678074.html",
+          "source": "stcn.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-03-16T01:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        }
+      ]
     },
     "maritime_security": {
       "label": "Maritime Security",
       "icon": "⚓",
       "color": "#3ab8c5",
       "featured": false,
-      "articles": [
-        {
-          "title": "More Pacific troops to join Iran war as economic chaos spreads",
-          "url": "https://www.thegardenisland.com/2026/03/19/hawaii-news/more-pacific-troops-to-join-iran-war-as-economic-chaos-spreads/",
-          "source": "thegardenisland.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-03-20T13:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "maritime_security"
-        },
-        {
-          "title": "Australia Joins US - Israeli - imposed Iranian Genocide : Anti - Genocide Global Sanctions Needed",
-          "url": "https://countercurrents.org/2026/03/australia-joins-us-israeli-imposed-iranian-genocide-anti-genocide-global-sanctions-needed/",
-          "source": "countercurrents.org",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-03-20T10:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "maritime_security"
-        },
-        {
-          "title": "Iranians who rise up  will get slaughtered , Israel admits",
-          "url": "https://www.aol.co.uk/articles/iranians-rise-slaughtered-israel-admits-025928128.html",
-          "source": "aol.co.uk",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-03-18T03:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "maritime_security"
-        },
-        {
-          "title": "Why some in China see Iran conflict as chance to change world order",
-          "url": "https://nationalpost.com/news/world/china-iran-world-order",
-          "source": "nationalpost.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-03-17T04:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "maritime_security"
-        },
-        {
-          "title": "More Pacific troops to join Iran war as economic chaos spreads",
-          "url": "https://www.yahoo.com/news/articles/more-pacific-troops-join-iran-160300201.html",
-          "source": "yahoo.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-03-15T19:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "maritime_security"
-        }
-      ]
+      "articles": []
     },
     "domestic_security": {
       "label": "Domestic Security",
       "icon": "🔒",
       "color": "#e07070",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "Lattività del Consiglio comunale di Siena del 19 marzo",
+          "url": "https://www.ilcittadinoonline.it/cronaca/siena-cronaca/lattivita-del-consiglio-comunale-di-siena-del-19-marzo/",
+          "source": "ilcittadinoonline.it",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-19T15:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "domestic_security"
+        },
+        {
+          "title": "Στα 108 δολάρια το βαρέλι εκτοξεύτηκε το πετρέλαιο - Το Ιράν απειλεί ότι ενεργειακοί στόχοι « θα γίνουν στάχτη »",
+          "url": "https://www.ertopen.com/index.php/news/kosmos/item/79503-sta-108-dolaria-to-vareli-ektokseytike-to-petrelaio-to-iran-apeilei-oti-energeiakoi-stoxoi-tha-ginoun-staxti",
+          "source": "ertopen.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-18T21:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "domestic_security"
+        },
+        {
+          "title": "China : Cybercrime Bill Entrenches Censorship , Surveillance",
+          "url": "https://www.hrw.org/news/2026/03/17/china-cybercrime-bill-entrenches-censorship-surveillance",
+          "source": "hrw.org",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-18T03:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "domestic_security"
+        },
+        {
+          "title": "IN AGGIORNAMENTO . Larijani ai paesi musulmani :  Da che parte state ?. 900 morti per gli attacchi di Israele al Libano",
+          "url": "https://www.lantidiplomatico.it/dettnews-in_aggiornamento_larijani_ai_paesi_musulmani_da_che_parte_state_900_morti_per_gli_attacchi_di_israele_al_libano/45289_65555/",
+          "source": "lantidiplomatico.it",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-16T18:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "domestic_security"
+        },
+        {
+          "title": "Trump calls for help to reopen Hormuz Strait as Iran strikes Gulf countries",
+          "url": "https://www.naharnet.com:443/stories/en/318980-trump-calls-for-help-to-reopen-hormuz-strait-as-iran-strikes-gulf-countries",
+          "source": "naharnet.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-16T13:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "domestic_security"
+        },
+        {
+          "title": "Trump calls for help to reopen Hormuz Strait as Iran strikes Gulf countries",
+          "url": "https://naharnet.com/stories/en/318980-trump-calls-for-help-to-reopen-hormuz-strait-as-iran-strikes-gulf-countries",
+          "source": "naharnet.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-16T12:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "domestic_security"
+        },
+        {
+          "title": "Trump Calls For Help To Reopen The Strait of Hormuz",
+          "url": "https://www.deccanchronicle.com/world/americas/trump-calls-for-help-to-reopen-the-strait-of-hormuz-1944187",
+          "source": "deccanchronicle.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-16T12:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "domestic_security"
+        },
+        {
+          "title": "The Latest : Trump calls for help to reopen the Strait of Hormuz",
+          "url": "https://www.woonsocketcall.com/news/national_and_world_news/the-latest-trump-calls-for-help-to-reopen-the-strait-of-hormuz/article_60304c64-2f0d-5fa3-a5f4-36b0c8e51720.html",
+          "source": "woonsocketcall.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-16T09:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "domestic_security"
+        },
+        {
+          "title": "The Latest : Trump calls for help to reopen the Strait of Hormuz",
+          "url": "https://www.durangoherald.com/articles/the-latest-trump-calls-for-help-to-reopen-the-strait-of-hormuz/",
+          "source": "durangoherald.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-16T09:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "domestic_security"
+        },
+        {
+          "title": "The Latest : Trump calls for help to reopen the Strait of Hormuz",
+          "url": "https://isp.netscape.com/news/world/story/0001/20260316/4d20e4ee0f47137d34ba0d67dd4dda6c",
+          "source": "isp.netscape.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-16T09:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "domestic_security"
+        },
+        {
+          "title": "issue17275",
+          "url": "https://aawsat.com/files/pdf/issue17275/",
+          "source": "aawsat.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-15T23:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "domestic_security"
+        }
+      ]
     },
     "bilateral_relations": {
       "label": "Bilateral Relations",
@@ -684,6 +1093,18 @@
           "category": "bilateral_relations"
         },
         {
+          "title": "韩国 、 菲律宾 、 泰国都在转向俄罗斯  |日经225|视觉中国|美国|石油",
+          "url": "https://news.sina.com.cn/w/2026-03-20/doc-inhrrkwt8028524.shtml",
+          "source": "news.sina.com.cn",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-03-20T09:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
           "title": "3D Tarama Pazarı 2026 – 2034 Gelir Tahmini ve Bölgesel Ayrıntı – Haber Radikal",
           "url": "http://www.haberradikal.com/2026/03/20/3d-tarama-pazari-2026-2034-gelir-tahmini-ve-bolgesel-ayrinti/",
           "source": "haberradikal.com",
@@ -720,12 +1141,108 @@
           "category": "bilateral_relations"
         },
         {
+          "title": "美전문가  韓 · 日 , 美 파병 요구  NO  할 수 있는 위치 아냐",
+          "url": "https://www.etnews.com/20260320000254",
+          "source": "etnews.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-03-20T08:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
+          "title": "제주항공 국제선 취항 17주년 , 누적 탑승객 6286만명",
+          "url": "https://www.ddaily.co.kr:443/page/view/2026032013351326114",
+          "source": "ddaily.co.kr",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-20T05:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
+          "title": "霍尔木兹海峡  锁喉  效应发酵 亚洲乙烯价格暴涨 _ 东方财富网",
+          "url": "https://finance.eastmoney.com/a/202603203678061088.html",
+          "source": "finance.eastmoney.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-03-20T05:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
+          "title": "ผนึกอาเซียนบวกสาม เสริมแกร่งความมั่นคงอาหารภูมิภาค",
+          "url": "https://www.dailynews.co.th/news/5704616/",
+          "source": "dailynews.co.th",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-20T05:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
+          "title": "霍尔木兹海峡  锁喉  效应发酵 亚洲乙烯价格暴涨 - 新闻中心 - 中国宁波网",
+          "url": "http://news.cnnb.com.cn/system/2026/03/20/030755787.shtml",
+          "source": "news.cnnb.com.cn",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-03-20T01:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
+          "title": "真想不到 ！ 32万中国人缺席 ， 赴日游客反而多了 ， 还创出历史新高",
+          "url": "https://www.163.com/dy/article/KOD4VL8305315IF2.html",
+          "source": "163.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-03-19T08:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
+          "title": "ASEAN LNG Leaders : Driving Investment and Trade in Malaysia & Indonesia",
+          "url": "https://www.thailand-business-news.com/asean/295504-asean-lng-leaders-driving-investment-and-trade-in-malaysia-indonesia",
+          "source": "thailand-business-news.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-19T08:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
           "title": "Canada NDP and trade unions posture as opponents of the US - Israeli war on Iran",
           "url": "https://www.wsws.org/en/articles/2026/03/18/stde-m18.html",
           "source": "wsws.org",
           "language": "en",
           "type": "wire",
           "published": "2026-03-19T04:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
+          "title": "유럽 가느니 중국으로 … 중동 리스크가 바꾼 여행 지도",
+          "url": "https://inews24.com/view/1950517",
+          "source": "inews24.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-18T14:45:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -744,12 +1261,72 @@
           "category": "bilateral_relations"
         },
         {
+          "title": "2月赴日中国游客骤降45 . 2 % | 国际",
+          "url": "https://www.orientaldaily.com.my/news/international/2026/03/18/805031",
+          "source": "orientaldaily.com.my",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-03-18T09:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
+          "title": "Japan tourism reshuffle : Chinese numbers collapse , South Korea , Taiwan and US visitors hit new highs",
+          "url": "https://www.malaymail.com/news/world/2026/03/18/japans-tourism-reshuffle-chinese-numbers-collapse-south-korea-taiwan-and-us-visitors-hit-new-highs/213101",
+          "source": "malaymail.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-18T09:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
+          "title": "Chinese visitors to Japan plunge 45 . 2 % in February",
+          "url": "https://www.yahoo.com/news/articles/chinese-visitors-japan-plunge-45-080446404.html",
+          "source": "yahoo.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-18T08:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
+          "title": "Conflicts in the Gulf can only embolden North Korea",
+          "url": "https://www.freemalaysiatoday.com/category/opinion/2026/03/18/conflicts-in-the-gulf-can-only-embolden-north-korea",
+          "source": "freemalaysiatoday.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-18T05:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
           "title": "Trump at war : U . S . no longer needs NATO  allie ; Delays Beijing visit – World Tribune : U . S . Politics and Culture , Geostrategy , China , North Korea , Corporate Watch , Media Watch",
           "url": "https://worldtribune.com/trump-at-war-u-s-no-longer-needs-nato-allies-delays-beijing-visit/",
           "source": "worldtribune.com",
           "language": "en",
           "type": "wire",
           "published": "2026-03-18T03:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
+          "title": "LNG Investment Opportunities in Malaysia and Indonesia",
+          "url": "https://www.aseanbriefing.com/news/lng-investment-malaysia-indonesia/",
+          "source": "aseanbriefing.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-03-17T04:45:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -792,6 +1369,18 @@
           "category": "bilateral_relations"
         },
         {
+          "title": "美籲派艦護航荷莫茲海峽 分析指中國不會參與 | 兩岸",
+          "url": "https://www.cna.com.tw:443/news/acn/202603160048.aspx",
+          "source": "cna.com.tw",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-03-16T04:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
           "title": "Globe - trotting Carney turns to allies as economic pressures build in Canada",
           "url": "https://www.gulf-times.com/article/722452/opinion/globe-trotting-carney-turns-to-allies-as-economic-pressures-build-in-canada",
           "source": "gulf-times.com",
@@ -822,188 +1411,7 @@
       "icon": "🏢",
       "color": "#3ab8a0",
       "featured": false,
-      "articles": [
-        {
-          "title": "The Iran war is Australia margin call",
-          "url": "http://www.afghanistannews.net/news/278930757/the-iran-war-is-australia-margin-call",
-          "source": "afghanistannews.net",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-03-19T04:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "中俄印大三角  彻底没戏 普京政府又冒出新想法 - Vava8 发吧",
-          "url": "https://www.vava8.com/index.php?app=index&act=view&id=19046",
-          "source": "vava8.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-03-18T20:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "Australia - NZ 2+2 Foreign , Defense Talks",
-          "url": "https://www.miragenews.com/australia-nz-2-2-foreign-defense-talks-1638379/",
-          "source": "miragenews.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-03-17T06:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "全国人民代表大会常务委员会工作报告",
-          "url": "https://www.qstheory.cn/20260316/196642c813524c9699513d331f73bd4b/c.html",
-          "source": "qstheory.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-03-16T04:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "全国人民代表大会常务委员会工作报告",
-          "url": "http://qstheory.cn/20260316/196642c813524c9699513d331f73bd4b/c.html",
-          "source": "qstheory.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-03-16T03:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "全国人民代表大会常务委员会工作报告 -- 时政 -- 人民网",
-          "url": "http://politics.people.com.cn/n1/2026/0316/c1001-40682342.html",
-          "source": "politics.people.com.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-03-16T02:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "两会受权发布丨全国人民代表大会常务委员会工作报告",
-          "url": "http://news.china.com.cn/2026-03/16/content_118383684.shtml",
-          "source": "news.china.com.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-03-15T19:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "全国人民代表大会常务委员会工作报告",
-          "url": "https://www.stdaily.com/web/2026-03/15/content_485836.html",
-          "source": "stdaily.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-03-15T10:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "全国人民代表大会常务委员会工作报告 -- 2026年全国两会 -- 人民网",
-          "url": "http://lianghui.people.com.cn/2026/n1/2026/0315/c461827-40682222.html",
-          "source": "lianghui.people.com.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-03-15T08:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "两会受权发布丨全国人民代表大会常务委员会工作报告",
-          "url": "https://www.news.cn/politics/20260315/bfc2a93919af46208459d9681242158c/c.html",
-          "source": "news.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-03-15T08:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "全国人民代表大会常务委员会工作报告",
-          "url": "http://www.legaldaily.com.cn/index_article/content/2026-03/15/content_9357116.html",
-          "source": "legaldaily.com.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-03-15T07:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "两会受权发布丨全国人民代表大会常务委员会工作报告 _ 南方网",
-          "url": "https://news.southcn.com/node_52f8ac148e/87c0784e02.shtml",
-          "source": "news.southcn.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-03-15T07:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "全文丨全国人民代表大会常务委员会工作报告",
-          "url": "https://finance.sina.com.cn/tech/roll/2026-03-15/doc-inhqzzfv9605140.shtml",
-          "source": "finance.sina.com.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-03-15T07:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "Caught in the crossfire : 115 , 000 reasons to worry | The Spectator Australia",
-          "url": "https://www.spectator.com.au/2026/03/caught-in-the-crossfire-115000-reasons-to-worry/",
-          "source": "spectator.com.au",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-03-15T06:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "全国人民代表大会常务委员会工作报告",
-          "url": "http://www.81.cn/yw_208727/16448931.html",
-          "source": "81.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-03-15T06:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        }
-      ]
+      "articles": []
     }
   },
   "latest_rss": [
@@ -1013,9 +1421,251 @@
       "source": "New York Times",
       "language": "en",
       "type": "newspaper",
-      "published": "2026-03-21T18:25:20+00:00",
+      "published": "2026-03-21T21:14:19+00:00",
       "summary": "A U.S. commander said allied attacks had degraded Tehran’s military. On Saturday, the United States and Britain said Iran had tried but failed to hit a distant joint base in the Indian Ocean with two missiles.",
-      "image": "https://static01.nyt.com/images/2026/03/21/multimedia/21israel-iran-promo-130pm-lmcp/21israel-iran-promo-130pm-lmcp-mediumSquareAt3X.jpg",
+      "image": "https://static01.nyt.com/images/2026/03/21/multimedia/21mideast-live-promo5p/21israel-iran-front-by-front-wctk-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "TSA缺工美国机场大排长龙 特朗普扬言派移民局警察进驻",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260321-tsa%E7%BC%BA%E5%B7%A5%E7%BE%8E%E5%9B%BD%E6%9C%BA%E5%9C%BA%E5%A4%A7%E6%8E%92%E9%95%BF%E9%BE%99-%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%AC%E8%A8%80%E6%B4%BE%E7%A7%BB%E6%B0%91%E5%B1%80%E8%AD%A6%E5%AF%9F%E8%BF%9B%E9%A9%BB",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-03-21T20:58:49+00:00",
+      "summary": "随着美国国土安全部部分停摆持续，全美机场正陷入前所未见的运作混乱。运输安全管理局（TSA）人员因长期领不到薪资，出现大规模请假与离职潮，各地安检人力吃紧，导致排队时间动辄超过2至3小时，航班延误与取消数量急剧攀升。从纽约到德州，多座大型机场已出现长时间壅塞情况，甚至有旅客在清晨即排起长龙，整体航空运输体系濒临失序。",
+      "image": "https://s.rfi.fr/media/display/bbcb901c-2568-11f1-9bc8-005056bf30b7/w:1024/p:16x9/2026-03-19T020812Z-419074724-RC2D7KAXR1WV-RTRMADP-3-USA-TRUMP-MIGRATION-UTAH.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "‘Tears and grief’: Mother’s Day in Gaza marked by mourning",
+      "url": "https://www.aljazeera.com/news/2026/3/21/tears-and-grief-mothers-day-in-gaza-marked-by-mourning?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-03-21T20:45:16+00:00",
+      "summary": "Day of intense hardship as mothers mourn children lost in war and children face day without their mothers.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "危险升级 报复美以轰炸核设施 伊朗袭击以色列核重地迪莫纳",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260321-%E5%8D%B1%E9%99%A9%E5%8D%87%E7%BA%A7-%E6%8A%A5%E5%A4%8D%E7%BE%8E%E4%BB%A5%E8%BD%B0%E7%82%B8%E6%A0%B8%E8%AE%BE%E6%96%BD-%E4%BC%8A%E6%9C%97%E8%A2%AD%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97%E6%A0%B8%E9%87%8D%E5%9C%B0%E8%BF%AA%E8%8E%AB%E7%BA%B3",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-03-21T20:45:11+00:00",
+      "summary": "美以周六轰炸伊朗中部的纳坦兹核设施后，以色列一座拥有核研究和开发中心的重镇当晚遭伊朗多次导弹袭击，以色列军方承认导弹拦截失败，最新报告显示至少30多 人受伤。",
+      "image": "https://s.rfi.fr/media/display/d525d09c-2566-11f1-a70d-005056a90284/w:1024/p:16x9/2026-03-21T200211Z-1512399002-RC269KA1SXAL-RTRMADP-3-IRAN-CRISIS-ISRAEL.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Zelensky Sends Negotiators to the U.S., Hoping to Revive Peace Talks",
+      "url": "https://www.nytimes.com/2026/03/21/world/europe/ukraine-russia-peace-talks-iran.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-03-21T20:36:38+00:00",
+      "summary": "President Volodymyr Zelensky of Ukraine on Wednesday in Madrid. He has called for the resumption of peace talks, which have lost momentum in recent weeks.",
+      "image": "https://static01.nyt.com/images/2026/03/21/multimedia/21int-ukraine-talks-vhtg/21int-ukraine-talks-vhtg-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "3警開5槍兩中胸腿 揮刀漢命危 警：公路草叢跳出呼「斬死你」 別無選擇開槍",
+      "url": "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260322/s00002/1774115350340/3%e8%ad%a6%e9%96%8b5%e6%a7%8d%e5%85%a9%e4%b8%ad%e8%83%b8%e8%85%bf-%e6%8f%ae%e5%88%80%e6%bc%a2%e5%91%bd%e5%8d%b1-%e8%ad%a6-%e5%85%ac%e8%b7%af%e8%8d%89%e5%8f%a2%e8%b7%b3%e5%87%ba%e5%91%bc%e3%80%8c%e6%96%ac%e6%ad%bb%e4%bd%a0%e3%80%8d-%e5%88%a5%e7%84%a1%e9%81%b8%e6%93%87%e9%96%8b%e6%a7%8d",
+      "source": "明报",
+      "language": "zh",
+      "type": "newspaper",
+      "published": "2026-03-21T20:30:00+00:00",
+      "summary": "【明報專訊】葵涌昨日凌晨發生警員開槍案。疑精神有異的43歲男子持利器先後在荃灣港鐵站、葵涌昌榮路及青山公路葵涌段出現，警方在青山公路搜查時，男子被指手持刀及鋁條從草叢跳出，警員向他發射胡椒水劑，但男子續衝向警員並大叫「斬死你」。3名警員合共向男子開5槍，最後兩槍來自同一警員，分別擊中男子右胸及右大腿。男子昏迷送院搶救，至昨晚情况危殆。警方表示開槍是艱難決定，當時別無選擇，亦已給予充足警告。",
+      "image": "https://fs.mingpao.com/pns/20260322/s00007/0afdb4c19b5f4a3983f601649efdf880.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "抑鬱妻投河尋死 夫相救同溺斃 事發前因感情金錢爭執 女兒目擊慘劇",
+      "url": "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260322/s00002/1774115350923/%e6%8a%91%e9%ac%b1%e5%a6%bb%e6%8a%95%e6%b2%b3%e5%b0%8b%e6%ad%bb-%e5%a4%ab%e7%9b%b8%e6%95%91%e5%90%8c%e6%ba%ba%e6%96%83-%e4%ba%8b%e7%99%bc%e5%89%8d%e5%9b%a0%e6%84%9f%e6%83%85%e9%87%91%e9%8c%a2%e7%88%ad%e5%9f%b7-%e5%a5%b3%e5%85%92%e7%9b%ae%e6%93%8a%e6%85%98%e5%8a%87",
+      "source": "明报",
+      "language": "zh",
+      "type": "newspaper",
+      "published": "2026-03-21T20:30:00+00:00",
+      "summary": "【明報專訊】38歲婦人前晚疑跳落上水梧桐河尋死，其53歲丈夫落水相救，兩人的女兒報警，消防到場救起夫婦，兩人均已告昏迷，送院不治。據了解，女事主患抑鬱症，與夫去年開始辦離婚手續，但仍同住，案發前雙方因感情及金錢問題爭執。有鄰居稱，兩名死者育有一對子女。社署表示已派社工聯絡家屬，會按其福利需要提供適切協助。",
+      "image": "https://fs.mingpao.com/pns/20260322/s00007/df551baa7e8a464181fc5a386d05dd4f.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "妻患病同財困 老夫婦寓所燒炭雙亡",
+      "url": "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260322/s00002/1774115351289/%e5%a6%bb%e6%82%a3%e7%97%85%e5%90%8c%e8%b2%a1%e5%9b%b0-%e8%80%81%e5%a4%ab%e5%a9%a6%e5%af%93%e6%89%80%e7%87%92%e7%82%ad%e9%9b%99%e4%ba%a1",
+      "source": "明报",
+      "language": "zh",
+      "type": "newspaper",
+      "published": "2026-03-21T20:30:00+00:00",
+      "summary": "【明報專訊】西灣河太安樓前晚揭發雙屍命案。一對分別69歲及74歲的夫婦在寓所留下遺書燒炭，救援人員到場發現兩人時，當場證實他們已死，警方將案件列作自殺。據了解，七旬妻子有身體病患，夫婦因金錢問題不開心，不排除他們因此自尋短見。",
+      "image": "https://fs.mingpao.com/pns/20260322/s00007/1f07944545804f9c823f31a2dd6aef4e.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "銀髮舞K-Pop 鬧市快閃樂人自樂 「長者非只耍太極」 拾自信家人互動增",
+      "url": "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260322/s00002/1774113595772/%e9%8a%80%e9%ab%ae%e8%88%9ek-pop-%e9%ac%a7%e5%b8%82%e5%bf%ab%e9%96%83%e6%a8%82%e4%ba%ba%e8%87%aa%e6%a8%82-%e3%80%8c%e9%95%b7%e8%80%85%e9%9d%9e%e5%8f%aa%e8%80%8d%e5%a4%aa%e6%a5%b5%e3%80%8d-%e6%8b%be%e8%87%aa%e4%bf%a1%e5%ae%b6%e4%ba%ba%e4%ba%92%e5%8b%95%e5%a2%9e",
+      "source": "明报",
+      "language": "zh",
+      "type": "newspaper",
+      "published": "2026-03-21T20:30:00+00:00",
+      "summary": "【明報專訊】一條銅鑼灣快閃K-Pop跳舞片上月底在社交平台Instagram廣傳，10多個「阿叔阿嬸」身穿紅色棒球褸牛仔短褲在街頭大跳like JENNIE，不足一個月突破38萬觀看次數，不少人讚「好有型」。這群加起來隨時上千歲的長者來自聖公會西環長者綜合服務中心K-Pop舞團「CAN」，團員介乎56至80歲。做慣家庭主婦的貝貝隨着兒子長大，「覺得自己好無用」，是K-Pop讓她重拾自信；團員Shirley盼大眾明白老一輩也有很多可能，「不要只說長者一定要耍太極、寫書法，我們也可做很有活力的事」。",
+      "image": "https://fs.mingpao.com/pns/20260322/s00046/993faeb0b7da4342b51bc87a35853af0.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "團員表現多「驚喜」 社工：長者服務是否只得一個模式？",
+      "url": "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260322/s00002/1774113596116/%e5%9c%98%e5%93%a1%e8%a1%a8%e7%8f%be%e5%a4%9a%e3%80%8c%e9%a9%9a%e5%96%9c%e3%80%8d-%e7%a4%be%e5%b7%a5-%e9%95%b7%e8%80%85%e6%9c%8d%e5%8b%99%e6%98%af%e5%90%a6%e5%8f%aa%e5%be%97%e4%b8%80%e5%80%8b%e6%a8%a1%e5%bc%8f",
+      "source": "明报",
+      "language": "zh",
+      "type": "newspaper",
+      "published": "2026-03-21T20:30:00+00:00",
+      "summary": "【明報專訊】舞團「CAN」使參與其中的銀髮族自我突破，在旁見證的社工亦不無收穫。從事長者服務近10年的聖公會西環長者綜合服務中心教育及發展服務單位主任劉子鉫（Emily）說，舞團讓她反思舉辦活動的可能，「以前常問『Why（為什麼做）』，現在會問『Why not』（為什麼不做）……服務長者是否得一個模式？有時是我們給自己太多框框」。",
+      "image": "https://fs.mingpao.com/pns/20260322/s00046/c104b959c4aa4bed9d33d11b70f47e4a.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "黃埔申資助安裝充電樁3年未動工 環署：物管改計劃",
+      "url": "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260322/s00002/1774113596377/%e9%bb%83%e5%9f%94%e7%94%b3%e8%b3%87%e5%8a%a9%e5%ae%89%e8%a3%9d%e5%85%85%e9%9b%bb%e6%a8%813%e5%b9%b4%e6%9c%aa%e5%8b%95%e5%b7%a5-%e7%92%b0%e7%bd%b2-%e7%89%a9%e7%ae%a1%e6%94%b9%e8%a8%88%e5%8a%83",
+      "source": "明报",
+      "language": "zh",
+      "type": "newspaper",
+      "published": "2026-03-21T20:30:00+00:00",
+      "summary": "【明報專訊】政府撥款35億元資助私人屋苑安裝電動車充電設施，預期2027/28財政年度完結時，可達到為約14萬個停車位完成安裝充電基礎設施的目標。距目標還有兩年，環保署稱，截至今年1月底，獲批申請中約8萬個停車位已完工，佔整體目標約57%，餘下約6萬個停車位仍處於招標或設計階段。有私人屋苑業主稱，物管公司2023年3月已獲批資助，至今3年仍未動工，批評進度緩慢，冀盡快完成審批並開展工程；環保署回覆稱，去年9月收到申請人通知，打算修改計劃的停車位數目及工程範圍，該署今年2月底收到經修訂標書正審閱，料本月內審核完畢。",
+      "image": "https://fs.mingpao.com/pns/20260322/s00046/e7cf2238d8ed4f68afe9f4d40bde6b21.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "每充電位平均2.8萬元 環署︰無發現圍標托價",
+      "url": "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260322/s00002/1774113596532/%e6%af%8f%e5%85%85%e9%9b%bb%e4%bd%8d%e5%b9%b3%e5%9d%872-8%e8%90%ac%e5%85%83-%e7%92%b0%e7%bd%b2-%e7%84%a1%e7%99%bc%e7%8f%be%e5%9c%8d%e6%a8%99%e6%89%98%e5%83%b9",
+      "source": "明报",
+      "language": "zh",
+      "type": "newspaper",
+      "published": "2026-03-21T20:30:00+00:00",
+      "summary": "【明報專訊】環保署表示，「EV屋苑充電易資助計劃」的35億元撥款已全數批出。已完成工程個案中，計劃下每個充電停車位的工程費由約1.9萬至約4.6萬元不等，平均工程費約2.8萬元。發言人又稱，至今並無發現計劃有圍標或承建商故意提高工程造價。",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "特設銷售下月出樓價範圍 宏福業主棄買可取回現金",
+      "url": "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260322/s00002/1774115353847/%e7%89%b9%e8%a8%ad%e9%8a%b7%e5%94%ae%e4%b8%8b%e6%9c%88%e5%87%ba%e6%a8%93%e5%83%b9%e7%af%84%e5%9c%8d-%e5%ae%8f%e7%a6%8f%e6%a5%ad%e4%b8%bb%e6%a3%84%e8%b2%b7%e5%8f%af%e5%8f%96%e5%9b%9e%e7%8f%be%e9%87%91",
+      "source": "明报",
+      "language": "zh",
+      "type": "newspaper",
+      "published": "2026-03-21T20:30:00+00:00",
+      "summary": "【明報專訊】政府提出宏福苑安置方案，業主可選以「樓換樓」方式參與「特設銷售計劃」買樓，或出售業權取現金再經計劃買樓。有居民早前提出疑問，選樓換樓後若最終無屬意單位，可否改回收現金。房屋局回覆查詢確認，選樓換樓者如未能經特設銷售計劃買到單位，會改發現金。局方亦透露，將分兩階段向業主提供特設銷售計劃各項目資料，下月起發放樓層平面圖、單位售價範圍等，第三季再發放售樓說明書及價單等。有居民稱日前聽證會披露部分大廈僅小量單位受損，現需重新考慮是否接受收購。",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "ComplexCon演唱會增排隊號碼 惹客不滿 售票時未列明 海關收舉報查違商品例否",
+      "url": "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260322/s00002/1774115354431/complexcon%e6%bc%94%e5%94%b1%e6%9c%83%e5%a2%9e%e6%8e%92%e9%9a%8a%e8%99%9f%e7%a2%bc-%e6%83%b9%e5%ae%a2%e4%b8%8d%e6%bb%bf-%e5%94%ae%e7%a5%a8%e6%99%82%e6%9c%aa%e5%88%97%e6%98%8e-%e6%b5%b7%e9%97%9c%e6%94%b6%e8%88%89%e5%a0%b1%e6%9f%a5%e9%81%95%e5%95%86%e5%93%81%e4%be%8b%e5%90%a6",
+      "source": "明报",
+      "language": "zh",
+      "type": "newspaper",
+      "published": "2026-03-21T20:30:00+00:00",
+      "summary": "【明報專訊】國際潮流文化盛事「ComplexCon香港2026」昨起在香港亞洲博覽館舉行，並一連兩晚舉辦「Complex Live！」演唱會，多名購票歌迷批評主辦方臨時更改入場規則，演出前兩日突要求嚴格按門票序號入場，惟售票時從未列明。海關表示已接獲相關舉報，若證實違反《商品說明條例》會執法。主辦方回覆稱，活動安排根據大會官方社交媒體公布為準。",
+      "image": "https://fs.mingpao.com/pns/20260322/s00046/e0075e7a0fbc4c63834432ea54b0746e.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "葉劉見粉絲 排長龍無虛席",
+      "url": "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260322/s00002/1774115354881/%e8%91%89%e5%8a%89%e8%a6%8b%e7%b2%89%e7%b5%b2-%e6%8e%92%e9%95%b7%e9%be%8d%e7%84%a1%e8%99%9b%e5%b8%ad",
+      "source": "明报",
+      "language": "zh",
+      "type": "newspaper",
+      "published": "2026-03-21T20:30:00+00:00",
+      "summary": "【明報專訊】新民黨主席、行政會議召集人葉劉淑儀（台上右）昨在ComplexCon舉行「粉絲」見面會，會前約15分鐘等候區已大排長龍，觀眾席幾近爆滿。藝人「193」郭嘉駿（台上左）被抽中上台與葉劉互動，除合照、獲親筆簽名「小卡」外，他還以粉絲身分贈送自己設計的外套給葉太。他說希望葉太多多幫忙宣傳本地品牌，又說喜歡葉太是因為感受到她對年輕人的熱情。",
+      "image": "https://fs.mingpao.com/pns/20260322/s00046/4729656658c84067854d9fb086e189e4.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "謝展寰稱郊野可發展旅遊產業 營地或僅假日收費 初擬西貢東作試點",
+      "url": "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260322/s00002/1774115355039/%e8%ac%9d%e5%b1%95%e5%af%b0%e7%a8%b1%e9%83%8a%e9%87%8e%e5%8f%af%e7%99%bc%e5%b1%95%e6%97%85%e9%81%8a%e7%94%a2%e6%a5%ad-%e7%87%9f%e5%9c%b0%e6%88%96%e5%83%85%e5%81%87%e6%97%a5%e6%94%b6%e8%b2%bb-%e5%88%9d%e6%93%ac%e8%a5%bf%e8%b2%a2%e6%9d%b1%e4%bd%9c%e8%a9%a6%e9%bb%9e",
+      "source": "明报",
+      "language": "zh",
+      "type": "newspaper",
+      "published": "2026-03-21T20:30:00+00:00",
+      "summary": "【明報專訊】政府提出在部分熱門郊野地點及營地引入預約及收費制度，引起部分市民不滿。環境及生態局長謝展寰昨日稱，郊野及露營地點可發展成旅遊產業，例如與旅遊公司合作開辦旅遊團等，認為可只在假期收費，本地人在其他日子可免費進入，初步擬以西貢東為試點。",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "物管NGO聯營模式擴公屋「邁一步」 業界：新邨合約增條款 1/4前線交NGO培訓",
+      "url": "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260322/s00002/1774115355715/%e7%89%a9%e7%ae%a1ngo%e8%81%af%e7%87%9f%e6%a8%a1%e5%bc%8f%e6%93%b4%e5%85%ac%e5%b1%8b%e3%80%8c%e9%82%81%e4%b8%80%e6%ad%a5%e3%80%8d-%e6%a5%ad%e7%95%8c-%e6%96%b0%e9%82%a8%e5%90%88%e7%b4%84%e5%a2%9e%e6%a2%9d%e6%ac%be-1-4%e5%89%8d%e7%b7%9a%e4%ba%a4ngo%e5%9f%b9%e8%a8%93",
+      "source": "明报",
+      "language": "zh",
+      "type": "newspaper",
+      "published": "2026-03-21T20:30:00+00:00",
+      "summary": "【明報專訊】由物業管理公司及非政府機構（NGO）合作聯營管理「簡約公屋」的模式，有望擴至傳統公屋。一直與政府商討的香港物業服務公司協會透露，當局自去年底於新公屋物業管理合約增支援長者專項條款，明確要求物管公司須參與社署「與照顧者同行」計劃，與NGO聯繫安排至少25%前線員工接受培訓，兩者更可合作辦支援居民活動，形容是邁出第一步。協會亦倡議政府研究仿效簡約公屋單一營運安排，在新落成公屋試行由物管公司營運商場零售、餐飲及其他社會服務設施。",
+      "image": "https://fs.mingpao.com/pns/20260322/s00046/dda8420f5c504a30853e03a4a81067e3.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "簡樸房規管過渡期助市場適應 料減投訴",
+      "url": "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260322/s00002/1774115356058/%e7%b0%a1%e6%a8%b8%e6%88%bf%e8%a6%8f%e7%ae%a1%e9%81%8e%e6%b8%a1%e6%9c%9f%e5%8a%a9%e5%b8%82%e5%a0%b4%e9%81%a9%e6%87%89-%e6%96%99%e6%b8%9b%e6%8a%95%e8%a8%b4",
+      "source": "明报",
+      "language": "zh",
+      "type": "newspaper",
+      "published": "2026-03-21T20:30:00+00:00",
+      "summary": "【明報專訊】「簡樸房」規管制度3月起實施，政府鼓勵物業管理公司加強管理，強制分間單位須符合結構、消防安全、獨立水電表等標準並獲認證。香港物業服務公司協會認為，政府訂立48個月過渡期是務實安排，可讓業主、租客及市場逐步適應，亦讓物管公司有時間建立操作流程、培訓前線人員及加強與政府部門溝通，相信日後可令物管投訴減少。",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "港增1腦膜炎雙球菌感染 今年第四宗 皆無關英疫情",
+      "url": "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260322/s00002/1774115356164/%e6%b8%af%e5%a2%9e1%e8%85%a6%e8%86%9c%e7%82%8e%e9%9b%99%e7%90%83%e8%8f%8c%e6%84%9f%e6%9f%93-%e4%bb%8a%e5%b9%b4%e7%ac%ac%e5%9b%9b%e5%ae%97-%e7%9a%86%e7%84%a1%e9%97%9c%e8%8b%b1%e7%96%ab%e6%83%85",
+      "source": "明报",
+      "language": "zh",
+      "type": "newspaper",
+      "published": "2026-03-21T20:30:00+00:00",
+      "summary": "【明報專訊】英國肯特郡近日爆發侵入性腦膜炎雙球菌感染，本港前日新增一宗本地感染個案，涉及一名3歲男童，是本港今年錄得第四宗個案，去年則錄得11宗。衛生署昨日表示，本地個案均無流行病學關聯，亦無證據顯示與英國肯特郡感染群組有關，署方會密切監察復活節回港的留學生有否症狀。有專家表示該症惡化速度快，料本港仍有潛伏個案。",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "IAEA looking into Iran’s report that Natanz nuclear site hit in strikes",
+      "url": "https://www.washingtonpost.com/world/2026/03/21/iran-us-war-israel-nuclear-executions/",
+      "source": "Washington Post",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-03-21T20:29:15+00:00",
+      "summary": "Human rights organizations say they fear Iran will carry out mass executions after the public hangings this week of three men who took place in anti-government protests.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Mass Prague rally hits Babis over democracy concerns",
+      "url": "https://www.dw.com/en/mass-prague-rally-hits-babis-over-democracy-concerns/a-76470345?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "Deutsche Welle",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-03-21T20:16:00+00:00",
+      "summary": "Demonstrators accused Prime Minister Andrej Babis of democratic backsliding, citing shifts in the country's foreign and domestic policies toward what the call more pro-Russia positions.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "With Fire and Song, Kurds in Turkey Hail the Start of Spring",
+      "url": "https://www.nytimes.com/2026/03/21/world/middleeast/kurds-turkey-newroz-iran.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-03-21T19:52:51+00:00",
+      "summary": "Kurds celebrating Newroz, an ancient holiday that marks the start of spring in the northern hemisphere, in Diyarbakir, Turkey.",
+      "image": "https://static01.nyt.com/images/2026/03/21/multimedia/21int-turkey-kurds-dispatch-fjvh/21int-turkey-kurds-dispatch-fjvh-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Joe Kent speaks out against Iran war at prayer event after resigning",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/21/joe-kent-speaks-out-against-iran-war-at-prayer-event-after-resigning?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-03-21T19:46:04+00:00",
+      "summary": "Joe Kent says he resigned as director of the US National Counterterrorism Center over opposition to the war in Iran.",
+      "image": "",
       "via": "rss"
     },
     {
@@ -1024,20 +1674,64 @@
       "source": "New York Times",
       "language": "en",
       "type": "newspaper",
-      "published": "2026-03-21T18:22:47+00:00",
+      "published": "2026-03-21T19:36:01+00:00",
       "summary": "The concert in Seoul’s historic center was a grand homecoming for a pivotal force of South Korean soft power. RM, the group’s leader, performed through an ankle injury.",
       "image": "https://static01.nyt.com/images/2026/03/21/multimedia/21bts-live-promo945a/21bts-live-promo945a-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
-      "title": "Former FBI director and special counsel Robert Mueller dies at 81",
+      "title": "EU urges members to start storing winter gas as Iran war causes price surge",
+      "url": "https://www.aljazeera.com/news/2026/3/21/eu-urges-members-to-start-storing-winter-gas-as-iran-war-causes-price-surge?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-03-21T19:24:11+00:00",
+      "summary": "War, which saw Iran attack Qatar facility, has caused &#039;high, volatile&#039; gas prices that could hit EU storage projections.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Robert Mueller, former FBI director who led Trump inquiry, dies at 81",
       "url": "https://www.ft.com/content/368059cb-ad49-495e-aefb-01288bd45a15",
       "source": "Financial Times",
       "language": "en",
       "type": "newspaper",
-      "published": "2026-03-21T18:06:58+00:00",
+      "published": "2026-03-21T19:13:27+00:00",
       "summary": "Department of Justice veteran investigated alleged ties between Trump campaign and Russia",
       "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F39c74d99-041f-4ee8-b923-41a49c2b4604.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Zimbabwe's Biti reportedly detained amid term‑limit row",
+      "url": "https://www.dw.com/en/zimbabwe-s-biti-reportedly-detained-amid-term‑limit-row/a-76470035?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "Deutsche Welle",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-03-21T19:03:00+00:00",
+      "summary": "Proposed changes to ‌the constitution ⁠⁠would extend presidential terms from five years to seven, allowing President Emmerson Mnangagwa to stay in office until 2030 after he was meant to step down in ​2028.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Eid without toys: Israeli restrictions drive up prices in Gaza",
+      "url": "https://www.aljazeera.com/features/2026/3/21/eid-without-toys-israeli-restrictions-drive-up-prices-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-03-21T18:03:20+00:00",
+      "summary": "Amid war and supply restrictions, Gaza’s toy markets face shortages and high prices, leaving children without Eid gifts.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Flash flooding swamps Hawaii, prompting evacuation orders for 5,500 people",
+      "url": "https://www.aljazeera.com/news/2026/3/21/flash-flooding-swamps-hawaii-prompting-evacuation-orders-for-5500-people?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-03-21T18:01:23+00:00",
+      "summary": "Oahu&#039;s emergency office has ordered residents in the Waialua area to &#039;leave now&#039; amid risk of road failures.",
+      "image": "",
       "via": "rss"
     },
     {
@@ -1052,13 +1746,13 @@
       "via": "rss"
     },
     {
-      "title": "Former FBI chief, Robert Mueller, dead at 81",
+      "title": "Former FBI chief Robert Mueller, known for Trump investigation, dead at 81",
       "url": "https://www.aljazeera.com/news/2026/3/21/former-fbi-chief-robert-mueller-dead-at-81?traffic_source=rss",
       "source": "Al Jazeera",
       "language": "en",
       "type": "broadcast",
       "published": "2026-03-21T17:42:27+00:00",
-      "summary": "Robert Mueller oversaw the probe into alleged Russian interference in the 2016 United States election.",
+      "summary": "Robert Mueller oversaw the probe into alleged Russian interference during the 2016 United States election.",
       "image": "",
       "via": "rss"
     },
@@ -1113,7 +1807,7 @@
       "language": "en",
       "type": "broadcast",
       "published": "2026-03-21T16:57:54+00:00",
-      "summary": "The US president called on immigration agents to place &#039;heavy emphasis&#039; on the arrests of Somali immigrants.",
+      "summary": "The US president called on immigration agents to place &#039;heavy emphasis&#039; on the arrest of Somali immigrants.",
       "image": "",
       "via": "rss"
     },
@@ -1291,17 +1985,6 @@
       "published": "2026-03-21T14:32:12+00:00",
       "summary": "基于中东战争引发的全球能源紧缺，据中央社报道，台湾总统赖清德今天（3月21日）说，立法院通过核管法，政府要依法行政，经济部审慎评估后回文台电，表达核二、核三两座核能发电站具重启运转条件，台湾电力公司已在准备重启程序，预计3月底重启计划送核安会审议。",
       "image": "https://s.rfi.fr/media/display/2638e4ac-0ab8-11f1-8e64-005056bf30b7/w:1024/p:16x9/2026-02-13T023713Z-691258401-RC228IATZNZU-RTRMADP-3-USA-TRUMP-TARIFFS-TAIWAN-1.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "These BTS Fans Waited 15 Hours to See Their Idols",
-      "url": "https://www.nytimes.com/2026/03/21/world/asia/bts-fans-concert-seoul.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-03-21T14:16:51+00:00",
-      "summary": "International BTS fans waiting for the concert on Saturday, from left: Thycianne Santos, Corrine van der Moolen, Leimomi Kamiya, Betty Pietraszora, Kayla Sanchez, Niki Anchala and Emi Noguchi.",
-      "image": "https://static01.nyt.com/images/2026/03/21/multimedia/21bts-live-fans/21bts-live-fans-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -1679,8 +2362,8 @@
       "via": "rss"
     },
     {
-      "title": "As cherished secular freedoms are chipped away at, some see signs of a new authoritarianism in Syria",
-      "url": "https://www.dw.com/en/as-cherished-secular-freedoms-are-chipped-away-at-some-see-signs-of-a-new-authoritarianism-in-syria/a-76457547?maca=en-rss-en-world-4025-xml-mrss",
+      "title": "Why Syria's new alcohol ban is about much more than beer",
+      "url": "https://www.dw.com/en/why-syria-s-new-alcohol-ban-is-about-much-more-than-beer/a-76457547?maca=en-rss-en-world-4025-xml-mrss",
       "source": "Deutsche Welle",
       "language": "en",
       "type": "broadcast",
@@ -1742,17 +2425,6 @@
       "published": "2026-03-21T09:07:01+00:00",
       "summary": "As conflict enters week 4, here’s the latest on the US-Israel attack on Iran and across the Middle East.",
       "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Zelensky Sends Negotiators to the U.S., Hoping to Revive Peace Talks",
-      "url": "https://www.nytimes.com/2026/03/21/world/europe/ukraine-russia-peace-talks-iran.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-03-21T09:01:34+00:00",
-      "summary": "President Volodymyr Zelensky of Ukraine on Wednesday in Madrid. He has called for the resumption of peace talks, which have lost momentum in recent weeks.",
-      "image": "https://static01.nyt.com/images/2026/03/21/multimedia/21int-ukraine-talks-vhtg/21int-ukraine-talks-vhtg-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -1855,17 +2527,6 @@
       "via": "rss"
     },
     {
-      "title": "Japan 1-0 Australia: Women’s Asian Cup 2026 final – as it happened",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/3/21/live-japan-vs-australia-womens-asian-cup-2026-final?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-03-21T06:01:04+00:00",
-      "summary": "All the updates following our text commentary stream of the Women&#039;s Asian Cup final in Sydney.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "How China’s tech transformation is putting the ‘world’s factory’ in a tough spot",
       "url": "https://www.scmp.com/economy/china-economy/article/3347333/how-chinas-tech-transformation-putting-worlds-factory-tough-spot?utm_source=rss_feed",
       "source": "SCMP",
@@ -1954,17 +2615,6 @@
       "via": "rss"
     },
     {
-      "title": "300 million people celebrate Nowruz under a cloud of war",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/21/300-million-people-celebrate-nowruz-under-a-cloud-of-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-03-21T03:58:08+00:00",
-      "summary": "Millions of people have rung in the ancient Persian New Year, Nowruz, as war grips the Middle East.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "湘雅醫院研究生墜江身亡，中國醫科教育「專碩規培」制度再被拷問｜ Whatsnew",
       "url": "https://theinitium.com/20260321-whatsnew-mainland-death-of-medical-graduate-student-xiangya-hospital/",
       "source": "端传媒",
@@ -1973,17 +2623,6 @@
       "published": "2026-03-21T03:35:25+00:00",
       "summary": "&#x8fd1;&#x65e5;&#xff0c;&#x4e2d;&#x570b;&#x4e2d;&#x5357;&#x5927;&#x5b78;&#x6e58;&#x96c5;&#x91ab;&#x9662;&#x4e00;&#x540d;&#x91ab;&#x5b78;&#x5c08;&#x78a9;&#x898f;&#x57f9;&#x751f;&#x58ae;&#x6c5f;&#x8eab;&#x4ea1;&#xff0c;&#x4e8b;&#x4ef6;&#x5f15;&#x8d77;&#x5ee3;&#x6cdb;&#x95dc;&#x6ce8;&#x3002;3&#x6708;16&#x65e5;&#xff0c;&#x4e2d;&#x5357;&#x5927;&#x5b78;&#x548c;&#x6e56;&#x5357;&#x7701;&#x885e;&#x751f;&#x5065;&#x5eb7;&#x59d4;&#x54e1;&#x6703;&#x806f;&#x5408;&#x8abf;&#x67e5;&#x7d44;&#x767c;&#x5e03;&#x901a;&#x5831;&#xff1a;3&#x6708;14&#x65e5;&#x6e58;&#x96c5;&#x91ab;&#x5b78;&#x9662;2023&#x7d1a;&#x7814;&#x7a76;&#x751f;&#x5b6b;&#x540c;&#x5b78;&#x65bc;21&#x6642;57&#x5206;&#x96e2;&#x958b;&#x5bbf;&#x820d;&#x5f8c;&#x5931;&#x806f;&#xff0c;&#x7576;&#x665a;23&#x6642;26&#x5206;&#xff0c;&#x8b66;&#x65b9;&#x5411;&#x91ab;&#x9662;&#x901a;&#x5831;&#x6709;&#x4eba;&#x5728;&#x6a58;&#x5b50;&#x6d32;&#x5927;&#x6a4b;&#x58ae;&#x6c5f;&#xff0c;&#x7fcc;&#x65e5;&#x4e0b;&#x5348;&#x6253;&#x6488;&#x58ae;&#x6c5f;&#x8005;&#x5f8c;&#xff0",
       "image": "https://theinitium.com/content/images/2026/03/GettyImages-1212735671-W.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Aid flotilla for Cuba sets sail from Mexico",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/21/aid-flotilla-for-cuba-sets-sail-from-mexico?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-03-21T03:31:10+00:00",
-      "summary": "An aid flotilla from Mexico is sailing for Cuba as the country suffers under a tightening US fuel blockade.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -1998,17 +2637,6 @@
       "via": "rss"
     },
     {
-      "title": "Al Jazeera reporter’s journey from Jordan to Iraq",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/21/al-jazeera-reporters-journey-from-jordan-to-iraq?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-03-21T01:02:53+00:00",
-      "summary": "Al Jazeera’s Nicolas Haque recorded his journey on the long road from Amman to Baghdad.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "Seeking to Rely Less on China, U.S. Pushes a Rare Earths Partnership on a Reluctant Brazil",
       "url": "https://www.nytimes.com/2026/03/20/world/americas/us-rare-earth-minerals-brazil-china.html",
       "source": "New York Times",
@@ -2017,17 +2645,6 @@
       "published": "2026-03-21T00:10:29+00:00",
       "summary": "Seeking to reduce its reliance on China, the United States is pushing for a critical minerals deal with Brazil. The South American country is less eager.",
       "image": "https://static01.nyt.com/images/2026/03/20/multimedia/20int-brazil-us-minerals-mfkq/20int-brazil-us-minerals-mfkq-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Iran war live: US-Israel attack Natanz nuclear site; Diego Garcia targeted",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/3/21/iran-war-live-trump-says-other-nations-have-to-protect-hormuz-from-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-03-21T00:00:00+00:00",
-      "summary": "Trump says Strait of Hormuz must be protected from Iranian attacks &#039;by other nations who use it&#039;.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -2306,105 +2923,6 @@
       "via": "rss"
     },
     {
-      "title": "海關搗冒牌硬碟、記憶卡公司 拘內地董事",
-      "url": "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260321/s00002/1774029000461/%e6%b5%b7%e9%97%9c%e6%90%97%e5%86%92%e7%89%8c%e7%a1%ac%e7%a2%9f-%e8%a8%98%e6%86%b6%e5%8d%a1%e5%85%ac%e5%8f%b8-%e6%8b%98%e5%85%a7%e5%9c%b0%e8%91%a3%e4%ba%8b",
-      "source": "明报",
-      "language": "zh",
-      "type": "newspaper",
-      "published": "2026-03-20T20:30:00+00:00",
-      "summary": "【明報專訊】海關年初接獲商標持有人舉報，疑有分銷商在港出售冒牌電腦硬碟等裝置。海關前日到屯門一幢工廈搜查，搗破涉案分銷商的包裝中心及倉庫，檢獲約1.4萬個硬碟及3000張記憶卡，市值約2500萬元。",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "九市速遞：北師港浸大擴招生 增數碼科技類學科",
-      "url": "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260321/s00002/1774026396022/%e4%b9%9d%e5%b8%82%e9%80%9f%e9%81%9e-%e5%8c%97%e5%b8%ab%e6%b8%af%e6%b5%b8%e5%a4%a7%e6%93%b4%e6%8b%9b%e7%94%9f-%e5%a2%9e%e6%95%b8%e7%a2%bc%e7%a7%91%e6%8a%80%e9%a1%9e%e5%ad%b8%e7%a7%91",
-      "source": "明报",
-      "language": "zh",
-      "type": "newspaper",
-      "published": "2026-03-20T20:30:00+00:00",
-      "summary": "【明報專訊】首家由內地與香港高校合作創辦，並在去年正式更名的北師香港浸會大學（下稱北師港浸大），將於今年增加在粵招生，國際學生錄取人數亦將倍增，並新增香港DSE（香港中學文憑試）入學及澳門保送生兩個招生渠道。",
-      "image": "https://fs.mingpao.com/pns/20260321/s00046/16a40e0d3f064502ac2e6c2f8aa6f692.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "九市速遞：港商福田茶敘 研零售新商機",
-      "url": "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260321/s00002/1774026396600/%e4%b9%9d%e5%b8%82%e9%80%9f%e9%81%9e-%e6%b8%af%e5%95%86%e7%a6%8f%e7%94%b0%e8%8c%b6%e6%95%98-%e7%a0%94%e9%9b%b6%e5%94%ae%e6%96%b0%e5%95%86%e6%a9%9f",
-      "source": "明报",
-      "language": "zh",
-      "type": "newspaper",
-      "published": "2026-03-20T20:30:00+00:00",
-      "summary": "【明報專訊】福田區投資促進局、香港貿發局、廣東省香港商會及GoGBA港商服務站（福田）日前舉行「港商茶敘．新零售新商機」交流會，與深圳港商探討新零售市場情况、支持措施、具體例子經驗等，包括解讀福田區支持商業發展的政策、區內新零售產業發展情况與優勢等。",
-      "image": "https://fs.mingpao.com/pns/20260321/s00046/ec7a4360bb2b41e895fcd73df0ec9521.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "九市速遞：金領航獎設出海獎 鼓勵借港拓展",
-      "url": "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260321/s00002/1774026397019/%e4%b9%9d%e5%b8%82%e9%80%9f%e9%81%9e-%e9%87%91%e9%a0%98%e8%88%aa%e7%8d%8e%e8%a8%ad%e5%87%ba%e6%b5%b7%e7%8d%8e-%e9%bc%93%e5%8b%b5%e5%80%9f%e6%b8%af%e6%8b%93%e5%b1%95",
-      "source": "明报",
-      "language": "zh",
-      "type": "newspaper",
-      "published": "2026-03-20T20:30:00+00:00",
-      "summary": "【明報專訊】由駐粵辦、貿發局及廣東省香港商會聯合主辦的領航出海主題論壇暨「2025金領航獎」頒獎典禮周三（18日）於廣州舉行。本屆除設卓越企業和新質生產力創業大獎外，首次新增領航出海大獎，鼓勵企業藉香港向外拓展。",
-      "image": "https://fs.mingpao.com/pns/20260321/s00046/8944389e19ad4a2495fac577f610cbbb.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "灣區手記：權限與私隱 ／文：尚東美",
-      "url": "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260321/s00002/1774026397265/%e7%81%a3%e5%8d%80%e6%89%8b%e8%a8%98-%e6%ac%8a%e9%99%90%e8%88%87%e7%a7%81%e9%9a%b1-%e6%96%87-%e5%b0%9a%e6%9d%b1%e7%be%8e",
-      "source": "明报",
-      "language": "zh",
-      "type": "newspaper",
-      "published": "2026-03-20T20:30:00+00:00",
-      "summary": "【明報專訊】之前採訪時遇到兩位從德國來廣州的遊客，本是我去訪問他們，沒想到反被他們詢問。其中一人A指着微信界面問：「你知道怎麼把這個地址複製到滴滴打車嗎？」筆者一邊操作一邊教他下單。訂單發送後，界面隨即彈出一個請求授權的窗口。A問這是什麼意思，筆者解釋道：「是否同意行程中錄音錄像，可以選擇允許或拒絕。」A顯得頗為驚訝，幾乎沒有猶豫便說：「當然不能錄音錄像，我拒絕。」",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "【Emily】「齊企硬 TAKE嘢」禁毒廣告極速換新 單邊show唔晒鬧笑話 保安局認疏忽",
-      "url": "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260321/s00002/1774026397841/%e3%80%90emily%e3%80%91%e3%80%8c%e9%bd%8a%e4%bc%81%e7%a1%ac-take%e5%98%a2%e3%80%8d%e7%a6%81%e6%af%92%e5%bb%a3%e5%91%8a%e6%a5%b5%e9%80%9f%e6%8f%9b%e6%96%b0-%e5%96%ae%e9%82%8ashow%e5%94%94%e6%99%92%e9%ac%a7%e7%ac%91%e8%a9%b1-%e4%bf%9d%e5%ae%89%e5%b1%80%e8%aa%8d%e7%96%8f%e5%bf%bd",
-      "source": "明报",
-      "language": "zh",
-      "type": "newspaper",
-      "published": "2026-03-20T20:30:00+00:00",
-      "summary": "【明報專訊】保安局最近有新一輪禁毒宣傳，針對近年新興毒品依托咪酯，有網民前日發現，港鐵尖沙嘴站出口嘅禁毒廣告寫住「一齊企硬 TAKE嘢」，大感奇怪，原來車站條方形石柱唔夠位，展示唔晒「一齊企硬 唔TAKE嘢」全句口號，「唔」字去咗柱嘅另一邊，結果變成完成相反嘅意思。",
-      "image": "https://fs.mingpao.com/pns/20260321/s00046/69e03d16a7f644649b5777975727c0fb.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "【Emily】「濟公文化在香港」開鑼 導賞團遊古蹟",
-      "url": "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260321/s00002/1774026398310/%e3%80%90emily%e3%80%91%e3%80%8c%e6%bf%9f%e5%85%ac%e6%96%87%e5%8c%96%e5%9c%a8%e9%a6%99%e6%b8%af%e3%80%8d%e9%96%8b%e9%91%bc-%e5%b0%8e%e8%b3%9e%e5%9c%98%e9%81%8a%e5%8f%a4%e8%b9%9f",
-      "source": "明报",
-      "language": "zh",
-      "type": "newspaper",
-      "published": "2026-03-20T20:30:00+00:00",
-      "summary": "【明報專訊】由國際濟公文化協會、通善壇及東華三院合辦嘅「2026濟公文化在香港」噚日起一連3日喺上環一帶舉行，重點活動包括「上環早期華人歷史之旅」導賞，由水坑口街出發，途經東華醫院牌坊，終點係太平山街濟公廟。主辦方希望藉活動宣傳濟公文化，令參加者了解濟公作為「驅瘟之神」嘅歷史事蹟。",
-      "image": "https://fs.mingpao.com/pns/20260321/s00046/3da5693e7372432ab346b1236ab248ce.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "【Emily】多元共融藝術巡禮開幕 孫玉菡籲撐殘疾發揮潛能",
-      "url": "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260321/s00002/1774026398670/%e3%80%90emily%e3%80%91%e5%a4%9a%e5%85%83%e5%85%b1%e8%9e%8d%e8%97%9d%e8%a1%93%e5%b7%a1%e7%a6%ae%e9%96%8b%e5%b9%95-%e5%ad%ab%e7%8e%89%e8%8f%a1%e7%b1%b2%e6%92%90%e6%ae%98%e7%96%be%e7%99%bc%e6%8f%ae%e6%bd%9b%e8%83%bd",
-      "source": "明报",
-      "language": "zh",
-      "type": "newspaper",
-      "published": "2026-03-20T20:30:00+00:00",
-      "summary": "【明報專訊】勞福局噚日喺西九文化區戲曲中心大劇院舉行「多元共融藝術巡禮」開幕禮，今年主題係《我眼中的香港》，展出59件不同展能藝術家嘅作品，當中有香港城市今昔景象，亦有地道特色美食等，以繪畫、攝影、裝置、雕塑等不同形式展示。",
-      "image": "https://fs.mingpao.com/pns/20260321/s00046/823216c8478a4ef5a9c5d8a7167e8307.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "【Emily】「出海專班」推網頁服務平台",
-      "url": "https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20260321/s00002/1774026398857/%e3%80%90emily%e3%80%91%e3%80%8c%e5%87%ba%e6%b5%b7%e5%b0%88%e7%8f%ad%e3%80%8d%e6%8e%a8%e7%b6%b2%e9%a0%81%e6%9c%8d%e5%8b%99%e5%b9%b3%e5%8f%b0",
-      "source": "明报",
-      "language": "zh",
-      "type": "newspaper",
-      "published": "2026-03-20T20:30:00+00:00",
-      "summary": "【明報專訊】香港正積極協助內地企業「出海」開拓市場，政府新成立嘅「出海專班」噚日喺北京舉行研討會，係佢哋第一場大型推廣活動，商經局長丘應樺宣布「出海專班」嘅專題網頁同日推出，網頁設有「跨界別專業服務平台」，有意到海外發展嘅內地企業可以從中獲得相關資訊，並配對所需嘅香港專業服務提供者。",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "Trump administration moves to unify AI rules, bolster edge over China",
       "url": "https://www.scmp.com/news/us/diplomacy/article/3347396/trump-administration-moves-unify-ai-rules-bolster-edge-over-china?utm_source=rss_feed",
       "source": "SCMP",
@@ -2647,17 +3165,6 @@
       "via": "rss"
     },
     {
-      "title": "法外长访耶路撒冷盼伊朗做出“重大让步” 王毅吁法国“共同努力”缓解冲突",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260320-%E6%B3%95%E5%A4%96%E9%95%BF%E8%AE%BF%E4%BB%A5%E8%89%B2%E5%88%97%E7%9B%BC%E4%BC%8A%E6%9C%97%E5%81%9A%E5%87%BA-%E9%87%8D%E5%A4%A7%E8%AE%A9%E6%AD%A5-%E7%8E%8B%E6%AF%85%E5%90%81%E6%B3%95%E5%9B%BD-%E5%85%B1%E5%90%8C%E5%8A%AA%E5%8A%9B-%E7%BC%93%E8%A7%A3%E5%86%B2%E7%AA%81",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-03-20T15:52:51+00:00",
-      "summary": "中东战争进入第21天，据当地当局称，美国和以色列轰炸了伊朗海湾港口城市的16艘伊朗船只。以色列军队还打击了位于里海沿岸努尔（Nour）地区的伊朗目标。此前，法国外交部长让-诺埃尔·巴罗（Jean-Noël Barrot）在耶路撒冷与以色列外长吉德翁·萨尔（Gideon Saar）会面，就中东战争议题进行了交流。",
-      "image": "https://s.rfi.fr/media/display/f1678430-2458-11f1-9f44-005056bfb2b6/w:1024/p:16x9/2026-03-20T092838Z-1732114265-RC288KAAKY8E-RTRMADP-3-IRAN-CRISIS-ISRAEL-FRANCE.jpg",
-      "via": "rss"
-    },
-    {
       "title": "Air Defense in South Asia",
       "url": "https://www.stimson.org/2026/air-defense-in-south-asia/",
       "source": "Stimson Center",
@@ -2732,6 +3239,17 @@
       "published": "2026-03-20T14:51:00+00:00",
       "summary": "The junta government has rebuffed a European Parliament resolution demanding the release of ex-President Bazoum. It further warned the EU to stop meddling in Niger's internal affairs.",
       "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Chinese FM: Middle East situation threatening global energy supply",
+      "url": "https://news.cgtn.com/news/2026-03-20/Chinese-FM-Mideast-situation-threatening-energy-supply-stability-1LFPwKzrhvy/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-03-20T14:44:58+00:00",
+      "summary": "Chinese Foreign Minister Wang Yi said on Friday that the current situation in the Middle East is still deteriorating, affecting global energy supply stability and triggering a severe humanitarian crisis.Wang, also a member of the Political Bureau of the Communist Party of China Central Committee, made the remarks in a phone conversation with Emmanuel Bonne, diplomatic adviser to the French president, at the latter's request.Wang elaborated on China's position, saying that the situation in the Middle East is still deteriorating, with the conflict continuing to spread. This has not only undermined the stability of global energy supply but also led to a severe humanitarian crisis.Resorting to force will not solve the problem, and an unjust war should not be allowed to continue, he said.In the face of the critical situation, China and France, as permanent members of the UN Security Council, should strengthen strategic communication and coordination, firmly uphold the UN Charter and interna",
+      "image": "https://news.cgtn.com/news/2026-03-20/Chinese-FM-Mideast-situation-threatening-energy-supply-stability-1LFPwKzrhvy/img/ba260338c6de4ef68d2adcdc03ed723e/ba260338c6de4ef68d2adcdc03ed723e-750.png",
       "via": "rss"
     },
     {
@@ -2845,6 +3363,17 @@
       "via": "rss"
     },
     {
+      "title": "China-Russia dialogue highlights shared development opportunities",
+      "url": "https://news.cgtn.com/news/2026-03-20/China-Russia-dialogue-highlights-shared-development-opportunities-1LFF9H9lUS4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-03-20T13:18:24+00:00",
+      "summary": "A dialogue themed \"China in Springtime: China's Development Opportunities for the World\" was held in Moscow on Thursday, bringing together officials, scholars and media representatives from China and Russia.The event was co-hosted by the China Media Group (CMG) and the China Cultural Center in Moscow, with around 200 guests attending.Participants discussed high-quality development, artificial intelligence governance, economic cooperation and people-to-people exchanges, aiming to build consensus and explore shared opportunities.In a video address, Shen Haixiong, president of China Media Group, said China's annual Two Sessions again drew global attention, offering a \"list of opportunities\" for the world through China's high-quality development.A CGTN global survey shows over 80 percent of respondents believe China's development philosophy is guiding global economic trends and adding stability to a turbulent world, he said, reaffirming that China will expand high-level opening up and bett",
+      "image": "https://news.cgtn.com/news/2026-03-20/China-Russia-dialogue-highlights-shared-development-opportunities-1LFF9H9lUS4/img/65d3b90ebb724739a026f503f7137272/65d3b90ebb724739a026f503f7137272-1920.jpeg",
+      "via": "rss"
+    },
+    {
       "title": "Asia’s Invisible Workforce in the Middle East: The Geopolitics of Migrant Labor Safety",
       "url": "https://thediplomat.com/2026/03/asias-invisible-workforce-in-the-middle-east-the-geopolitics-of-migrant-labor-safety/",
       "source": "The Diplomat",
@@ -2922,6 +3451,17 @@
       "via": "rss"
     },
     {
+      "title": "'Benefiting the people': Understanding China's governance logic",
+      "url": "https://news.cgtn.com/news/2026-03-20/-Benefiting-the-people-Understanding-China-s-governance-logic-1LFCdEbasNi/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-03-20T12:33:07+00:00",
+      "summary": "Editor's note:&nbsp;China has recently launched a Party-wide education campaign within the Communist Party of China (CPC), urging officials at all levels to better understand what constitutes good governance performance. CGTN has invited experts to analyze the underlying logic of China's governance approach. The article reflects the author's opinions and not necessarily the views of CGTN.‬At a time when global governance is in deep trouble, China's building path of governance validity&nbsp;that is different from Western electoral politics is showing its unique value in the East.&nbsp;China's recent Party-wide study and education activities have established \"benefiting the people\" as the greatest achievement, and the people's satisfaction is the fundamental yardstick for measuring the effectiveness of governance. This renewed emphasis&nbsp;on governance logic not only provides new ideas for dealing with the global \"affordability crisis,\" but also contributes to China's solution to solve",
+      "image": "https://news.cgtn.com/news/2026-03-20/-Benefiting-the-people-Understanding-China-s-governance-logic-1LFCdEbasNi/img/1055252fc3fa49998d3bddced71a0804/1055252fc3fa49998d3bddced71a0804-750.png",
+      "via": "rss"
+    },
+    {
       "title": "Takaichi’s Calculated Gamble at the Trump Summit Amid the Iran Crisis",
       "url": "https://thediplomat.com/2026/03/takaichis-calculated-gamble-at-the-trump-summit-amid-the-iran-crisis/",
       "source": "The Diplomat",
@@ -2985,6 +3525,17 @@
       "published": "2026-03-20T12:06:26+00:00",
       "summary": "March 20th, 2026 &#124; Welcome to The Wire’s daily news roundup. Each day, our staff gathers the top China business, finance, and economics headlines from a selection of the world’s leading news organizations.\nThe post The Daily Roundup appeared first on The Wire China.",
       "image": "https://www.thewirechina.com/wp-content/uploads/2020/06/News_Final_Valentina_Verc_3_smaller-1-300x148.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "China's Middle East envoy holds talks with Iran's ambassador",
+      "url": "https://news.cgtn.com/news/2026-03-20/China-s-Middle-East-envoy-holds-talks-with-Iran-s-ambassador-1LFEXIAq2Y0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-03-20T12:05:19+00:00",
+      "summary": "China's special envoy on the Middle East issue, Zhai Jun, met with Iran's ambassador to China, Abdolreza Rahmani Fazli, on Friday to exchange views on current tensions in the Middle East.&nbsp;(Cover: National flags of Iran and China. /VCG)",
+      "image": "https://news.cgtn.com/news/2026-03-20/China-s-Middle-East-envoy-holds-talks-with-Iran-s-ambassador-1LFEXIAq2Y0/img/5f53c5dacae548a49ee95d86a1c4cc64/5f53c5dacae548a49ee95d86a1c4cc64-250.png",
       "via": "rss"
     },
     {
@@ -3062,149 +3613,6 @@
       "published": "2026-03-20T09:00:41+00:00",
       "summary": "Rather than evacuation, Israel’s defense minister said the mission now is “to protect northern communities against raids and anti-tank fire.”",
       "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "U.S.-Israeli rift widens over potential endgame in Iran",
-      "url": "https://www.washingtonpost.com/national-security/2026/03/20/us-israel-iran-goals-trump-netanyahu/",
-      "source": "Washington Post",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-03-20T09:00:04+00:00",
-      "summary": "Israel’s assault on the world’s largest natural gas deposit has renewed tensions between the two allies’ end goals in Iran.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "專家拆解：八種讓女性不堪負荷的隱形工作",
-      "url": "https://www.bbc.com/zhongwen/articles/cm2r3w7dg80o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-03-20T08:08:30+00:00",
-      "summary": "BBC資深健康事務記者梅麗莎·霍根布姆與社會學家莉亞·魯潘納（Leah Ruppanner）對話，探討為何女性仍承擔著大部分經營家庭的「認知負擔」，以及理解這些心理工作類型的重要性，如何有助減少倦怠。",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/24e0/live/c25ce410-242a-11f1-934f-036468834728.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "What It Was Like to Be Under Incoming Fire from the War on Terror to Today",
-      "url": "https://warontherocks.com/2026/03/indirect-fire-in-the-global-war-on-terror-and-today/",
-      "source": "War on the Rocks",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-03-20T08:00:59+00:00",
-      "summary": "On this special, crossover episode of our members-only armed services podcasts, some of our hosts sat down to discuss their experiences with indirect fire and bombardment. With the ongoing conflict in the Middle East, they rehash some of their own personal stories, provide context on today&#8217;s threat environment, and share some advice for troops both downrange and at home.Image: Sgt. Albert Juarez via DVIDS\nThe post What It Was Like to Be Under Incoming Fire from the War on Terror to Today appeared first on War on the Rocks.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Why Pakistan Is Desperate to Avert an Iran-Saudi Confrontation",
-      "url": "https://thediplomat.com/2026/03/why-pakistan-is-desperate-to-avert-an-iran-saudi-confrontation/",
-      "source": "The Diplomat",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-03-20T07:56:00+00:00",
-      "summary": "Under a bilateral defense agreement, Islamabad will have to support Riyadh in the event of an Iran-Saudi showdown. That is not in Pakistan’s interest.",
-      "image": "https://images.thediplomat.com/v1/td-list-l-2/2025/09/thediplomat_2025-09-22-093749.jpeg",
-      "via": "rss"
-    },
-    {
-      "title": "Why Did the United States Lift Sanctions on Assad’s Chemical Weapons Scientists?",
-      "url": "https://warontherocks.com/2026/03/why-did-the-united-states-lift-sanctions-on-assads-chemical-weapons-scientists/",
-      "source": "War on the Rocks",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-03-20T07:30:51+00:00",
-      "summary": "On June 30, 2025, as part of the process of normalizing relations with Damascus following the overthrow of Syrian President Bashar al-Assad, the Trump administration overhauled the sanctions imposed on Syria to facilitate the rebuilding of that war-ravaged country. In the course of revising these sanctions, however, 266 employees of the Scientific Studies and Research Center, the heart of the Assad regime&#8217;s chemical weapons complex, were removed without explanation from the U.S. Department of the Treasury&#8217;s Specially Designated Nationals List. This list is a compilation of human rights abusers, proliferators, terrorists, drug lords, and others deemed a threat to U.S.\nThe post Why Did the United States Lift Sanctions on Assad’s Chemical Weapons Scientists? appeared first on War on the Rocks.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "What the Donroe Doctrine Could Mean for China’s Economic Statecraft",
-      "url": "https://warontherocks.com/2026/03/what-the-donroe-doctrine-could-mean-for-chinas-economic-statecraft/",
-      "source": "War on the Rocks",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-03-20T07:15:59+00:00",
-      "summary": "In the first few months of 2026, the Trump administration has embarked on military interventions in Iran and Venezuela and threatened possible annexation of Greenland. Meanwhile, German Chancellor Friedrich Merz&#8217;s February trip to Beijing followed on the heels of the first state visit to China by a British leader in eight years. As the United States and China prepare for their much-touted summit in late March, Beijing is weighing its options in the face of recent American actions and the new &#8220;Donroe Doctrine.&#8221;Chinese foreign policy remains driven by the core priorities of preserving regime security and consolidating influence in its\nThe post What the Donroe Doctrine Could Mean for China’s Economic Statecraft appeared first on War on the Rocks.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "解碼特朗普貼文：美國與以色列在伊朗戰爭上步調一致嗎？",
-      "url": "https://www.bbc.com/zhongwen/articles/cq59d0j9971o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-03-20T07:13:03+00:00",
-      "summary": "在天然氣田遭攻擊後，特朗普於「真相社交」（Truth Social）上發表的貼文，揭示了美國和以色列在戰爭策略上的一致程度究竟為何。",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a5b1/live/97e8f3a0-239d-11f1-b297-95b0a0a8331e.png",
-      "via": "rss"
-    },
-    {
-      "title": "Drone defense in the Iran war: What can Ukraine offer?",
-      "url": "https://www.dw.com/en/drone-defense-in-the-iran-war-what-can-ukraine-offer/a-76410396?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "Deutsche Welle",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-03-20T06:40:00+00:00",
-      "summary": "As the Iran war continues apace, Ukraine's hard-won expertise in countering drone swarms is sparking interest around the world.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "K-Pop stars BTS release new album ahead of comeback concert",
-      "url": "https://www.dw.com/en/k-pop-stars-bts-release-new-album-ahead-of-comeback-concert/a-76443367?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "Deutsche Welle",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-03-20T05:57:00+00:00",
-      "summary": "The BTS comeback concert, to be held at Seoul's historic Gwanghwamun Square, is expected to draw around 260,000 people. The event will be livestreamed by Netflix in around 190 countries.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Singapore’s 2026 Budget: A Good Time for Surpluses",
-      "url": "https://thediplomat.com/2026/03/hold-singapores-2026-budget-a-good-time-for-surpluses/",
-      "source": "The Diplomat",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-03-20T04:56:00+00:00",
-      "summary": "The city-state's fiscal prudence puts it in a good position to weather the current volatility in the global oil market.",
-      "image": "https://images.thediplomat.com/v1/td-list-l-2/2024/12/thediplomat_2024-12-31-043657.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Southeast Asia’s Railway Expansion",
-      "url": "https://thediplomat.com/2026/03/southeast-asias-railway-expansion/",
-      "source": "The Diplomat",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-03-20T04:43:00+00:00",
-      "summary": "China dominates for now, but there are opportunities for Western players.",
-      "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-20-134346.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Dhaka Must Tread Cautiously on ‘Routine Defense Agreements’ with the US",
-      "url": "https://thediplomat.com/2026/03/dhaka-must-tread-cautiously-on-routine-defense-agreements-with-the-us/",
-      "source": "The Diplomat",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-03-20T04:37:00+00:00",
-      "summary": "Hosting American bases will not make Bangladesh secure. Rather, it could undermine its sovereignty and draw it into someone else’s wars.",
-      "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-20-133746.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Could Vietnam Help Repair Cuba-US Relations?",
-      "url": "https://thediplomat.com/2026/03/could-vietnam-help-repair-u-s-cuba-relations/",
-      "source": "The Diplomat",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-03-20T04:33:00+00:00",
-      "summary": "As a communist nation and a responsible member of the international community, Vietnam is a natural bridge between Washington and Havana.",
-      "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/03/thediplomat_2026-03-20-134838.jpg",
       "via": "rss"
     }
   ]
