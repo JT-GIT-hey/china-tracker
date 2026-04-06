@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06T10:05:47.248210+00:00",
+  "last_updated": "2026-04-06T12:56:46.051536+00:00",
   "source_counts": {
     "en": 36,
     "zh": 24
@@ -10,123 +10,39 @@
       "icon": "🤖",
       "color": "#7d6be8",
       "featured": true,
-      "articles": []
+      "articles": [
+        {
+          "title": "2026 Perspectives in Private Equity : Policy , Trade & Geopolitics | Akin Gump Strauss Hauer & Feld LLP",
+          "url": "https://www.jdsupra.com/legalnews/2026-perspectives-in-private-equity-4758908/",
+          "source": "jdsupra.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-04-03T21:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "ai_tech"
+        },
+        {
+          "title": "2026 Perspectives in Private Equity : Policy , Trade & Geopolitics",
+          "url": "https://www.lexology.com/library/detail.aspx?g=2b494fdd-358b-4b54-9948-88c63c4c94c2",
+          "source": "lexology.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-04-01T09:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "ai_tech"
+        }
+      ]
     },
     "foreign_policy": {
       "label": "Foreign Policy & Diplomacy",
       "icon": "🌐",
       "color": "#4f8de8",
       "featured": false,
-      "articles": [
-        {
-          "title": "Amid an uncertain Middle East , Bangladesh must rethink its migration strategy",
-          "url": "https://www.thedailystar.net/slow-reads/geopolitical-insights/news/amid-uncertain-middle-east-bangladesh-must-rethink-its-migration-strategy-4143691",
-          "source": "thedailystar.net",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-04-04T20:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        },
-        {
-          "title": "War with Iran is a major setback to China Belt and Road Initiative",
-          "url": "http://www.jpost.com/opinion/article-891752",
-          "source": "jpost.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-04-04T20:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        },
-        {
-          "title": "War with Iran is a major setback to China Belt and Road Initiative",
-          "url": "https://www.jpost.com/opinion/article-891752",
-          "source": "jpost.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-04-04T19:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        },
-        {
-          "title": "China hails Han Zheng visit a  complete succes as trade , UN ties deepen",
-          "url": "https://www.the-star.co.ke/news/world/2026-04-03-china-hails-han-zheng-visit-a-complete-success",
-          "source": "the-star.co.ke",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-04-03T11:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        },
-        {
-          "title": "Winning an Unpopular War",
-          "url": "https://smallwarsjournal.com/2026/04/03/winning-an-unpopular-war/",
-          "source": "smallwarsjournal.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-04-03T08:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        },
-        {
-          "title": "The unspoken target of Trump war on Iran China - World Socialist Web Site",
-          "url": "https://www.wsws.org/en/articles/2026/04/02/khtc-a02.html",
-          "source": "wsws.org",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-04-02T08:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        },
-        {
-          "title": "Column : Solidarity in action toward shared prosperity",
-          "url": "http://www.shanghainews.net/news/278957471/column-solidarity-in-action-toward-shared-prosperity",
-          "source": "shanghainews.net",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-04-01T14:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        },
-        {
-          "title": "Column : Solidarity in action toward shared prosperity",
-          "url": "http://www.bruneinews.net/news/278957471/column-solidarity-in-action-toward-shared-prosperity",
-          "source": "bruneinews.net",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-04-01T12:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        },
-        {
-          "title": "Column : Solidarity in action toward shared prosperity",
-          "url": "http://www.bignewsnetwork.com/news/278957471/column-solidarity-in-action-toward-shared-prosperity",
-          "source": "bignewsnetwork.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-04-01T10:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        }
-      ]
+      "articles": []
     },
     "politics": {
       "label": "Politics & Governance",
@@ -135,180 +51,180 @@
       "featured": false,
       "articles": [
         {
-          "title": "馬興瑞被查涉中共人事布局 學者 ： 反腐將持續至年底 | 兩岸",
-          "url": "https://www.cna.com.tw/news/acn/202604040143.aspx",
-          "source": "cna.com.tw",
+          "title": "他山之石｜各省区市人大2025年工作创新借鉴",
+          "url": "https://baijiahao.baidu.com/s?id=1861415134963275015",
+          "source": "baijiahao.baidu.com",
           "language": "zh",
           "type": "wire",
-          "published": "2026-04-04T09:45:00+00:00",
+          "published": "2026-04-04T08:45:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "politics"
         },
         {
-          "title": "馬興瑞被查涉中共人事布局 學者 ： 反腐將持續至年底 | 兩岸",
-          "url": "https://www.cna.com.tw:443/news/acn/202604040143.aspx",
-          "source": "cna.com.tw",
+          "title": "韩国会议长向中国表达再次引进大熊猫意向",
+          "url": "https://www.zaobao.com.sg/news/china/story20260403-8837919",
+          "source": "zaobao.com.sg",
           "language": "zh",
           "type": "wire",
-          "published": "2026-04-04T09:30:00+00:00",
+          "published": "2026-04-03T07:00:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "politics"
         },
         {
-          "title": "馬興瑞落馬 ： 習近平時代 「 技術官僚 」 代表隕落 ， 同屆政治局三名委員被查極罕見 - TNL The News Lens 關鍵評論網",
-          "url": "https://www.thenewslens.com/article/266363",
-          "source": "thenewslens.com",
+          "title": "应用型法治人才的  培华样本  西安培华学院面向基层培养法治人才经验综述 - 高校动态 _ 华商网教育",
+          "url": "https://edu.hsw.cn/system/2026/0402/155345.shtml",
+          "source": "edu.hsw.cn",
           "language": "zh",
           "type": "wire",
-          "published": "2026-04-04T09:00:00+00:00",
+          "published": "2026-04-02T06:30:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "politics"
         },
         {
-          "title": "中共政治局委员马兴瑞被查 曾迫害法轮功遭报应",
-          "url": "https://www.renminbao.com/rmb/articles/2026/4/4/94734.html",
-          "source": "renminbao.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-04-04T08:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "【 新聞大家談 】 拿下馬興瑞 中共政治局 燒回1999年 ！ | 習彭反目 | 習軍工科技夢",
-          "url": "https://www.ntdtv.com/b5/2026/04/03/a104082996.html",
+          "title": "【 百年真相 】 從中紀委空降地方的億元大貪官 | 金道銘 | 山西官場 | 反腐敗",
+          "url": "https://www.ntdtv.com/b5/2026/04/02/a104082385.html",
           "source": "ntdtv.com",
           "language": "zh",
           "type": "wire",
-          "published": "2026-04-04T02:00:00+00:00",
+          "published": "2026-04-02T05:45:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "politics"
         },
         {
-          "title": "航天少帥 中共政治局委員馬興瑞落馬 | 兩岸要聞 | 兩岸",
-          "url": "https://udn.com/news/story/7331/9421584",
-          "source": "udn.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-04-03T20:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "馬興瑞的 「 前世今生 」 背靠兩大靠山 | 習近平 | 彭麗媛 | 江綿恆",
-          "url": "https://www.epochtimes.com/b5/26/4/3/n14734021.htm",
+          "title": "【 百年真相 】 從中紀委空降地方的億元大貪官 | 金道銘 | 山西官場 | 反腐敗",
+          "url": "https://www.epochtimes.com/b5/26/4/1/n14732825.htm",
           "source": "epochtimes.com",
           "language": "zh",
           "type": "wire",
-          "published": "2026-04-03T19:15:00+00:00",
+          "published": "2026-04-02T05:30:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "politics"
         },
         {
-          "title": "馬興瑞官宣落马 兩大靠山保不住 | 馬興瑞落馬 | 馬興瑞靠山 | 馬興瑞航天係",
-          "url": "https://www.ntdtv.com/b5/2026/04/03/a104082822.html",
-          "source": "ntdtv.com",
+          "title": "安徽5市最新人事 ！ 涉厅干 、 部门  一把手  凤凰网安徽 _ 凤凰网",
+          "url": "https://ah.ifeng.com/c/8ryF5699Vb4",
+          "source": "ah.ifeng.com",
           "language": "zh",
           "type": "wire",
-          "published": "2026-04-03T16:45:00+00:00",
+          "published": "2026-04-02T02:30:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "politics"
         },
         {
-          "title": "【 時事縱橫 】 馬興瑞官宣落馬 ！ 中共內鬥升級 ？ | 馬興瑞落馬 | 彭麗媛",
-          "url": "https://www.ntdtv.com/b5/2026/04/03/a104082838.html",
-          "source": "ntdtv.com",
+          "title": "规范民宿 、 高速公路管理 省人大常委会今年开展这些立法 _ 时政 . 要闻 _ 湖南频道",
+          "url": "https://hn.rednet.cn/content/646047/75/15807935.html",
+          "source": "hn.rednet.cn",
           "language": "zh",
           "type": "wire",
-          "published": "2026-04-03T16:45:00+00:00",
+          "published": "2026-04-01T12:30:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "politics"
         },
         {
-          "title": "不只馬興瑞 ！ 習近平主政二十大任期內 中共政治局3委員落馬 - 國際",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5392764",
-          "source": "news.ltn.com.tw",
-          "language": "zh",
+          "title": "AFTER THE TWO SESSIONS : A Look at China - Africa Relations  - New Opportunities , New Cooperation",
+          "url": "https://frontpageafricaonline.com/foreign-relations/after-the-two-sessions-a-look-at-china-africa-relations-new-opportunities-new-cooperation/",
+          "source": "frontpageafricaonline.com",
+          "language": "en",
           "type": "wire",
-          "published": "2026-04-03T16:30:00+00:00",
+          "published": "2026-04-01T12:15:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "politics"
         },
         {
-          "title": "中共中纪委的隐秘罪行 （ 图 ）",
-          "url": "https://www.renminbao.com/rmb/articles/2026/4/3/94724.html",
-          "source": "renminbao.com",
-          "language": "zh",
+          "title": "Zhao Leji Meets High - Level Delegation of the Austria - China Friendship Association",
+          "url": "https://sl.china-embassy.gov.cn/eng/zgyw/202604/t20260401_11884757.htm",
+          "source": "sl.china-embassy.gov.cn",
+          "language": "en",
           "type": "wire",
-          "published": "2026-04-03T14:00:00+00:00",
+          "published": "2026-04-01T04:15:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "politics"
         },
         {
-          "title": "中共政治局委員馬興瑞落馬 一職務首次曝光 | 習近平 | 彭麗媛",
-          "url": "https://www.epochtimes.com/b5/26/4/3/n14734019.htm",
-          "source": "epochtimes.com",
-          "language": "zh",
+          "title": "China top legislator meets high - level Austrian delegation",
+          "url": "https://en.people.cn/n3/2026/0401/c90000-20442257.html",
+          "source": "en.people.cn",
+          "language": "en",
           "type": "wire",
-          "published": "2026-04-03T12:15:00+00:00",
+          "published": "2026-04-01T02:45:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "politics"
         },
         {
-          "title": "失蹤5個月 ！ 中共政治局委員馬興瑞官宣落馬 習時代 「 技術官僚 」 殞落 - 國際",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5392574",
-          "source": "news.ltn.com.tw",
+          "title": "习近平 ： 树立和践行正确政绩观 - 南海网",
+          "url": "https://www.hinews.cn:443/page?n=2812056&m=1&s=1044",
+          "source": "hinews.cn",
           "language": "zh",
           "type": "wire",
-          "published": "2026-04-03T11:30:00+00:00",
+          "published": "2026-03-31T09:45:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "politics"
         },
         {
-          "title": "終於官宣 ！ 中共中央政治局委員馬興瑞落馬 涉嚴重違紀違法 | ETtoday大陸新聞",
-          "url": "https://www.ettoday.net/news/20260403/3143563.htm",
-          "source": "ettoday.net",
+          "title": "习近平 ： 树立和践行正确政绩观 - 南海网",
+          "url": "https://www.hinews.cn/page?n=2812056&m=1&s=1044",
+          "source": "hinews.cn",
           "language": "zh",
           "type": "wire",
-          "published": "2026-04-03T11:00:00+00:00",
+          "published": "2026-03-31T09:45:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "politics"
         },
         {
-          "title": "岳山 ： 中紀委的隱祕罪行 | 中紀委書記 | 李希 | 趙樂際",
-          "url": "https://www.ntdtv.com/b5/2026/04/01/a104082247.html",
-          "source": "ntdtv.com",
+          "title": "湖南省十四届人大常委会举行第二十一次会议 _ 时政 . 要闻 _ 湖南频道",
+          "url": "https://hn.rednet.cn/content/646047/74/15805227.html",
+          "source": "hn.rednet.cn",
           "language": "zh",
           "type": "wire",
-          "published": "2026-04-01T23:00:00+00:00",
+          "published": "2026-03-31T05:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "politics"
+        },
+        {
+          "title": "湖南省十四届人大常委会举行第二十一次会议 - 要闻 - 湖南在线",
+          "url": "https://hunan.voc.com.cn/news/202603/31860955.html",
+          "source": "hunan.voc.com.cn",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-03-31T04:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "politics"
+        },
+        {
+          "title": "湖南省十四届人大常委会举行第二十一次会议 - 湖南省人民政府门户网站",
+          "url": "http://www.hunan.gov.cn/hnszf/hnyw/sy/hnyw1/202603/t20260331_33944596.html",
+          "source": "hunan.gov.cn",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-03-31T04:15:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -322,6 +238,18 @@
       "color": "#e05f5f",
       "featured": false,
       "articles": [
+        {
+          "title": "中國偷塞衛星情報 、 飛彈原料給伊朗 ! 北韓提供飛彈技術 傳俄秘送 「 普羅米修斯 」 | 國際",
+          "url": "https://newtalk.tw/news/view/2026-04-06/1028306",
+          "source": "newtalk.tw",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-04-06T10:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
         {
           "title": "Analyst : Global nuclear threat growing with Guam , Micronesia in the crosshairs",
           "url": "https://www.guampdn.com/news/analyst-global-nuclear-threat-growing-with-guam-micronesia-in-the-crosshairs/article_a8edc22b-0213-45c9-a581-b8d60498c4ae.html",
@@ -365,18 +293,6 @@
           "language": "en",
           "type": "wire",
           "published": "2026-04-04T18:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "military_security"
-        },
-        {
-          "title": "Çinde eski Sincan Komünist Parti Sekreteri hakkında yolsuzluk soruşturması başlatıldı",
-          "url": "https://www.haberler.com/guncel/cin-de-eski-sincan-komunist-parti-sekreteri-19712973-haberi/",
-          "source": "haberler.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-04-03T11:30:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -1181,18 +1097,6 @@
           "image": "",
           "via": "gdelt",
           "category": "economy"
-        },
-        {
-          "title": "Iran grip on Hormuz is tighter than ever after a month of war",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/irans-grip-on-hormuz-is-tighter-than-ever-after-a-month-of-war/articleshow/129897226.cms",
-          "source": "economictimes.indiatimes.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-03-30T10:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
         }
       ]
     },
@@ -1202,6 +1106,66 @@
       "color": "#d49040",
       "featured": false,
       "articles": [
+        {
+          "title": "Chen Yonglin - Antony Loewenstein",
+          "url": "https://antonyloewenstein.com/chen-yonglin/",
+          "source": "antonyloewenstein.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-04-05T22:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "The Conscience of China  Never Absent : Statue  Gazing at the Starry Sky Gao Zhisheng  Unveiled at Liberty Sculpture Park",
+          "url": "https://chinaaid.org/news/the-conscience-of-china-never-absent-statue-gazing-at-the-starry-sky-gao-zhisheng-unveiled-at-liberty-sculpture-park/",
+          "source": "chinaaid.org",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-04-05T00:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "Chinese surveillance tech rolled out in Africa with ZTE , Hikvision and Huawei at the helm",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3348916/chinese-surveillance-tech-rolled-out-africa-zte-hikvision-and-huawei-helm",
+          "source": "scmp.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-04-04T15:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "Interpol : How Shock Hong Kong Meeting Shows China Power In Interpol",
+          "url": "https://www.newsweek.com/interpol-how-shock-hong-kong-meeting-shows-chinas-power-in-interpol-11773145",
+          "source": "newsweek.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-04-04T09:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "Iran Shoots Down U . S . F - 15E Fighter Jet for First Time Since War Began",
+          "url": "https://foreignpolicy.com/2026/04/03/iran-shoot-down-us-fighter-jet-missing-crew-missiles-drones-trump-war/",
+          "source": "foreignpolicy.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-04-04T02:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
         {
           "title": "IN AGGIORNAMENTO . Iran , aggressione di united states e Israele ha distrutto 90 . 063 abitazioni , 21 . 059 strutture commerciali e 760 centri educativi",
           "url": "https://www.lantidiplomatico.it/dettnews-in_aggiornamento_iran_aggressione_di_usa_e_israele_ha_distrutto_90063_abitazioni_21059_strutture_commerciali_e_760_centri_educativi/45289_65555/",
@@ -1227,30 +1191,6 @@
           "category": "society"
         },
         {
-          "title": "Understanding geopolitical reality",
-          "url": "http://www.azerbaijannews.net/news/278956331/understanding-geopolitical-reality",
-          "source": "azerbaijannews.net",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-04-01T00:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "Understanding geopolitical reality",
-          "url": "http://www.afghanistannews.net/news/278956331/understanding-geopolitical-reality",
-          "source": "afghanistannews.net",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-04-01T00:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
           "title": "IN AGGIORNAMENTO . Araghchi : Il livello di fiducia tra Iran e united states è  pari a zero",
           "url": "https://www.lantidiplomatico.it/dettnews-in_aggiornamento_araghchi_il_livello_di_fiducia_tra_iran_e_usa__pari_a_zero/45289_65555/",
           "source": "lantidiplomatico.it",
@@ -1263,24 +1203,24 @@
           "category": "society"
         },
         {
-          "title": "Understanding geopolitical reality",
-          "url": "https://www.pressenza.com/2026/03/understanding-geopolitical-reality/",
-          "source": "pressenza.com",
+          "title": "Transnational Repression : The Foreign Threat Not Enough People Are Talking About",
+          "url": "https://redstate.com/erik-durneika/2026/03/31/transnational-repression-n2200813",
+          "source": "redstate.com",
           "language": "en",
           "type": "wire",
-          "published": "2026-03-31T21:30:00+00:00",
+          "published": "2026-03-31T22:45:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "society"
         },
         {
-          "title": "Hedges Report : Israel Expanding War w / Gideon Levy – Consortium News",
-          "url": "https://consortiumnews.com/2026/03/31/hedges-report-israels-expanding-war-w-gideon-levy/",
-          "source": "consortiumnews.com",
+          "title": "Iran Hangs Two  Political Prisoner from Banned Opposition",
+          "url": "https://english.aawsat.com/world/5257008-iran-hangs-two-%E2%80%98political-prisoners%E2%80%99-banned-opposition",
+          "source": "english.aawsat.com",
           "language": "en",
           "type": "wire",
-          "published": "2026-03-31T20:45:00+00:00",
+          "published": "2026-03-30T19:30:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -1295,12 +1235,12 @@
       "featured": false,
       "articles": [
         {
-          "title": "Tiongkok Menentang Upaya Filipina Ganti Nama Pulau - pulau di LTS",
-          "url": "https://koran-jakarta.com/2026-04-02/tiongkok-menentang-upaya-filipina-ganti-nama-pulau-pulau-di-lts",
-          "source": "koran-jakarta.com",
+          "title": "As Taiwan steels its defenses against China , some are hatching escape plans",
+          "url": "https://edition.cnn.com/2026/04/03/world/taiwan-china-war-escape-plans-intl-hnk-dst",
+          "source": "edition.cnn.com",
           "language": "en",
           "type": "wire",
-          "published": "2026-04-01T20:15:00+00:00",
+          "published": "2026-04-04T03:00:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -1364,6 +1304,18 @@
           "language": "en",
           "type": "wire",
           "published": "2026-04-02T21:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
+          "title": "China , Bhutan discuss boundary alignment , focus on undisputed areas",
+          "url": "https://www.rediff.com/news/report/china-bhutan-discuss-boundary-alignment-focus-on-undisputed-areas/20260401.htm",
+          "source": "rediff.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-04-01T18:00:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -1522,126 +1474,6 @@
           "category": "multilateral"
         },
         {
-          "title": "Tonga China debt hindering rebuild from eruption",
-          "url": "https://www.taipeitimes.com/News/world/archives/2026/04/06/2003855121",
-          "source": "taipeitimes.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-04-05T20:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "La dette de Tonga envers la Chine freine sa reconstruction , quatre ans après l  éruption du volcan Hunga Tonga - Hunga Haapai",
-          "url": "https://la1ere.franceinfo.fr/nouvellecaledonie/la-dette-de-tonga-envers-la-chine-freine-sa-reconstruction-quatre-ans-apres-l-eruption-du-volcan-hunga-tonga-hunga-ha-apai-1688474.html",
-          "source": "la1ere.franceinfo.fr",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-04-05T06:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "LankaWeb – Is the World Moving Towards a  One - World  Dictatorship of the Oligarchs ?",
-          "url": "https://www.lankaweb.com/news/items/2026/04/04/is-the-world-moving-towards-a-one-world-dictatorship-of-the-oligarchs/",
-          "source": "lankaweb.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-04-04T23:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "For Africa , industrialisation 2 . 0 beckons ? Or is it a mirage ?",
-          "url": "https://www.thecable.ng/for-africa-industrialisation-2-0-beckons-or-is-it-a-mirage/",
-          "source": "thecable.ng",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-04-04T14:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "Dünya ekonomisinde İran sarsıntısı : Beklentiler nasıl ?",
-          "url": "https://www.dw.com/tr/d%C3%BCnya-ekonomisinde-i%CC%87ran-sars%C4%B1nt%C4%B1s%C4%B1-beklentiler-nas%C4%B1l/a-76645891",
-          "source": "dw.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-04-04T08:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "Значение коридора в обход России через Азербайджан и Казахстан раскрыли",
-          "url": "https://lenta.ru/news/2026/04/03/pritchin-koridor/",
-          "source": "lenta.ru",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-04-03T12:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "Senegal on the Edge of Collapse : The Thirteenth Newsletter ( 2026 )*",
-          "url": "http://www.pambazuka.org/Senegal-on-the-Edge-of-Collapse",
-          "source": "pambazuka.org",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-04-02T21:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "Senegal on the Edge of Collapse : The Thirteenth Newsletter ( 2026 )*",
-          "url": "http://www.pambazuka.org/node/100000261",
-          "source": "pambazuka.org",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-04-02T20:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "Africa PresseUn pays africain solde sa dette au FMI et reprend sa marge de manœuvre économique",
-          "url": "https://africapresse.com/un-pays-africain-solde-sa-dette-au-fmi-et-reprend-sa-marge-de-manoeuvre-economique/",
-          "source": "africapresse.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-04-02T08:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "Küresel piyasalar yeni güne nasıl başladı ?",
-          "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/kuresel-piyasalar-yeni-gune-nasil-basladi-7564682",
-          "source": "uzmanpara.milliyet.com.tr",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-04-02T07:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
           "title": "石油危机未解 ， 中国岿然不动的底气有多足 ？- 虎嗅网",
           "url": "https://www.huxiu.com/article/4847471.html",
           "source": "huxiu.com",
@@ -1666,24 +1498,24 @@
           "category": "multilateral"
         },
         {
-          "title": "LankaWeb – Collapse of the World order and the impotence of the UN system",
-          "url": "https://www.lankaweb.com/news/items/2026/04/01/collapse-of-the-world-order-and-the-impotence-of-the-un-system/",
-          "source": "lankaweb.com",
+          "title": "Navigating the effects of trade protectionism",
+          "url": "http://usa.chinadaily.com.cn/a/202604/02/WS69cdba43a310d6866eb41482.html",
+          "source": "usa.chinadaily.com.cn",
           "language": "en",
           "type": "wire",
-          "published": "2026-04-02T01:00:00+00:00",
+          "published": "2026-04-02T01:15:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "multilateral"
         },
         {
-          "title": "CDD unveils 5 - year plan to tackle democratic decline , insecurity in West Africa",
-          "url": "https://www.premiumtimesng.com/news/top-news/868533-cdd-unveils-5-year-plan-to-tackle-democratic-decline-insecurity-in-west-africa.html",
-          "source": "premiumtimesng.com",
+          "title": "LankaWeb – Collapse of the World order and the impotence of the UN system",
+          "url": "https://www.lankaweb.com/news/items/2026/04/01/collapse-of-the-world-order-and-the-impotence-of-the-un-system/",
+          "source": "lankaweb.com",
           "language": "en",
           "type": "wire",
-          "published": "2026-04-01T12:15:00+00:00",
+          "published": "2026-04-02T01:00:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -1762,6 +1594,18 @@
           "category": "multilateral"
         },
         {
+          "title": "大打伊朗 ， 是美帝国又一招天诛地灭之举 ？ - 博客",
+          "url": "https://blog.wenxuecity.com/myblog/46175/202603/24719.html",
+          "source": "blog.wenxuecity.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-03-31T20:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "multilateral"
+        },
+        {
           "title": "Is Hainan customs closure taking someone else slice of the pie ?: Global Times editorial",
           "url": "https://www.globaltimes.cn/page/202603/1357969.shtml",
           "source": "globaltimes.cn",
@@ -1774,48 +1618,12 @@
           "category": "multilateral"
         },
         {
-          "title": "Orta Doğudaki çatışmalar risk algısını yüksek tutuyor ! Küresel piyasalar yön arayışında ...",
-          "url": "https://www.gunes.com/ekonomi/orta-dogudaki-catismalar-risk-algisini-yuksek-tutuyor-kuresel-piyasalar-yon-arayisinda-1225953",
-          "source": "gunes.com",
+          "title": "UPSC Key - 30th March 2026 : Swarm drone , Migration and Artemis II mission",
+          "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-key-swarm-drones-migration-and-artemis-ii-10609900/",
+          "source": "indianexpress.com",
           "language": "en",
           "type": "wire",
-          "published": "2026-03-31T10:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "Küresel piyasalarda karışık sinyallerle yön arayışında",
-          "url": "https://bigpara.hurriyet.com.tr/haberler/piyasa-haberleri/kuresel-piyasalarda-karisik-sinyallerle-yon-arayisinda_ID1626708/",
-          "source": "bigpara.hurriyet.com.tr",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-03-31T09:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "Dollar doomsayers can relax : Iran  petroyuan  gambit wont topple the greenback",
-          "url": "https://fortune.com/2026/03/30/petroyuan-us-dollar-dominance-not-under-threat-iran-war-paul-blustein/",
-          "source": "fortune.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-03-30T22:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "Ακριβό χρήμα χωρίς ύφεση : Η νέα « ανωμαλία » που αλλάζει το παιχνίδι σε αγορές και οικονομία",
-          "url": "https://sofokleous10.gr/2026/03/30/%CE%B1%CE%BA%CF%81%CE%B9%CE%B2%CF%8C-%CF%87%CF%81%CE%AE%CE%BC%CE%B1-%CF%87%CF%89%CF%81%CE%AF%CF%82-%CF%8D%CF%86%CE%B5%CF%83%CE%B7-%CE%B7-%CE%BD%CE%AD%CE%B1-%CE%B1%CE%BD%CF%89%CE%BC%CE%B1%CE%BB/",
-          "source": "sofokleous10.gr",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-03-30T16:30:00+00:00",
+          "published": "2026-03-30T14:00:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -1825,6 +1633,292 @@
     }
   },
   "latest_rss": [
+    {
+      "title": "Iran War Live Updates: As Trump’s New Ultimatum Looms, Tehran Vows to Step Up Attacks",
+      "url": "https://www.nytimes.com/live/2026/04/06/world/iran-war-trump-israel",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-04-06T12:45:23+00:00",
+      "summary": "Iran said it would respond “crushingly” if President Trump carried out his threats to strike power plants and bridges unless Tehran reopens the Strait of Hormuz. An Israeli strike killed an Iranian intelligence chief overnight.",
+      "image": "https://static01.nyt.com/images/2026/04/06/multimedia/06israel-iran-promo8am/06israel-iran-carousel-zzz-tjlc-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Here’s the latest.",
+      "url": "https://www.nytimes.com/live/2026/04/06/world/iran-war-trump-israel/heres-the-latest",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-04-06T12:45:21+00:00",
+      "summary": "",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "The Daily Roundup",
+      "url": "https://www.thewirechina.com/2026/04/06/the-daily-roundup-april-6-2026/",
+      "source": "The Wire China",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-04-06T12:12:49+00:00",
+      "summary": "April 6th, 2026 &#124; Welcome to The Wire’s daily news roundup. Each day, our staff gathers the top China business, finance, and economics headlines from a selection of the world’s leading news organizations.\nThe post The Daily Roundup appeared first on The Wire China.",
+      "image": "https://www.thewirechina.com/wp-content/uploads/2020/06/News_Final_BLUE_Valentina_Verc_3_smaller-1-300x149.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Iranian Intelligence Chief Killed in Overnight Attack",
+      "url": "https://www.nytimes.com/2026/04/06/world/middleeast/iran-khademi-intelligence-israel.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-04-06T12:12:39+00:00",
+      "summary": "Israel claimed responsibility for the death of Major General Seyed Majid Khademi, the spy chief of the Islamic Revolutionary Guards Corps, the latest senior official to be killed in the war.",
+      "image": "https://static01.nyt.com/images/2026/04/06/multimedia/06israel-iran-khademi-bkhf/06israel-iran-khademi-bkhf-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "郑丽文周二启程出访大陆 郑习会据报预定周五登场",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260406-%E9%83%91%E4%B8%BD%E6%96%87%E5%91%A8%E4%BA%8C%E5%90%AF%E7%A8%8B%E5%87%BA%E8%AE%BF%E5%A4%A7%E9%99%86-%E9%83%91%E4%B9%A0%E4%BC%9A%E6%8D%AE%E6%8A%A5%E9%A2%84%E5%AE%9A%E5%91%A8%E4%BA%94%E7%99%BB%E5%9C%BA",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-04-06T11:59:58+00:00",
+      "summary": "综合消息显示，国民党主席郑丽文周二将启程访问中国大陆，展开为期5天的参访行程，各界关注的“郑习会”预定周五登场；这将是10年后，国共领导人再次会晤。国民党副主席张荣恭称，郑丽文受邀规格跟2005年“连胡会”一样，合乎对等尊严。郑丽文表示，此行将以巩固两岸和平为目的，有把握北京会释出重大的善意与诚意，成果一定超乎大家期待。",
+      "image": "https://s.rfi.fr/media/display/7794fe1e-317b-11f1-8f9a-005056a97e36/w:1024/p:16x9/2026-04-06T031754Z-1873832519-RC2REKALPQ48-RTRMADP-3-TAIWAN-CHINA.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Has Trump confirmed Iran’s claim that protesters were US-armed?",
+      "url": "https://www.aljazeera.com/news/2026/4/6/has-trump-confirmed-irans-claim-that-protesters-were-us-armed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-04-06T11:52:36+00:00",
+      "summary": "US president says Washington armed Kurdish Iranian opposition groups during the January demonstrations.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Iran threatens Bab al-Mandeb closure: How would that affect world trade?",
+      "url": "https://www.aljazeera.com/news/2026/4/6/iran-threatens-bab-al-mandeb-closure-how-would-that-affect-world-trade?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-04-06T11:49:04+00:00",
+      "summary": "If the chokepoint were shut, along with the Strait of Hormuz, a quarter of the world&#039;s energy supply would be blocked.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Saudi Arabia charges record premium for its oil",
+      "url": "https://www.ft.com/content/04f5d454-28cd-4b26-b3b3-16ca94b9fb82",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-04-06T11:45:34+00:00",
+      "summary": "World’s biggest crude exporter to ask Asian customers for around $20 a barrel on top of benchmark prices",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F81c02a74-d45a-4f85-bee8-14f673ade6f0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Pakistan offers ‘two-phased’ truce deal to end US-Israel war on Iran",
+      "url": "https://www.aljazeera.com/news/2026/4/6/pakistan-offers-two-tier-truce-iran-wont-open-hormuz-under-temporary-one?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-04-06T11:25:17+00:00",
+      "summary": "Iran, while still reviewing the proposal, says it won&#039;t reopen Hormuz as part of a temporary ceasefire.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Sales of used EVs surge in US as petrol prices pass $4 a gallon",
+      "url": "https://www.ft.com/content/5436f549-52da-4d6d-85ba-955203f5c2f2",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-04-06T11:20:30+00:00",
+      "summary": "Americans are buying second-hand electric vehicles even as the market for new vehicles slumps",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff5911983-7a6d-41b2-806a-457d94834c5a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Trump’s ‘Bridge Day’ threat: Can a last-ditch ceasefire plan work?",
+      "url": "https://www.aljazeera.com/news/2026/4/6/trumps-bridge-day-threat-can-a-last-ditch-ceasefire-plan-work?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-04-06T11:12:53+00:00",
+      "summary": "Mediators Pakistan, Turkiye and Egypt are proposing a 45-day ceasefire plan. But Iran is reluctant.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Real Madrid vs Bayern Munich: Champions League – team news, start, lineups",
+      "url": "https://www.aljazeera.com/sports/2026/4/6/real-madrid-vs-bayern-munich-champions-league-team-news-start?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-04-06T11:11:24+00:00",
+      "summary": "Madrid host Bundesliga champions Bayern Munich for the first leg of their blockbuster Champions League quarterfinal tie.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Free Trade Is Dead in Washington",
+      "url": "https://foreignpolicy.com/2026/04/06/trump-china-washington-trade/",
+      "source": "Foreign Policy",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-04-06T11:00:40+00:00",
+      "summary": "Trumpian chaos conceals a wider bipartisan shift aimed at China.",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/04/1-free-trade-trump-tariffs-GettyImages-2199280448.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Israel destroys southern Lebanon towns, hits ‘safe’ areas around Beirut",
+      "url": "https://www.aljazeera.com/news/2026/4/6/israel-destroys-southern-lebanon-towns-hits-safe-areas-around-beirut?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-04-06T10:45:58+00:00",
+      "summary": "The Israeli military launches new attacks on Beirut, southern Lebanon as humanitarian crisis deepens.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "US stock futures rise on reports of Middle East ceasefire proposal",
+      "url": "https://www.ft.com/content/43f8ea8a-d8a9-444c-82c5-8a0358c948ed",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-04-06T10:45:57+00:00",
+      "summary": "Proposal for 45-day ceasefire reported to have been shared by Pakistan, Egypt and Turkey ahead of Trump deadline",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4ac6f533-a958-48c8-929e-52ab19fb1f32.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "On Iran, Trump Keeps World Off Balance With Ever-Changing Threats",
+      "url": "https://www.nytimes.com/2026/04/06/world/europe/iran-trump-threats.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-04-06T10:44:55+00:00",
+      "summary": "President Trump has threatened to bomb crucial civilian infrastructure in Iran if Tehran does not agree to his demands by Tuesday.",
+      "image": "https://static01.nyt.com/images/2026/04/06/multimedia/06int-iran-leaders-01-wzjg/06int-iran-leaders-01-wzjg-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "郑习会、特习会在即 中国不寻常划设航空保留区40天受关注",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260406-%E9%83%91%E4%B9%A0%E4%BC%9A-%E7%89%B9%E4%B9%A0%E4%BC%9A%E5%9C%A8%E5%8D%B3-%E4%B8%AD%E5%9B%BD%E4%B8%8D%E5%AF%BB%E5%B8%B8%E5%88%92%E8%AE%BE%E8%88%AA%E7%A9%BA%E4%BF%9D%E7%95%99%E5%8C%BA40%E5%A4%A9%E5%8F%97%E5%85%B3%E6%B3%A8",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-04-06T10:31:56+00:00",
+      "summary": "据《华尔街日报》报导称，中国采取了一项不寻常的举措，在未作解释的情况下划设了大片近海空域保留区，为期长达40天，并发布了类似于此前用于警告航空当局有关中国军事演习的警报，而这些演习通常不会持续超过数日。",
+      "image": "https://s.rfi.fr/media/display/92d8b10c-2785-11f1-a78d-005056bfb2b6/w:1024/p:16x9/Capture-d-%C3%A9cran-2026-03-24-142115-1.png",
+      "via": "rss"
+    },
+    {
+      "title": "From Oman, a waterfront view of the embattled Strait of Hormuz",
+      "url": "https://www.washingtonpost.com/world/2026/04/06/oman-iran-war-strait-of-hormuz/",
+      "source": "Washington Post",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-04-06T10:26:06+00:00",
+      "summary": "Residents of Khasab, a sleepy exclave that depends on fishing and tourism, are frustrated by the war in Iran and fearful of what’s next.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Trump is hastening Britain’s return to the EU",
+      "url": "https://www.ft.com/content/b02b631a-2064-4373-9d55-53c8558a14c9",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-04-06T10:23:03+00:00",
+      "summary": "Economics, security and domestic politics all point the Starmer government towards Brussels",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffaf33ae3-bd5f-4a0b-a3b8-4cad482ef480.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "欧盟议员访华后 中国发布电子商务发展指导意见",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260406-%E6%AC%A7%E7%9B%9F%E8%AE%AE%E5%91%98%E8%AE%BF%E5%8D%8E%E5%90%8E-%E4%B8%AD%E5%9B%BD%E5%8F%91%E5%B8%83%E7%94%B5%E5%AD%90%E5%95%86%E5%8A%A1%E5%8F%91%E5%B1%95%E6%8C%87%E5%AF%BC%E6%84%8F%E8%A7%81",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-04-06T10:14:08+00:00",
+      "summary": "为协调国内发展与国际市场，中国在周一发布了电子商务发展指导意见。此前一周，一个欧洲议员代表团访问中国，讨论了相关挑战和竞争问题。",
+      "image": "https://s.rfi.fr/media/display/9ebbc7b6-f540-11ea-b5cf-005056a98db9/w:1024/p:16x9/140729-drapeau-chine-europe.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "While Trump hails ‘daring’ airman rescue in Iran, Chinese experts count US wins and losses",
+      "url": "https://www.scmp.com/news/china/military/article/3349170/while-trump-hails-daring-airman-rescue-iran-chinese-experts-count-us-wins-and-losses?utm_source=rss_feed",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-04-06T10:13:31+00:00",
+      "summary": "The rescue of a missing American crew member after Iran shot down an F-15E fighter jet shows the United States’ “comprehensive capability” for carrying out high-risk rescue operations, according to Chinese analysts.\nOn Sunday, United States President Donald Trump confirmed that the missing crew member – one of two on the fighter jet shot down over the southern part of Iran on Friday – had been rescued amid the US-Israel war on Iran.\nTrump posted to social media that the US military had “pulled...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/04/06/0ad84d47-cf66-4ecd-b059-094470c37c7f_f6b83654.jpg?itok=CwZ_qDDJ&v=1775470379",
+      "via": "rss"
+    },
+    {
+      "title": "Jamie Dimon warns private credit losses will be larger than feared",
+      "url": "https://www.ft.com/content/58df968f-de4d-4a00-87b6-0b790057f9d3",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-04-06T10:03:39+00:00",
+      "summary": "JPMorgan chief raises alarm on weakening lending standards in annual shareholder letter",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc451f8fb-607e-4e94-a6cd-2ba9a66cfb17.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Trump to describe risky rescue mission as Iran rebuffs U.S. war demands",
+      "url": "https://www.washingtonpost.com/national-security/2026/04/06/trump-us-iran-war-rescue-airman/",
+      "source": "Washington Post",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-04-06T10:01:37+00:00",
+      "summary": "The rescue of an F-15 crewman averted a potentially disastrous POW situation, but Trump’s threats showed rising frustration amid an increasingly dangerous and politically unpopular war.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "China’s Absence Draws America Deeper Into Risky Wars",
+      "url": "https://foreignpolicy.com/2026/04/06/iran-war-china-geopolitics-trump-superpower-rivalry-strategy-united-states/",
+      "source": "Foreign Policy",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-04-06T10:00:15+00:00",
+      "summary": "The lack of a counterweight encourages intervention and overreach.",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/04/1-china-us-iran-middle-east-GettyImages-2268899626.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Democrats Already Have an Affordability Agenda",
+      "url": "https://foreignpolicy.com/2026/04/06/democrats-affordability-agenda-midterms-biden/",
+      "source": "Foreign Policy",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-04-06T10:00:10+00:00",
+      "summary": "They should reclaim key parts of Joe Biden’s record, rather than run from it.",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/04/biden-hands-GettyImages-2222562966.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Trump administration’s secrecy on health deals alarms experts, governments",
+      "url": "https://www.washingtonpost.com/national-security/2026/04/06/trump-global-health-deals/",
+      "source": "Washington Post",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-04-06T10:00:00+00:00",
+      "summary": "A dearth of information has been disclosed about the agreements, fueling speculation that the “America First” approach to foreign aid is exploitative.",
+      "image": "",
+      "via": "rss"
+    },
     {
       "title": "日本首相透露正在推进与伊朗领导人会谈 日本第三艘油轮通过霍尔木兹",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260406-%E6%97%A5%E6%9C%AC%E9%A6%96%E7%9B%B8%E9%80%8F%E9%9C%B2%E6%AD%A3%E5%9C%A8%E6%8E%A8%E8%BF%9B%E4%B8%8E%E4%BC%8A%E6%9C%97%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%9A%E8%B0%88-%E6%97%A5%E6%9C%AC%E7%AC%AC%E4%B8%89%E8%89%98%E6%B2%B9%E8%BD%AE%E9%80%9A%E8%BF%87%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9",
@@ -1889,17 +1983,6 @@
       "published": "2026-04-06T09:36:27+00:00",
       "summary": "俄罗斯外交部向《消息报》透露，中方已通知俄方，愿意将对俄罗斯公民的免签旅行政策延长一年。在这种情况下，该政策将持续到2027年9月中旬。",
       "image": "https://s.rfi.fr/media/display/231cf322-3fdb-11ed-ad62-005056bf30b7/w:1024/p:16x9/2022-09-23T155100Z_139455746_RC2ZMW95DPF4_RTRMADP_3_UKRAINE-CRISIS-FINLAND-BORDER-1.JPG",
-      "via": "rss"
-    },
-    {
-      "title": "Iran War Live Updates: Israel and Iran Trade Attacks After Trump’s New Hormuz Ultimatum",
-      "url": "https://www.nytimes.com/live/2026/04/06/world/iran-war-trump-israel",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-04-06T09:30:44+00:00",
-      "summary": "The fighting on Monday morning followed President Trump’s threat to bomb power plants and bridges on Tuesday if Iran did not open the Strait of Hormuz.",
-      "image": "https://static01.nyt.com/images/2026/04/06/multimedia/06iran-live-promo-flbg/06iran-live-promo-flbg-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -2002,24 +2085,13 @@
       "via": "rss"
     },
     {
-      "title": "War-driven energy crisis boosts China’s sales pitch for renewable tech",
+      "title": "China stands to benefit most from the war-driven energy crisis",
       "url": "https://www.washingtonpost.com/world/2026/04/06/iran-war-china-renewable-energy/",
       "source": "Washington Post",
       "language": "en",
       "type": "newspaper",
       "published": "2026-04-06T09:00:28+00:00",
       "summary": "Sales of Chinese electric vehicles and solar panels have surged since the start of the Iran war, companies say.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "From Oman, a waterfront view of the embattled Strait of Hormuz",
-      "url": "https://www.washingtonpost.com/world/2026/04/06/oman-iran-war-strait-of-hormuz/",
-      "source": "Washington Post",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-04-06T09:00:02+00:00",
-      "summary": "Residents of Khasab, a sleepy exclave that depends on fishing and tourism, are frustrated by the war in Iran and fearful of what’s next.",
       "image": "",
       "via": "rss"
     },
@@ -2097,17 +2169,6 @@
       "type": "broadcast",
       "published": "2026-04-06T07:57:38+00:00",
       "summary": "Party banks on mix of xenophobic anti-Muslim policies and financial aid schemes aimed at women to retain power in state.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Here’s the latest.",
-      "url": "https://www.nytimes.com/live/2026/04/06/world/iran-war-trump-israel/heres-the-latest",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-04-06T07:44:24+00:00",
-      "summary": "",
       "image": "",
       "via": "rss"
     },
@@ -2233,17 +2294,6 @@
       "via": "rss"
     },
     {
-      "title": "Trump vows to destroy Iran’s power plants and bridges unless it reopens strait",
-      "url": "https://www.ft.com/content/50943619-f694-4f49-bacf-6191b9096215",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-04-06T05:03:44+00:00",
-      "summary": "As war enters sixth week, the price of Brent crude rises slightly above $110 a barrel",
-      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F82b61d71-cf84-4918-880c-ae7ed5808f2f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
       "title": "「阿提米絲二號」太空人今夜將與地球失聯40分鐘  環月衛星通訊網已提上日程",
       "url": "https://www.bbc.com/zhongwen/articles/c8x7rvv7gqqo/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
@@ -2277,7 +2327,7 @@
       "via": "rss"
     },
     {
-      "title": "This Is Not China’s War, but Beijing Started Preparing for It Years Ago",
+      "title": "China Started Preparing for an Energy Crisis Long Before the Iran War",
       "url": "https://www.nytimes.com/2026/04/06/business/china-oil-shock-iran-war.html",
       "source": "New York Times",
       "language": "en",
@@ -2327,7 +2377,7 @@
       "language": "en",
       "type": "newspaper",
       "published": "2026-04-06T04:00:27+00:00",
-      "summary": "Groups agreed acquisitions worth $172bn in three months to March, a 36 per cent fall from previous quarter",
+      "summary": "Groups agreed acquisitions worth $172bn in three months to March, a 36% fall from previous quarter",
       "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F80a231ad-c792-4d2f-ae05-19e83ea26aec.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
@@ -2340,17 +2390,6 @@
       "published": "2026-04-06T04:00:27+00:00",
       "summary": "Disrupted exports add pressure to markets already reeling from Iran conflict",
       "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff21c15ca-ef5c-4d19-80a9-940ef3d12da6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "Let technology explore what the voters really want",
-      "url": "https://www.ft.com/content/4df5c927-00d1-43dc-9731-b1fac4980dca",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-04-06T04:00:16+00:00",
-      "summary": "New insights into motivation and strength of feeling could help democracy work better",
-      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F241ad2c7-c2d5-4eac-af66-02aa82569d79.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -2442,13 +2481,13 @@
       "via": "rss"
     },
     {
-      "title": "Iran war live: Tehran rejects Trump’s Hormuz deadline; 2 killed in Haifa",
+      "title": "Iran war live: Tehran says response to ceasefire proposals formulated",
       "url": "https://www.aljazeera.com/news/liveblog/2026/4/6/iran-war-live-tehran-rejects-trumps-tuesday-deadline-on-strait-of-hormuz?traffic_source=rss",
       "source": "Al Jazeera",
       "language": "en",
       "type": "broadcast",
       "published": "2026-04-06T00:00:00+00:00",
-      "summary": "Iranian officials dismiss Trump&#039;s ultimatum, condemn latest threats as &#039;incitement to war crimes&#039;.",
+      "summary": "Iran says no direct talks during escalating US-Israeli attacks as Trump&#039;s Hormuz deadline nears.",
       "image": "",
       "via": "rss"
     },
@@ -2926,17 +2965,6 @@
       "via": "rss"
     },
     {
-      "title": "Has the humanitarian crisis in Gaza been ignored?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/4/5/has-the-humanitarian-crisis-in-gaza-been-ignored?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-04-05T20:16:16+00:00",
-      "summary": "Conditions in Gaza worsen amid the United States-Israel war on Iran.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "Trump Seems Emboldened With New Threats in Truth Social Post Over Strait of Hormuz",
       "url": "https://www.nytimes.com/2026/04/05/world/middleeast/trump-truth-social-post-iran-allah-strait-of-hormuz.html",
       "source": "New York Times",
@@ -2945,28 +2973,6 @@
       "published": "2026-04-05T20:14:07+00:00",
       "summary": "In an expletive-filled social media post, Mr. Trump said Iran should open the Strait of Hormuz or he will bomb bridges and power plants.",
       "image": "https://static01.nyt.com/images/2026/04/05/multimedia/05israel-iran-Trump-truth-social-btvl/05israel-iran-Trump-truth-social-btvl-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Hamas armed wing says disarmament demands not acceptable",
-      "url": "https://www.aljazeera.com/news/2026/4/5/hamas-armed-wing-says-disarmament-demands-not-acceptable?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-04-05T20:09:24+00:00",
-      "summary": "Spokesperson Abu Obeida says calling for the group&#039;s disarmament amounts to an attempt to continue Israel&#039;s genocide.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Israeli air strike hits crowd in Gaza City",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israeli-air-strike-hits-crowd-in-gaza-city?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-04-05T20:09:18+00:00",
-      "summary": "Several Palestinians were rushed to hospital with severe injuries after an Israeli air strike hit a crowd in Gaza City.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -2981,17 +2987,6 @@
       "via": "rss"
     },
     {
-      "title": "Hamas armed wing rejects disarmament while Israel continues attacks",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/hamas-armed-wing-rejects-disarmament-while-israel-continues-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-04-05T20:03:50+00:00",
-      "summary": "Hamas’s armed wing says it will not discuss disarmament before Israel fully implements the first phase of ceasefire.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "Here’s a Timeline of Trump’s Ultimatums Over the Strait of Hormuz",
       "url": "https://www.nytimes.com/2026/04/05/world/middleeast/trump-strait-of-hormuz-deadline-iran-war.html",
       "source": "New York Times",
@@ -3003,34 +2998,12 @@
       "via": "rss"
     },
     {
-      "title": "Is war more profitable than peace? David Keen explains",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/4/5/is-war-more-profitable-than-peace-david-keen-explains?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-04-05T19:54:01+00:00",
-      "summary": "A leading political economist breaks down how war can reward power and be beneficial for profits and political survival.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Dozens missing after boat carrying migrants capsizes near Libya",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/dozens-missing-after-boat-carrying-migrants-capsizes-near-libya?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-04-05T19:38:53+00:00",
-      "summary": "Dozens of people are missing and at least two confirmed dead after a boat carrying migrants capsized off coast of Libya.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "Pepsi Drops Sponsorship of Wireless Festival Headlined by Kanye West",
       "url": "https://www.nytimes.com/2026/04/05/world/europe/ye-music-festival-pepsi-antisemitism.html",
       "source": "New York Times",
       "language": "en",
       "type": "newspaper",
-      "published": "2026-04-05T19:01:07+00:00",
+      "published": "2026-04-05T19:01:08+00:00",
       "summary": "Prime Minister Keir Starmer said he was “deeply concerned” that the rapper known for antisemitic and racist comments had been booked to perform at the Wireless Festival.",
       "image": "https://static01.nyt.com/images/2026/04/05/multimedia/05int-uk-kanye-zmfc/05int-uk-kanye-zmfc-mediumSquareAt3X.jpg",
       "via": "rss"
@@ -3190,17 +3163,6 @@
       "via": "rss"
     },
     {
-      "title": "特朗普：“赶紧打开'他妈的'海峡，周二将是电厂日和大桥日合二为一”",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260405-%E7%89%B9%E6%9C%97%E6%99%AE-%E8%B5%B6%E7%B4%A7%E6%89%93%E5%BC%80%E4%BB%96%E5%A6%88%E7%9A%84%E6%B5%B7%E5%B3%A1%EF%BC%8C%E5%91%A8%E4%BA%8C%E5%B0%86%E6%98%AF%E7%94%B5%E5%8E%82%E6%97%A5%E5%92%8C%E5%A4%A7%E6%A1%A5%E6%97%A5%E5%90%88%E4%BA%8C%E4%B8%BA%E4%B8%80",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-04-05T13:05:29+00:00",
-      "summary": "美国总统特朗普（Donald Trump）周日在其社媒平台“真相社交”上发文称，“周二在伊朗将是‘电厂日’和‘大桥日’，两者合二为一！绝对将是前所未有的！！！赶紧打开他妈的海峡，你们这些疯杂种们，否则就等着下地狱吧——等着瞧！赞美真主。”",
-      "image": "https://s.rfi.fr/media/display/b2b6bf90-3037-11f1-b59d-005056bf30b7/w:1024/p:16x9/2026-04-02T015604Z-1972436967-RC2PGKA6WFV6-RTRMADP-3-IRAN-CRISIS-TRUMP-ADDRESS.jpg",
-      "via": "rss"
-    },
-    {
       "title": "China’s push for hydrogen-powered planes takes step forward amid Iran energy crisis",
       "url": "https://www.scmp.com/news/china/science/article/3349086/chinas-push-hydrogen-powered-planes-takes-step-forward-amid-iran-energy-crisis?utm_source=rss_feed",
       "source": "SCMP",
@@ -3209,17 +3171,6 @@
       "published": "2026-04-05T13:00:09+00:00",
       "summary": "A Chinese cargo plane powered by a hydrogen-fuelled engine has successfully completed its maiden flight, marking a milestone in China’s push for green aviation.\nThe 7.5-tonne uncrewed aircraft is powered by the world’s most powerful hydrogen turboprop of its kind, capable of generating more than 1 megawatt.\nThe engine operated normally and remained in good condition throughout the 16-minute test flight on Saturday, state news agency Xinhua reported, citing the Aero Engine Corporation of China...",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/04/05/9310489a-2b6b-4f37-988a-310473e0160f_82149165.jpg?itok=2sN5Wqex&v=1775385009",
-      "via": "rss"
-    },
-    {
-      "title": "房山推土机撞人事件后 北京多区大集停摆",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260405-%E6%88%BF%E5%B1%B1%E6%8E%A8%E5%9C%9F%E6%9C%BA%E6%92%9E%E4%BA%BA%E4%BA%8B%E4%BB%B6%E5%90%8E-%E5%8C%97%E4%BA%AC%E5%A4%9A%E5%8C%BA%E5%A4%A7%E9%9B%86%E5%81%9C%E6%91%86",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-04-05T12:34:23+00:00",
-      "summary": "据《明报》报导，北京房山3月29日发生推土机冲击露天市集事件后，各区多个“大集”停摆，不少摊主在社交平台发帖提醒民众“别跑空”。多名博主周六发片称，朝阳金盏大集暂停一个月升级改造；平谷靠山集大集昨天是最后一天，今天开始暂停；原定周日举行的通州张家湾大集将临时停业；平谷南独乐河大集2日起停业。",
-      "image": "https://s.rfi.fr/media/display/d05f57ba-30ea-11f1-be9d-005056bf30b7/w:1024/p:16x9/AP26092130900997.jpg",
       "via": "rss"
     },
     {
@@ -3242,17 +3193,6 @@
       "published": "2026-04-05T12:00:11+00:00",
       "summary": "China has miniaturised the technology used to make electromagnetic cannons to develop a handheld coil gun, according to state media.\nThe weapon was designed for stealth, non-lethal operations and law enforcement, state broadcaster CCTV reported on Saturday, adding that it could fire between 1,000 and 2,000 projectiles a minute and penetrate wooden boards from dozens of metres away.\nIts power levels can also be altered, meaning that on lower settings there is less chance it will kill someone and...",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/04/06/fca3af74-ed00-4a3b-a176-7aed0f963a31_83dbca24.jpg?itok=PQLFGHsC&v=1775436607",
-      "via": "rss"
-    },
-    {
-      "title": "美商业供应商暂缓发布中东冲突地区卫星图像 美从太平洋地区调拨隐形巡航导弹打伊朗",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260405-%E7%BE%8E%E5%95%86%E4%B8%9A%E4%BE%9B%E5%BA%94%E5%95%86%E6%9A%82%E7%BC%93%E5%8F%91%E5%B8%83%E4%B8%AD%E4%B8%9C%E5%86%B2%E7%AA%81%E5%9C%B0%E5%8C%BA%E5%8D%AB%E6%98%9F%E5%9B%BE%E5%83%8F-%E7%BE%8E%E4%BB%8E%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%9C%B0%E5%8C%BA%E8%B0%83%E6%8B%A8%E9%9A%90%E5%BD%A2%E5%B7%A1%E8%88%AA%E5%AF%BC%E5%BC%B9%E6%89%93%E4%BC%8A%E6%9C%97",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-04-05T11:45:07+00:00",
-      "summary": "由于中东冲突持续，特朗普政府要求卫星图像供应商自愿停止提供指定区域的图像，这促使美国卫星影像供应商行星实验室（Planet Labs PBC）限制了对该地区数据的访问。这家总部位于旧金山的商业卫星供应商周日表示，这些措施将追溯至3月9日，预计将持续到冲突结束。",
-      "image": "https://s.rfi.fr/media/display/f1f9ccc0-3045-11f1-a17d-005056a97e36/w:1024/p:16x9/Capture-3406.jpg",
       "via": "rss"
     },
     {
@@ -3465,17 +3405,6 @@
       "via": "rss"
     },
     {
-      "title": "Israel Strikes Iran’s Largest Petrochemical Complex",
-      "url": "https://www.nytimes.com/2026/04/04/world/middleeast/israel-strikes-mahshahr-iran-oil.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-04-04T23:58:38+00:00",
-      "summary": "The sprawling complex in the city of Mahshahr was taken offline after strikes hit two utility plants that provided basic services like gas and power, Iranian officials said.",
-      "image": "https://static01.nyt.com/images/2026/04/04/multimedia/04ISRAEL-IRAN-MAHSHAHR/04ISRAEL-IRAN-MAHSHAHR-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
       "title": "死生香港：從《破 • 地獄》看三重人間超渡",
       "url": "https://theinitium.com/20260405-opinion-modern-death-hk/",
       "source": "端传媒",
@@ -3506,17 +3435,6 @@
       "published": "2026-04-04T22:00:21+00:00",
       "summary": "Before autonomous driving freed up the hands of Beijing’s middle class, thousands of workers some 1,500km (930 miles) away in China’s southwestern Guizhou province clicked away at computer screens to teach AI about navigating traffic.\nIn the mountainous city of Tongren, where incomes are less than half those in Beijing, the work of data labelling – marking residential buildings, pavements, roadways and traffic lights – shaped the artificial intelligence guiding those vehicles.\nThe job required...",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/04/04/3f03cfe9-18ef-453b-87c6-74f0e649efa0_ffd4daaf.jpg?itok=QEl7XRBw&v=1775298219",
-      "via": "rss"
-    },
-    {
-      "title": "Trump Wants to Make Deportation Deals. Autocrats Are Ready to Listen.",
-      "url": "https://www.nytimes.com/2026/04/04/world/africa/trump-deportation-africa-migrants.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-04-04T21:48:19+00:00",
-      "summary": "The White House has turned deportations, a signature domestic issue, into a major piece of foreign policy. Here’s what we know about the program.",
-      "image": "https://static01.nyt.com/images/2026/03/31/multimedia/00int-deportations-1-vtpw/00int-deportations-1-vtpw-mediumSquareAt3X-v2.jpg",
       "via": "rss"
     },
     {
@@ -3740,8 +3658,8 @@
       "via": "rss"
     },
     {
-      "title": "How South Korea is using K-beauty trend to boost soft power",
-      "url": "https://www.dw.com/en/how-south-korea-is-using-k-beauty-trend-to-boost-soft-power/a-76652311?maca=en-rss-en-world-4025-xml-mrss",
+      "title": "How South Korea's K-beauty trend boosts soft power",
+      "url": "https://www.dw.com/en/how-south-korea-s-k-beauty-trend-boosts-soft-power/a-76652311?maca=en-rss-en-world-4025-xml-mrss",
       "source": "Deutsche Welle",
       "language": "en",
       "type": "broadcast",
@@ -3781,17 +3699,6 @@
       "published": "2026-04-04T02:00:12+00:00",
       "summary": "There was a surprise guest speaker at Nvidia’s widely watched GPU Technology Conference (GTC) in San Jose, California, last month: Yang Zhilin, the founder of Beijing-based Moonshot AI, the developer behind the Kimi family of foundational artificial intelligence models.\nAmid heated rhetoric about US-China AI competition, which some have likened to an “arms race”, the participation of a Chinese AI start-up’s CEO at the flagship event of American chipmaking giant Nvidia might have struck some as...",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/04/03/b47270f3-f722-428b-92bd-7c6d7517cf45_7e8f7cc2.jpg?itok=e2fQux6K&v=1775211584",
-      "via": "rss"
-    },
-    {
-      "title": "Australia’s 180-degree shift from 5 years ago: China in favour; US out",
-      "url": "https://www.scmp.com/economy/china-economy/article/3348468/australias-180-degree-shift-5-years-ago-china-favour-us-out?utm_source=rss_feed",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-04-04T00:00:09+00:00",
-      "summary": "Australian comedian Jenny Tian set off a wave of deep laughter across an Adelaide audience at a recent comedy festival by saying she had tired of democracy at home. So, Tian explained, she moved to the US to give “fascism” a whirl instead.\nThe 30-year-old showbiz pro was born to Chinese parents, making her race a rarity in Western stand-up comedy. But the crowd was a near sell-out.\nI saw Tian’s March performance during a visiting media tour of Australia after days of meetings with national...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/03/31/3183705d-0b8d-4713-a516-52821962c300_f6b3bbc5.jpg?itok=M-Z2zKAb&v=1774925126",
       "via": "rss"
     },
     {
@@ -3924,105 +3831,6 @@
       "published": "2026-04-03T18:40:42+00:00",
       "summary": "Executive Summary:\n\n\n\n\nIn January, Tunisian security forces conducted two counterterrorism operations in Kasserine governorate, disrupting localized networks—including an Islamic State (IS)-affiliated cell—that use the western mountains near Algeria as refuges.\n\n\n\nJihadist networks in Tunisia remain fragmented and localized, reflecting a residual militancy and featuring small cells lacking the capacity for coordinated large-scale attacks or national-level destabilization.\n\n\n\nTunisia’s deeply institutionalized security architecture maintains operational superiority through enhanced surveillance and preemptive sweeps. This strategy prevents militant expansion, ensuring critical infrastructure remains a theoretical vulnerability rather than an active battlefield.\n\n\n\n\n\n\n\n\nIn January, Tunisian security forces conducted two counterterrorism operations in Kasserine governorate, underscoring the continued presence of jihadist networks in western Tunisia. In the first operation, on January 3, s",
       "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "United States Expands Counterterrorism Partnership with Kenya",
-      "url": "https://jamestown.org/united-states-expands-counterterrorism-partnership-with-kenya/",
-      "source": "Jamestown Foundation",
-      "language": "en",
-      "type": "thinktank",
-      "published": "2026-04-03T18:36:32+00:00",
-      "summary": "Executive Summary:\n\n\n\n\nIn January, the United States and Kenya initiated a $71 million upgrade to the Manda Bay airfield to target al-Shabaab and regional terrorist groups.\n\n\n\nKenya serves as a vital regional security anchor for the United States, providing stability and the potential to hedge against the expansion of Chinese military influence in Djibouti.\n\n\n\nEnhanced by joint legal training, this partnership has the potential to significantly shape East African counterterrorism efforts over the coming decade to prevent further regional destabilization.\n\n\n\n\n\n\n\n\nAt the end of January, the United States and Kenya launched a new $71 million initiative to upgrade the Manda Bay airfield in Lamu County, Kenya. The base is directly adjacent to the Somali border. This initiative suggests a desire by the United States to target al-Shabaab—as well as other terrorist groups in East Africa—from bases in Kenya, rather than from Djibouti (ftlsomalia.com, February 1). The United States, however, may",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Navigating Seabed Mining in the Cook Islands: A Conversation with John Parianos",
-      "url": "https://www.stimson.org/2026/navigating-seabed-mining-in-the-cook-islands-a-conversation-with-john-parianos/",
-      "source": "Stimson Center",
-      "language": "en",
-      "type": "thinktank",
-      "published": "2026-04-03T18:03:43+00:00",
-      "summary": "Video Transcript Full Interview Below Dr. John Parianos: I&#8217;m Knowledge Management Director at the Cook Islands Seabed Minerals Authority. My team and I — our job is to look at all the information that&#8217;s available, to collate and synthesize it as best we can so that our stakeholders, the people of the Cook Islands government [&#8230;]\nThe post Navigating Seabed Mining in the Cook Islands: A Conversation with John Parianos appeared first on Stimson Center.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Why Jet Fuel Is the Real Harbinger of the Energy Crisis",
-      "url": "https://foreignpolicy.com/2026/04/03/jet-fuel-prices-energy-crisis-iran-war-oil-trump/",
-      "source": "Foreign Policy",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-04-03T16:49:55+00:00",
-      "summary": "The Iran war is torching the products that make the world go around.",
-      "image": "https://foreignpolicy.com/wp-content/uploads/2026/04/jet-fuel-GettyImages-2265687693.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "PRC Supply Chain Ecosystem Behind Iran’s Drone Campaign",
-      "url": "https://jamestown.org/prc-supply-chain-ecosystem-behind-irans-drone-campaign/",
-      "source": "Jamestown Foundation",
-      "language": "en",
-      "type": "thinktank",
-      "published": "2026-04-03T15:44:57+00:00",
-      "summary": "Executive Summary:\n\n\n\n\nIn March 2026, Iran’s drone campaign consumed thousands of expendable unmanned aerial vehicles (UAVs). The critical technologies, manufacturing equipment, and components underpinning these platforms trace to the civilian manufacturing ecosystem of the People’s Republic of China (PRC), channeled through private capital acquisition, reverse engineering, and the systematic exploitation of dual-use trade ambiguities.\n\n\n\nThe PRC’s drone supply chain operates as a “manufacturing plain”—a flat landscape of interchangeable micro-enterprises, as distinct from the “mountain peak” defense contractors that sanctions are designed to neutralize. Individually targetable but collectively inexhaustible, with minimal staffing and nominal business scopes unrelated to aviation, these firms channel drone-applicable materiel to sanctioned end-users at scale.\n\n\n\nWestern sanctions targeting these supply chain entities are unable to meet this challenge. Designation lists expand rapidly w",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Jilted but Persistent: Growing PRC Assertiveness in Panama",
-      "url": "https://jamestown.org/jilted-but-persistent-growing-prc-assertiveness-in-panama/",
-      "source": "Jamestown Foundation",
-      "language": "en",
-      "type": "thinktank",
-      "published": "2026-04-03T15:06:55+00:00",
-      "summary": "Executive Summary:\n\n\n\n\nThe January 2026 Panamanian court decision against CK Hutchinson’s stake in the Panama Canal has led Beijing to halt state-sponsored investment, marking a turning point toward selective coercion in the relationship.\n\n\n\nPanama, the first Latin American country to join the One Belt One Road initiative after pivoting diplomatic recognition away from Taiwan, has had to balance its deeper relationship with the United States.\n\n\n\nChinese media and Panamanian outlets echoing pro-Beijing themes stress economic benefits, sovereignty, and non-interference in the bilateral relationship. But partial success in driving adoption of its messages in local media could indicate scope for deepening influence in future.\n\n\n\n\n\n\n\n\nRelations between Panama and the People’s Republic of China (PRC), only recently in good standing, have taken a turn for the worse in 2026. In February, Panama’s Supreme Court jolted the bilateral relationship by ruling that the concession granted to a subsidi",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "China issues guideline for AI ethics governance",
-      "url": "https://news.cgtn.com/news/2026-04-03/China-issues-guideline-for-AI-ethics-governance-1M32wkvCAWA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-04-03T14:48:01+00:00",
-      "summary": "China has issued a trial guideline on the ethics review and service of artificial intelligence (AI) technology, the Ministry of Industry and Information Technology said on Friday.The guideline, jointly issued by 10 government departments, including the ministry, calls for efforts to support technological innovation in AI ethics review and to strengthen the use of technical measures to prevent AI-related ethical risks.The guideline clarifies that the review should focus on human well-being, fairness and justice, and controllability and trustworthiness.It also details issues that should be addressed in the review, such as the selection criteria for training data, the rationality of the algorithm, model and system design, and measures to prevent bias, discrimination and algorithmic exploitation.The guideline also calls for promoting the orderly open-sourcing of high-quality datasets for AI ethics review, strengthening the development of general risk management, assessment and auditing too",
-      "image": "https://news.cgtn.com/news/2026-04-03/China-issues-guideline-for-AI-ethics-governance-1M32wkvCAWA/img/b1af23ff3d7a4edba14e09ff00063e57/b1af23ff3d7a4edba14e09ff00063e57-750.png",
-      "via": "rss"
-    },
-    {
-      "title": "The Lost Children of Minab",
-      "url": "https://foreignpolicy.com/2026/04/03/minab-school-strike-iran-war-children-lost/",
-      "source": "Foreign Policy",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-04-03T14:45:00+00:00",
-      "summary": "It has been one month since missiles struck a school in the Iranian port town.",
-      "image": "https://foreignpolicy.com/wp-content/uploads/2026/04/1-iran-minab-school-IMG_4335.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Pakistan’s Peacemaking Is a Setback for India",
-      "url": "https://foreignpolicy.com/2026/04/03/pakistan-iran-diplomacy-mediation-munir-india/",
-      "source": "Foreign Policy",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-04-03T14:38:16+00:00",
-      "summary": "As Islamabad positions itself as a mediator in the Iran war, New Delhi is sidelined.",
-      "image": "https://foreignpolicy.com/wp-content/uploads/2026/04/china-pakistan-GettyImages-2268729057.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Revisiting Donald Trump and Kim Jong Un’s Last Meeting",
-      "url": "https://thediplomat.com/2026/04/revisiting-donald-trump-and-kim-jong-uns-last-meeting/",
-      "source": "The Diplomat",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-04-03T14:28:00+00:00",
-      "summary": "The 2019 snap summit at the DMZ was a mesmerizing reality show, for which there had been no preparation – but it almost worked.",
-      "image": "https://images.thediplomat.com/v1/td-list-l-2/2025/11/thediplomat_2025-11-13-040950.jpg",
       "via": "rss"
     }
   ]
