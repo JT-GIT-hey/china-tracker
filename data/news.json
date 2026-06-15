@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15T19:14:42.267248+00:00",
+  "last_updated": "2026-06-15T23:12:57.663864+00:00",
   "source_counts": {
     "en": 36,
     "zh": 24
@@ -10,27 +10,255 @@
       "icon": "🤖",
       "color": "#7d6be8",
       "featured": true,
-      "articles": [
-        {
-          "title": "The PRC Token Economy Takes Shape",
-          "url": "https://jamestown.org/the-prcs-token-economy-takes-shape/",
-          "source": "jamestown.org",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-06-12T00:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "ai_tech"
-        }
-      ]
+      "articles": []
     },
     "foreign_policy": {
       "label": "Foreign Policy & Diplomacy",
       "icon": "🌐",
       "color": "#4f8de8",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "Защо коментарите на Тръмп за Г - 2 тревожат съюзниците на САЩ ?",
+          "url": "https://www.investor.bg/a/516-politika/432109-zashto-komentarite-na-tramp-za-g-2-trevozhat-sayuznitsite-na-sasht",
+          "source": "investor.bg",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-06-15T19:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "林武会见出席第七届跨国公司领导人青岛峰会外宾代表 _ 政务新闻 _ 山东政务 _ 山东新闻 _ 新闻 _ 齐鲁网",
+          "url": "https://news.iqilu.com/shandong/zhengwu/zwxw/2026/0615/5921947.shtml",
+          "source": "news.iqilu.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-06-15T16:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "Liderii statelor G7 reuniți într - un summit găzduit de Franța",
+          "url": "https://www.dailybusiness.ro/actualitate/liderii-statelor-g7-reuniti-intr-un-summit-gazduit-de-franta-543727/",
+          "source": "dailybusiness.ro",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-06-15T14:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "申明浩 ： 广外深耕区域国别研究 ， 赋能APEC主场外交",
+          "url": "https://edu.ycwb.com/2026-06/12/content_54171371.htm",
+          "source": "edu.ycwb.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-06-12T11:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "Китай отменил две важные дипломатические встречи с ЕС - СМИ",
+          "url": "https://korrespondent.net/world/4885680-kytai-otmenyl-dve-vazhnye-dyplomatycheskye-vstrechy-s-es-smy",
+          "source": "korrespondent.net",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-06-11T10:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "Xi Jinping Visit to Pyongyang : Regional Roundup - 38 North : Informed Analysis of North Korea",
+          "url": "https://www.38north.org/2026/06/tbd-kim-xi-regional-roundup/",
+          "source": "38north.org",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-06-11T02:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "China President Xi returns home after closely watched trip to North Korea",
+          "url": "https://www.yahoo.com/news/world/articles/chinas-president-xi-returns-home-102615798.html",
+          "source": "yahoo.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-06-11T02:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "Zelensky , G7 Leaders to Hold Special Ukraine Discussion at Evian Summit",
+          "url": "https://www.kyivpost.com/post/77923",
+          "source": "kyivpost.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-06-11T00:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "Франција преку Г7 се обидува да се доближи до Кина",
+          "url": "https://novamakedonija.com.mk/makedonija/politika/francija-preku-g7-se-obiduva-da-se-doblizhi-do-kina/",
+          "source": "novamakedonija.com.mk",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-06-10T12:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "Japan , Malaysia seek to enhance energy , maritime security cooperation",
+          "url": "https://news.az/news/japan-malaysia-seek-to-enhance-energy-maritime-security-cooperation",
+          "source": "news.az",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-06-10T10:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "Sastanak Sija i Kima : Kina i Severna Koreja jačaju veze :: DW :: RTCG - Radio Televizija Crne Gore",
+          "url": "https://rtcg.me/vijesti/dw/852879/sastanak-sija-i-kima-kina-i-severna-koreja-jacaju-veze.html",
+          "source": "rtcg.me",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-06-10T07:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "Определиха срещата Си - Ким като дипломатическа победа на Северна Корея",
+          "url": "https://dnes.dir.bg/na-fokus/opredeliha-sreshtata-si-kim-kato-diplomaticheska-pobeda-na-severna-koreya",
+          "source": "dnes.dir.bg",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-06-09T22:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "Da complementaridade comercial à disputa com os EUA : como mudou a estratégia da China na América Latina",
+          "url": "https://dialogosdosul.operamundi.uol.com.br/china-consenso-beijing-pragmatismo-america-latina-eua/",
+          "source": "dialogosdosul.operamundi.uol.com.br",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-06-09T19:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "China President Xi returns home after closely watched trip to North Korea",
+          "url": "https://www.ktsa.com/chinas-president-xi-returns-home-after-closely-watched-trip-to-north-korea/",
+          "source": "ktsa.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-06-09T16:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "Ариана Гранде рассталась с Итаном Слейтером",
+          "url": "https://www.intermedia.ru:443/news/404498",
+          "source": "intermedia.ru",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-06-09T15:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "Израильский дом Андрея Макаревича * попал под ракетный удар",
+          "url": "https://www.intermedia.ru:443/news/404496",
+          "source": "intermedia.ru",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-06-09T15:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "Итоги работы XXIX Петербургского международного экономического форума 1",
+          "url": "https://www.vedomosti.ru/press_releases/2026/06/08/itogi-raboti-xxix-peterburgskogo-mezhdunarodnogo-ekonomicheskogo-foruma-1",
+          "source": "vedomosti.ru",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-06-09T11:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "Politico узнало о планах Макрона позвать Китай на онлайн - встречу G7",
+          "url": "https://news.mail.ru/politics/71200047/",
+          "source": "news.mail.ru",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-06-09T06:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "Кім Чен Ин провів саміт із Сі Цзіньпіном - Про що говорили лідери КНДР і Китаю",
+          "url": "https://zn.ua/ukr/WORLD/samit-kim-chen-ina-z-si-tszinpinom-pro-shcho-domovilisja-lideri-kndr-ta-kitaju.html",
+          "source": "zn.ua",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-06-09T05:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "What did North Korea and China agree to expand cooperation on ?",
+          "url": "https://news.az/news/what-did-north-korea-and-china-agree-to-expand-cooperation-on",
+          "source": "news.az",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-06-08T23:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        }
+      ]
     },
     "politics": {
       "label": "Politics & Governance",
@@ -52,6 +280,18 @@
           "language": "en",
           "type": "wire",
           "published": "2026-06-15T08:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "商业航天投资的一种工具 ： 卫星ETF易方达的特点与优势 _ 中华网",
+          "url": "https://hea.china.com/hea/xinwen/2026/0614/062026_1893015.html",
+          "source": "hea.china.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-06-14T04:30:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -88,18 +328,6 @@
           "language": "zh",
           "type": "wire",
           "published": "2026-06-12T08:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "military_security"
-        },
-        {
-          "title": "Scientists Trace Mysterious GPS Disruptions in Europe to Space - Based Russian System - Novinite . com",
-          "url": "https://www.novinite.com/articles/238969/Scientists+Trace+Mysterious+GPS+Disruptions+in+Europe+to+Space-Based+Russian+System",
-          "source": "novinite.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-06-12T07:30:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -234,72 +462,72 @@
       "featured": false,
       "articles": [
         {
-          "title": "PBOC is expected to set the USD / CNY reference rate at 6 . 7544 – Reuters estimate",
-          "url": "https://investinglive.com:443/centralbank/pboc-is-expected-to-set-the-usdcny-reference-rate-at-67544-reuters-estimate-20260615/",
-          "source": "investinglive.com",
+          "title": "The EU in an Era of Weaponized Interdependence",
+          "url": "https://carnegieendowment.org/europe/research/2026/06/from-trade-dependence-to-geopolitical-leverage-the-eu-in-an-era-of-weaponized-interdependence",
+          "source": "carnegieendowment.org",
           "language": "en",
           "type": "wire",
-          "published": "2026-06-15T02:15:00+00:00",
+          "published": "2026-06-15T21:30:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "economy"
         },
         {
-          "title": "PBOC is expected to set the USD / CNY reference rate at 6 . 7640 – Reuters estimate",
-          "url": "https://investinglive.com:443/centralbank/pboc-is-expected-to-set-the-usdcny-reference-rate-at-67640-reuters-estimate-20260612/",
-          "source": "investinglive.com",
+          "title": "The Chain of Peace : Do Supply Chain Chokepoints Deter War ?",
+          "url": "https://warontherocks.com/the-chain-of-peace-do-supply-chain-chokepoints-deter-war/",
+          "source": "warontherocks.com",
           "language": "en",
           "type": "wire",
-          "published": "2026-06-12T03:45:00+00:00",
+          "published": "2026-06-11T08:00:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "economy"
         },
         {
-          "title": "Chinese yuan strengthens to 6 . 8109 against USD Friday",
-          "url": "http://www.bignewsnetwork.com/news/279117906/chinese-yuan-strengthens-to-68109-against-usd-friday",
-          "source": "bignewsnetwork.com",
+          "title": "The Structural Vitality of Foreign Trade in China -- China Economic Net",
+          "url": "http://en.ce.cn/Insight/202606/t20260610_3022501.shtml",
+          "source": "en.ce.cn",
           "language": "en",
           "type": "wire",
-          "published": "2026-06-12T03:15:00+00:00",
+          "published": "2026-06-10T12:00:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "economy"
         },
         {
-          "title": "China stronger yuan may pose economic risks",
-          "url": "https://www.upi.com/Top_News/World-News/2026/06/11/economy-strong-yuan-exports/9051781221367/",
-          "source": "upi.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-06-12T01:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "Market exchange rates in China -- June 11 - Xinhua",
-          "url": "https://english.news.cn/20260611/f21743466f994e489b7c20b4bf35d75b/c.html",
-          "source": "english.news.cn",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-06-11T05:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "PBOC is expected to set the USD / CNY reference rate at 6 . 7749 – Reuters estimate",
-          "url": "https://investinglive.com:443/centralbank/pboc-is-expected-to-set-the-usdcny-reference-rate-at-67749-reuters-estimate-20260610/",
-          "source": "investinglive.com",
+          "title": "Global oil crisis : How Asian refineries and Australia are sourcing fuel following the Strait of Hormuz blockade",
+          "url": "https://www.brisbanetimes.com.au/politics/federal/with-no-end-in-sight-to-us-iran-war-australia-is-getting-oil-from-some-unlikely-places-20260609-p60504.html",
+          "source": "brisbanetimes.com.au",
           "language": "en",
           "type": "wire",
           "published": "2026-06-10T02:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "Upgrading RCEP can help ASEAN partnership",
+          "url": "http://africa.chinadaily.com.cn/a/202606/09/WS6a2768e1a310d6866eb4d224.html",
+          "source": "africa.chinadaily.com.cn",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-06-09T03:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "Upgrading RCEP can help ASEAN partnership",
+          "url": "http://europe.chinadaily.com.cn/a/202606/09/WS6a2768e1a310d6866eb4d224.html",
+          "source": "europe.chinadaily.com.cn",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-06-09T02:45:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -314,180 +542,36 @@
       "featured": false,
       "articles": [
         {
-          "title": "What your favorite Oscar Best Picture winner ? See where it ranks among all the rest , based on data .",
-          "url": "https://www.gjsentinel.com/lifestyle/entertainment/whats-your-favorite-oscar-best-picture-winner-see-where-it-ranks-among-all-the-rest/article_50be564d-fbcd-551a-9e46-32fee6857102.html",
-          "source": "gjsentinel.com",
+          "title": "How Will Digital IDs Work ? ( VIDEO - About 1 Minute Long )",
+          "url": "https://freerepublic.com/focus/f-religion/4383817/posts",
+          "source": "freerepublic.com",
           "language": "en",
           "type": "wire",
-          "published": "2026-06-15T04:45:00+00:00",
+          "published": "2026-06-15T12:45:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "society"
         },
         {
-          "title": "What your favorite Oscar Best Picture winner ? See where it ranks among all the rest , based on data .",
-          "url": "https://www.kkyx.com/news/whats-your-favorite/QWAF3AXWFY5WHPVUDO7UCRPFWM/",
-          "source": "kkyx.com",
+          "title": "Gary Bauer : Warning to Iran | The Patriot Post",
+          "url": "https://patriotpost.us/opinion/128335-warning-to-iran-2026-06-12",
+          "source": "patriotpost.us",
           "language": "en",
           "type": "wire",
-          "published": "2026-06-15T04:30:00+00:00",
+          "published": "2026-06-12T15:30:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "society"
         },
         {
-          "title": "What your favorite Oscar Best Picture winner ? See where it ranks among all the rest , based on data .",
-          "url": "https://www.b985.com/news/whats-your-favorite/QWAF3AXWFY5WHPVUDO7UCRPFWM/",
-          "source": "b985.com",
+          "title": "Letters to the Editor : June 10 , 2026",
+          "url": "https://www.pentictonherald.ca/opinion/article_e7ef810c-9dc2-4045-b416-f6af62140d5e.html",
+          "source": "pentictonherald.ca",
           "language": "en",
           "type": "wire",
-          "published": "2026-06-15T04:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "What your favorite Oscar Best Picture winner ? See where it ranks among all the rest , based on data .",
-          "url": "https://www.kono1011.com/news/whats-your-favorite/QWAF3AXWFY5WHPVUDO7UCRPFWM/",
-          "source": "kono1011.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-06-15T04:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "What your favorite Oscar Best Picture winner ? See where it ranks among all the rest , based on data .",
-          "url": "https://www.themountainpress.com/lifestyles/entertainment/whats-your-favorite-oscar-best-picture-winner-see-where-it-ranks-among-all-the-rest/article_c1919f38-c69c-57d5-97d0-1c226ef4ac7a.html",
-          "source": "themountainpress.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-06-15T04:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "What your favorite Oscar Best Picture winner ? See where it ranks among all the rest , based on data .",
-          "url": "https://www.kiro7.com/news/whats-your-favorite/QWAF3AXWFY5WHPVUDO7UCRPFWM/",
-          "source": "kiro7.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-06-15T04:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "What your favorite Oscar Best Picture winner ? See where it ranks among all the rest , based on data .",
-          "url": "https://www.insidenova.com/lifestyles/entertainment/whats-your-favorite-oscar-best-picture-winner-see-where-it-ranks-among-all-the-rest/article_0f19480e-d89d-5b27-a079-ee34d81dbb53.html",
-          "source": "insidenova.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-06-15T03:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "What your favorite Oscar Best Picture winner ? See where it ranks among all the rest , based on data .",
-          "url": "https://www.yakimaherald.com/news/nation_and_world/entertainment/whats-your-favorite-oscar-best-picture-winner-see-where-it-ranks-among-all-the-rest/article_0bb8e80e-a52c-5520-be35-4c543999d415.html",
-          "source": "yakimaherald.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-06-15T03:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "What your favorite Oscar Best Picture winner ? See where it ranks among all the rest , based on data .",
-          "url": "https://www.whio.com/news/whats-your-favorite/QWAF3AXWFY5WHPVUDO7UCRPFWM/",
-          "source": "whio.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-06-15T03:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "What your favorite Oscar Best Picture winner ? See where it ranks among all the rest , based on data .",
-          "url": "https://www.97xonline.com/news/whats-your-favorite/QWAF3AXWFY5WHPVUDO7UCRPFWM/",
-          "source": "97xonline.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-06-15T02:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "What your favorite Oscar Best Picture winner ? See where it ranks among all the rest , based on data .",
-          "url": "http://www.southernminn.com/around_the_web/community/whats-your-favorite-oscar-best-picture-winner-see-where-it-ranks-among-all-the-rest/article_1a1b4596-6948-5b5f-8e10-2dad19fcd037.html",
-          "source": "southernminn.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-06-15T02:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "What your favorite Oscar Best Picture winner ? See where it ranks among all the rest , based on data .",
-          "url": "https://www.wsoctv.com/news/whats-your-favorite/QWAF3AXWFY5WHPVUDO7UCRPFWM/",
-          "source": "wsoctv.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-06-15T02:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "What your favorite Oscar Best Picture winner ? See where it ranks among all the rest , based on data .",
-          "url": "https://www.hot105fm.com/news/whats-your-favorite/QWAF3AXWFY5WHPVUDO7UCRPFWM/",
-          "source": "hot105fm.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-06-15T02:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "Putins sāk saņemt brīdinājumus : kara izdevumi Krievijai kļūst nepaceļami",
-          "url": "https://nra.lv/neatkariga/pasaule/523094-krievijas-kara-izdevumi-pieaug.htm",
-          "source": "nra.lv",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-06-10T07:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "Why do people of China have highest IQ scores - 博客",
-          "url": "https://blog.wenxuecity.com/myblog/72696/202606/6706.html",
-          "source": "blog.wenxuecity.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-06-10T01:15:00+00:00",
+          "published": "2026-06-11T00:45:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -507,128 +591,7 @@
       "icon": "🔒",
       "color": "#e07070",
       "featured": false,
-      "articles": [
-        {
-          "title": "WUC leader accuses China of using human rights forum to advance authoritarian narrative",
-          "url": "http://www.shanghaisun.com/news/279123644/wuc-leader-accuses-china-of-using-human-rights-forum-to-advance-authoritarian-narrative",
-          "source": "shanghaisun.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-06-15T14:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "WUC leader accuses China of using human rights forum to advance authoritarian narrative",
-          "url": "http://www.beijingbulletin.com/news/279123644/wuc-leader-accuses-china-of-using-human-rights-forum-to-advance-authoritarian-narrative",
-          "source": "beijingbulletin.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-06-15T14:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "WUC leader accuses China of using human rights forum to advance authoritarian narrative",
-          "url": "http://www.shanghainews.net/news/279123644/wuc-leader-accuses-china-of-using-human-rights-forum-to-advance-authoritarian-narrative",
-          "source": "shanghainews.net",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-06-15T12:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "WUC leader accuses China of using human rights forum to advance authoritarian narrative",
-          "url": "http://www.chinanationalnews.com/news/279123644/wuc-leader-accuses-china-of-using-human-rights-forum-to-advance-authoritarian-narrative",
-          "source": "chinanationalnews.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-06-15T10:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "WUC leader accuses China of using human rights forum to advance authoritarian narrative",
-          "url": "http://www.asiabulletin.com/news/279123644/wuc-leader-accuses-china-of-using-human-rights-forum-to-advance-authoritarian-narrative",
-          "source": "asiabulletin.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-06-15T09:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "WUC leader accuses China of using human rights forum to advance authoritarian narrative",
-          "url": "http://www.bignewsnetwork.com/news/279123644/wuc-leader-accuses-china-of-using-human-rights-forum-to-advance-authoritarian-narrative",
-          "source": "bignewsnetwork.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-06-15T09:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "WUC leader accuses China of using human rights forum to advance authoritarian narrative",
-          "url": "http://www.hongkongherald.com/news/279123644/wuc-leader-accuses-china-of-using-human-rights-forum-to-advance-authoritarian-narrative",
-          "source": "hongkongherald.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-06-15T09:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "Third International Uyghur Forum to examine global response to Uyghur rights concerns",
-          "url": "http://www.chinanationalnews.com/news/279112047/third-international-uyghur-forum-to-examine-global-response-to-uyghur-rights-concerns",
-          "source": "chinanationalnews.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-06-09T16:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "Third International Uyghur Forum to examine global response to Uyghur rights concerns",
-          "url": "https://news.webindia123.com/news/Articles/World/20260609/4460446.html",
-          "source": "news.webindia123.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-06-09T13:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "Third International Uyghur Forum to examine global response to Uyghur rights concerns",
-          "url": "https://aninews.in/news/world/europe/third-international-uyghur-forum-to-examine-global-response-to-uyghur-rights-concerns20260609180001/",
-          "source": "aninews.in",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-06-09T12:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        }
-      ]
+      "articles": []
     },
     "bilateral_relations": {
       "label": "Bilateral Relations",
@@ -647,14 +610,564 @@
   },
   "latest_rss": [
     {
+      "title": "重慶虐狗抗議記：當動保行動被暴力清場，不願散去的人",
+      "url": "https://theinitium.com/20260616-mainland-chongqing-dog-abuse-protest/",
+      "source": "端传媒",
+      "language": "zh",
+      "type": "journal",
+      "published": "2026-06-15T23:00:52+00:00",
+      "summary": "&#x300c;&#x8b66;&#x5bdf;&#x6253;&#x4eba;&#x4e86;&#x300d;&#xff0c;&#x770b;&#x5230;&#x9019;&#x689d;&#x6d88;&#x606f;&#xff0c;27&#x6b72;&#x7684;&#x6797;&#x6893;&#x7acb;&#x523b;&#x9ede;&#x958b;&#x7fa4;&#x7d44;&#x88cf;&#x7684;&#x76f4;&#x64ad;&#x93c8;&#x63a5;&#x3002;&#x5979;&#x65cb;&#x5373;&#x6309;&#x4e0b;&#x9304;&#x5c4f;&#x9375;&#xff0c;&#x60f3;&#x8981;&#x4fdd;&#x5b58;&#x8b49;&#x64da;&#x3002;&#x76f4;&#x64ad;&#x756b;&#x9762;&#x4e2d;&#xff0c;&#x8b66;&#x5bdf;&#x6441;&#x4f4f;&#x4e00;&#x540d;&#x7537;&#x5b50;&#x6253;&#x4e86;&#x4e00;&#x5df4;&#x638c;&#x3002;&#x6797;&#x6893;&#x5750;&#x5728;&#x5de5;&#x4f4d;&#x4e0a;&#xff0c;&#x5fc3;&#x7126;&#x53c8;&#x61a4;&#x6012;&#x3002;&#x76f4;&#x64ad;&#x9593;&#x5728;10&#x5206;&#x9418;&#x5f8c;&#x88ab;&#x5c01;&#x7981;&#xff0c;&#x5979;&#x885d;&#x9032;&#x5ec1;&#x6240;&#xff0c;&#x5fcd;&#x4e0d;&#x4f4f;&#x6d41;&#x6dda;&#x3002;&#x5979;&#x628a;&#x8b66;&#x5bdf;&#x6253;&#x4eba;&#x7684;&#x9304;&#x5c4f;&#x50b3;&#x4e0a;&#x5fae;&#x535a;&#xff0c;&#x5e16;&#x6587;&#x5982;&#x9810;&#x671f;&#x8",
+      "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/06/4-10.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "【華爾街日報】中國逮捕美籍學者兼記者，加劇中美摩擦",
+      "url": "https://theinitium.com/20260616-wsj-china-detained-american-citizen-min-zin/",
+      "source": "端传媒",
+      "language": "zh",
+      "type": "journal",
+      "published": "2026-06-15T22:59:44+00:00",
+      "summary": "&#x7de8;&#x6309;&#xff1a;&#x300a;&#x83ef;&#x723e;&#x8857;&#x65e5;&#x5831;&#x300b;&#x662f;&#x5168;&#x7403;&#x6700;&#x5177;&#x5f71;&#x97ff;&#x529b;&#x7684;&#x8ca1;&#x7d93;&#x5a92;&#x9ad4;&#x4e4b;&#x4e00;&#xff0c;&#x6bcf;&#x65e5;&#x7522;&#x51fa;&#x5927;&#x91cf;&#x6df1;&#x5ea6;&#x5831;&#x5c0e;&#xff0c;&#x6db5;&#x84cb;&#x570b;&#x969b;&#x653f;&#x6cbb;&#x3001;&#x5546;&#x696d;&#x8ca1;&#x7d93;&#x8207;&#x79d1;&#x6280;&#x8da8;&#x52e2;&#x3002;&#x5728;&#x300c;WSJ&#x5b88;&#x8b77;&#x7cbe;&#x9078;&#x300d;&#x6b04;&#x76ee;&#x4e2d;&#xff0c;&#x7aef;&#x50b3;&#x5a92;&#x7de8;&#x8f2f;&#x6bcf;&#x9031;&#x4e8c;&#x3001;&#x56db;&#x5f9e;&#x4e2d;&#x6311;&#x9078;&#x6d89;&#x53ca;&#x4e2d;&#x570b;&#x3001;&#x79d1;&#x6280;&#x3001;&#x4e2d;&#x7f8e;&#x95dc;&#x4fc2;&#x7b49;&#x83ef;&#x6587;&#x8b80;&#x8005;&#x6700;&#x95dc;&#x5fc3;&#x8b70;&#x984c;&#x7684;&#x5831;&#x5c0e;&#x3002;&#x6b64;&#x6b04;&#x76ee;&#x70ba;&#x5b88;&#x8b77;&#x6703;&#x54e1;&#x5c08;&#x5c6c;&#x3002;&#x4e2d;&#x570b;&#x65b9;&#x9762;&#x4e0a;&#x5468;&#x4e94;&#x8868;&#x79",
+      "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/06/Min-Zin-Copy-1050x700.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "UK Announces Social Media Ban for Children Under 16",
+      "url": "https://www.nytimes.com/2026/06/15/world/europe/uk-social-media-children.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-06-15T22:53:50+00:00",
+      "summary": "High school students in Wimbledon, London, this year during an interview about social media. Britain plans to place an age limit on social media.",
+      "image": "https://static01.nyt.com/images/2026/06/12/multimedia/HFO-int-uk-social-media-zjqt/HFO-int-uk-social-media-zjqt-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
       "title": "Iran War Live Updates: U.S. and Iran Sign Preliminary Deal, but Its Terms Remain Secret",
       "url": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal",
       "source": "New York Times",
       "language": "en",
       "type": "newspaper",
-      "published": "2026-06-15T18:56:54+00:00",
-      "summary": "President Trump and Iran’s lead negotiator have signed an agreement that was expected to open the Strait of Hormuz. But the deal’s specific terms have not been released, and the countries have pushed their biggest disagreements to later talks.",
-      "image": "https://static01.nyt.com/images/2026/06/15/multimedia/15mideast-promo130-lhpb/15mideast-promo130-lhpb-mediumSquareAt3X.jpg",
+      "published": "2026-06-15T22:47:19+00:00",
+      "summary": "President Trump and Iran’s lead negotiator have signed an agreement that was expected to open the Strait of Hormuz. But the specific terms of the deal have not been released, and Israel’s leader appears not to be fully on board.",
+      "image": "https://static01.nyt.com/images/2026/06/15/multimedia/15mideast-promo6p/15mideast-unknowns2-mkcw-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "陷入战争泥潭的特朗普对伊朗作出重大让步",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260615-%E9%99%B7%E5%85%A5%E6%88%98%E4%BA%89%E6%B3%A5%E6%BD%AD%E7%9A%84%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E4%BD%9C%E5%87%BA%E9%87%8D%E5%A4%A7%E8%AE%A9%E6%AD%A5",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-06-15T22:37:48+00:00",
+      "summary": "从表面上看，与德黑兰达成框架性协议后，特朗普似乎找到从中东战场抽身的办法，同时也使得国际市场能源逐渐降价。然而，在诸多分析人士眼中，协议的内容与特朗普战争之初宣布的目标相去甚远。",
+      "image": "https://s.rfi.fr/media/display/bf636b60-690a-11f1-b688-005056bf30b7/w:1024/p:16x9/2026-06-15T191551Z-2005198610-RC2IULA4UYOS-RTRMADP-3-G7-SUMMIT-BRITAIN.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "The (Mostly) Unanswered Questions at the Heart of a U.S.-Iran Accord",
+      "url": "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-deal-agreement-questions.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-06-15T22:17:26+00:00",
+      "summary": "The short-term truce hasn’t been made public, and the long-term peace deal it is supposed to yield doesn’t exist yet, so there is much still unknown about any agreement between the adversaries.",
+      "image": "https://static01.nyt.com/images/2026/06/15/multimedia/15mideast-unknowns2-mkcw/15mideast-unknowns2-mkcw-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "2026世界杯:爱尔兰球迷挺科特迪瓦",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260615-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-2026%E4%B8%96%E7%95%8C%E6%9D%AF-%E7%88%B1%E5%B0%94%E5%85%B0%E7%90%83%E8%BF%B7%E6%8C%BA%E7%A7%91%E7%89%B9%E8%BF%AA%E7%93%A6",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-06-15T21:50:56+00:00",
+      "summary": "2026年第23届世界杯足球赛（Coupe du Monde 2026）正在北美紧张而激烈的进行之中。在E组首轮比赛中，科特迪瓦(la Côte d'Ivoire)凭借球星阿马德·迪亚洛（Amad Diallo）在第90分钟时的决定性一击，最终以1比0绝杀对手厄瓜多尔（l'Equateur）。本台法广（RFI）法语特派记者（Envoyé Spécial）发自美国费城（Philadelphie）林肯金融球场（Lincoln Financial Field）的现场报导说，在一个以厄瓜多尔球迷占绝对多数的球场内，科特迪瓦的国脚们在拥有科特迪瓦和法国双重国籍教练埃梅尔斯·法埃（Émerse Faé）的率领下，赢得了这场出乎意外的胜利（une victoire inespérée）。在英国苏格兰的一名爱尔兰酒吧店主接受采访，解释了欧洲的爱尔兰球迷为何支持绰号[大象]（les Éléphants）的非洲科特迪瓦国家足球队。",
+      "image": "https://s.rfi.fr/media/display/6958973c-68ff-11f1-8488-005056a90284/w:1024/p:16x9/2026-06-15-l-FMM-archive-Coupe-du-Monde-C%C3%B4te-d-Ivoire-225314.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Will Commercial Ships Have to Pay to Pass Through the Strait of Hormuz? Maybe.",
+      "url": "https://www.nytimes.com/2026/06/15/world/middleeast/shipping-fees-tolls-strait-hormuz.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-06-15T21:49:24+00:00",
+      "summary": "Charging a toll is illegal under international law, but some fees are allowed for services. It is not clear what services Iran would provide, but there were no fees charged before the war.",
+      "image": "https://static01.nyt.com/images/2026/06/10/multimedia/15mideast-Strait-Fees/10mideast-trump-oil-tfzj-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Gavin Newsom says Trump has ordered justice department to investigate him",
+      "url": "https://www.ft.com/content/3ebc2a6f-ed8d-4848-880c-d04c5069ee5b",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-06-15T21:47:08+00:00",
+      "summary": "California governor is considered a potential Democratic presidential candidate for 2028",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9f0512b3-7afb-4899-91e9-84ce52dd6ec9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Journalist hit by Israeli strike while reporting in Lebanon",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-nf_journalist-hit-by-israeli-strike-in-lebanon-150626?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-06-15T21:36:22+00:00",
+      "summary": "A journalist for Press TV has been hit by shrapnel while filming a report on Israeli attacks in southern Lebanon.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "AAPI survey finds fading faith in US as destination for immigrants amid Trump crackdown",
+      "url": "https://www.scmp.com/news/us/article/3357218/aapi-survey-finds-fading-faith-us-destination-immigrants?utm_source=rss_feed",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-06-15T21:31:11+00:00",
+      "summary": "Most Asian-American and Pacific Islander (AAPI) adults believe the United States used to be a great place for immigrants but no longer is, according to a survey released on Monday ahead of the 250th anniversary of American independence next month.\n“Forty-one per cent of AAPI adults say they have started carrying proof of immigration status or citizenship, or know someone who has, and 34 per cent say the same about changing travel plans because of immigration status,” according to the Associated...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/16/2e582a2d-d7b8-41c6-bf9d-9de372376727_6aa99693.jpg?itok=8JjaXx_f&v=1781559064",
+      "via": "rss"
+    },
+    {
+      "title": "谷歌称与中国有关联黑客组织长期渗透美加科研机构",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260615-%E8%B0%B7%E6%AD%8C%E7%A7%B0%E4%B8%8E%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%85%B3%E8%81%94%E9%BB%91%E5%AE%A2%E7%BB%84%E7%BB%87%E9%95%BF%E6%9C%9F%E6%B8%97%E9%80%8F%E7%BE%8E%E5%8A%A0%E7%A7%91%E7%A0%94%E6%9C%BA%E6%9E%84",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-06-15T21:30:48+00:00",
+      "summary": "谷歌周一（6月15日）表示，一个被认为与中国有关联的黑客组织在长达一年多时间里秘密窃取美国和加拿大多家学术、医疗及军事研究机构的数据，直至其活动被发现。",
+      "image": "https://s.rfi.fr/media/display/55b552fe-6901-11f1-b70a-005056a90284/w:1024/p:16x9/download-152.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "乌克兰迈出加入欧盟重要一步 但入盟之路仍漫长艰难",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260615-%E4%B9%8C%E5%85%8B%E5%85%B0%E8%BF%88%E5%87%BA%E5%8A%A0%E5%85%A5%E6%AC%A7%E7%9B%9F%E9%87%8D%E8%A6%81%E4%B8%80%E6%AD%A5-%E4%BD%86%E5%85%A5%E7%9B%9F%E4%B9%8B%E8%B7%AF%E4%BB%8D%E6%BC%AB%E9%95%BF%E8%89%B0%E9%9A%BE",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-06-15T21:24:48+00:00",
+      "summary": "在多年僵局之后，乌克兰周一（6月15日）在加入欧盟进程中迈出重要一步。在匈牙利撤回持续两年多的反对立场后，欧盟正式启动与乌克兰的首批入盟谈判，基辅的入欧进程取得重要进展。不过，对于这个仍处于战争中的国家而言，距离成为欧盟正式成员国仍有漫长而艰难的道路要走。",
+      "image": "https://s.rfi.fr/media/display/9dfac6da-6900-11f1-b505-005056a97e36/w:1024/p:16x9/2026-06-15T203152Z-147072751-RC2KULATJAYJ-RTRMADP-3-G7-SUMMIT.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Egypt draw 1–1 with Belgium at World Cup group game",
+      "url": "https://www.aljazeera.com/sports/2026/6/15/egypt-draw-1-1-with-belgium-at-world-cup-group-stage?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-06-15T21:23:40+00:00",
+      "summary": "Emam Ashour&#039;s first international goal gave Egypt the lead, before veteran Romelu Lukaku forced an own goal to equalise.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "特朗普称将推动结束俄乌战争 泽连斯基提议在美国会晤普京",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260615-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E6%8E%A8%E5%8A%A8%E7%BB%93%E6%9D%9F%E4%BF%84%E4%B9%8C%E6%88%98%E4%BA%89-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8F%90%E8%AE%AE%E5%9C%A8%E7%BE%8E%E5%9B%BD%E4%BC%9A%E6%99%A4%E6%99%AE%E4%BA%AC",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-06-15T21:20:53+00:00",
+      "summary": "美国总统特朗普周一（6月15日）在七国集团（G7）峰会期间表示，在推动美伊达成结束战争的框架协议后，他将把外交重点转向结束俄乌战争。",
+      "image": "https://s.rfi.fr/media/display/126ae1cc-6900-11f1-8d44-005056a97e36/w:1024/p:16x9/2026-06-15T190331Z-1151806666-RC2HULADIYJS-RTRMADP-3-G7-SUMMIT.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "特朗普称霍尔木兹海峡19日将全面开放 美伊即将启动技术谈判",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260615-%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E6%9C%AC%E5%91%A8%E4%BA%94%E5%B0%86%E5%85%A8%E9%9D%A2%E5%BC%80%E6%94%BE-%E7%BE%8E%E4%BC%8A%E5%8D%B3%E5%B0%86%E5%90%AF%E5%8A%A8%E6%8A%80%E6%9C%AF%E8%B0%88%E5%88%A4",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-06-15T21:17:50+00:00",
+      "summary": "美国总统特朗普周一（6月15日）在埃维昂表示，作为全球原油运输关键通道的霍尔木兹海峡将于本周五（6月19日）“全面开放”。美伊框架协议预计将于本周在瑞士正式签署，美方称协议文本将很快公布，双方技术性谈判也将于本周晚些时候启动。",
+      "image": "https://s.rfi.fr/media/display/a5457c56-68ff-11f1-b647-005056bf30b7/w:1024/p:16x9/2026-06-15T190507Z-1596843406-RC2HULAD3S1F-RTRMADP-3-G7-SUMMIT.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Will the Iran Deal Stick?",
+      "url": "https://www.nytimes.com/2026/06/15/world/iran-deal-cape-verde-world-cup.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-06-15T21:16:27+00:00",
+      "summary": "After many false starts, this cease-fire plan could be different. That’s because the war really has become painful for both the U.S. and Iran.",
+      "image": "https://static01.nyt.com/images/2026/06/16/multimedia/16int-theworld-trump-iran-deal-promo/16int-theworld-trump-iran-deal-promo-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "ConocoPhillips set to sign deal with Syria to revive gas production",
+      "url": "https://www.ft.com/content/d63c5138-bf81-4c7d-b39a-434499d09c8f",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-06-15T21:09:52+00:00",
+      "summary": "Agreement will be first by a US energy major with Damascus as it aims to rebuild activity after years of civil war",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd323d22f-3896-43e4-b721-ebc6dfc715b9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Iran vs New Zealand live: World Cup 2026",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/6/15/iran-vs-new-zealand-live-world-cup-2026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-06-15T21:06:03+00:00",
+      "summary": "Follow our live build-up, protest news, score, team sheets, score, photos and text commentary stream from Los Angeles.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Trump administration considers $300bn fund for Iran if deal is upheld",
+      "url": "https://www.ft.com/content/088c14d3-f708-44d8-a306-7996aa5211de",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-06-15T21:03:49+00:00",
+      "summary": "Incentives would be tied to Tehran’s ‘performance’ including over opening of the Strait of Hormuz and nuclear talks",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F97092c3f-9d45-4192-86eb-13c193adaea3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Oreshnik Threat Not Distracting From Kremlin’s Setbacks",
+      "url": "https://jamestown.org/oreshnik-threat-not-distracting-from-kremlins-setbacks/",
+      "source": "Jamestown Foundation",
+      "language": "en",
+      "type": "thinktank",
+      "published": "2026-06-15T20:59:59+00:00",
+      "summary": "Executive Summary: \n\n\n\n\nOn June 12, RBC-Ukraine, citing a source in the Ukrainian government, reported that the United States had provided Kyiv with information indicating that Russia was preparing a potential Oreshnik strike in the coming days. \n\n\n\nThis warning, which has so far not come to fruition, comes amid a string of Russian setbacks, including a scaled-back May 9 Victory Day parade, Ukrainian drone attacks amid the St. Petersburg International Economic Forum, failed influence efforts in Armenia’s elections, and the Oreshnik’s poor performance in previous launches.\n\n\n\nRussian President Vladimir Putin continues to dismiss evidence of military and economic difficulties, including battlefield communication shortcomings, budget strains, and falling external investment into Russia, reinforcing concerns that Kremlin decision-making is becoming detached from Russia’s worsening realities.\n\n\n\n\n\n\n\n\nOn June 12, RBC-Ukraine, citing a source in the Ukrainian government, reported that the Uni",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Armenian Election Results Inspire Pro-Western Forces in Georgia",
+      "url": "https://jamestown.org/armenian-election-results-inspire-pro-western-forces-in-georgia/",
+      "source": "Jamestown Foundation",
+      "language": "en",
+      "type": "thinktank",
+      "published": "2026-06-15T20:57:58+00:00",
+      "summary": "Executive Summary:\n\n\n\n\nGeorgian officials congratulated Armenian Prime Minister Nikol Pashinyan on his victory in the parliamentary elections in Armenia, expressing hope for strengthening Georgian–Armenian ties.\n\n\n\nMany Georgians followed the Armenian elections with great attention, even excitement, as these elections largely determine the future of peace and Western integration of the entire South Caucasus, including Georgia.\n\n\n\nPro-Western forces in Georgia view the victory of pro-Western forces in neighboring Armenia as an argument for restoring Georgia’s trajectory toward integration with the North Atlantic Treaty Organization and the European Union and further distancing itself from Russia.\n\n\n\n\n\n\n\n\nOn June 8, just several hours after the closing of polling stations in Armenia’s pivotal parliamentary elections and even before Armenian Prime Minister Nikol Pashinyan officially declared victory for his Civil Contract party, Georgian Prime Minister Irakli Kobakhidze congratulated him ",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "U.S.-Iran Peace Deal Arrives Just in Time for G-7 Summit",
+      "url": "https://foreignpolicy.com/2026/06/15/us-iran-peace-deal-mou-trump-g7-summit-israel-lebanon/",
+      "source": "Foreign Policy",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-06-15T20:56:55+00:00",
+      "summary": "But continued Israeli strikes on Lebanon could derail the agreement before it takes effect.",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/06/TrumpG7Iran-GettyImages-2281147139.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Can a social media ban protect young users?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/15/can-a-social-media-ban-protect-young-users?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-06-15T20:56:36+00:00",
+      "summary": "The UK says it&#039;s banning access to social media for those under age 16.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "中国培训俄罗斯军队 欧盟考虑对北京采取更强硬立场",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260615-%E4%B8%AD%E5%9B%BD%E5%9F%B9%E8%AE%AD%E4%BF%84%E7%BD%97%E6%96%AF%E5%86%9B%E9%98%9F-%E6%AC%A7%E7%9B%9F%E8%80%83%E8%99%91%E5%AF%B9%E5%8C%97%E4%BA%AC%E9%87%87%E5%8F%96%E6%9B%B4%E5%BC%BA%E7%A1%AC%E7%AB%8B%E5%9C%BA",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-06-15T20:55:58+00:00",
+      "summary": "欧盟外交与安全政策高级代表卡拉斯表示，欧盟已核实有关中国军方“训练俄罗斯军事人员在乌克兰作战”的报道，这一事件可能会加剧欧中双方的紧张关系。",
+      "image": "https://s.rfi.fr/media/display/96e903f6-68fc-11f1-be31-005056a97e36/w:1024/p:16x9/2026-06-11T131040Z-2066931328-RC2JPLA38L4H-RTRMADP-3-EU-DIPLOMATIC-SERVICE.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "7-year-old mourns father and brother killed in Israeli strike on Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/7-year-old-mourns-father-and-brother-killed-in-israeli-strike-on-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-06-15T20:55:30+00:00",
+      "summary": "7-year-old mourns father and brother killed in Israeli strike on Gaza.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "万斯：协议确保长期免通行费 阻止伊朗拥核",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260615-%E4%B8%87%E6%96%AF-%E5%8D%8F%E8%AE%AE%E7%A1%AE%E4%BF%9D%E9%95%BF%E6%9C%9F%E5%85%8D%E9%80%9A%E8%A1%8C%E8%B4%B9-%E9%98%BB%E6%AD%A2%E4%BC%8A%E6%9C%97%E6%8B%A5%E6%A0%B8",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-06-15T20:51:24+00:00",
+      "summary": "美国与伊朗即将于本周在瑞士签署结束冲突的重要协议，内容涵盖重新开放全球能源运输命脉霍尔木兹海峡、限制伊朗核计划，以及逐步解除部分经济制裁。",
+      "image": "https://s.rfi.fr/media/display/e9e55b0a-68fb-11f1-8a15-005056bf30b7/w:1024/p:16x9/2026-06-15T143911Z-26855031-RC2LILAONX64-RTRMADP-3-IRA-CRISIS-USA-VANCE.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "EU officially launches Ukraine and Moldova accession process",
+      "url": "https://www.aljazeera.com/news/2026/6/15/eu-officially-launches-ukraine-and-moldova-accession-processes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-06-15T20:46:46+00:00",
+      "summary": "Kyiv sees EU accession as a security guarantee and alignment with Western values as it defends against Russian invasion.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Hungarian MPs approve PM limits to block potential return of Orban",
+      "url": "https://www.aljazeera.com/news/2026/6/15/hungarian-mps-approve-pm-limits-to-block-potential-return-of-orban?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-06-15T20:46:00+00:00",
+      "summary": "The reform is one of the first introduced by PM Peter Magyar as he seeks to return Hungary to the EU mainstream.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Israelis denounce Trump’s deal with Iran",
+      "url": "https://www.washingtonpost.com/world/2026/06/15/israelis-denounce-trumps-deal-with-iran/",
+      "source": "Washington Post",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-06-15T20:45:56+00:00",
+      "summary": "Prime Minister Benjamin Netanyahu did not issue an immediate statement, but other Israelis disparaged the peace deal and said Israel’s fight against Hezbollah in Lebanon would go on.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "U.S. and Iran Sign a Framework Deal, Leaving Major Issues for Future Talks",
+      "url": "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-framework-ceasefire-deal.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-06-15T20:45:42+00:00",
+      "summary": "President Trump with President Emmanuel Macron in Évian-les-Bains, France, on Monday for the Group of 7 summit. Mr. Macron called the agreement with Iran “a very important step toward peace.”",
+      "image": "https://static01.nyt.com/images/2026/06/15/multimedia/15int-iran-leadall-pchw/15int-iran-leadall-pchw-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "SpaceX shares gain for second day after blockbuster debut",
+      "url": "https://www.ft.com/content/55fe2a70-4cf1-4749-a2c2-f0a5985dd281",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-06-15T20:39:29+00:00",
+      "summary": "Elon Musk’s AI, satellite and rocket group climbs 19.6% further on Monday",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F879fb889-266c-4174-9fe9-11dfbf9305e3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Trump touts Iran deal and Ukraine ambition as he arrives at G7",
+      "url": "https://www.aljazeera.com/news/2026/6/15/trump-touts-iran-deal-and-ukraine-ambition-as-he-arrives-at-g7?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-06-15T20:24:57+00:00",
+      "summary": "Amid G7 tensions, Trump says Iran agreement is a step towards peace in the Middle East and beyond.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Stocks surge as US-Iran deal ignites global rally",
+      "url": "https://www.ft.com/content/8a6849de-b27c-4680-a80d-42b85b0e77eb",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-06-15T20:22:45+00:00",
+      "summary": "Investor sentiment also helped by SpaceX’s historic initial public offering",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9849978e-a05f-4949-ab1b-b3060bdf4479.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Netanyahu says Israel won’t leave occupied land in Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/6/15/netanyahu-says-israel-wont-leave-occupied-land-in-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-06-15T20:21:15+00:00",
+      "summary": "Israel&#039;s occupation of territory in Lebanon and Syria will continue, PM Netanyahu said, despite US deal with Iran.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "What Israeli leaders are saying about US-Iran ‘peace deal’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/what-israeli-leaders-are-saying-about-us-iran-peace?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-06-15T20:20:41+00:00",
+      "summary": "Israel’s political leaders, including Itamar Ben-Gvir and Bezalel Smotrich, have reacted to the US-Iran agreement.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "As Russia Strikes Ukraine, a Cultural Symbol Catches Fire",
+      "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-dormition-cathedral-strike.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-06-15T20:16:50+00:00",
+      "summary": "The latest casualty in the war is a centuries-old cathedral. President Volodymyr Zelensky called it “one of the largest Russian crimes against Christian culture.”",
+      "image": "https://static01.nyt.com/images/2026/06/15/multimedia/15int-ukraine-cathedral-1-vwkl/15int-ukraine-cathedral-1-vwkl-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Argentina edges back to China on currency swap despite US pressure",
+      "url": "https://www.scmp.com/news/china/article/3357215/argentina-edges-back-china-currency-swap-despite-us-pressure?utm_source=rss_feed",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-06-15T20:01:08+00:00",
+      "summary": "Argentina’s top central banker sat down with his Chinese counterpart in Shanghai, a quiet overture towards Beijing months after Buenos Aires moved to unwind a currency lifeline that Washington had pushed it to abandon.\nSantiago Bausili, president of the Central Bank of the Argentine Republic, met People’s Bank of China governor Pan Gongsheng on the sidelines of an international symposium organised by the Bank for International Settlements and China’s central bank, according to a statement from...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/16/9f6fe6a4-a754-41de-b42c-c0fca5ee1ca7_a576405e.jpg?itok=gWwPlEwF&v=1781554681",
+      "via": "rss"
+    },
+    {
+      "title": "In France, Justice System Faces Public Anger After 11-Year-Old Girl’s Killing",
+      "url": "https://www.nytimes.com/2026/06/15/world/europe/france-lyhanna-protests.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-06-15T19:56:06+00:00",
+      "summary": "Protests have erupted across France after authorities revealed that a man accused of kidnapping Lyhanna Rameau Bernard, a French schoolgirl found dead this month, had previously been flagged to law enforcement.",
+      "image": "https://static01.nyt.com/images/2026/06/15/multimedia/15int-france-lyhanna-01-bgkz/15int-france-lyhanna-01-bgkz-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "California Governor Newsom says US Department of Justice investigating him",
+      "url": "https://www.aljazeera.com/news/2026/6/15/california-governor-newsom-says-us-department-of-justice-investigating-him?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-06-15T19:54:01+00:00",
+      "summary": "Newsom says he and wife targeted because he is considering running for president in 2028; DOJ has not confirmed probe.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "EU, Ukraine start formal accession talks after Orban delay",
+      "url": "https://www.dw.com/en/eu-ukraine-start-formal-accession-talks-after-orban-delay/a-77566611?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "Deutsche Welle",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-06-15T19:42:00+00:00",
+      "summary": "The EU has formally opened the first stage of accession negotiations with Ukraine. This comes two years later than planned, as former Hungarian PM Viktor Orban was blocking the process prior to his election defeat.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Russian supersonic bomber crashes in Siberia during training exercise",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-nf_russian-supersonic-bomber-crashes-in-siberia-150626?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-06-15T19:41:05+00:00",
+      "summary": "A Russian Tu-22M3 strategic bomber crashed in Siberia’s Irkutsk region during a training flight.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Netanyahu faces domestic backlash over US-Iran agreement",
+      "url": "https://www.ft.com/content/9a6886c8-2ab3-4341-a5e6-a6cfc1be7386",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-06-15T19:39:51+00:00",
+      "summary": "Prime minister launches a fierce defence of his wartime policies, insisting the strikes on Iran had been a success",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7e316b32-77d1-4e99-b914-03f39372b6ea.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Dutch court sentences Syrian to 26 years for torturing for al-Assad",
+      "url": "https://www.aljazeera.com/news/2026/6/15/dutch-court-sentences-syrian-to-26-years-for-torturing-on-behalf-of-al-assad?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-06-15T19:36:22+00:00",
+      "summary": "The sentence is the latest in a series of European cases against Syrians since Bashar al-Assad was overthrown in 2024.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Convicted Leader of Greek Militant Group Ordered Back to Prison",
+      "url": "https://www.nytimes.com/2026/06/15/world/europe/november-17-giotopoulos-prison-release.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-06-15T19:35:19+00:00",
+      "summary": "Alexandros Giotopoulos during a court appearance in 2005. The November 17 group was active from 1975 to 2002.",
+      "image": "https://static01.nyt.com/images/2026/06/15/multimedia/15greece-release-mzgf/15greece-release-mzgf-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Average US petrol price falls below $4 on plan to reopen Strait of Hormuz",
+      "url": "https://www.ft.com/content/ff17e2a2-7744-4e19-9e1d-23bc5892191c",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-06-15T19:30:31+00:00",
+      "summary": "As cost at the pump declines to nearly two-month low, analysts warn risk of a surge ‘has not completely disappeared’",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F653abd63-687b-4682-8f8a-65ffb27dda7c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "US Air Force B-52 bomber crashes after takeoff at Edwards Air Force Base",
+      "url": "https://www.aljazeera.com/news/2026/6/15/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-06-15T19:27:25+00:00",
+      "summary": "It was not immediately clear if there were any casualties in crash at base north of Los Angeles, California.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "How the US-Iran deal came together",
+      "url": "https://www.ft.com/content/adb68e67-3d04-4a60-af30-dd9b1faee62b",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-06-15T19:16:38+00:00",
+      "summary": "Mediators spent weeks working on a plan to bridge nearly half a century of hostility between Washington and Tehran",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6850e250-315c-4cd7-9405-acf2c426f68c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "With Its Biggest E.U. Opponent Gone, Ukraine Is Advancing in Its Bid to Join",
+      "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-eu-membership.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-06-15T19:14:31+00:00",
+      "summary": "A commemorative display in Mykolaiv, Ukraine, in March, honoring soldiers who have died in the war with Russia.",
+      "image": "https://static01.nyt.com/images/2026/06/15/multimedia/15int-eu-ukraine-explainer-wfkc/15int-eu-ukraine-explainer-wfkc-mediumSquareAt3X-v2.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Israel Counts the Ways That Netanyahu’s Iran Strategy Failed",
+      "url": "https://www.nytimes.com/2026/06/15/world/middleeast/israel-netanyahus-iran-strategy.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-06-15T19:12:35+00:00",
+      "summary": "The U.S.-Iran framework agreement appears to omit some of the most important provisions that Israel wanted.",
+      "image": "https://static01.nyt.com/images/2026/06/15/multimedia/15israel-assess-zcqm/15israel-assess-zcqm-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "US judge dismisses Musk’s xAI trade secret lawsuit against OpenAI",
+      "url": "https://www.aljazeera.com/economy/2026/6/15/us-judge-dismisses-musks-xai-trade-secret-lawsuit-against-openai?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-06-15T19:11:41+00:00",
+      "summary": "The lawsuit originally filed in September focused on broader alleged misappropriation of confidential information.",
+      "image": "",
       "via": "rss"
     },
     {
@@ -702,28 +1215,6 @@
       "via": "rss"
     },
     {
-      "title": "Israel Counts the Ways That Netanyahu’s Iran Strategy Failed",
-      "url": "https://www.nytimes.com/2026/06/15/world/middleeast/israel-netanyahus-iran-strategy.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-06-15T18:36:16+00:00",
-      "summary": "The U.S.-Iran framework agreement appears to omit some of the most important provisions that Israel wanted.",
-      "image": "https://static01.nyt.com/images/2026/06/15/multimedia/15israel-assess-zcqm/15israel-assess-zcqm-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Gavin Newsom says Trump has ordered justice department to investigate him",
-      "url": "https://www.ft.com/content/3ebc2a6f-ed8d-4848-880c-d04c5069ee5b",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-06-15T18:36:12+00:00",
-      "summary": "California governor is considered a potential Democratic presidential candidate for 2028",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9f0512b3-7afb-4899-91e9-84ce52dd6ec9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
       "title": "How Ukraine Uses A.I. to Knock Deadly Russian Drones Out of the Skies",
       "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-russia-war-ai.html",
       "source": "New York Times",
@@ -732,17 +1223,6 @@
       "published": "2026-06-15T18:34:35+00:00",
       "summary": "Interceptors show Ukraine’s embrace of autonomous technologies trained on immense troves of wartime data.",
       "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "In France, Justice System Faces Public Anger After 11-Year-Old Girl’s Killing",
-      "url": "https://www.nytimes.com/2026/06/15/world/europe/france-lyhanna-protests.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-06-15T18:30:47+00:00",
-      "summary": "Protests have erupted across France after authorities revealed that a man accused of kidnapping Lyhanna Rameau Bernard, a French schoolgirl found dead this month, had previously been flagged to law enforcement.",
-      "image": "https://static01.nyt.com/images/2026/06/15/multimedia/15int-france-lyhanna-01-bgkz/15int-france-lyhanna-01-bgkz-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -856,17 +1336,6 @@
       "via": "rss"
     },
     {
-      "title": "U.S.-Iran Agreement Leaves Lebanon’s Fate Murky",
-      "url": "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-agreement-lebanon.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-06-15T17:33:15+00:00",
-      "summary": "Emergency response workers and security personnel at the site of an Israeli airstrike, in southern Beirut, Lebanon, on Sunday.",
-      "image": "https://static01.nyt.com/images/2026/06/15/multimedia/15mideast-lebanon-qkbh/15mideast-lebanon-qkbh-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
       "title": "尼日利亚西北部再爆圣战分子袭击事件20人死亡",
       "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260615-%E5%B0%BC%E6%97%A5%E5%88%A9%E4%BA%9A%E8%A5%BF%E5%8C%97%E9%83%A8%E5%86%8D%E7%88%86%E5%9C%A3%E6%88%98%E5%88%86%E5%AD%90%E8%A2%AD%E5%87%BB%E4%BA%8B%E4%BB%B620%E4%BA%BA%E6%AD%BB%E4%BA%A1",
       "source": "法广中文",
@@ -886,39 +1355,6 @@
       "published": "2026-06-15T17:26:57+00:00",
       "summary": "The president will feel criticisms from this group most keenly.",
       "image": "https://foreignpolicy.com/wp-content/uploads/2026/06/GettyImages-2281125775.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Israelis denounce Trump’s deal with Iran",
-      "url": "https://www.washingtonpost.com/world/2026/06/15/israelis-denounce-trumps-deal-with-iran/",
-      "source": "Washington Post",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-06-15T17:26:27+00:00",
-      "summary": "Prime Minister Benjamin Netanyahu did not issue an immediate statement, but other Israelis disparaged the peace deal and said Israel’s fight against Hezbollah in Lebanon would go on.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Mass return to southern Lebanon following US-Iran agreement",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/mass-return-to-southern-lebanon-following-us-iran-agreement?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-06-15T17:25:29+00:00",
-      "summary": "Mass return to southern Lebanon following US-Iran agreement",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Iran vs New Zealand: World Cup team news, start, lineups and where to watch",
-      "url": "https://www.aljazeera.com/sports/2026/6/15/iran-vs-new-zealand-world-cup-team-news-start-lineups-and-where-to-watch?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-06-15T17:23:51+00:00",
-      "summary": "After uncertainty over their participation and a disrupted build-up, Iran are set to begin their World Cup campaign.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -944,17 +1380,6 @@
       "via": "rss"
     },
     {
-      "title": "UK Announces Social Media Ban for Children Under 16",
-      "url": "https://www.nytimes.com/2026/06/15/world/europe/uk-social-media-children.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-06-15T17:07:24+00:00",
-      "summary": "High school students in Wimbledon, London, this year during an interview about social media. Britain plans to place an age limit on social media.",
-      "image": "https://static01.nyt.com/images/2026/06/12/multimedia/HFO-int-uk-social-media-zjqt/HFO-int-uk-social-media-zjqt-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
       "title": "Gulf Countries Confront Questions About Relying on U.S. for Protection",
       "url": "https://www.nytimes.com/2026/06/15/world/middleeast/gulf-iran-war-us.html",
       "source": "New York Times",
@@ -963,28 +1388,6 @@
       "published": "2026-06-15T17:06:25+00:00",
       "summary": "The sun setting in Kuwait last week. Iran has attacked the oil-rich country and other U.S. allies in the Middle East during the war.",
       "image": "https://static01.nyt.com/images/2026/06/15/multimedia/15mideast-gulf-reaction-mpqt/15mideast-gulf-reaction-mpqt-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Trump says Iran deal ‘all signed’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/trump-says-iran-deal-all?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-06-15T16:59:24+00:00",
-      "summary": "US President Donald Trump has said the agreement with Iran is &#039;all signed&#039;.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "UK court convicts two over PM-targeting plot run by mysterious Russian",
-      "url": "https://www.aljazeera.com/news/2026/6/15/uk-court-convicts-two-over-pm-targeting-plot-run-by-mysterious-russian?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-06-15T16:59:22+00:00",
-      "summary": "Unverified reports say attacks were part of a campaign of sabotage and misinformation run by the Russian state.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -999,18 +1402,7 @@
       "via": "rss"
     },
     {
-      "title": "Drone warfare kills over 1,000 in Sudan in 2026 as strikes multiply: UN",
-      "url": "https://www.aljazeera.com/news/2026/6/15/drone-warfare-kills-over-1000-in-sudan-in-2026-as-strikes-multiply-un?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-06-15T16:45:14+00:00",
-      "summary": "Reports show drone use expanding, with more than 1,000 civilians killed in first five months of 2026.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "US, Iran electronically sign Hormuz deal ahead of formal ceremony",
+      "title": "US, Iran sign preliminary Hormuz deal ahead of formal ceremony",
       "url": "https://www.scmp.com/news/us/article/3357210/trump-vance-electronically-sign-peace-memorandum-iran-us-officials-say?utm_source=rss_feed",
       "source": "SCMP",
       "language": "en",
@@ -1018,61 +1410,6 @@
       "published": "2026-06-15T16:44:26+00:00",
       "summary": "A senior US official on Monday said that President Donald Trump and Vice-President J.D. Vance had signed the memorandum of understanding electronically with Iran to formally reopen the Strait of Hormuz and end the American blockade of Iranian ports.\nThe official also claimed Iranian Parliament Speaker Mohammad Bagher Ghalibaf signed the document on Tehran’s behalf.\nTrump “wanted to sign it personally because he wanted to show his dedication to the process and dedication to seeing this through to...",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/16/588d2e57-9309-446e-9f87-e9075d8f2202_fba7dca8.jpg?itok=N7JzTVL8&v=1781541852",
-      "via": "rss"
-    },
-    {
-      "title": "Lebanon Latest: Cautious optimism after ceasefire deal",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/aje-onl-aje_onl_lebanon_wrap-150626?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-06-15T16:40:30+00:00",
-      "summary": "Relief and cautious optimism in southern Lebanon as a US-Iran ceasefire takes hold.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Inside Albania’s protests over Jared Kushner’s resort",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/6/15/inside-albanias-protests-over-jared-kushners-resort?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-06-15T16:37:20+00:00",
-      "summary": "Jared Kushner’s $1.4bn resort has sparked Albania’s biggest protests in years. Is the country’s coast for sale?",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Stocks surge as US-Iran deal ignites global rally",
-      "url": "https://www.ft.com/content/8a6849de-b27c-4680-a80d-42b85b0e77eb",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-06-15T16:35:11+00:00",
-      "summary": "Investor sentiment also helped by SpaceX’s historic initial public offering",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9849978e-a05f-4949-ab1b-b3060bdf4479.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "Does the G7 still shape the global economy?",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/15/does-the-g7-still-shape-the-global-economy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-06-15T16:27:17+00:00",
-      "summary": "Trade tensions, wars and Asia&#039;s rise are testing the influence and unity of the Group of Seven (G7).",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "UK Court upholds ban on Palestine Action as ‘terrorist’ group",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/uk-court-upholds-ban-on-palestine-action-as-terrorist-group?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-06-15T16:15:42+00:00",
-      "summary": "UK Court upholds ban on Palestine Action as ‘terrorist’ group",
-      "image": "",
       "via": "rss"
     },
     {
@@ -1084,39 +1421,6 @@
       "published": "2026-06-15T16:05:47+00:00",
       "summary": "周一，俄罗斯对乌克兰多座城市发动的一系列空袭造成至少11人死亡，一场大火还烧毁了基辅圣母安息大教堂的屋顶——这座东正教标志性建筑被列入联合国教科文组织世界遗产名录。",
       "image": "https://s.rfi.fr/media/display/ad510976-688a-11f1-94f4-005056bf30b7/w:1024/p:16x9/AP26166119129657.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Belgium v Egypt live: World Cup 2026",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/6/15/belgium-v-egypt-live-world-cup-2026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-06-15T16:00:19+00:00",
-      "summary": "Follow our live build-up, with full team news coverage, ahead of our text commentary stream.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "FIFA World Cup 2026: Day four",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/fifa-world-cup-2026-day-four?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-06-15T15:54:21+00:00",
-      "summary": "Al Jazeera’s Samantha Johnson has your FIFA World Cup 2026 day four recap.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Deal to Reopen Hormuz Kicks Off Long Effort to Ease Energy Crisis",
-      "url": "https://www.nytimes.com/2026/06/15/business/energy-environment/iran-deal-oil-natural-gas.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-06-15T15:52:14+00:00",
-      "summary": "The pace of the recovery will depend on how confident companies are that the deal between the United States and Iran will hold and be extended.",
-      "image": "https://static01.nyt.com/images/2026/05/08/multimedia/00biz-iran-oil-deal-zpqh/00biz-iran-oil-deal-zpqh-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -1164,17 +1468,6 @@
       "via": "rss"
     },
     {
-      "title": "Iran says Lebanon, assets release key parts of peace deal with US",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/iran-says-lebanon-assets-release-key-parts-of-peace-deal-with-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-06-15T15:32:35+00:00",
-      "summary": "Iran&#039;s foreign ministry spokesperson says ending the war in Lebanon is an ‘inseparable’ part of the US-Iran agreement.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "After news of Iran peace deal, Lebanese return home to assess wreckage",
       "url": "https://www.washingtonpost.com/world/2026/06/15/after-news-iran-peace-deal-lebanese-return-home-assess-wreckage/",
       "source": "Washington Post",
@@ -1193,17 +1486,6 @@
       "type": "broadcast",
       "published": "2026-06-15T15:25:00+00:00",
       "summary": "A proposed US-Iran deal to reopen the Strait of Hormuz is raising hopes for global shipping and oil markets. But naval mines, high insurance costs and geopolitical risks mean disruption could persist for months.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Is Lebanon included? Country hopeful for US-Iran ceasefire, despite doubts",
-      "url": "https://www.aljazeera.com/news/2026/6/15/is-lebanon-included-country-hopeful-for-us-iran-ceasefire-despite-doubts?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-06-15T15:20:57+00:00",
-      "summary": "Ceasefire raises hopes in Lebanon, yet Israeli defiance and past violations overshadow lasting peace.",
       "image": "",
       "via": "rss"
     },
@@ -1252,28 +1534,6 @@
       "via": "rss"
     },
     {
-      "title": "Oxford Union’s first Palestinian president faces down smear campaign",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/oxford-unions-first-palestinian-president-faces-down-smear-campaign?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-06-15T14:50:09+00:00",
-      "summary": "Arwa Elrayess, the Oxford Union president, says that British media falsely accused her of justifying the Oct 7 attacks.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Netanyahu faces domestic backlash over US-Iran deal",
-      "url": "https://www.ft.com/content/9a6886c8-2ab3-4341-a5e6-a6cfc1be7386",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-06-15T14:37:42+00:00",
-      "summary": "Israelis across political spectrum lashed out at agreement, which calls on Netanyahu to stop campaign in all Lebanon",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7e316b32-77d1-4e99-b914-03f39372b6ea.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
       "title": "Can Central Asia Speak?",
       "url": "https://thediplomat.com/2026/06/can-central-asia-speak/",
       "source": "The Diplomat",
@@ -1285,36 +1545,14 @@
       "via": "rss"
     },
     {
-      "title": "World welcomes US-Iran ‘peace deal’ criticised by Israel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/15/world-welcomes-us-iran-peace-deal-criticised-by-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-06-15T14:34:37+00:00",
-      "summary": "Governments across the world have welcomed the tentative deal between the US and Iran to end the war.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "U.S. and Iran Find Ways to Claim Victory on the Nuclear Issue",
-      "url": "https://www.nytimes.com/2026/06/15/world/middleeast/nuclear-iran-united-states.html",
-      "source": "New York Times",
+      "title": "Arson attacks targeting Keir Starmer properties originated in Russia",
+      "url": "https://www.ft.com/video/f8ad28b8-966d-45be-bafc-977f55193773",
+      "source": "Financial Times",
       "language": "en",
       "type": "newspaper",
-      "published": "2026-06-15T14:31:09+00:00",
-      "summary": "The Natanz nuclear complex in Iran, in March in an image provided by Vantor, a satellite imaging company.",
-      "image": "https://static01.nyt.com/images/2026/06/15/multimedia/15mideast-nuclear-01-tkjm/15mideast-nuclear-01-tkjm-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "With Its Biggest E.U. Opponent Gone, Ukraine Is Advancing in Its Bid to Join",
-      "url": "https://www.nytimes.com/2026/06/15/world/europe/ukraine-eu-membership.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-06-15T14:17:57+00:00",
-      "summary": "A commemorative display in Mykolaiv, Ukraine, in March, honoring soldiers who have died in the war with Russia.",
-      "image": "https://static01.nyt.com/images/2026/06/15/multimedia/15int-eu-ukraine-explainer-wfkc/15int-eu-ukraine-explainer-wfkc-mediumSquareAt3X-v2.jpg",
+      "published": "2026-06-15T14:30:29+00:00",
+      "summary": "The Russian connection behind the firebombing of the prime minister's flat",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fnext-video-editor-images.s3.ap-northeast-1.amazonaws.com%2F15a24717-cf90-463f-9aa1-4619d63d548d?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -1370,17 +1608,6 @@
       "published": "2026-06-15T13:53:19+00:00",
       "summary": "While the president says the agreement with Iran would open the Strait of Hormuz and provide economic relief, the country’s nuclear program is still a subject for negotiation.",
       "image": "https://static01.nyt.com/images/2026/06/15/multimedia/15US-iran-assess-01-klhq/15US-iran-assess-01-klhq-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "The U.S.-Iran Deal: What to Know",
-      "url": "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-deal.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-06-15T13:45:34+00:00",
-      "summary": "The full text of the deal that could pave the way to ending the war has not been published. Initial details suggest that it defers the most contentious issues.",
-      "image": "https://static01.nyt.com/images/2026/06/15/multimedia/15mideast-wwk-01-kzjt/15mideast-wwk-01-kzjt-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -1472,17 +1699,6 @@
       "via": "rss"
     },
     {
-      "title": "Fox to acquire streaming platform Roku for $22bn",
-      "url": "https://www.ft.com/content/9be374f2-3c20-435c-86a9-d919b0bf973b",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-06-15T13:04:31+00:00",
-      "summary": "Combined company will become third-largest in US television by share of viewing as media landscape shifts dramatically",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4bb9cff5-398c-491e-88a8-49be2e266fb1.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
       "title": "US-Iran: Reported peace deal sparks both relief and anger",
       "url": "https://www.dw.com/en/us-iran-reported-peace-deal-sparks-both-relief-and-anger/a-77560563?maca=en-rss-en-world-4025-xml-mrss",
       "source": "Deutsche Welle",
@@ -1535,17 +1751,6 @@
       "published": "2026-06-15T12:30:48+00:00",
       "summary": "June 15th, 2026 &#124; Welcome to The Wire’s daily news roundup. Each day, our staff gathers the top China business, finance, and economics headlines from a selection of the world’s leading news organizations.\nThe post The Daily Roundup appeared first on The Wire China.",
       "image": "https://www.thewirechina.com/wp-content/uploads/2020/06/News_Final_BLUE_Valentina_Verc_3_smaller-1-300x149.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "China Moves the Price of Oil, Even When It Buys Less",
-      "url": "https://www.nytimes.com/2026/06/15/business/china-oil-iran.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-06-15T12:28:23+00:00",
-      "summary": "China is the world’s largest purchaser of oil. But three months after the war with Iran began, it cut its imports, cushioning the global market.",
-      "image": "https://static01.nyt.com/images/2026/06/12/multimedia/00Biz-China-Oil-01-kvhp/00Biz-China-Oil-01-kvhp-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -1623,17 +1828,6 @@
       "published": "2026-06-15T11:42:04+00:00",
       "summary": "UNESCO, the U.N.’s world heritage agency, condemned the attack, which damaged the Kyiv Pechersk Lavra monastery. Russia said it bombed military targets.",
       "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Arson targeting Keir Starmer properties originated in Russia",
-      "url": "https://www.ft.com/content/dd79d6eb-44e4-4365-8c6e-a4fd64b211c8",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-06-15T11:36:45+00:00",
-      "summary": "Handler was affiliated with a pro-Kremlin hacktivist group",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbb336480-f46a-4657-802d-9618d13477bb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -1736,17 +1930,6 @@
       "via": "rss"
     },
     {
-      "title": "A war without victors",
-      "url": "https://www.ft.com/content/95008806-065f-40a6-a487-41824a403d94",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-06-15T10:02:32+00:00",
-      "summary": "Trump’s deal reflects the failure of the military option in Iran",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa0ea4842-697e-4e95-86f6-56535e89a848.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
       "title": "Iran deal leaves Trump fighting a war at home",
       "url": "https://www.ft.com/content/306284ac-0551-4c36-8299-cfd7fb7f4f52",
       "source": "Financial Times",
@@ -1813,28 +1996,6 @@
       "via": "rss"
     },
     {
-      "title": "欧洲思想文化长廊：德国浪漫主义第25： 浪漫主义群星之一：浪漫派中萌生的现代之花 - 疯狂的克莱斯特",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%AC%A7%E6%B4%B2%E6%80%9D%E6%83%B3%E6%96%87%E5%8C%96%E9%95%BF%E5%BB%8A/20260615-%E6%AC%A7%E6%B4%B2%E6%80%9D%E6%83%B3%E6%96%87%E5%8C%96%E9%95%BF%E5%BB%8A-%E5%BE%B7%E5%9B%BD%E6%B5%AA%E6%BC%AB%E4%B8%BB%E4%B9%89%E7%AC%AC25-%E6%B5%AA%E6%BC%AB%E4%B8%BB%E4%B9%89%E7%BE%A4%E6%98%9F%E4%B9%8B%E4%B8%80-%E6%B5%AA%E6%BC%AB%E6%B4%BE%E4%B8%AD%E8%90%8C%E7%94%9F%E7%9A%84%E7%8E%B0%E4%BB%A3%E4%B9%8B%E8%8A%B1-%E7%96%AF%E7%8B%82%E7%9A%84%E5%85%8B%E8%8E%B1%E6%96%AF%E7%89%B9",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-06-15T08:39:34+00:00",
-      "summary": "在海德堡浪漫派吹响男童的神奇魔号的同时，占据德国文坛主位几十载的浪漫主义开始分孽出风格特异的花枝。它所展示出的样态，所使用的手法，所追求的效果，所表现的感受都有着强烈的现代气息。它丰富了浪漫主义文学，深化了浪漫主义的理念和思考，同时也把浪漫主义带入一个更复杂的评价体系。",
-      "image": "https://s.rfi.fr/media/display/5ad800ac-479a-11f1-945d-005056a97e36/w:1024/p:16x9/%E6%AC%A7%E6%B4%B2%E6%80%9D%E6%83%B3%E6%96%87%E5%8C%96%E9%95%BF%E5%BB%8A.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "The Iran war in seven charts",
-      "url": "https://www.ft.com/content/f09468d7-a3c4-4956-9a54-9584501bdda3",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-06-15T08:11:21+00:00",
-      "summary": "From oil markets to reconstruction, the fallout from the conflict will unfold over years",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8557f0e8-4393-4b8d-9152-e0dd8ececc10.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
       "title": "台湾水果外交进军欧盟市场 首批四吨台湾芒果已抵达法国",
       "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260615-%E5%8F%B0%E6%B9%BE%E6%B0%B4%E6%9E%9C%E5%A4%96%E4%BA%A4%E8%BF%9B%E5%86%9B%E6%AC%A7%E7%9B%9F%E5%B8%82%E5%9C%BA-%E9%A6%96%E6%89%B9%E5%9B%9B%E5%90%A8%E5%8F%B0%E6%B9%BE%E8%8A%92%E6%9E%9C%E5%B7%B2%E6%8A%B5%E8%BE%BE%E6%B3%95%E5%9B%BD",
       "source": "法广中文",
@@ -1843,17 +2004,6 @@
       "published": "2026-06-15T08:11:01+00:00",
       "summary": "台湾驻法代表郝培芝表示，台湾水果要进到欧盟市场，真的要历经很多努力。这项外交与农业的重大突破背后有两大关键。",
       "image": "https://s.rfi.fr/media/display/ad50a330-6891-11f1-bbcb-005056a97e36/w:1024/p:16x9/Taiwan-mangue-UE.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "日本外务大臣发表谈话 欢迎美伊同意签署停战备忘录",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260615-%E6%97%A5%E6%9C%AC%E5%A4%96%E5%8A%A1%E5%A4%A7%E8%87%A3%E5%8F%91%E8%A1%A8%E8%B0%88%E8%AF%9D-%E6%AC%A2%E8%BF%8E%E7%BE%8E%E4%BC%8A%E5%90%8C%E6%84%8F%E7%AD%BE%E7%BD%B2%E5%81%9C%E6%88%98%E5%A4%87%E5%BF%98%E5%BD%95",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-06-15T08:01:13+00:00",
-      "summary": "6月15日，美国和伊朗双方宣布，已就有关结束战斗等事项的谅解备忘录达成一致，为此，日本外务大臣茂木敏充15日当天发表关于伊朗局势的外务大臣谈话，代表日本政府对此表示欢迎。",
-      "image": "https://s.rfi.fr/media/display/89ee6ffe-cfac-11f0-9deb-005056a97e36/w:1024/p:16x9/AP25300148640414.jpg",
       "via": "rss"
     },
     {
@@ -1898,17 +2048,6 @@
       "published": "2026-06-15T07:56:43+00:00",
       "summary": "More than 30 members of Early Rain Covenant Church were taken for interrogation midway through Sunday service.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cb6/live/5bc24570-688a-11f1-8c6b-f595710535a5.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "京官夏宝龙访港前夕 香港特首李家超回应连任时称「时机到便会知道」",
-      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260615-%E4%BA%AC%E5%AE%98%E5%A4%8F%E5%AE%9D%E9%BE%99%E8%AE%BF%E6%B8%AF%E5%89%8D%E5%A4%95-%E9%A6%99%E6%B8%AF%E7%89%B9%E9%A6%96%E6%9D%8E%E5%AE%B6%E8%B6%85%E5%9B%9E%E5%BA%94%E8%BF%9E%E4%BB%BB%E6%97%B6%E7%A7%B0-%E6%97%B6%E6%9C%BA%E5%88%B0%E4%BE%BF%E4%BC%9A%E7%9F%A5%E9%81%93",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-06-15T07:51:29+00:00",
-      "summary": "香港特首李家超任期尚有一年便结束，他近日接受多家亲北京媒体专访时多被问及连任与否等问题，他的最新答案是「时机到便会知道」。有关专访适逢主管港澳事务的港澳办主任夏宝龙将於本周访港，以视察北部都会区(北都)发展和香港对接国家「十五五」规划的工作，引发外界联想，更关注李家超会否趁机大力推销其政绩和表明有意连任的心迹，为自己争取「再坐一会」的机会。",
-      "image": "https://s.rfi.fr/media/display/d38a0300-688e-11f1-a6ae-005056bfb2b6/w:1024/p:16x9/15-6-%E6%9D%8E%E5%AE%B6%E8%B6%85-%E5%9B%BE%E5%B7%A6-%E5%9C%A8%E4%B8%BB%E7%AE%A1%E9%A6%99%E6%B8%AF%E4%BA%8B%E5%8B%99%E7%9A%84%E4%BA%AC%E5%AE%98%E5%A4%8F%E5%AE%9D%E9%BE%99-%E5%9B%BE%E5%8F%B3-%E8%AE%BF%E6%B8%AF%E5%89%8D%E5%A4%95%E8%B0%88%E8%BF%9E%E4%BB%BB%E9%97%AE%E9%A2%98-%E5%BC%95%E5%8F%91%E5%A4%96%E7%95%8C%E5%85%B3%E6%B3%A8%E5%92%8C%E8%81%94%E6%83%B3-%E6%9D%8E%E5%AE%B6%E8%B6%85%E8%87%89%E6%9B%B8%E5%92%8C%E6%B8%AF%E6%BE%B3%E5%8A%9E%E5%9C%96%E7%89%87.jpg",
       "via": "rss"
     },
     {
@@ -2374,39 +2513,6 @@
       "via": "rss"
     },
     {
-      "title": "Anthropic scrambles after Trump administration freezes its top AI models",
-      "url": "https://www.ft.com/content/f6940d59-28f4-4ae4-a569-c6fc421e52b9",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-06-14T23:43:28+00:00",
-      "summary": "Export controls on Fable and Mythos raise doubts over how US will police the most powerful AI systems",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F114e06c5-2d51-4de8-874c-b614f60ff4bc.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "七国集团还有多大影响力？",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260614-%E4%B8%83%E5%9B%BD%E9%9B%86%E5%9B%A2%E8%BF%98%E6%9C%89%E5%A4%9A%E5%A4%A7%E5%BD%B1%E5%93%8D%E5%8A%9B",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-06-14T23:17:39+00:00",
-      "summary": "七国集团峰会周一在法国阿尔卑斯山麓的埃维昂开幕，峰会持续三天，特朗普在内的七国领袖悉数与会，主席国法国为峰会确定了两大优先事项：重振国际伙伴关系和国家间团结，以及缓解全球宏观经济失衡。下面我们介绍一下七国集团的现状和影响力。",
-      "image": "https://s.rfi.fr/media/display/2d2ea994-6847-11f1-8bc3-005056bf30b7/w:1024/p:16x9/2026-06-12T132510Z-1252400900-RC2DSLA5KHOI-RTRMADP-3-G7-SUMMIT-EVIAN.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "世界杯：荷兰日本强强对决 2比2战平",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260614-%E4%B8%96%E7%95%8C%E6%9D%AF-%E8%8D%B7%E5%85%B0%E6%97%A5%E6%9C%AC%E5%BC%BA%E5%BC%BA%E5%AF%B9%E5%86%B3-2%E6%AF%942%E6%88%98%E5%B9%B3",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-06-14T23:09:16+00:00",
-      "summary": "世界杯足球赛周日晚迎来非常精彩的一场对抗，F组欧洲劲旅与亚洲强队日本对抗，荷兰队下半场率先破门，赛前痛失队长远藤航的日本队奋起直追，最终与大部分时间保持领先的荷兰战平。",
-      "image": "https://s.rfi.fr/media/display/e03724fa-6845-11f1-b1b0-005056a97e36/w:1024/p:16x9/2026-06-14T215915Z-1142372308-UP1EM6E1OMND8-RTRMADP-3-SOCCER-WORLDCUP-NLD-JPN.jpg",
-      "via": "rss"
-    },
-    {
       "title": "「瘦瘦針」時代：變瘦之後，我們真的離健康生活更近了嗎？",
       "url": "https://theinitium.com/20260608-taiwan-ozempic-era-what-is-health/",
       "source": "端传媒",
@@ -2426,28 +2532,6 @@
       "published": "2026-06-14T22:59:57+00:00",
       "summary": "2023 &#x5e74;&#xff0c;&#x4e00;&#x90e8;&#x5f71;&#x7247;&#x7a81;&#x7136;&#x5728;&#x7db2;&#x8def;&#x4e0a;&#x7206;&#x7d05;&#xff1a;&#x5a01;&#x723e;&#x53f2;&#x5bc6;&#x65af;&#xff08;Will Smith&#xff09;&#x5403;&#x7fa9;&#x5927;&#x5229;&#x9eb5;&#x3002;&#x4f46;&#x9019;&#x652f;&#x5f71;&#x7247;&#x7206;&#x7d05;&#x7684;&#x539f;&#x56e0;&#xff0c;&#x4e26;&#x4e0d;&#x662f;&#x56e0;&#x70ba;&#x5b83;&#x5c55;&#x793a;&#x4e86; AI &#x7684;&#x7121;&#x6240;&#x4e0d;&#x80fd;&#xff0c;&#x76f8;&#x53cd;&#x5730;&#xff0c;&#x9eb5;&#x689d;&#x6703;&#x7a81;&#x7136;&#x6d88;&#x5931;&#xff0c;&#x4eba;&#x7269;&#x52d5;&#x4f5c;&#x50cf;&#x9ecf;&#x571f;&#x52d5;&#x756b;&#x300a;&#x4f01;&#x9d5d;&#x5bb6;&#x65cf;&#x300b;&#xff08;Pingu&#xff09;&#xff0c;&#x7a2e;&#x7a2e;&#x4e0d;&#x81ea;&#x7136;&#x7684;&#x7d30;&#x7bc0;&#xff0c;&#x53cd;&#x5012;&#x8b93;&#x5f88;&#x591a;&#x4eba;&#x89ba;&#x5f97; AI &#x751f;&#x6210;&#x5f71;&#x50cf;&#xff0c;&#x9084;&#x505c;&#x7559;&#x5728;&#x4e00;&#x500b;&#x8352;&#x8b2c;&#x7684;&#x73a9;&#x5177;&#x968e;&#x6bb5;&#x3002;&#x4f46;&#x9",
       "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/06/-------------2026-06-12-------11.26.06-copy.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "美伊停战协议是否像明斯克协议一样糟糕",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260614-%E7%BE%8E%E4%BC%8A%E5%81%9C%E6%88%98%E5%8D%8F%E8%AE%AE%E6%98%AF%E5%90%A6%E5%83%8F%E6%98%8E%E6%96%AF%E5%85%8B%E5%8D%8F%E8%AE%AE%E4%B8%80%E6%A0%B7%E7%B3%9F%E7%B3%95",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-06-14T22:57:41+00:00",
-      "summary": "美国总统特朗普说：美伊停战协议要签了，要签了，周六说周日签，周日还剩几小时了，特朗普称，尽管签字进程被以色列轰炸贝鲁特打断了，但是，再过几个小时肯定签 ! 特朗普刚刚宣布，签了 ! 正式签字仪式19日在瑞士举行。",
-      "image": "https://s.rfi.fr/media/display/59424fe8-6844-11f1-ab01-005056a97e36/w:1024/p:16x9/2026-06-14T155930Z-527158309-RC2JRLA0TK09-RTRMADP-3-IRAN-CRISIS-OMAN-HORMUZ.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "法国将迎新一轮酷热天气 巴黎气温预计升至37摄氏度",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260614-%E6%B3%95%E5%9B%BD%E5%B0%86%E8%BF%8E%E6%96%B0%E4%B8%80%E8%BD%AE%E9%85%B7%E7%83%AD%E5%A4%A9%E6%B0%94-%E5%B7%B4%E9%BB%8E%E6%B0%94%E6%B8%A9%E9%A2%84%E8%AE%A1%E5%8D%87%E8%87%B337%E6%91%84%E6%B0%8F%E5%BA%A6",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-06-14T22:31:12+00:00",
-      "summary": "法国气象局预测，法国本周将迎来新一轮高温天气，气温水平可能超过5月底，并有可能出现2026年以来首场符合官方定义的”热浪“。",
-      "image": "https://s.rfi.fr/media/display/860fe214-6840-11f1-b066-005056a97e36/w:1024/p:16x9/2026-06-14T215326Z-1208613723-RC2MTLAJWV3W-RTRMADP-3-HORSERACING-FRANCE.jpg",
       "via": "rss"
     },
     {
@@ -2481,17 +2565,6 @@
       "published": "2026-06-14T21:59:42+00:00",
       "summary": "自特朗普第二任期以来，从加勒比海到南美大陆，美国政府对拉丁美洲国家频频祭出制裁、吊销签证等措施，如今，大多数拉丁美洲国家虽然没有公开站队美国，但也不得不配合特朗普政府的要求。",
       "image": "https://s.rfi.fr/media/display/32a01bf2-4039-11ea-936a-005056a917b9/w:1024/p:16x9/guo_ji_zong_heng_wb15499-rfi-cn-20100309_cartouche.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "特朗普：美伊协议已最终敲定 霍尔木兹海峡恢复开放",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260614-%E7%89%B9%E6%9C%97%E6%99%AE-%E7%BE%8E%E4%BC%8A%E5%8D%8F%E8%AE%AE%E5%B7%B2%E6%9C%80%E7%BB%88%E6%95%B2%E5%AE%9A-%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E6%81%A2%E5%A4%8D%E5%BC%80%E6%94%BE",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-06-14T21:55:39+00:00",
-      "summary": "美国总统特朗普周日（6月14日）确认，与伊朗达成的旨在结束中东冲突的协议已“最终敲定”，特朗普并宣布重新开放霍尔木兹海峡，同时立即解除美国实施的海上封锁。",
-      "image": "https://s.rfi.fr/media/display/1d6dadcc-67eb-11f1-99ba-005056a97e36/w:1024/p:16x9/2026-06-13T224008Z-1919319199-RC2C5KAYRTRT-RTRMADP-3-USA-TRUMP-SDNY.jpg",
       "via": "rss"
     },
     {
@@ -2591,17 +2664,6 @@
       "published": "2026-06-14T17:02:43+00:00",
       "summary": "分析人士指出，特朗普和普京都把自己高度集中的权力观投射到伊朗和乌克兰身上。持续无法解决的僵局会让美俄都显得软弱，并可能加速一个更加分散化的国际秩序的到来。                    Tyler Hicks/The New York Times                    乌克兰持续遭受轰炸的康斯坦丁尼夫卡市郊区，摄于今年早些时候。",
       "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Switzerland Rejects Measure to Cap Its Population at 10 Million",
-      "url": "https://www.nytimes.com/2026/06/14/world/europe/switzerland-population-cap-referendum.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-06-14T16:49:35+00:00",
-      "summary": "A citizen casting her ballot on Sunday at a polling station in Bern, Switzerland, amid a vote on a divisive anti-immigration proposal to cap the country’s population and another referendum on restricting access to conscientious objection to military service.",
-      "image": "https://static01.nyt.com/images/2026/06/14/multimedia/14int-switzerland-result-2-hptz/14int-switzerland-result-2-hptz-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -2745,105 +2807,6 @@
       "published": "2026-06-14T11:09:29+00:00",
       "summary": "A Taiwanese sea search-and-rescue group has called on both sides of the Taiwan Strait to work together on maritime rescue drills.\nYin Liu-sheng, secretary general of the Taiwan-based volunteer group Chinese Search and Rescue Association, said in Xiamen, Fujian province, on Sunday that “maritime search and rescue should remain completely above politics” and that Beijing and Taipei should cooperate “to ensure the safety of life and property of vessels navigating the Taiwan Strait”.\n“Maritime...",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/14/006243fd-d579-42d4-a1a7-780872da8c4a_57e43ff8.jpg?itok=WlcAB9nu&v=1781438109",
-      "via": "rss"
-    },
-    {
-      "title": "Rare Private Indian Art Collection Goes up For Record Sale",
-      "url": "https://www.asiasentinel.com/p/rare-private-indian-art-collection-record-sale",
-      "source": "Asia Sentinel",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-06-14T10:24:13+00:00",
-      "summary": "By: John ElliottAbindranath Tagore&#8217;s The Spinner of a Nation&#8217;s DestinyA rare auction with the entire 93 lots coming from a single collection produced record sales totaling &#163;18,91 million (US$25.37 million) at Christie&#8217;s in London yesterday. On offer was what is known in the art world as the Goodricke Collection, a name long connected with Calcutta and t&#8230;\n      \n          \n              Read more",
-      "image": "https://substackcdn.com/image/fetch/$s_!jrTs!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F783b1ec1-4977-4f90-87f3-d1f4d986314c_2467x3200.png",
-      "via": "rss"
-    },
-    {
-      "title": "BRI, Lancang-Mekong cooperation deepen China-Myanmar ties",
-      "url": "https://news.cgtn.com/news/2026-06-14/BRI-Lancang-Mekong-cooperation-deepen-China-Myanmar-ties-1NYboUFzKhO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-06-14T10:09:23+00:00",
-      "summary": "For villagers in the hilly regions of Myanmar's Shan State, access to clean drinking water was once a daily challenge. They had to walk for hours to collect water from lakes or natural springs, and waterborne illnesses were widespread. Today, taps deliver clean water treated through a filtration system within minutes' reach, thanks to projects supported by the Lancang-Mekong Cooperation (LMC) Special Fund.As communities are benefiting from such programs, China and Myanmar took another step forward under the decade-long LMC mechanism on May 28, as the agreement on 2026 LMC Special Fund projects was signed in Nay Pyi Taw.Since its launch in 2016, the mechanism has supported numerous projects across countries along the Langcang-Mekong River, helping enhance economic ties, improve livelihoods and strengthen people-to-people bonds among the six member countries.China and Myanmar are close neighbors connected by mountains and rivers, sharing a deep \"pauk-phaw\" friendship. In the Myanmar lang",
-      "image": "https://news.cgtn.com/news/2026-06-14/BRI-Lancang-Mekong-cooperation-deepen-China-Myanmar-ties-1NYboUFzKhO/img/b31d24dbe3a7459383ba48da4e1cb36d/b31d24dbe3a7459383ba48da4e1cb36d-750.png",
-      "via": "rss"
-    },
-    {
-      "title": "Chinese materials scientist Pei Qibing takes up new post in Macau",
-      "url": "https://www.scmp.com/news/china/science/article/3357040/chinese-materials-scientist-pei-qibing-takes-new-post-macau?utm_source=rss_feed",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-06-14T10:00:09+00:00",
-      "summary": "A materials scientist whose career took him from rural China to California is heading for a post in Macau after 30 years in the United States.\nAccording to the University of Macau’s website, Pei Qibing has been appointed chair professor and director of the Institute of Applied Physics and Materials Engineering.\nPei, an emeritus professor at the University of California, Los Angeles, began his studies in a very different world, attending a small rural school on an island in the Yangtze River in...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/14/c15e6c09-25d8-45c6-a665-23fbcebd4546_a3f3b976.jpg?itok=dpsR9H_K&v=1781415298",
-      "via": "rss"
-    },
-    {
-      "title": "Amid years of war, these Israelis are still pushing for peace",
-      "url": "https://www.washingtonpost.com/world/2026/06/14/amid-years-war-these-israelis-are-still-pushing-peace/",
-      "source": "Washington Post",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-06-14T09:00:00+00:00",
-      "summary": "As Israel’s longest period of sustained armed conflict drags on, the country’s diminished peace movement finds itself struggling to be heard on the sidelines.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Chinese World Cup fans robbed at gunpoint soon after arrival in Mexico",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3357054/chinese-world-cup-fans-robbed-gunpoint-soon-after-arrival-mexico?utm_source=rss_feed",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-06-14T08:59:58+00:00",
-      "summary": "Two Chinese football fans were carjacked shortly after arriving in Mexico to watch the World Cup.\nThe Chinese embassy said one suspect had been arrested while the two victims had returned to China on Friday after less than 48 hours in the country.\nState news agency Xinhua reported on Saturday that the two men, identified only by their surnames Wang and Li, had landed at Mexico City International Airport on Wednesday evening.\nTwo masked motorbike riders held up their car at gunpoint near the...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/14/93e6c2c4-79f1-406d-8e68-965a3569f4f0_ec23128f.jpg?itok=MT5V9cmO&v=1781425988",
-      "via": "rss"
-    },
-    {
-      "title": "China will be a neighbour Mongolia can rely on, Foreign Minister Wang Yi pledges",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3357043/china-will-be-neighbour-mongolia-can-rely-foreign-minister-wang-yi-pledges?utm_source=rss_feed",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-06-14T05:59:44+00:00",
-      "summary": "Chinese Foreign Minister Wang Yi pushed for stronger cross-border transport and trade ties during a visit to Mongolia over the weekend as Beijing sought to anchor the country’s newly formed government within its economic orbit.\n“China’s policy towards Mongolia maintains stability and continuity, and has always placed the development of bilateral relations in an important position in its neighbourhood diplomacy,” Wang said during a meeting with President Ukhnaagiin Khurelsukh on Saturday.\n“China...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/14/d2e00dfb-2197-40fa-86c8-211236ad55a6_c3bad98c.jpg?itok=rZVgHLr6&v=1781416782",
-      "via": "rss"
-    },
-    {
-      "title": "SpaceX上市首日股價飆升，助馬斯克成全球首位萬億富豪",
-      "url": "https://www.bbc.com/zhongwen/articles/c78yxj0p4xgo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-06-14T05:28:12+00:00",
-      "summary": "根據彭博社富豪榜，馬斯克目前的身價為1.11萬億美元。SpaceX在納斯達克證券交易所上市，市值2.2萬億美元。",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f94f/live/233c68e0-66a3-11f1-80bb-fb4d08542828.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "特朗普和伊朗談判的核心：核問題如何解決？",
-      "url": "https://www.bbc.com/zhongwen/articles/c5yz648ej42o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-06-14T04:44:07+00:00",
-      "summary": "如果協議最終簽署，外界很可能會將其與2015年由奧巴馬政府及多國共同談判達成的伊朗核協議相比較。特朗普第一任期內退出該協議。",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/de2c/live/88b7f730-6684-11f1-b1db-af71d47507d6.png",
-      "via": "rss"
-    },
-    {
-      "title": "Surge in AI-related court cases fuels calls for China to clarify its laws",
-      "url": "https://www.scmp.com/news/china/politics/article/3357005/surge-ai-related-court-cases-fuels-calls-china-clarify-its-laws?utm_source=rss_feed",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-06-14T04:00:13+00:00",
-      "summary": "The Chinese legal system is grappling with a surge of artificial intelligence cases, but experts have warned that the lack of a unified legislative framework is hampering efforts to tackle the problem.\nIn a recent landmark case, a court in the eastern city of Hangzhou ruled against a tech company that had fired one of its workers after he refused to accept a demotion and pay cut, with the company telling him he could be replaced by AI.\nThe worker had been employed by a fintech firm to evaluate...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/13/207ba759-bab6-4cad-a952-ca81a3286071_aa2ba571.jpg?itok=r5GZxtgC&v=1781343166",
       "via": "rss"
     }
   ]
