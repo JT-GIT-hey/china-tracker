@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T08:31:13.410769+00:00",
+  "last_updated": "2026-07-22T11:20:18.659857+00:00",
   "source_counts": {
     "en": 36,
     "zh": 24
@@ -10,231 +10,63 @@
       "icon": "🤖",
       "color": "#7d6be8",
       "featured": true,
-      "articles": []
+      "articles": [
+        {
+          "title": "OPINION : Lessons from testing AI on the truth of Tiananmen",
+          "url": "https://www.rfa.org/english/opinions/2025/06/09/opinion-china-tiananmen-ai/",
+          "source": "rfa.org",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-21T12:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "ai_tech"
+        },
+        {
+          "title": "China Launches Rival AI Governance Bloc as WAIC 2026 Opens With 300 Product Debuts",
+          "url": "https://www.techtimes.com/articles/320812/20260717/china-launches-rival-ai-governance-bloc-waic-2026-opens-300-product-debuts.htm",
+          "source": "techtimes.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-17T16:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "ai_tech"
+        },
+        {
+          "title": "AI rivalry shifts from smart models to smart factories",
+          "url": "http://usa.chinadaily.com.cn/a/202607/17/WS6a5986dba310986e2b465c21.html",
+          "source": "usa.chinadaily.com.cn",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-17T03:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "ai_tech"
+        },
+        {
+          "title": "AI rivalry shifts from smart models to smart factories",
+          "url": "http://europe.chinadaily.com.cn/a/202607/17/WS6a5986dba310986e2b465c21.html",
+          "source": "europe.chinadaily.com.cn",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-17T02:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "ai_tech"
+        }
+      ]
     },
     "foreign_policy": {
       "label": "Foreign Policy & Diplomacy",
       "icon": "🌐",
       "color": "#4f8de8",
       "featured": false,
-      "articles": [
-        {
-          "title": "Rubio to Meet Wang Yi as Trump - Xi Summit Plans Advance Amid Election Meddling Dispute",
-          "url": "http://www.econotimes.com/Rubio-to-Meet-Wang-Yi-as-Trump-Xi-Summit-Plans-Advance-Amid-Election-Meddling-Dispute-1747380",
-          "source": "econotimes.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-22T06:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        },
-        {
-          "title": "Rubio to hold talks with China Wang Yi as regional powers join ASEAN meeting",
-          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/07/22/rubio-to-hold-talks-with-china-s-wang-yi-as-regional-powers-join-asean-meeting",
-          "source": "internazionale.it",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-22T04:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        },
-        {
-          "title": "Rubio to hold talks with China Wang Yi as regional powers join ASEAN meeting - Asia & Pacific",
-          "url": "http://www.thejakartapost.com/world/2026/07/22/rubio-to-hold-talks-with-chinas-wang-yi-as-regional-powers-join-asean-meeting",
-          "source": "thejakartapost.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-22T04:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        },
-        {
-          "title": "Top diplomats of S . Korea , US , Japan to meet amid N . Korea deepening ties with Russia , China",
-          "url": "https://www.koreatimes.co.kr/foreignaffairs/20260722/top-diplomats-of-s-korea-us-japan-to-meet-amid-n-koreas-deepening-ties-with-russia-china",
-          "source": "koreatimes.co.kr",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-22T03:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        },
-        {
-          "title": "Marco Rubio to hold talks with China Wang Yi as regional powers join ASEAN meeting",
-          "url": "https://economictimes.indiatimes.com/news/international/world-news/marco-rubio-to-hold-talks-with-chinas-wang-yi-as-regional-powers-join-asean-meeting/articleshow/132549888.cms",
-          "source": "economictimes.indiatimes.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-22T03:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        },
-        {
-          "title": "We will not forget : A rescue off Kerala returns to the spotlight as China reaches out to India military",
-          "url": "https://www.moneycontrol.com/news/india/we-will-not-forget-a-rescue-off-kerala-returns-to-the-spotlight-as-china-reaches-out-to-india-s-military-13979991.html",
-          "source": "moneycontrol.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-22T02:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        },
-        {
-          "title": "Campionato del mondo : una grande coppa",
-          "url": "https://www.agoravox.it/Campionato-del-mondo-una-grande.html",
-          "source": "agoravox.it",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-21T13:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        },
-        {
-          "title": "ASEAN Summit Faces Pressure as U . S .- Iran Conflict , South China Sea Tensions Dominate Agenda",
-          "url": "http://www.econotimes.com/ASEAN-Summit-Faces-Pressure-as-US-Iran-Conflict-South-China-Sea-Tensions-Dominate-Agenda-1747266",
-          "source": "econotimes.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-21T06:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        },
-        {
-          "title": "Russian President Putin meets with North Korean foreign minister in latest high - level diplomacy",
-          "url": "https://www.independent.co.uk/news/world/americas/vladimir-putin-kim-jong-un-pyongyang-ukraine-south-korea-b3018497.html",
-          "source": "independent.co.uk",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-21T01:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        },
-        {
-          "title": "Putin meets North Korean foreign minister in diplomatic push",
-          "url": "https://www.houstonpublicmedia.org/npr/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push/",
-          "source": "houstonpublicmedia.org",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-20T17:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        },
-        {
-          "title": "Putin meets North Korea foreign minister in Russia",
-          "url": "https://www.manilatimes.net/2026/07/21/world/asia-oceania/putin-meets-north-korea-foreign-minister-in-russia/2387724",
-          "source": "manilatimes.net",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-20T16:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        },
-        {
-          "title": "Putin meets North Korean foreign minister in diplomatic push",
-          "url": "https://www.npr.org/2026/07/20/g-s1-134555/putin-meets-north-korean-foreign-minister-in-diplomatic-push",
-          "source": "npr.org",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-20T16:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        },
-        {
-          "title": "AFCON 2025 commercial success : Morocco sets African football record",
-          "url": "https://www.riotimesonline.com/afcon-2025-commercial-success-morocco-2026/",
-          "source": "riotimesonline.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-18T11:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        },
-        {
-          "title": "في الذكرى الـ65 لمعاهدة الصداقة .. الزعيم الكوري الشمالي يتعهد بتعميق العلاقات مع الصين",
-          "url": "https://arabic.euronews.com/2026/07/17/kim-jong-un-wang-huning-china-north-korea-xi-jinping-russia-treaty-of-amity-pyongya",
-          "source": "arabic.euronews.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-17T11:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        },
-        {
-          "title": "North Korean leader Kim Jong Un meets with top Chinese official | Kim Jong Un News",
-          "url": "https://www.aljazeera.com/news/2026/7/17/north-korean-leader-kim-jong-un-meets-with-top-chinese-official",
-          "source": "aljazeera.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-17T06:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        },
-        {
-          "title": "North Korean leader Kim Jong Un meets with top Chinese official - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-          "url": "https://dominicanrepublicpost.com/north-korean-leader-kim-jong-un-meets-with-top-chinese-official/",
-          "source": "dominicanrepublicpost.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-17T04:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        },
-        {
-          "title": "North Korean leader Kim Jong Un meets with top Chinese official - Grenada Chronicle – Daily Grenada And Caribbean News",
-          "url": "https://grenadachronicle.com/north-korean-leader-kim-jong-un-meets-with-top-chinese-official/",
-          "source": "grenadachronicle.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-17T03:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        },
-        {
-          "title": "الصين تكسب معركة الصورة .. هل بدأت مكانة أمريكا العالمية بالتراجع ؟",
-          "url": "https://www.aljazeera.net/politics/2026/7/16/%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D8%AA%D9%83%D8%B3%D8%A8-%D9%85%D8%B9%D8%B1%D9%83%D8%A9-%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9-%D9%87%D9%84-%D8%A8%D8%AF%D8%A3%D8%AA-%D9%85%D9%83%D8%A7%D9%86%D8%A9",
-          "source": "aljazeera.net",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-16T19:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "foreign_policy"
-        }
-      ]
+      "articles": []
     },
     "politics": {
       "label": "Politics & Governance",
@@ -438,81 +270,201 @@
       "featured": false,
       "articles": [
         {
-          "title": "Cina positiva , il governo promette più spesa pubblica e investimenti per rilanciare il Pil",
-          "url": "https://www.milanofinanza.it/news/cina-positiva-il-governo-promette-piu-spesa-pubblica-e-investimenti-per-rilanciare-il-pil-202607210745376798",
-          "source": "milanofinanza.it",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-21T08:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "A new engine for globalization",
-          "url": "http://usa.chinadaily.com.cn/a/202607/21/WS6a5e67baa310986e2b466498.html",
-          "source": "usa.chinadaily.com.cn",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-21T00:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "US - China Trade War Puts Latin America Minerals at Centre",
-          "url": "https://www.riotimesonline.com/the-scramble-for-a-new-world-how-us-china-decoupling-is-2026-07-20/",
-          "source": "riotimesonline.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-20T19:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "ASEAN Rise : Thailand Pivot from Detroit of the East to Regional Linchpin",
-          "url": "https://www.thailand-business-news.com/news/316888-aseans-rise-thailands-pivot-from-detroit-of-the-east-to-regional-linchpin",
-          "source": "thailand-business-news.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-19T23:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "晶采观察丨同比增长4 . 7 %！ 从半年报看中国经济三重底色",
-          "url": "https://china.qianlong.com/2026/0718/8699369.shtml",
-          "source": "china.qianlong.com",
+          "title": "从巨亏800亿到股价剩3元 ： 深度拆解万科真实的  清算底牌  与千亿重估逻辑 _ 财富号 _ 东方财富网",
+          "url": "https://caifuhao.eastmoney.com/news/20260722092930202968920",
+          "source": "caifuhao.eastmoney.com",
           "language": "zh",
           "type": "wire",
-          "published": "2026-07-18T08:00:00+00:00",
+          "published": "2026-07-22T07:45:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "economy"
         },
         {
-          "title": "晶采观察丨同比增长4 . 7 %！ 从半年报看中国经济三重底色",
-          "url": "https://baijiahao.baidu.com/s?id=1871035433636906829",
+          "title": "PBOC is expected to set the USD / CNY reference rate at 6 . 7737 – Reuters estimate",
+          "url": "https://investinglive.com:443/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-7737-reuters-estimate",
+          "source": "investinglive.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-22T02:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "China Ghost Cities : The Story Behind the Country Many Empty Towns of Abandoned Mansions",
+          "url": "https://www.architecturaldigest.com/story/chinas-ghost-cities-real-estate-crisis",
+          "source": "architecturaldigest.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-21T21:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "2026年经济大崩溃 内需死亡 习近平狂飙AI砸3亿人饭碗",
+          "url": "https://www.renminbao.com/rmb/articles/2026/7/22/95978.html",
+          "source": "renminbao.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-07-21T18:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "Why the West Fails to See China Strategic Horizon",
+          "url": "https://fpif.org/why-the-west-fails-to-see-chinas-strategic-horizon/",
+          "source": "fpif.org",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-21T16:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "大船  起航记 辽宁铁岭  理旧账  盘活闲置资产观察 _ 中国网",
+          "url": "http://news.china.com.cn/2026-07/21/content_118610374.shtml",
+          "source": "news.china.com.cn",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-07-21T11:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "Fondatorul DeepSeek intră în liga miliardarilor de top ai Chinei , cu o avere estimată la 38 de miliarde de dolari",
+          "url": "https://business24.ro/deepseek/fondator-deepseek-miliardar-china-avere-miliarde-dolari-1660976",
+          "source": "business24.ro",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-21T10:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "PBOC is expected to set the USD / CNY reference rate at 6 . 7706 – Reuters estimate",
+          "url": "https://investinglive.com:443/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-reuters-estimate",
+          "source": "investinglive.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-21T02:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "大船  起航记 辽宁铁岭  理旧账  盘活闲置资产观察",
+          "url": "https://baijiahao.baidu.com/s?id=1871286399152464000",
           "source": "baijiahao.baidu.com",
           "language": "zh",
           "type": "wire",
-          "published": "2026-07-18T07:30:00+00:00",
+          "published": "2026-07-21T02:15:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "economy"
         },
         {
-          "title": "US less reliable ? India may need to open the door wider to the Dragon",
-          "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/us-less-reliable-india-may-need-to-open-door-wider-to-china-investment-narendra-modi-economic-adviser-rakesh-mohan-press-note-3/articleshow/132452461.cms",
-          "source": "economictimes.indiatimes.com",
+          "title": "李在明卖掉唯一房产 ， 套现1400万 ！ 让韩国民众看到与尹锡悦的不同",
+          "url": "https://www.163.com/dy/article/L2BP7TDF0556818D.html",
+          "source": "163.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-07-21T02:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "华澳信托控股股东宣告破产 ， 四年亏损近30亿元的  烫手山芋  谁来接 ？ _ 东方财富网",
+          "url": "https://finance.eastmoney.com/a/202607203813754879.html",
+          "source": "finance.eastmoney.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-07-21T01:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "EDITORIAL : China economic uncertainty",
+          "url": "https://www.taipeitimes.com/News/editorials/archives/2026/07/21/2003861088",
+          "source": "taipeitimes.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-20T18:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "Why the Russia sanctions bill could dent the US dollar : Explained",
+          "url": "https://www.hindustantimes.com/world-news/us-news/why-the-russia-sanctions-bill-could-dent-the-us-dollar-explained-101784482740982.html",
+          "source": "hindustantimes.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-20T04:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "PBOC is expected to set the USD / CNY reference rate at 6 . 7821 – Reuters estimate",
+          "url": "https://investinglive.com:443/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-7821-reuters-estimate",
+          "source": "investinglive.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-20T02:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "NYT : администрация Трампа опасается , что закон об антироссийских санкциях подорвет статус доллара",
+          "url": "https://www.bfm.ru/news/612563",
+          "source": "bfm.ru",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-19T17:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "Angola cuts benchmark interest rate by 125 basis points to 15 . 75 %",
+          "url": "https://www.riotimesonline.com/angola-cuts-benchmark-interest-rate-125-basis-points-2026/",
+          "source": "riotimesonline.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-19T10:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "Chinese yuan weakens to 6 . 7934 against USD Friday - Xinhua",
+          "url": "https://english.news.cn/20260717/b92f79331c894689b8376f21ab15406e/c.html",
+          "source": "english.news.cn",
           "language": "en",
           "type": "wire",
           "published": "2026-07-17T06:30:00+00:00",
@@ -522,156 +474,120 @@
           "category": "economy"
         },
         {
-          "title": "China posts steady 4 . 7 % growth , defies global headwinds",
-          "url": "https://tribune.com.pk/story/2618630/china-posts-steady-47-growth-defies-global-headwinds",
-          "source": "tribune.com.pk",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-16T22:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "America ending its reliance on China would cost nearly $14 trillion , EY - Parthenon projects",
-          "url": "https://fortune.com/2026/07/16/us-europe-decoupling-china-cost-14-trillion-ey-parthenon-trump-tariffs/",
-          "source": "fortune.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-16T17:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "China GDP outpaces US and EU with 4 . 7 % first - half growth",
-          "url": "https://malawi24.com/2026/07/16/china-economy-grows-4-7-percent-first-half-2026/",
-          "source": "malawi24.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-16T15:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "【 社论 】 读懂增长4 . 7 % 里的  稳韧新优  |中国|工业增加值",
-          "url": "https://www.163.com/dy/article/L1T2H6A70514R9P4.html",
+          "title": "融创 ， 真的要翻身了|股权|孙宏斌|董家渡|壹号院",
+          "url": "https://www.163.com/dy/article/L21S39PJ0556589C.html",
           "source": "163.com",
           "language": "zh",
           "type": "wire",
-          "published": "2026-07-16T06:00:00+00:00",
+          "published": "2026-07-17T05:45:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "economy"
         },
         {
-          "title": "Mint Quick Edit | China economy is in slow gear will it restrain its rise ?",
-          "url": "https://www.livemint.com/opinion/online-views/mint-quick-edit-china-s-economy-is-in-slow-gear-will-it-restrain-its-rise-11784124499651.html",
-          "source": "livemint.com",
+          "title": "Россиянам назвали оптимальную долю долларов в сбережениях",
+          "url": "https://lenta.ru/news/2026/07/17/rossiyanam-nazvali-optimalnuyu-dolyu-dollarov-v-sberezheniyah/",
+          "source": "lenta.ru",
           "language": "en",
           "type": "wire",
-          "published": "2026-07-16T03:30:00+00:00",
+          "published": "2026-07-17T03:00:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "economy"
         },
         {
-          "title": "上半年GDP同比增长4 . 7 % 中国经济展现强大韧性活力",
-          "url": "https://baijiahao.baidu.com/s?id=1870836221552765452",
-          "source": "baijiahao.baidu.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-07-16T03:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "Xinhua Headlines : China posts resilient H1 growth as 15th Five - Year Plan gets underway",
-          "url": "http://english.anhuinews.com/newscenter/headline/202607/t20260716_9391324.html",
-          "source": "english.anhuinews.com",
+          "title": "China eyes more yuan globalization",
+          "url": "http://europe.chinadaily.com.cn/a/202607/17/WS6a598093a310986e2b465ba7.html",
+          "source": "europe.chinadaily.com.cn",
           "language": "en",
           "type": "wire",
-          "published": "2026-07-16T02:45:00+00:00",
+          "published": "2026-07-17T02:30:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "economy"
         },
         {
-          "title": "央广财评丨读懂4 . 7 % 增速背后的  新  支撑|动能|国内生产总值",
-          "url": "https://www.163.com/news/article/L1UT86O0000189FH.html",
+          "title": "欠债千万被申请破产 ， 800亿香港  铺王  家族 ， 为何沦落至此|商铺|旺角|物业",
+          "url": "https://www.163.com/dy/article/L21HIL1Q05118O92.html",
           "source": "163.com",
           "language": "zh",
           "type": "wire",
-          "published": "2026-07-16T02:00:00+00:00",
+          "published": "2026-07-17T02:30:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "economy"
         },
         {
-          "title": "「 社论 」 读懂增长4 . 7 % 里的  稳韧新优",
-          "url": "https://baijiahao.baidu.com/s?id=1870768612449371225",
-          "source": "baijiahao.baidu.com",
+          "title": "China eyes more yuan globalization",
+          "url": "http://usa.chinadaily.com.cn/a/202607/17/WS6a598093a310986e2b465ba7.html",
+          "source": "usa.chinadaily.com.cn",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-17T01:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "被地产拖累连亏4年 ！ 香港  壳王  出手 ： AI算力能否救德祥地产 ？- DoNews专栏",
+          "url": "https://www.donews.com/article/detail/5092/104308.html",
+          "source": "donews.com",
           "language": "zh",
           "type": "wire",
-          "published": "2026-07-15T20:30:00+00:00",
+          "published": "2026-07-16T09:30:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "economy"
         },
         {
-          "title": "China economy loses momentum",
-          "url": "https://www.azernews.az/region/261130.html",
-          "source": "azernews.az",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-15T17:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "Frena l  economia cinese Pil del Dragone sotto le attese",
-          "url": "https://www.zazoom.it/2026-07-15/frena-leconomia-cinese-pil-del-dragone-sotto-le-attese/19463808/",
-          "source": "zazoom.it",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-15T13:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "Cina , la crescita rallenta al 4 , 3 % nel secondo trimestre : pesa la crisi immobiliare , ma lindustria torna a correre",
-          "url": "https://www.affaritaliani.it/esteri/cina-la-crescita-rallenta-al-43-nel-secondo-trimestre-pesa-la-crisi-immobiliare-ma-lindustria-torna-a-correre.html",
-          "source": "affaritaliani.it",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-15T12:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "专家 ： 中国二季度经济数据粉碎反弹幻想",
-          "url": "https://www.epochtimes.com/gb/26/7/15/n14809824.htm",
+          "title": "夏言 ： 中共首份促消费五年规划 还要走老路 ？",
+          "url": "https://www.epochtimes.com/gb/26/7/15/n14810215.htm",
           "source": "epochtimes.com",
           "language": "zh",
           "type": "wire",
-          "published": "2026-07-15T09:30:00+00:00",
+          "published": "2026-07-16T05:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "PBOC sees stable RMB amid 2 - way fluctuations",
+          "url": "http://usa.chinadaily.com.cn/a/202607/16/WS6a58122ca310986e2b46574e.html",
+          "source": "usa.chinadaily.com.cn",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-16T03:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "PBOC sees stable RMB amid 2 - way fluctuations",
+          "url": "http://europe.chinadaily.com.cn/a/202607/16/WS6a58122ca310986e2b46574e.html",
+          "source": "europe.chinadaily.com.cn",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-16T02:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "潘石屹再次预判我国楼市 ！ 如不出意外 ， 未来几年 ， 楼市或将迎来3大走向 !",
+          "url": "https://www.163.com/dy/article/L1ULRPA30519TU39.html",
+          "source": "163.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-07-16T00:15:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -684,14 +600,160 @@
       "icon": "👥",
       "color": "#d49040",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "爱尔兰民众 ： 没有人能置身事外  【 明慧网 】",
+          "url": "https://www.minghui.org/mh/articles/2026/7/22/%E7%88%B1%E5%B0%94%E5%85%B0%E6%B0%91%E4%BC%97-%E2%80%9C%E6%B2%A1%E6%9C%89%E4%BA%BA%E8%83%BD%E7%BD%AE%E8%BA%AB%E4%BA%8B%E5%A4%96%E2%80%9D-512601.html",
+          "source": "minghui.org",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-07-22T07:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "2026年4月波士顿之行 ( 4 ) - Salem & Concord | www . wenxuecity . com",
+          "url": "https://www.wenxuecity.com/blog/202607/80747/15581.html",
+          "source": "wenxuecity.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-07-22T06:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "2026年4月波士顿之行 ( 4 ) - Salem & Concord - 博客",
+          "url": "https://blog.wenxuecity.com/myblog/80747/202607/15581.html",
+          "source": "blog.wenxuecity.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-07-22T01:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "人類探索宇宙越久 ， 越明白一件事 ： 地球不是暫住之地 ， 而是目前唯一的家園 。 - 銘記星辰之下",
+          "url": "https://blog.udn.com:443/y3au6m06f06/191495654",
+          "source": "blog.udn.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-07-21T13:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "Why Lord Alton Genocide Determination Bill should be supported",
+          "url": "https://www.thetablet.co.uk/blogs/why-lord-altons-genocide-determination-bill-should-be-supported/",
+          "source": "thetablet.co.uk",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-17T11:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "سبتمبر نت - كلمة قائد الثورة حول آخر التطورات والمستجدات ( نص + فيديو )",
+          "url": "https://26sep.net/index.php/local/131329-2026-07-16-18-10-36",
+          "source": "26sep.net",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-16T19:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "EU Parliament Condemns Persecution Of Christians In Pakistan , Nigeria , Sudan",
+          "url": "https://www.worthynews.com/116017-eu-parliament-condemns-persecution-of-christians-in-pakistan-nigeria-sudan",
+          "source": "worthynews.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-16T17:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "Lt . Gov Micah Beckwith on Christianity and Government",
+          "url": "https://afr.net/podcasts/jenna-ellis-in-the-morning/2026/july/lt-gov-micah-beckwith-on-christianity-and-government/",
+          "source": "afr.net",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-16T15:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "出生公民权  的判决让MAGA崩溃 ---- 纽时文译 - 文革传人发表于 文化走廊 - 论坛",
+          "url": "https://bbs.wenxuecity.com/culture/676186.html",
+          "source": "bbs.wenxuecity.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-07-16T08:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "回顾历史 ： 以色列是侵略者吗 ?( 原创再贴 ） - tz2000发表于 时事述评 - 论坛",
+          "url": "https://bbs.wenxuecity.com/currentevent/4032551.html",
+          "source": "bbs.wenxuecity.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-07-15T17:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        }
+      ]
     },
     "maritime_security": {
       "label": "Maritime Security",
       "icon": "⚓",
       "color": "#3ab8c5",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "ASEAN top diplomats meet in shadow of US - Iran conflict",
+          "url": "https://bworldonline.com/the-nation/2026/07/21/764823/aseans-top-diplomats-meet-in-shadow-of-us-iran-conflict/",
+          "source": "bworldonline.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-21T04:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "maritime_security"
+        },
+        {
+          "title": "为什么这份南海报告扒下了菲律宾的  底裤 ？ |马尼拉|黄岩岛",
+          "url": "https://www.163.com/dy/article/L1VQ09UR0514EGPO.html",
+          "source": "163.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-07-17T07:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "maritime_security"
+        }
+      ]
     },
     "domestic_security": {
       "label": "Domestic Security",
@@ -712,12 +774,132 @@
           "category": "domestic_security"
         },
         {
+          "title": "Telecommunication Fraud : China Is A Victim , Not The Villain - OpEd",
+          "url": "https://www.eurasiareview.com/21072026-telecommunication-fraud-china-is-a-victim-not-the-villain-oped/",
+          "source": "eurasiareview.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-21T16:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "domestic_security"
+        },
+        {
+          "title": "South Africa : Trump Watch - Roelf Meyer Wants Trump Afrikaner Refugee Plan Stopped",
+          "url": "https://allafrica.com/stories/202607210645.html",
+          "source": "allafrica.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-21T16:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "domestic_security"
+        },
+        {
+          "title": "UPSC Key - 21st July 2026 : Dengue Vaccine , Right to protest and EPF Scheme",
+          "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-key-dengue-vaccine-right-to-protest-and-epf-scheme-10797194/",
+          "source": "indianexpress.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-21T15:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "domestic_security"
+        },
+        {
           "title": "From TV star to exiled journalist : Gulchehra Hoja tells Uyghur story",
           "url": "https://focustaiwan.tw:443/politics/202607210008",
           "source": "focustaiwan.tw",
           "language": "en",
           "type": "wire",
           "published": "2026-07-21T07:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "domestic_security"
+        },
+        {
+          "title": "รอบโลกแรงงาน กรกฎาคม 2026",
+          "url": "https://prachatai.com/journal/2026/07/118122",
+          "source": "prachatai.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-21T05:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "domestic_security"
+        },
+        {
+          "title": "IU Special Edition ; The War for the Strait of Hormuz ; Internal Debates on Negotiations Amid War , and More – NIAC",
+          "url": "https://niacouncil.org/iu-special-edition-the-war-for-the-strait-of-hormuz-internal-debates-on-negotiations-amid-war-and-more/",
+          "source": "niacouncil.org",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-19T16:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "domestic_security"
+        },
+        {
+          "title": "জামায়াতে ইসলামী : একলা চলো নীতিতে শরিকরা নাখোশ",
+          "url": "https://www.mzamin.com/article/29320",
+          "source": "mzamin.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-19T07:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "domestic_security"
+        },
+        {
+          "title": "青春破局砺反诈尖兵 全民同心筑平安防线｜00后民警成长见证金沙反诈蝶变",
+          "url": "https://baijiahao.baidu.com/s?id=1870957608805753177",
+          "source": "baijiahao.baidu.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-07-17T21:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "domestic_security"
+        },
+        {
+          "title": "Key takeaways from Trump elections speech",
+          "url": "https://abcnews.com/Politics/key-takeaways-trumps-elections-speech/story?id=134835191",
+          "source": "abcnews.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-17T15:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "domestic_security"
+        },
+        {
+          "title": "Η αιχμαλωσία στον Προσωπικό Αριθμό είναι προ των πυλών , εκτός και αν …",
+          "url": "https://orthodoxostypos.gr/%CE%B7-%CE%B1%CE%B9%CF%87%CE%BC%CE%B1%CE%BB%CF%89%CF%83%CE%AF%CE%B1-%CF%83%CF%84%CE%BF%CE%BD-%CF%80%CF%81%CE%BF%CF%83%CF%89%CF%80%CE%B9%CE%BA%CF%8C-%CE%B1%CF%81%CE%B9%CE%B8%CE%BC%CF%8C-%CE%B5%CE%AF/",
+          "source": "orthodoxostypos.gr",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-16T17:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "domestic_security"
+        },
+        {
+          "title": "Germany massively expands federal police powers",
+          "url": "https://www.dw.com/en/germany-massively-expands-federal-police-powers/a-77993148",
+          "source": "dw.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-16T14:45:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -731,6 +913,54 @@
       "color": "#6b7de8",
       "featured": false,
       "articles": [
+        {
+          "title": "2주 만에 만난 한미일 외교장관 … 중국 겨냥 남중국해 · 북한 문제 논의",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1269484.html",
+          "source": "hani.co.kr",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-22T09:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
+          "title": "中國遊客減半 專家 ： 日本對陸客依賴度下降 | 兩岸",
+          "url": "https://www.cna.com.tw:443/news/acn/202607220197.aspx",
+          "source": "cna.com.tw",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-07-22T08:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
+          "title": "中國遊客減半 專家 ： 日本對陸客依賴度下降 | 兩岸",
+          "url": "https://www.cna.com.tw/news/acn/202607220197.aspx",
+          "source": "cna.com.tw",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-07-22T08:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
+          "title": "Asya borsaları geriledi : Orta Doğu gerilimi ve enerji fiyatları piyasaları baskılıyor",
+          "url": "https://www.sabah.com.tr/finans/borsa/asya-borsalari-geriledi-orta-dogu-gerilimi-ve-enerji-fiyatlari-piyasalari-baskiliyor-7627122",
+          "source": "sabah.com.tr",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-22T08:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
         {
           "title": "Asya borsaları negatif seyrediyor",
           "url": "https://uzmanpara.milliyet.com.tr/uzmanpara/asya-borsalari-negatif-seyrediyor-7627758",
@@ -750,18 +980,6 @@
           "language": "en",
           "type": "wire",
           "published": "2026-07-22T05:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "bilateral_relations"
-        },
-        {
-          "title": "Они нас задавят : в Европе испугались наплыва российской  санкционки",
-          "url": "https://1prime.ru/20260722/alyuminiy-871663677.html",
-          "source": "1prime.ru",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-22T04:30:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -828,120 +1046,12 @@
           "category": "bilateral_relations"
         },
         {
-          "title": "ASEAN top diplomats meet in shadow of US - Iran conflict",
-          "url": "https://whbl.com/2026/07/20/aseans-top-diplomats-meet-in-shadow-of-us-iran-conflict/",
-          "source": "whbl.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-21T00:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "bilateral_relations"
-        },
-        {
-          "title": "ASEAN top diplomats meet in shadow of US - Iran conflict",
-          "url": "https://www.al-monitor.com/originals/2026/07/aseans-top-diplomats-meet-shadow-us-iran-conflict",
-          "source": "al-monitor.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-21T00:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "bilateral_relations"
-        },
-        {
-          "title": "Top diplomats of S . Korea , U . S ., Japan to meet in Manila this week",
-          "url": "https://www.upi.com/Top_News/World-News/2026/07/20/korea-diplomats-US-Japan-Korea-meet-Manila-this-week/5171784542727/",
-          "source": "upi.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-20T11:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "bilateral_relations"
-        },
-        {
-          "title": "Top diplomats of South Korea , US , Japan to meet in Manila this week",
-          "url": "https://www.prokerala.com/news/articles/a1790090.html",
-          "source": "prokerala.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-20T09:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "bilateral_relations"
-        },
-        {
           "title": "US , Japan , S . Korea Diplomats Meet in Manila on N . Korea",
           "url": "https://www.newkerala.com/news/a/top-diplomats-south-korea-us-japan-meet-manila-239.htm",
           "source": "newkerala.com",
           "language": "en",
           "type": "wire",
           "published": "2026-07-20T08:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "bilateral_relations"
-        },
-        {
-          "title": "Китай отвернулся от старых поставщиков : один газовый игрок получил неожиданный шанс на миллиарды",
-          "url": "https://www.pravda.ru/news/economics/2373886-china-lng-import-russia-strategy/",
-          "source": "pravda.ru",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-19T16:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "bilateral_relations"
-        },
-        {
-          "title": "트럼프 임시관세 24일 실효 … 이번엔  강제노동  카드 꺼내들어",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01643286645516160&mediaCodeNo=257",
-          "source": "edaily.co.kr",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-19T07:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "bilateral_relations"
-        },
-        {
-          "title": "Defense deals signal rise of a new - look NATO",
-          "url": "https://www.arabnews.com/node/2651424",
-          "source": "arabnews.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-18T20:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "bilateral_relations"
-        },
-        {
-          "title": "中國拘留 「 危害國安 」 捷克公民 捷媒 ：「 人質外交 」 當談判籌碼 - 國際",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5509886",
-          "source": "news.ltn.com.tw",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-07-18T16:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "bilateral_relations"
-        },
-        {
-          "title": "大陸拘留捷克公民 捷媒 ： 涉人質外交當談判籌碼 | 國際焦點 | 全球",
-          "url": "https://udn.com/news/story/6809/9636350",
-          "source": "udn.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-07-18T12:15:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -972,120 +1082,12 @@
           "category": "bilateral_relations"
         },
         {
-          "title": "Cuba cobalt exposes Western supply chain weak spot",
-          "url": "https://www.northernminer.com/news/cubas-cobalt-exposes-western-supply-chain-weak-spot/1003893085/",
-          "source": "northernminer.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-16T20:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "bilateral_relations"
-        },
-        {
-          "title": "Cuba cobalt exposes a Western supply chain weak spot - Canadian Mining Journal",
-          "url": "https://www.canadianminingjournal.com/news/cubas-cobalt-exposes-a-western-supply-chain-weak-spot/",
-          "source": "canadianminingjournal.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-16T18:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "bilateral_relations"
-        },
-        {
           "title": "Glass half full : California wine is on the rocks , but Asia offers hope",
           "url": "https://www.thedrinksbusiness.com/2026/07/glass-half-full-california-wine-is-on-the-rocks-but-asia-offers-hope/",
           "source": "thedrinksbusiness.com",
           "language": "en",
           "type": "wire",
           "published": "2026-07-16T12:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "bilateral_relations"
-        },
-        {
-          "title": "Pánikszerűen vásárolja az orosz LNG - t az Európai Unió",
-          "url": "https://magyarnemzet.hu/gazdasag/2026/07/panikszeruen-vasarolja-az-orosz-lng-t-az-europai-unio",
-          "source": "magyarnemzet.hu",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-16T05:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "bilateral_relations"
-        },
-        {
-          "title": "Shipping Tribune",
-          "url": "https://www.shippingtribune.com/news/shipping/Global+liquefied+natural+gas+trade+volumes+reached+record+high+in+2025",
-          "source": "shippingtribune.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-16T04:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "bilateral_relations"
-        },
-        {
-          "title": "Global liquefied natural gas trade volumes reached record high in 2025 | Hellenic Shipping News Worldwide",
-          "url": "https://www.hellenicshippingnews.com/global-liquefied-natural-gas-trade-volumes-reached-record-high-in-2025/",
-          "source": "hellenicshippingnews.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-16T02:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "bilateral_relations"
-        },
-        {
-          "title": "Global LNG trade volumes reach record high in 2025 , driven by surge in US exports : US EIA",
-          "url": "http://www.asiabulletin.com/news/279188731/global-lng-trade-volumes-reach-record-high-in-2025-driven-by-surge-in-us-exports-us-eia",
-          "source": "asiabulletin.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-15T12:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "bilateral_relations"
-        },
-        {
-          "title": "Global LNG trade volumes reach record high in 2025 , driven by surge in US exports : US EIA",
-          "url": "http://www.bignewsnetwork.com/news/279188731/global-lng-trade-volumes-reach-record-high-in-2025-driven-by-surge-in-us-exports-us-eia",
-          "source": "bignewsnetwork.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-15T12:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "bilateral_relations"
-        },
-        {
-          "title": "Global LNG trade volumes reach record high in 2025 , driven by surge in US exports : US EIA",
-          "url": "http://www.middleeaststar.com/news/279188731/global-lng-trade-volumes-reach-record-high-in-2025-driven-by-surge-in-us-exports-us-eia",
-          "source": "middleeaststar.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-15T12:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "bilateral_relations"
-        },
-        {
-          "title": "Global LNG trade volumes reach record high in 2025 , driven by surge in US exports : US EIA",
-          "url": "http://www.iraqsun.com/news/279188731/global-lng-trade-volumes-reach-record-high-in-2025-driven-by-surge-in-us-exports-us-eia",
-          "source": "iraqsun.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-15T12:15:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -1099,258 +1101,6 @@
       "color": "#3ab8a0",
       "featured": false,
       "articles": [
-        {
-          "title": "Top diplomats of S . Korea , US , Japan to meet amid N . Korea deepening ties with Russia , China",
-          "url": "https://www.koreatimes.co.kr/foreignaffairs/20260722/top-diplomats-of-s-korea-us-japan-to-meet-amid-n-koreas-deepening-ties-with-russia-china",
-          "source": "koreatimes.co.kr",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-22T03:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "7月21日外交部发言人答问汇总",
-          "url": "https://baijiahao.baidu.com/s?id=1871327891431336387",
-          "source": "baijiahao.baidu.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-07-21T13:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "馬克龍 、 默茨最新涉華表態 中方回應 | 電訊",
-          "url": "https://www.hkcna.hk/docDetail.jsp?id=101375386&channel=2813",
-          "source": "hkcna.hk",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-07-21T13:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "2026年7月21日外交部发言人林剑主持例行记者会",
-          "url": "https://www.163.com/news/article/L2COQ5IQ0001899O.html",
-          "source": "163.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-07-21T11:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "Section 122 Expires Friday : Brazil Duty Hits Wednesday , Section 301 Looms",
-          "url": "https://www.techtimes.com/articles/321120/20260720/section-122-expires-friday-brazil-duty-hits-wednesday-section-301-looms.htm",
-          "source": "techtimes.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-21T02:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "Top diplomats of S . Korea , U . S ., Japan to meet in Manila this week",
-          "url": "https://www.upi.com/Top_News/World-News/2026/07/20/korea-diplomats-US-Japan-Korea-meet-Manila-this-week/5171784542727/",
-          "source": "upi.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-20T11:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "Can China AI governance experience travel ?-- China Economic Net",
-          "url": "http://en.ce.cn/main/latest/202607/t20260720_3096669.shtml",
-          "source": "en.ce.cn",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-20T10:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "Top diplomats of South Korea , US , Japan to meet in Manila this week",
-          "url": "https://www.prokerala.com/news/articles/a1790090.html",
-          "source": "prokerala.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-20T09:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "US , Japan , S . Korea Diplomats Meet in Manila on N . Korea",
-          "url": "https://www.newkerala.com/news/a/top-diplomats-south-korea-us-japan-meet-manila-239.htm",
-          "source": "newkerala.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-20T08:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "统一战线成员 ： 让人工智能这匹千里马跑得既快又稳",
-          "url": "https://finance.sina.com.cn/wm/2026-07-20/doc-iniimuyk4941196.shtml",
-          "source": "finance.sina.com.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-07-20T07:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "深度｜东盟将迎来外交  超级周 ： 美俄等多国外长云集 ， 菲律宾要借机挑事 ？",
-          "url": "https://baijiahao.baidu.com/s?id=1871147632535439460",
-          "source": "baijiahao.baidu.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-07-19T13:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "业界 ： 推动人工智能谋创新 、 守安全 、 联全球",
-          "url": "https://china.qianlong.com/2026/0718/8699524.shtml",
-          "source": "china.qianlong.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-07-18T16:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "蓝厅观察丨2026世界人工智能大会 为何值得期待 ？",
-          "url": "https://baijiahao.baidu.com/s?id=1870877108410642409",
-          "source": "baijiahao.baidu.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-07-17T03:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "Why has Trump imposed a 25 % tariff on Brazilian imports ?",
-          "url": "https://news.az/news/why-has-trump-imposed-a-25-tariff-on-brazilian-imports",
-          "source": "news.az",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-17T02:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "International Business : US slaps 25 per cent tax on most Brazil imports",
-          "url": "https://www.gdnonline.com:443/Details/1400865",
-          "source": "gdnonline.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-17T01:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "中泰一家亲  开启智能化新篇章",
-          "url": "https://baijiahao.baidu.com/s?id=1870913094201450031",
-          "source": "baijiahao.baidu.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-07-17T00:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "International Business : US slaps 25 per cent tax on most Brazil imports",
-          "url": "https://www.gdnonline.com:443/Details/1400865/US-slaps-25-per-cent-tax-on-most-Brazil-imports",
-          "source": "gdnonline.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-16T22:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "US imposes new 25 % tariffs on Brazil , expands exemptions list",
-          "url": "https://www.spokesman.com/stories/2026/jul/15/us-imposes-new-25-tariffs-on-brazil-expands-exempt/",
-          "source": "spokesman.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-16T21:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "蓝厅观察丨2026世界人工智能大会 为何值得期待 ？",
-          "url": "https://baijiahao.baidu.com/s?id=1870873710370070703",
-          "source": "baijiahao.baidu.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-07-16T21:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "US imposes new 25 % tariffs on Brazil , expands exemptions list",
-          "url": "https://www.agweek.com/news/policy/us-imposes-new-25-tariffs-on-brazil-expands-exemptions-list",
-          "source": "agweek.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-16T14:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "US to levy 25 % tariff on most imports from Brazil",
-          "url": "https://www.dailysabah.com/business/economy/us-to-levy-25-tariff-on-most-imports-from-brazil",
-          "source": "dailysabah.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-16T09:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
         {
           "title": "Ankara NATO Summit and Global Security Challenges",
           "url": "https://www.chinatechnews.com/2026/07/16/125621-ankara-nato-summit-and-global-security-challenges",
@@ -1374,35 +1124,352 @@
           "image": "",
           "via": "gdelt",
           "category": "multilateral"
-        },
-        {
-          "title": "Middle East new security paradigm",
-          "url": "https://tribune.com.pk/story/2618449/middle-easts-new-security-paradigm",
-          "source": "tribune.com.pk",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-15T22:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "Pax Aseana Sinica : Practicing The Asian Security Model  - OpEd",
-          "url": "https://www.eurasiareview.com/15072026-pax-aseana-sinica-practicing-the-asian-security-model-oped/",
-          "source": "eurasiareview.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-15T16:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
         }
       ]
     }
   },
   "latest_rss": [
+    {
+      "title": "Firing of Ukraine’s Top General Signals the End of an Era",
+      "url": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-syrskyi-general-russia-war.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-07-22T10:46:16+00:00",
+      "summary": "Gen. Oleksandr Syrskyi, who commanded crucial battles, oversaw an expansion of drone warfare against Russia, but many Ukrainians want even more.",
+      "image": "https://static01.nyt.com/images/2026/07/22/world/22int-ukraine-syrskyi-profile-oonn/22int-ukraine-syrskyi-profile-oonn-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Iran War Live Updates: Rubio Signals No Letup in U.S. Strikes",
+      "url": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-07-22T10:44:26+00:00",
+      "summary": "Secretary of State Marco Rubio said that the United States would continue attacking Iran as long as it tried to control the Strait of Hormuz, and suggested that Tehran was “not serious” about diplomacy.",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22mideast-live-promo1/22mideast-live-header-lftg-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Ukraine’s New Military Chief Faces a Monumental Test",
+      "url": "https://www.nytimes.com/2026/07/22/world/europe/ukraine-military-chief-drapatyi.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-07-22T10:33:59+00:00",
+      "summary": "In a photograph released by the Ukrainian Presidential Press Service, Maj. Gen. Mykhailo Drapatyi attended a meeting with President Volodymyr Zelensky in Kyiv, Ukraine, on Monday.",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-ukraine-military-assess-cmkv/22int-ukraine-military-assess-cmkv-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Ukraine hits more warehouses of top Russian online retailer",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/ukraine-hits-more-warehouses-of-top-russian-online-retailer?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-07-22T10:22:06+00:00",
+      "summary": "Ukrainian drones have hit two more warehouses belonging to Russia’s biggest online retailer Wildberries.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Wang Yi and Marco Rubio at Asean discuss Xi’s planned US visit, South China Sea clash",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3361473/wang-and-rubio-discuss-xis-planned-us-visit-south-china-sea-clash-asean?utm_source=rss_feed",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-07-22T10:04:41+00:00",
+      "summary": "The top Chinese and American diplomats discussed President Xi Jinping’s planned visit to the US later this year and the dispute between Beijing and Manila in the South China Sea during their bilateral meeting on Wednesday.\nChinese Foreign Minister Wang Yi and US Secretary of State Marco Rubio are in Manila for a series of Asean meetings from Monday to Thursday, including the Asean foreign ministers’ meeting which brings together 11 member states, along with ministers from Russia, Japan,...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/22/c2383407-266f-4f84-82c9-943fe2742e87_80f9eb8d.jpg?itok=OW7a39xe&v=1784714679",
+      "via": "rss"
+    },
+    {
+      "title": "Canada becomes first observer to British-Italian-Japanese GCAP fighter jet project",
+      "url": "https://www.scmp.com/news/china/military/article/3361465/canada-becomes-first-observer-british-italian-japanese-gcap-fighter-jet-project?utm_source=rss_feed",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-07-22T10:00:35+00:00",
+      "summary": "Canada has been given a front-row seat to a British-Italian-Japanese effort to develop a sixth-generation fighter aircraft, allowing Ottawa to diversify its defence partnerships as the US and China vie for an edge in future air power.\nIn London on Tuesday, Canadian Defence Minister David McGuinty joined his British, Italian and Japanese counterparts – Wes Streeting, Guido Crosetto and Shinjiro Koizumi – to sign Canada up as an observer of the Global Combat Air Programme (GCAP).\nIt marks the...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/22/4776dc27-8bf2-4019-af8c-2ddb6ec62c71_7ef0ae83.jpg?itok=f6JlmsyJ&v=1784712587",
+      "via": "rss"
+    },
+    {
+      "title": "Australia to warn China it won’t be bulled by ‘provocative‘ actions as it builds military and nuclear arsenal",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/22/australia-to-warn-china-it-wont-be-bulled-by-provocative-actions-as-it-builds-military-and-nuclear-arsenal",
+      "source": "The Guardian",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-07-22T10:00:13+00:00",
+      "summary": "Foreign minister Penny Wong will deliver speech criticising China’s recent launch of a nuclear-capable submarine-launched missileGet our breaking news email, free app or daily news podcastPenny Wong will warn China that Australia and other neighbouring nations will not be bullied by its “provocative” actions, after its involvement in another “destabilising and dangerous” incident this week.The foreign affairs minister – who will deliver the address on Thursday in the Philippines, where the 59th Asean foreign minister’s meeting is being held – will also caution world leaders against placing a toll on the strait of Hormuz after both Iran and the US threatened to do amid the protracted conflict. Continue reading...",
+      "image": "https://i.guim.co.uk/img/media/689c706db035ce93a3c736bdee508d40d270310e/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=d7a7b97d4f3f0fa4f86c3e2e8fa38cf1",
+      "via": "rss"
+    },
+    {
+      "title": "法国创欧盟首例15岁以下禁用社媒、“为何欧盟今秋肯定会与中国发生贸易战”",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260722-%E6%B3%95%E5%9B%BD%E5%88%9B%E6%AC%A7%E7%9B%9F%E9%A6%96%E4%BE%8B15%E5%B2%81%E4%BB%A5%E4%B8%8B%E7%A6%81%E7%94%A8%E7%A4%BE%E5%AA%92-%E4%B8%BA%E4%BD%95%E6%AC%A7%E7%9B%9F%E4%BB%8A%E7%A7%8B%E8%82%AF%E5%AE%9A%E4%BC%9A%E4%B8%8E%E4%B8%AD%E5%9B%BD%E5%8F%91%E7%94%9F%E8%B4%B8%E6%98%93%E6%88%98",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-07-22T09:51:42+00:00",
+      "summary": "法国国民议会和参议院周二（7月21日）晚通过禁止15岁以下未成年人使用社交媒体的法案，法国由此成为欧盟第一个通过青少年社交媒体禁令的国家，成为今天周三7月22日出刊的法国日报重点话题之一，甚至是重视青少年议题的《十字架报》封面专题。与此同时，财经时评人伯蒂勒·巴亚尔在《费加罗报》观点栏目发表文章阐释，“为什么我们几乎肯定会在今年秋天与中国爆发贸易战”。",
+      "image": "https://s.rfi.fr/media/display/1e98c450-843f-11f1-9c3a-005056bf30b7/w:1024/p:16x9/000-B9J29KG.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "中国对台的「窒息手段」延伸到儿童合唱团与咖啡赛事 没有任何舞台小到能躲过中国打压",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%81%9A%E7%84%A6%E5%8F%B0%E6%B5%B7/20260722-%E4%B8%AD%E5%9B%BD%E5%AF%B9%E5%8F%B0%E7%9A%84-%E7%AA%92%E6%81%AF%E6%89%8B%E6%AE%B5-%E5%BB%B6%E4%BC%B8%E5%88%B0%E5%84%BF%E7%AB%A5%E5%90%88%E5%94%B1%E5%9B%A2%E4%B8%8E%E5%92%96%E5%95%A1%E8%B5%9B%E4%BA%8B-%E6%B2%A1%E6%9C%89%E4%BB%BB%E4%BD%95%E8%88%9E%E5%8F%B0%E5%B0%8F%E5%88%B0%E8%83%BD%E8%BA%B2%E8%BF%87%E4%B8%AD%E5%9B%BD%E6%89%93%E5%8E%8B",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-07-22T09:46:36+00:00",
+      "summary": "中国以「窒息手段」来压缩台湾国际空间，从外交与国际组织延伸至民间活动，如今似乎没有任何舞台小到能躲过这场身分之争。台湾总统赖清德则在日前喊话，台湾绝不能让民主台湾走回头路，变成「中国的台湾」。因为台湾不仅仅是个名字，它更是一种身分认同。",
+      "image": "https://s.rfi.fr/media/display/8816bc76-67ce-11f1-a56c-005056bf30b7/w:1024/p:16x9/2026-06-14T033812Z-797248231-RC21RV97HAH2-RTRMADP-3-TAIWAN-CHINA-SECURITY.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "America’s decades-old bipartisan consensus on Israel has been shattered",
+      "url": "https://www.aljazeera.com/opinions/2026/7/22/americas-decades-old-bipartisan-consensus-on-israel-has-been-shattered?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-07-22T09:45:35+00:00",
+      "summary": "The Democratic establishment has faced growing pressure to change its stance on Israel. It has finally begun to do so.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Russia reports injuries after top online retailer Wildberries hit again",
+      "url": "https://www.aljazeera.com/news/2026/7/22/russia-reports-injuries-after-top-online-retailer-wildberries-hit-again?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-07-22T09:30:59+00:00",
+      "summary": "Company CEO says logistics centres in Krasnodar and Nevinnomyssk evacuated days after workers killed in earlier attack.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Ossoff challenges Hegseth on cost and duration of Iran war",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/ossoff-challenges-hegseth-on-cost-and-duration-of-iran-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-07-22T09:30:08+00:00",
+      "summary": "Ossoff challenges Hegseth on cost and duration of Iran war",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "A Lettuce-Growing Region in Mexico Stomachs the Fallout From the Cyclospora Outbreak",
+      "url": "https://www.nytimes.com/2026/07/22/world/americas/cyclospora-lettuce-mexico-guanajuato.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-07-22T09:27:01+00:00",
+      "summary": "In central Mexico, a lettuce-growing region has been potentially linked to an outbreak in the U.S. that has sickened thousands.",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/00int-mexico-cyclospora-promo/00int-mexico-cyclospora-bplz-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "特朗普希望国际足联主席因凡蒂诺出任联合国秘书长",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260722-%E7%89%B9%E6%9C%97%E6%99%AE%E5%B8%8C%E6%9C%9B%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E4%B8%BB%E5%B8%AD%E5%9B%A0%E5%87%A1%E8%92%82%E8%AF%BA%E5%87%BA%E4%BB%BB%E8%81%94%E5%90%88%E5%9B%BD%E7%A7%98%E4%B9%A6%E9%95%BF",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-07-22T09:13:01+00:00",
+      "summary": "据《纽约邮报》7月21日透露，美国总统特朗普希望国际足联主席因凡蒂诺在世界杯结束后出任下一任联合国秘书长。",
+      "image": "https://s.rfi.fr/media/display/0f53e2ba-840b-11f1-b883-005056bfb2b6/w:1024/p:16x9/AP26200823925312.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "多家美国媒体报道，特朗普政府准备与沙特开展核能合作",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260722-%E5%A4%9A%E5%AE%B6%E7%BE%8E%E5%9B%BD%E5%AA%92%E4%BD%93%E6%8A%A5%E9%81%93%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E5%87%86%E5%A4%87%E4%B8%8E%E6%B2%99%E7%89%B9%E5%BC%80%E5%B1%95%E6%A0%B8%E8%83%BD%E5%90%88%E4%BD%9C",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-07-22T09:04:59+00:00",
+      "summary": "美国和伊朗再度发生武装冲突之际，美国多家媒体报道透露，华盛顿已接近与利雅得就沙特的核能开发展开合作。但核能开发的军民两用潜能也引发不安，美国朝野两党一些议员以及以色列方面的负责人都表达反对立场。",
+      "image": "https://s.rfi.fr/media/display/6453b1aa-85aa-11f1-b6f7-005056bf30b7/w:1024/p:16x9/AP26051271110154.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Here’s the latest.",
+      "url": "https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz/heres-the-latest",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-07-22T09:03:57+00:00",
+      "summary": "",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "See Which 52 Places to Go We’ve Already Visited From Warsaw to Bangkok",
+      "url": "https://www.nytimes.com/2026/07/22/travel/vacation-destinations-warsaw-bangkok-barcelona.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-07-22T09:01:06+00:00",
+      "summary": "Black Mingo Creek was the site of a 1780 Revolutionary War skirmish. The writer Anna Venarchik paddled it as part of her article on Charleston, S.C., and its role in the war.",
+      "image": "https://static01.nyt.com/images/2026/07/15/multimedia/00trav-places-visited-lkcb/00trav-places-visited-lkcb-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Germany’s Military Buyers Look to Reduce Caution and Embrace Drones",
+      "url": "https://www.nytimes.com/2026/07/22/world/europe/germany-rearmament-innovation-reinvention-arms.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-07-22T09:00:11+00:00",
+      "summary": "As threats from Moscow rise and support from Washington dwindles, the German military is reinventing how it researches, funds and wields 21st-century arms.",
+      "image": "https://static01.nyt.com/images/2026/07/09/multimedia/09int-germany-innovation-top-ghjc/09int-germany-innovation-top-ghjc-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Al Jazeera reports from anti-US protest outside ASEAN summit",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/al-jazeera-reports-from-anti-us-protest-outside-asean-summit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-07-22T08:59:55+00:00",
+      "summary": "Al Jazeera reports from anti-US protest outside ASEAN summit",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "澳中外长会谈 堪培拉批北京在南太平洋试射导弹“破环稳定”",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260722-%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%A4%96%E9%95%BF%E8%A7%81%E7%8E%8B%E6%AF%85-%E6%89%B9%E4%B8%AD%E5%9B%BD%E5%8D%97%E5%A4%AA%E5%B9%B3%E6%B4%8B%E8%AF%95%E5%B0%84%E5%AF%BC%E5%BC%B9",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-07-22T08:55:31+00:00",
+      "summary": "澳大利亚外交部长黄英贤周三（7月22号）表示，她在马尼拉与中国外交部长王毅举行了会晤，对北京7月初在南太平洋试射具备核弹头搭载能力的弹道导弹表达关切。她认为此次试射“具有破坏稳定性”。",
+      "image": "https://s.rfi.fr/media/display/863ec3a2-850c-11f1-9cfd-005056a97e36/w:1024/p:16x9/President-Ferdinand-Marcos-Jr-meets-with-Australian-FAM-Penny-Wong-during-a-courtesy-call-at-Malaca%C3%B1ang-Palace-on-21-July-2026.png",
+      "via": "rss"
+    },
+    {
+      "title": "台湾8月举行汉光演习首度模拟「断网」立委质疑制造战争恐惧",
+      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260722-%E5%8F%B0%E6%B9%BE8%E6%9C%88%E4%B8%BE%E8%A1%8C%E6%B1%89%E5%85%89%E6%BC%94%E4%B9%A0%E9%A6%96%E5%BA%A6%E6%A8%A1%E6%8B%9F-%E6%96%AD%E7%BD%91-%E7%AB%8B%E5%A7%94%E8%B4%A8%E7%96%91%E5%88%B6%E9%80%A0%E6%88%98%E4%BA%89%E6%81%90%E6%83%A7",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-07-22T08:50:23+00:00",
+      "summary": "台湾汉光42号演习将于8月5日至14日展开，这次首度将行动网路降速列入演练项目，在北部与中部实行30分钟的模拟断网。不少立委对此表达质疑，究竟要测试的目标、详细实行细节与法源依据为何？",
+      "image": "https://s.rfi.fr/media/display/b9c1de82-605c-11f1-b02d-005056bfb2b6/w:1024/p:16x9/2026-06-04T060110Z-1398126609-RC2QMAA60CEX-RTRMADP-3-TAIWAN-CHINA-MISSILES.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Iran, Gulf hit as Hormuz, Bab al-Mandeb close: What’s the latest?",
+      "url": "https://www.aljazeera.com/news/2026/7/22/iran-gulf-hit-as-hormuz-bab-al-mandeb-close-whats-the-latest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-07-22T08:43:26+00:00",
+      "summary": "Defense Secretary Pete Hegseth tells US senators that the war has cost the US $37.5bn so far.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "K-pop’s NewJeans Hints at Comeback After Monthslong Feud With Its Label",
+      "url": "https://www.nytimes.com/2026/07/22/world/asia/newjeans-summer-comeback.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-07-22T08:39:11+00:00",
+      "summary": "The five original members of NewJeans at a fashion event at Dongdaemun Design Plaza in Seoul, in 2024.",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-skorea-newjeans-pjgc/22int-skorea-newjeans-pjgc-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Mexico goalkeeper Guillermo Ochoa retires after 22-year career",
+      "url": "https://www.aljazeera.com/sports/2026/7/22/mexico-goalkeeper-guillermo-ochoa-retires-after-22-year-career?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-07-22T08:38:59+00:00",
+      "summary": "The 41-year-old, who played in six FIFA World Cups, announces he will retire from both club and country.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "法國「協助死亡」合法化的歷史時刻，馬克龍最後的政治印記｜Whatsnew",
+      "url": "https://theinitium.com/20260722-whatsnew-france-passes-assisted-dying-law/",
+      "source": "端传媒",
+      "language": "zh",
+      "type": "journal",
+      "published": "2026-07-22T08:30:32+00:00",
+      "summary": "7&#x6708;15&#x65e5;&#xff0c;&#x6cd5;&#x570b;&#x570b;&#x6c11;&#x8b70;&#x6703;&#x7684;&#x516c;&#x773e;&#x65c1;&#x807d;&#x5e2d;&#x5ea7;&#x7121;&#x865b;&#x5e2d;&#x3002;&#x96a8;&#x8457;&#x8b70;&#x54e1;&#x9678;&#x7e8c;&#x9032;&#x5165;&#x6703;&#x5834;&#xff0c;&#x96f6;&#x661f;&#x7684;&#x638c;&#x8072;&#x6f38;&#x8da8;&#x5bc6;&#x96c6;&#xff1b;&#x8868;&#x6c7a;&#x7d50;&#x679c;&#x51fa;&#x73fe;&#x5728;&#x8b70;&#x4e8b;&#x5ef3;&#x5c4f;&#x5e55;&#x4e0a;&#x7684;&#x4e00;&#x523b;&#xff0c;&#x570b;&#x6c11;&#x8b70;&#x6703;&#x8b70;&#x9577;&#x3001;&#x5fa9;&#x8208;&#x9ee8;&#xff08;Renaissance&#xff09;&#x653f;&#x6cbb;&#x4eba;&#x7269;&#x5e03;&#x6717;-&#x76ae;&#x97cb;&#xff08;Ya&#xeb;l Braun-Pivet&#xff09;&#x4e00;&#x5ea6;&#x843d;&#x6dda;&#x3002;&#x7d93;&#x904e;&#x6b63;&#x5f0f;&#x8868;&#x6c7a;&#xff0c;&#x570b;&#x6c11;&#x8b70;&#x6703;&#x4ee5;291&#x7968;&#x8d0a;&#x6210;&#x3001;241&#x7968;&#x53cd;&#x5c0d;&#x3001;29&#x7968;&#x68c4;&#x6b0a;&#xff0c;&#x6700;&#x7d42;&#x901a;&#x904e;&#x78ba;&#x7acb;&#x300c;&#x5354;&#x52a9;&#x6b7b;&#x4",
+      "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/07/GettyImages-2271672763.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Why China’s low-cost business model resists reform",
+      "url": "https://www.scmp.com/opinion/china-opinion/article/3360533/why-chinas-low-cost-business-model-resists-reform?utm_source=rss_feed",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-07-22T08:30:07+00:00",
+      "summary": "On July 9, a fire burned through a shoe factory in Jinjiang, Fujian province, killing at least 28 people. The accident signals a larger problem: firms operating under financial pressure often cut costs by compromising safety.\nChina’s low-cost business model needs reform, but why has change been so difficult?\nThe plant that burned employed hundreds of workers, yet company filings for 2025 indicate that only a handful of them were enrolled in pension and medical insurance plans. A fire-safety...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/21/5d6433a5-6abc-43d3-8af1-44af1fc68b86_b126a651.jpg?itok=m34FnGRH&v=1784625440",
+      "via": "rss"
+    },
+    {
+      "title": "Turkey-PKK talks: Is peace finally possible?",
+      "url": "https://www.dw.com/en/turkey-pkk-talks-is-peace-finally-possible/a-78059048?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "Deutsche Welle",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-07-22T08:12:00+00:00",
+      "summary": "It was a year ago that PKK fighters held a symbolic disarmament ceremony, burning their weapons. Peace talks between the PKK and Turkey are going slowly, but some observers believe that they will succeed this time.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Oil rises past $95 after Trump threatens further Iran escalation",
+      "url": "https://www.ft.com/content/90facd68-4df7-40c2-9383-e989a02fbe51?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-07-22T08:08:58+00:00",
+      "summary": "Goldman Sachs warns Brent crude price could jump to $120 if Strait of Hormuz remains ‘disrupted’",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faabe8062-cba4-41d2-b7a6-88ecc1b6a61c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Chelsea signs Morgan Rogers from Aston Villa in record British deal",
+      "url": "https://www.aljazeera.com/sports/2026/7/22/chelsea-sign-morgan-rogers-from-aston-villa-in-record-british-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-07-22T08:08:08+00:00",
+      "summary": "The 23-year-old Rogers, one of the Premier League&#039;s top attacking talents, has signed a contract until 2033.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Rabat demands answers after Moroccan man dies during arrest in Italy",
+      "url": "https://www.aljazeera.com/news/2026/7/22/rabat-demands-answers-after-moroccan-man-dies-during-arrest-in-italy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-07-22T08:01:29+00:00",
+      "summary": "Italian Prime Minister Meloni says truth must be &#039;pursued to the very end&#039; after death of Abderrahim Fakir in Bologna.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "FIFA World Cup final draws record viewership in United States",
+      "url": "https://www.aljazeera.com/sports/2026/7/22/fifa-world-cup-final-draws-record-viewership-in-united-states?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-07-22T07:56:15+00:00",
+      "summary": "Figures reveal that viewership remained strong even after the USA were eliminated from tournament.",
+      "image": "",
+      "via": "rss"
+    },
     {
       "title": "US ‘open’ to negotiations with Iran but Tehran not ‘serious’, Rubio says",
       "url": "https://www.aljazeera.com/news/2026/7/22/us-open-to-negotiations-with-iran-but-tehran-not-serious-rubio-says?traffic_source=rss",
@@ -1459,13 +1526,13 @@
       "via": "rss"
     },
     {
-      "title": "称为配合香港国安法 台湾有物流公司拒运违法书籍兼要求备书单审查",
+      "title": "称为配合香港国安法 台湾有物流公司拒运\"违法书籍\"兼要求备书单审查",
       "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260722-%E7%A7%B0%E4%B8%BA%E9%85%8D%E5%90%88%E9%A6%99%E6%B8%AF%E5%9B%BD%E5%AE%89%E6%B3%95-%E5%8F%B0%E6%B9%BE%E6%9C%89%E7%89%A9%E6%B5%81%E5%85%AC%E5%8F%B8%E6%8B%92%E8%BF%90%E8%BF%9D%E6%B3%95%E4%B9%A6%E7%B1%8D%E5%85%BC%E8%A6%81%E6%B1%82%E5%A4%87%E4%B9%A6%E5%8D%95%E5%AE%A1%E6%9F%A5",
       "source": "法广中文",
       "language": "zh",
       "type": "broadcast",
       "published": "2026-07-22T07:22:26+00:00",
-      "summary": "《港区国安法》的「域外效力」已不限於司法，而是在确实影响资讯流通自由，因为一家国际物流公司在台湾的分部近日发出公告，表明不会运送「违反法规」书籍，书本寄往香港前须先提供书单审查，而曾被香港警方调查的书店，包括田园书店丶留下书舍丶一拳书店及猎人书店等，其货品亦不会运送。",
+      "summary": "《港区国安法》的「域外效力」已不限於司法，而是在确实影响资讯流通自由，因为一家国际物流公司在台湾的分部近日发出公告，表明不会运送\"违反法规\"书籍，书本寄往香港前须先提供书单审查，而曾被香港警方调查的书店，包括田园书店丶留下书舍丶一拳书店及猎人书店等，其货品亦不会运送。",
       "image": "https://s.rfi.fr/media/display/0d469bea-859e-11f1-9b0a-005056bf30b7/w:1024/p:16x9/22-7-%E5%9C%A8%E5%8F%B0%E6%B9%BE%E7%9A%84%E5%98%89%E8%BE%BE%E7%89%A9%E6%B5%81%E5%88%86%E5%85%AC%E5%8F%B8%E8%A1%A8%E7%A4%BA-%E4%B8%BA%E9%85%8D%E5%90%88%E9%A6%99%E6%B8%AF%E5%9B%BD%E5%AE%89%E6%B3%95-%E8%AE%A2%E6%98%8E%E4%B8%89%E4%B8%8D%E8%BF%90-%E5%B9%B6%E5%9C%A8%E7%94%B5%E9%82%AE%E4%B8%AD%E7%82%B9%E5%90%8D%E7%94%B0%E5%9B%AD%E4%B9%A6%E5%BA%97%E7%AD%89%E6%9B%BE%E8%A2%AB%E9%A6%99%E6%B8%AF%E5%BD%93%E5%B1%80%E8%B0%83%E6%9F%A5%E7%9A%84%E4%B9%A6%E5%BA%97-%E5%88%97%E5%85%A5%E6%8B%92%E8%BF%90%E5%90%8D%E5%8D%95-%E5%98%89%E8%BE%BE%E5%85%AC%E5%8F%B8%E5%85%AC%E5%91%8A%E4%B8%BA%E6%B0%91%E8%A7%86%E6%96%B0%E9%97%BB%E7%BD%91%E5%9B%BE%E7%89%87-1.png",
       "via": "rss"
     },
@@ -1525,6 +1592,17 @@
       "via": "rss"
     },
     {
+      "title": "Trump’s Board of Peace to set up Gaza ‘pilot’ city",
+      "url": "https://www.ft.com/content/2b6bd490-838e-490c-9d43-2f5758936a1b?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-07-22T07:06:04+00:00",
+      "summary": "Controversial plan comes after months of fruitless attempts to advance US peace deal for the enclave",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F024795ba-91c7-43f8-a8f7-904a81927f6d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
       "title": "Can Pakistan-administered Kashmir’s election overcome a violent summer?",
       "url": "https://www.aljazeera.com/features/2026/7/22/can-pakistan-administered-kashmirs-election-overcome-a-violent-summer?traffic_source=rss",
       "source": "Al Jazeera",
@@ -1543,7 +1621,7 @@
       "type": "newspaper",
       "published": "2026-07-22T06:03:38+00:00",
       "summary": "Prime Minister Sanae Takaichi at a meeting at Japan’s Parliament in Tokyo last week. A social media post by Ms. Takaichi about her schedule has prompted a debate about work hours and the hazards of sleep deprivation.",
-      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-Japan-Takaichi-sleep-vbzg/22int-Japan-Takaichi-sleep-vbzg-mediumSquareAt3X.jpg",
+      "image": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-Japan-Takaichi-sleep-vbzg/22int-Japan-Takaichi-sleep-vbzg-mediumSquareAt3X-v2.jpg",
       "via": "rss"
     },
     {
@@ -1668,6 +1746,17 @@
       "via": "rss"
     },
     {
+      "title": "Tokyo vows to take ‘bold’ action as yen keeps sliding",
+      "url": "https://www.ft.com/content/62d340a5-0806-40c4-ab30-a13823a00983?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-07-22T04:04:59+00:00",
+      "summary": "Japanese currency falls under ¥163 to the dollar for first time in almost 40 years",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F87a35870-eac5-4aec-86ef-f1c032d0c870.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
       "title": "Who will win the war of neo-mercantilists?",
       "url": "https://www.ft.com/content/a5e9dfe7-6b4d-476d-93a0-193a753b885a?syn-25a6b1a6=1",
       "source": "Financial Times",
@@ -1712,7 +1801,7 @@
       "via": "rss"
     },
     {
-      "title": "UK ethical fintech boss tried to set up arms deals with Wirecard’s Marsalek",
+      "title": "Ethical fintech boss tried to set up arms deals with Wirecard’s Marsalek",
       "url": "https://www.ft.com/content/a361c87c-a782-4eb4-a5d7-dbcf4af766cd?syn-25a6b1a6=1",
       "source": "Financial Times",
       "language": "en",
@@ -1822,17 +1911,6 @@
       "via": "rss"
     },
     {
-      "title": "‘Unprecedented’: OpenAI says AI models autonomously hacked another company",
-      "url": "https://www.aljazeera.com/news/2026/7/22/unprecedented-openai-says-ai-models-autonomously-hacked-another-company?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-07-22T02:36:55+00:00",
-      "summary": "OpenAI says an autonomous agent bypassed controls and hacked Hugging Face servers during a cybersecurity test.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "France Joins a Global Move Toward Restricting Social Media for Children",
       "url": "https://www.nytimes.com/2026/07/21/world/europe/france-social-media-ban.html",
       "source": "New York Times",
@@ -1877,17 +1955,6 @@
       "via": "rss"
     },
     {
-      "title": "US targets China in move to ban military-grade drone imports",
-      "url": "https://www.aljazeera.com/news/2026/7/22/us-targets-china-in-move-to-ban-military-grade-drone-imports?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-07-22T02:21:57+00:00",
-      "summary": "Proposed rules would have US regulator block the entry of swarm-capable drones, mainly from China.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "特朗普指控中国干预美国大选，文件显示俄罗斯才是“真凶”",
       "url": "https://cn.nytimes.com/usa/20260722/trump-china-russia-election/?utm_source=RSS",
       "source": "纽约时报中文",
@@ -1896,50 +1963,6 @@
       "published": "2026-07-22T02:13:13+00:00",
       "summary": "特朗普上周指控中国政府干预美国大选，但他解密的情报文件显示，俄罗斯才是干预美国大选的“真凶”。该国在2016和2020年两次大选中都致力于削弱特朗普的对手。                    Doug Mills/The New York Times                    特朗普总统与俄罗斯总统普京，摄于2025年。特朗普一直拒绝承认关于俄罗斯曾试图干预美国总统大选的调查结果。",
       "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "US says more than 1,400 infected by parasitic Cyclospora illness outbreak",
-      "url": "https://www.aljazeera.com/news/2026/7/22/us-says-more-than-1400-infected-by-parasitic-cyclospora-illness-outbreak?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-07-22T02:01:28+00:00",
-      "summary": "US officials claim evidence points to lettuce grown in Mexico, which Mexico&#039;s Health Ministry disputes.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Desperate families search rubble weeks after Venezuela earthquakes",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/desperate-families-search-rubble-weeks-after-venezuela-earthquakes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-07-22T01:45:35+00:00",
-      "summary": "Families in Venezuela search through the rubble of their homes, weeks after the 7.2 and 7.5 magnitude earthquakes hit.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "US will cut aluminium tariffs to boost defence supply chain",
-      "url": "https://www.ft.com/content/a9bd2bbb-2d6f-4222-98d3-361c3644cf2c?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-07-22T01:44:41+00:00",
-      "summary": "Trump administration offering exemptions to companies that invest in American smelters",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F51a8b4f1-11c7-468e-b2da-92bcf096e2fc.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "Trump vows to attack Iranian nuclear facility as Middle East war escalates",
-      "url": "https://www.ft.com/content/90facd68-4df7-40c2-9383-e989a02fbe51?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-07-22T01:41:05+00:00",
-      "summary": "Goldman Sachs warns oil could jump to $120 per barrel if Strait of Hormuz remains ‘disrupted’",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faabe8062-cba4-41d2-b7a6-88ecc1b6a61c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -1965,39 +1988,6 @@
       "via": "rss"
     },
     {
-      "title": "Former Biden official can’t see ‘pilot zones’ scheme working in Lebanon",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/aje-onl-nf_gavito-cant-see-pilot-zones-working-in-lebanon-210726?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-07-22T01:21:29+00:00",
-      "summary": "Gavito: Israel will likely keep pushing limits in Lebanon, making a full withdrawal unlikely amid security concerns.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Leopard caught on camera storming into a store in Rajasthan, India",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/leopard-caught-on-camera-storming-into-a-store-in-rajasthan-india?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-07-22T01:17:06+00:00",
-      "summary": "A leopard storms into a store in Rajasthan, India, attacking an employee and causing panic.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Philippines Says Sailor Was Injured in Skirmish With Chinese Coast Guard",
-      "url": "https://www.nytimes.com/2026/07/21/world/asia/philippines-south-china-sea-sailor-injured.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-07-22T01:14:09+00:00",
-      "summary": "Philippine Navy personnel and China Coast Guard personnel clashing near a grounded Philippine warship at Second Thomas Shoal, in the South China Sea, on Monday.",
-      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21int-philippines-china-skirmish-hjbg/21int-philippines-china-skirmish-hjbg-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
       "title": "Can the US and its allies break China’s grip on rare earths and AI technology?",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3361372/can-us-and-its-allies-break-chinas-grip-rare-earths-and-ai-technology?utm_source=rss_feed",
       "source": "SCMP",
@@ -2006,6 +1996,17 @@
       "published": "2026-07-22T01:00:17+00:00",
       "summary": "The struggle between the US and China over who will lead in artificial intelligence is one of the defining competitions of our time. In the second part of our exclusive interview with a key player defining Washington’s policy on AI, Jacob Helberg, US undersecretary of state for economic affairs, discusses America’s efforts to rally its allies and cut dependence on China by securing alternative rare earth and critical mineral supply chains.\nBy the time US President Donald Trump signed his...",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/21/e1c03d32-655d-49ae-81d3-6ae357d6f659_576ec6c2.jpg?itok=wO7bL8pD&v=1784636824",
+      "via": "rss"
+    },
+    {
+      "title": "Big bond investors fear being stung by the next ‘widow-maker trade’",
+      "url": "https://www.ft.com/content/7143bee9-07fc-45ab-99c9-00ae2559e724?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-07-22T01:00:04+00:00",
+      "summary": "Sharp rise in government debt yields lures some traders but many remain wary of fiscal outlook",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F021994bf-29de-45fe-b88e-dabb1a3d92e8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -2020,7 +2021,7 @@
       "via": "rss"
     },
     {
-      "title": "OpenAI admits an AI ‘agent’ caused a major cyber breach by itself",
+      "title": "OpenAI admits AI ‘agent’ caused major cyber breach by itself",
       "url": "https://www.ft.com/content/9db74b25-45ad-4187-b4d7-0e4d414fe41c?syn-25a6b1a6=1",
       "source": "Financial Times",
       "language": "en",
@@ -2053,17 +2054,6 @@
       "via": "rss"
     },
     {
-      "title": "Iran war live: Tehran attacks Bahrain, Kuwait, Jordan after US bombings",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/22/iran-war-live-us-launches-new-attacks-hegseth-says-war-has-cost-37-5bn?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-07-22T00:00:15+00:00",
-      "summary": "Trump threatens to bomb a suspected Iranian nuclear site called Pickaxe Mountain &#039;very heavily&#039;.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "With His Latest Threats, Trump Signals to Iran That He Is Willing to Escalate",
       "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-iran-threats.html",
       "source": "New York Times",
@@ -2072,17 +2062,6 @@
       "published": "2026-07-22T00:00:14+00:00",
       "summary": "“We’ll be hitting that area probably pretty soon,” President Trump said of Pickaxe Mountain on Tuesday. “And there’s not a thing they can do about it.”",
       "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21dc-prexy-gzjm/21dc-prexy-gzjm-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "US attacks Iran for 11th consecutive night",
-      "url": "https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-07-21T23:46:00+00:00",
-      "summary": "Explosions reported in northwestern Iran&#039;s Tabriz, capital Tehran and across southern Iran.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -2160,28 +2139,6 @@
       "published": "2026-07-21T22:59:41+00:00",
       "summary": "&#x7de8;&#x6309;&#xff1a;&#x300c;&#x6578;&#x8aaa;&#x79d1;&#x6280;&#x300d;&#x662f;&#x7aef;&#x50b3;&#x5a92;&#x65b0;&#x63a8;&#x51fa;&#x7684;&#x8a3b;&#x518a;&#x514d;&#x8cbb;&#x6b04;&#x76ee;&#xff0c;&#x6bcf;&#x9031;&#x4e09;&#x66f4;&#x65b0;&#x3002;&#x5f9e;&#x4e00;&#x500b;&#x6578;&#x5b57;&#x51fa;&#x767c;&#xff0c;&#x7528;1500&#x5b57;&#x89e3;&#x6790;&#x79d1;&#x6280;&#x8a71;&#x984c;&#xff0c;&#x8ffd;&#x8e64;&#x503c;&#x5f97;&#x95dc;&#x6ce8;&#x7684; AI &#x8da8;&#x52e2;&#x3002;&#x5728;&#x8cc7;&#x8a0a;&#x904e;&#x8f09;&#x7684;&#x6642;&#x4ee3;&#xff0c;&#x6bcf;&#x9031;&#x82b1;&#x4e09;&#x5206;&#x9418;&#x7406;&#x89e3;&#x79d1;&#x6280;&#x4e16;&#x754c;&#x3002;&#x6b61;&#x8fce;&#x8b80;&#x8005;&#x81f3;&#x300c;&#x5e33;&#x6236;&#x4e2d;&#x5fc3;&#x300d;&#x7684;&#x300c;&#x96fb;&#x5b50;&#x90f5;&#x4ef6;&#x7ba1;&#x7406;&#x300d;&#xff0c;&#x8a02;&#x95b1;&#x96fb;&#x5b50;&#x4fe1;&#x3002;2.8&#x842c;&#x5104;&#xff1a;&#x6708;&#x4e4b;&#x6697;&#x9762;&#x6700;&#x65b0;&#x5927;&#x6a21;&#x578b; Kimi K3 &#x7684;&#x53c3;&#x6578;&#x91cf;&#x3",
       "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/07/RC2JFMALFFQW-1.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Lebanese army deploys in ‘pilot zones’ under US-backed plan",
-      "url": "https://www.aljazeera.com/video/2026/7/21/lebanese-army-deploys-in-pilot-zones-under-us-backed-plan?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-07-21T22:56:12+00:00",
-      "summary": "The Lebanese army has begun deploying in three southern towns as part of a US-backed framework agreement with Israel.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Trump administration attacks US left, alleging Cuba ties: Key takeaways",
-      "url": "https://www.aljazeera.com/news/2026/7/21/trump-administration-attacks-us-left-alleging-cuba-ties-key-takeaways?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-07-21T22:55:43+00:00",
-      "summary": "US report says the beleaguered government in Havana is the &#039;connective tissue&#039; of a global &#039;anti-American coalition&#039;.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -2317,17 +2274,6 @@
       "via": "rss"
     },
     {
-      "title": "Zelenskyy replaces top Ukraine general after mass protests",
-      "url": "https://www.ft.com/content/500286b4-335b-43a7-bff5-30336d852e96?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-07-21T21:16:39+00:00",
-      "summary": "President chooses 43-year-old Mykhailo Drapatyi to replace Oleksandr Syrsky in generational shift in Kyiv’s military leadership",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F06f85a71-0ef4-46e2-be7f-2da15a4a05f1.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
       "title": "Who Is Trump’s Next Tariff Target?",
       "url": "https://foreignpolicy.com/2026/07/21/trump-tariffs-canada-section-338-mexico-brazil-trade-usmca/",
       "source": "Foreign Policy",
@@ -2347,17 +2293,6 @@
       "published": "2026-07-21T20:59:02+00:00",
       "summary": "A satellite image provided by Vantor shows an entrance to tunnels at Pickaxe Mountain in Iran last month.",
       "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21mideast-live-wwk-pickaxe-mountain-topart-vbfh/21mideast-live-wwk-pickaxe-mountain-topart-vbfh-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Lebanese Army Accuses Israeli Troops of Firing as Its Forces Deploy in ‘Pilot Zone’",
-      "url": "https://www.nytimes.com/2026/07/21/world/middleeast/lebanon-israel-ceasefire-plan.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-07-21T20:45:30+00:00",
-      "summary": "Lebanese army troops in Zawtar al-Gharbiya, southern Lebanon, after Israeli forces withdrew from the area on Tuesday.",
-      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21mideast-live-lebanon-zhlv/21mideast-live-lebanon-zhlv-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -2515,17 +2450,6 @@
       "via": "rss"
     },
     {
-      "title": "Houthis in Yemen Edge Closer to Entering U.S.-Iran War",
-      "url": "https://www.nytimes.com/2026/07/21/world/middleeast/houthis-yemen-iran-war.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-07-21T18:16:45+00:00",
-      "summary": "Yemeni supporters of the Iran-backed Houthi movement gather during a rally against what the group says are restrictions imposed by the Saudi-led coalition on Houthi-controlled areas of Yemen, in Sana last week.",
-      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21int-yemen-houthis-1-vmfb/21int-yemen-houthis-1-vmfb-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
       "title": "“蟑螂”的愤怒：印度爆发大规模青年抗议",
       "url": "https://cn.nytimes.com/world/20260722/india-protests-cockroach-janta-party/?utm_source=RSS",
       "source": "纽约时报中文",
@@ -2625,17 +2549,6 @@
       "via": "rss"
     },
     {
-      "title": "Trump Escalates Canada Tariffs as Mark Carney Holds Firm",
-      "url": "https://www.nytimes.com/2026/07/21/world/canada/trump-carney-trade-tariffs.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-07-21T17:21:51+00:00",
-      "summary": "Steel coils at the Algoma Steel facility in Ontario in July. U.S. tariffs on goods such as steel, aluminum and vehicles have hit sensitive Canadian sectors.",
-      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21int-canada-trade-analysis-01-twlj/21int-canada-trade-analysis-01-twlj-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
       "title": "巴拿马与中国续签港口协议",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260721-%E5%B7%B4%E6%8B%BF%E9%A9%AC%E4%B8%8E%E4%B8%AD%E5%9B%BD%E7%BB%AD%E7%AD%BE%E6%B8%AF%E5%8F%A3%E5%8D%8F%E8%AE%AE",
       "source": "法广中文",
@@ -2655,6 +2568,17 @@
       "published": "2026-07-21T17:10:47+00:00",
       "summary": "This year’s conference could have been held in 2003, 2008, or 2011.",
       "image": "https://foreignpolicy.com/wp-content/uploads/2026/07/condeleeza-rice-aspen-security-forum.png",
+      "via": "rss"
+    },
+    {
+      "title": "Security Issues Are Overshadowing Kashmir’s Worsening Climate Crisis",
+      "url": "https://thediplomat.com/2026/07/security-issues-are-overshadowing-kashmirs-worsening-climate-crisis/",
+      "source": "The Diplomat",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-07-21T16:45:00+00:00",
+      "summary": "Kashmir's mountains are going to keep getting hotter whether anyone notices or not.",
+      "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/07/thediplomat_2026-07-22-014749.jpg",
       "via": "rss"
     },
     {
@@ -2713,17 +2637,6 @@
       "via": "rss"
     },
     {
-      "title": "伊朗战争：特朗普陷入困境",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%9F%8F%E6%9E%97%E9%A3%9E%E9%B8%BF/20260721-%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89-%E7%89%B9%E6%9C%97%E6%99%AE%E9%99%B7%E5%85%A5%E5%9B%B0%E5%A2%83",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-07-21T15:30:36+00:00",
-      "summary": "美国继续对伊朗发动军事袭击，霍尔木兹海峡难以恢复正常，德国媒体有何看法？",
-      "image": "https://s.rfi.fr/media/display/55a9ab6c-81bf-11f1-a33e-005056bfb2b6/w:1024/p:16x9/AP26198068644479.jpg",
-      "via": "rss"
-    },
-    {
       "title": "南中国海摩擦：北京召见菲律宾大使",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260721-%E5%8D%97%E4%B8%AD%E5%9B%BD%E6%B5%B7%E6%91%A9%E6%93%A6-%E5%8C%97%E4%BA%AC%E5%8F%AC%E8%A7%81%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%A4%A7%E4%BD%BF",
       "source": "法广中文",
@@ -2735,17 +2648,6 @@
       "via": "rss"
     },
     {
-      "title": "1,700 H.I.V. Treatment Sites Closed After Trump Aid Cuts, a Study Finds",
-      "url": "https://www.nytimes.com/2026/07/21/health/hiv-trump-cuts-pepfar.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-07-21T14:24:29+00:00",
-      "summary": "New research also shows that children and high-risk adult populations have been particularly affected.",
-      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21dc-hiv-data-photo-jcmw/21dc-hiv-data-photo-jcmw-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
       "title": "China narrows AI gap, challenges US influence",
       "url": "https://www.dw.com/en/china-narrows-ai-gap-challenges-us-influence/a-78053001?maca=en-rss-en-world-4025-xml-mrss",
       "source": "Deutsche Welle",
@@ -2754,17 +2656,6 @@
       "published": "2026-07-21T14:16:00+00:00",
       "summary": "At the World Artificial Intelligence Conference in Shanghai, Beijing showcased advances in AI while promoting its vision of open-source development and global governance.",
       "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "澳大利亚对中国在南海行动表示关切 承诺进一步加强菲律宾海上能力",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260721-%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%8D%97%E6%B5%B7%E8%A1%8C%E5%8A%A8%E8%A1%A8%E7%A4%BA%E5%85%B3%E5%88%87-%E6%89%BF%E8%AF%BA%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%8A%A0%E5%BC%BA%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%B5%B7%E4%B8%8A%E8%83%BD%E5%8A%9B",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-07-21T14:00:52+00:00",
-      "summary": "澳大利亚外长黄英贤在菲律宾和中国船员于南海一处有争议礁石附近发生冲突后，谴责中国“危险且破坏稳定的行为”。",
-      "image": "https://s.rfi.fr/media/display/863ec3a2-850c-11f1-9cfd-005056a97e36/w:1024/p:16x9/President-Ferdinand-Marcos-Jr-meets-with-Australian-FAM-Penny-Wong-during-a-courtesy-call-at-Malaca%C3%B1ang-Palace-on-21-July-2026.png",
       "via": "rss"
     },
     {
@@ -2831,17 +2722,6 @@
       "published": "2026-07-21T13:57:00+00:00",
       "summary": "The exercise highlights growing China-Russia naval interoperability while exposing competing interpretations of maritime law.",
       "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/07/thediplomat_2026-07-21-230228.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "英国迎来新首相 欧盟创纪录重罚速卖通 美中AI竞争的“模型蒸馏”争议",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260721-%E8%8B%B1%E5%9B%BD%E8%BF%8E%E6%9D%A5%E6%96%B0%E9%A6%96%E7%9B%B8-%E6%AC%A7%E7%9B%9F%E5%88%9B%E7%BA%AA%E5%BD%95%E9%87%8D%E7%BD%9A%E9%80%9F%E5%8D%96%E9%80%9A-%E7%BE%8E%E4%B8%ADai%E7%AB%9E%E4%BA%89%E7%9A%84-%E6%A8%A1%E5%9E%8B%E8%92%B8%E9%A6%8F-%E4%B9%8B%E4%BA%89",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-07-21T13:36:32+00:00",
-      "summary": "周二（7月21日）各报头版主题各有侧重。《费加罗报》聚焦法国国民议会预计今天将通过法案，禁止15岁以下未成年人使用网络社媒，法国也因此有望成为欧洲首个采取这一措施的国家。而在政治共识的背后，对于年龄验证、隐私保护及平台执行等方面上仍存争议。《解放报》关注总统马克龙提名共和党参议员诺埃尔·比费出任新的人权事务专员，其反同性婚姻、主张强硬移民政策的保守立场，引发工会和社会团体的担忧，呼吁联署反对提名。天主教《十字架报》头版则报道旺代省长期探索居民、游客、农民与自然环境共享水资源的集体治理模式，以应对水资源日益短缺。",
-      "image": "https://s.rfi.fr/media/display/f240aef6-836f-11f1-8166-005056bf30b7/w:1024/p:16x9/2026-07-17T140219Z-444359555-RC2JFMALFFQW-RTRMADP-3-CHINA-AI.jpg",
       "via": "rss"
     },
     {
@@ -2944,17 +2824,6 @@
       "via": "rss"
     },
     {
-      "title": "美军连炸伊朗第十夜 伊朗袭美军雷达防空系统 胡塞威胁沙特红海出口",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260721-%E7%BE%8E%E5%86%9B%E8%BF%9E%E7%82%B8%E4%BC%8A%E6%9C%97%E7%AC%AC%E5%8D%81%E5%A4%9C-%E4%BC%8A%E6%9C%97%E8%A2%AD%E7%BE%8E%E5%86%9B%E9%9B%B7%E8%BE%BE%E9%98%B2%E7%A9%BA%E7%B3%BB%E7%BB%9F-%E8%83%A1%E5%A1%9E%E5%A8%81%E8%83%81%E6%B2%99%E7%89%B9%E7%BA%A2%E6%B5%B7%E5%87%BA%E5%8F%A3",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-07-21T11:50:30+00:00",
-      "summary": "在伊朗与美国重启敌对行动两周后，双方加剧了军事打击，冲突有向红海蔓延之势。",
-      "image": "https://s.rfi.fr/media/display/353104d2-84fa-11f1-af03-005056bfb2b6/w:1024/p:16x9/2026-07-21T025023Z-442280093-RC21IMAX8080-RTRMADP-3-IRAN-CRISIS-USA.jpg",
-      "via": "rss"
-    },
-    {
       "title": "How India's youth-led 'Cockroach' movement challenges Modi",
       "url": "https://www.dw.com/en/how-india-s-youth-led-cockroach-movement-challenges-modi/a-78048621?maca=en-rss-en-world-4025-xml-mrss",
       "source": "Deutsche Welle",
@@ -2999,39 +2868,6 @@
       "via": "rss"
     },
     {
-      "title": "应对中国倾销钢铁 欧洲等收紧进口配额 印度转向国内市场",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260721-%E5%BA%94%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%80%BE%E9%94%80%E9%92%A2%E9%93%81-%E6%AC%A7%E6%B4%B2%E7%AD%89%E6%94%B6%E7%B4%A7%E8%BF%9B%E5%8F%A3%E9%85%8D%E9%A2%9D-%E5%8D%B0%E5%BA%A6%E8%BD%AC%E5%90%91%E5%9B%BD%E5%86%85%E5%B8%82%E5%9C%BA",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-07-21T10:30:41+00:00",
-      "summary": "由于欧洲和英国等主要市场收紧钢铁进口配额，印度钢铁制造商正转向国内市场以弥补出口疲软，不过受到来自中国低价钢铁的竞争，让印度制造商难以应对。",
-      "image": "https://s.rfi.fr/media/display/da48d814-3005-11f0-b359-005056bf30b7/w:1024/p:16x9/000_446R6B9.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "New UK Prime Minister Burnham Promises Hope and Change. The Hurdles Are High.",
-      "url": "https://www.nytimes.com/2026/07/21/world/europe/andy-burnham-new-uk-prime-minister-policies.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-07-21T10:12:33+00:00",
-      "summary": "Prime Minister Andy Burnham speaking in front of 10 Downing Street on Monday. “We will make this moment a circuit breaker for Britain,” he said.",
-      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21uk-burnham-assess-01-lbwz/21uk-burnham-assess-01-lbwz-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Flash Floods Kill at Least 23 in Afghanistan",
-      "url": "https://www.nytimes.com/2026/07/21/world/asia/afghanistan-floods-deaths-nuristan.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-07-21T09:38:14+00:00",
-      "summary": "A damaged bridge and building in the eastern province of Nuristan in Afghanistan on Tuesday. Heavy monsoon rains sent torrents of water down surrounding mountains.",
-      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21int-afghanistan-floods-01-pjlq/21int-afghanistan-floods-01-pjlq-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
       "title": "The Western Myth of Russian Greatness",
       "url": "https://foreignpolicy.com/2026/07/21/russia-myths-great-power-putin-war-ukraine/",
       "source": "Foreign Policy",
@@ -3051,17 +2887,6 @@
       "published": "2026-07-21T09:29:08+00:00",
       "summary": "BBC中文記者實地考察，在金門西北岸的官澳海灘望去，隔海的翔安機場就在眼前，塔台、航廈與跑道清晰可見，近距離感受遠超一般想像。",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dd1f/live/341cd230-84e4-11f1-926f-c90d1bcfbc84.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "When Protesters Speak, Zelensky Listens, in the Ukrainian Tradition",
-      "url": "https://www.nytimes.com/2026/07/21/world/europe/ukraine-zelensky-protests.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-07-21T09:28:10+00:00",
-      "summary": "A photograph released by the Ukrainian Presidential Press Service on Monday showing President Volodymyr Zelensky meeting with Gen. Mykhailo Drapaty, the commander of the Joint Forces, in Kyiv.",
-      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/21int-ukraine-zelensky-politics-1-lcjk/21int-ukraine-zelensky-politics-1-lcjk-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -3131,17 +2956,6 @@
       "via": "rss"
     },
     {
-      "title": "赞比亚系列报道之二 ： 专家指河底沉积物不去除污染威胁继续存在",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E5%A2%83%E4%B8%8E%E5%8F%91%E5%B1%95/20260721-%E8%B5%9E%E6%AF%94%E4%BA%9A%E7%B3%BB%E5%88%97%E6%8A%A5%E9%81%93%E4%B9%8B%E4%BA%8C-%E4%B8%93%E5%AE%B6%E8%AF%84%E4%B8%AD%E8%B5%84%E4%BC%81%E4%B8%9A%E7%9A%84%E6%B1%A1%E6%9F%93%E7%A8%8B%E5%BA%A6",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-07-21T07:45:23+00:00",
-      "summary": "中国国有有色矿业集团下属的赞比亚谦比希湿法冶炼有限公司（Sino-Metals Leach Zambia）去年二月发生尾矿坝坍塌事件，导致大量有毒废水通过支流流入该国最长的河流卡富埃河。有媒体曾经形容说，该污染事件导致这条河流在一夜之间死亡。然而半年之后，赞比亚政府表示局势已基本恢复正常，水体的酸碱值pH值已恢复正常，重金属浓度也在不断下降，公司已依照政府指令履行修复和治理义务，并完成对个体农户的赔偿工作。 法广为此特别前往事故发生地段，试图了解受害者是否确实受到应有的赔偿以及当地的环境污染状况究竟如何。在上一次节目中为大家播出了对中资企业多位受害者的采访， 在今天的节目中我们将请专家点评采矿尤其是中资企业的环境影响。",
-      "image": "https://s.rfi.fr/media/display/0188d536-739f-11f1-a3a2-005056bfb2b6/w:1024/p:16x9/pecheur-sur-le-fleuve-cafoue.jpg",
-      "via": "rss"
-    },
-    {
       "title": "金門對面多了一座巨型機場，台灣憂軍事與飛航安全",
       "url": "https://www.bbc.com/zhongwen/articles/c3v0x30ny39o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
@@ -3194,6 +3008,17 @@
       "published": "2026-07-21T06:00:15+00:00",
       "summary": "Chinese police scientists have offered a rare insight into how they were able to break into the dark web using artificial intelligence to decode underground content.\nThe dark web – a realm unfamiliar to most – is built on encrypted communications and anonymous routing technologies that render user activity nearly untraceable, making it a haven for illegal activity and data trafficking.\nIn recent years, researchers both in China and abroad have made progress in analysing dark web content, but...",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/20/043d6753-cd0a-4afa-9225-9c8f1eeabe2d_5a9e9d4a.jpg?itok=gCQHxoIr&v=1784526713",
+      "via": "rss"
+    },
+    {
+      "title": "Transnational Repression, Organized Crime, and Conflict in Southeast Asia",
+      "url": "https://thediplomat.com/2026/07/transnational-repression-organized-crime-and-conflict-in-southeast-asia/",
+      "source": "The Diplomat",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-07-21T05:38:00+00:00",
+      "summary": "A conversation with Phil Robertson, a Bangkok-based human rights advocate.",
+      "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/07/thediplomat_2026-07-21-143900.jpg",
       "via": "rss"
     },
     {
@@ -3502,105 +3327,6 @@
       "published": "2026-07-20T21:46:14+00:00",
       "summary": "US President Donald Trump on Monday signed an executive order aimed at reducing dependence on China for defence-related critical minerals, directing military contractors to shift away from Beijing-linked supply chains beginning in January 2027.\nWithout naming China, Trump’s executive order stresses the need to maintain US military dominance “in an era of renewed great power competition”.\n“The United States must secure its supply chains against physical, cyber, and economic subversion,” it...",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/21/da3824e8-aa7e-4c89-82e6-fa0317f3284d_5bff001e.jpg?itok=6R_qaYtl&v=1784583963",
-      "via": "rss"
-    },
-    {
-      "title": "State Department Frames Cuba as Major Threat via Left-Wing Groups",
-      "url": "https://foreignpolicy.com/2026/07/20/state-department-cuba-report-left-wing-terrorism-rubio-trump/",
-      "source": "Foreign Policy",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-07-20T21:42:05+00:00",
-      "summary": "The report comes amid growing U.S. efforts to overturn Cuba’s government.",
-      "image": "https://foreignpolicy.com/wp-content/uploads/2026/07/GettyImages-2285689031.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Houthis Declare a Naval Blockade on Saudi Arabia",
-      "url": "https://foreignpolicy.com/2026/07/20/houthi-blockade-saudi-iran-war-red-sea-gulf-aden-hormuz/",
-      "source": "Foreign Policy",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-07-20T20:56:10+00:00",
-      "summary": "The move could increase pressure on already-strained global energy markets.",
-      "image": "https://foreignpolicy.com/wp-content/uploads/2026/07/YemenHouthis-GettyImages-2286281443.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "US claims 3 China-linked spy sites in Cuba monitoring American military activity",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3361264/us-claims-3-china-linked-spy-sites-cuba-monitoring-american-military-activity?utm_source=rss_feed",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-07-20T20:32:46+00:00",
-      "summary": "The United States has accused China of operating three intelligence-gathering facilities in Cuba and sharply expanding its personnel on the island, portraying Havana as a strategic platform for Beijing to monitor American military activity.\nA State Department report released on Monday said China maintained a “persistent intelligence-gathering presence” in Cuba, whose location gives Beijing potential access to electronic communications, military installations and maritime activity in the...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/21/a7debd62-6d6f-4572-bdfb-acfad9aed990_ddd59e73.jpg?itok=rCFn_7Eq&v=1784579561",
-      "via": "rss"
-    },
-    {
-      "title": "European Commission President Visits Armenia",
-      "url": "https://jamestown.org/european-commission-president-visits-arm/",
-      "source": "Jamestown Foundation",
-      "language": "en",
-      "type": "thinktank",
-      "published": "2026-07-20T20:27:58+00:00",
-      "summary": "Executive Summary:\n\n\n\n\nOn July 2, European Commission President Ursula von der Leyen visited Yerevan as part of her South Caucasus tour, meeting Armenian Prime Minister Nikol Pashinyan to discuss the Armenia–Azerbaijan peace process, EU–Armenia economic integration, and support against Russian economic coercion.\n\n\n\nPashinyan said Armenia aims to secure EU visa liberalization by 2029 and reiterated that Yerevan does not seek “to create a crisis” in relations with Russia as it deepens ties with Brussels.\n\n\n\nRegarding the U.S.-led Trump Route for International Peace and Prosperity (TRIPP), Pashinyan distinguished Armenia’s bilateral cooperation with Washington from the European Union’s connectivity agenda, underscoring that Brussels views the initiative positively but is not directly involved.  \n\n\n\n\n\n\n\n\nEuropean Commission President Ursula von der Leyen traveled to Yerevan on July 2 as part of her two-day South Caucasus tour. This was her second visit to the Armenian capital in two months",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Georgia’s Russia-Inspired Education Reform Raises Cognitive Security Threats",
-      "url": "https://jamestown.org/georgias-russia-inspired-education-reform-raises-cognitive-security-threats/",
-      "source": "Jamestown Foundation",
-      "language": "en",
-      "type": "thinktank",
-      "published": "2026-07-20T20:27:21+00:00",
-      "summary": "Executive Summary:\n\n\n\n\nGeorgia’s ruling Georgian Dream party is centralizing education by standardizing textbooks, delaying English instruction, and including patriotic and religious content in curricula, aligning Georgia’s education policy more closely with Russia’s model of state-directed ideological education.\n\n\n\nThe reforms expand the Georgian Orthodox Church’s influence in public schools through values education programs, religious content, and curricula centered on national identity.\n\n\n\nThese educational transitions strengthen state control over national identity formation and cognitive security while mirroring Russia’s use of traditional values as a geopolitical and anti-Western instrument.\n\n\n\n\n\n\n\n\nOn July 3, as part of a school reform, the Georgian Ministry of Education announced that English language instruction in the country’s schools would no longer begin in the first grade. Instead, it is planned to start in the second grade (Interpressnews, July 3). The change is not fund",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Ukraine Ramps Up Drone Strikes in the Sea of Azov and Black Sea",
-      "url": "https://jamestown.org/ukraine-ramps-up-drone-strikes-in-the-sea-of-azov-and-black-sea/",
-      "source": "Jamestown Foundation",
-      "language": "en",
-      "type": "thinktank",
-      "published": "2026-07-20T20:26:51+00:00",
-      "summary": "Executive Summary:\n\n\n\n\nUkraine has expanded its medium and long-range drone strike campaign from isolating Crimea to targeting Russian maritime logistics in the Sea of Azov and Black Sea, increasing pressure on Moscow’s military supply routes, naval posture, and control over occupied territories.\n\n\n\nRussia is continuing to concentrate offensive operations in Donetsk oblast, particularly around Kostyantynivka, where Moscow appears willing to absorb significant casualties for limited territorial gains.\n\n\n\nUkraine’s drone strikes on Russian maritime traffic in the Sea of Azov and Black Sea have lowered the value of annexed Crimea, eroded Russia’s status as a naval power, and weakened Russia’s position on the world energy market.\n\n\n\n\n\n\n\n\nSince early July, Ukraine has expanded its middle- and long-range aerial and naval drone strikes from isolating the Crimean Peninsula to also disrupting Russia’s maritime traffic in the Sea of Azov and the Black Sea (Re: Russia, July 17). This Ukrainian st",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Trump turns to China in renewed US birthright citizenship push",
-      "url": "https://www.scmp.com/news/us/politics/article/3361263/trump-turns-china-renewed-birthright-citizenship-push?utm_source=rss_feed",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-07-20T20:14:00+00:00",
-      "summary": "When the US Supreme Court rejected President Donald Trump’s attempt to restrict birthright citizenship, his attention soon turned from the justices to China, prompting a sarcastic social media post.\n“I would like to congratulate President Xi, and the Great Country of China, on their massive Birthright Citizenship WIN! President DONALD J. TRUMP,” Trump wrote on social media.\nIn the hours that followed, the Department of Justice instructed federal prosecutors to prioritise investigations of...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/21/0c6bb52e-c13d-4997-a997-b1f93aeaaf5b_482ad493.jpg?itok=pIgoFYMr&v=1784580906",
-      "via": "rss"
-    },
-    {
-      "title": "Mexican drug lord 'El Mayo' sentenced to life without parole in US prison",
-      "url": "https://www.dw.com/en/mexican-drug-lord-el-mayo-sentenced-to-life-without-parole-in-us-prison/a-78042164?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "Deutsche Welle",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-07-20T19:55:00+00:00",
-      "summary": "Ismael \"El Mayo\" Zambada, a co-founder of the Sinaloa cartel and one of the world's most notorious drug traffickers, was sentenced to life in a US prison.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "China’s Li congratulates Andy Burnham on becoming Britain’s new prime minister",
-      "url": "https://www.scmp.com/news/world/europe/article/3361261/chinas-li-congratulates-andy-burnham-becoming-britains-new-prime-minister?utm_source=rss_feed",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-07-20T19:09:19+00:00",
-      "summary": "Chinese ⁠Premier ⁠Li Qiang on Monday extended congratulations to Andy Burnham on ‌becoming Britain’s new prime minister.\nStrengthening dialogue and cooperation between ⁠China and Britain will benefit ‌the two countries and “inject stability into global ‌peace”, Li said in ⁠his ⁠message, Reuters reported.\n“I am willing to ‌work with the prime minister ‌to strengthen exchanges, ‌enhance mutual ‌trust, promote communication and cooperation, ⁠and advance the long-term, ⁠stable comprehensive...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/07/21/87a9a9b1-153c-4126-8764-7a302dd67eec_dfe3fe98.jpg?itok=kHf-fff0&v=1784574112",
       "via": "rss"
     }
   ]
