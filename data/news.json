@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T02:07:47.454912+00:00",
+  "last_updated": "2026-08-05T05:58:14.153145+00:00",
   "source_counts": {
     "en": 36,
     "zh": 24
@@ -10,246 +10,570 @@
       "icon": "🤖",
       "color": "#7d6be8",
       "featured": true,
-      "articles": [
-        {
-          "title": "Could AI take your job ? Some workers in China already know the answer",
-          "url": "https://www.aol.co.uk/articles/could-ai-job-workers-china-022205000.html",
-          "source": "aol.co.uk",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-31T03:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "ai_tech"
-        },
-        {
-          "title": "Could AI take your job ? Some workers in China already know the answer",
-          "url": "https://www.theguardian.com/world/2026/jul/31/china-ai-jobs-workers-labour-market-technology",
-          "source": "theguardian.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-31T02:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "ai_tech"
-        },
-        {
-          "title": "The AI Compute Arms Race : United States vs . China",
-          "url": "https://www.livetradingnews.com/the-ai-compute-arms-race-united-states-vs-china",
-          "source": "livetradingnews.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-29T11:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "ai_tech"
-        }
-      ]
+      "articles": []
     },
     "foreign_policy": {
       "label": "Foreign Policy & Diplomacy",
       "icon": "🌐",
       "color": "#4f8de8",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "BRI and ASEAN : Building Integrated Supply Chains",
+          "url": "https://pakobserver.net/bri-and-asean-building-integrated-supply-chains/",
+          "source": "pakobserver.net",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-05T04:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "Pakistan - China Boost Counterterrorism Against Afghan Threats",
+          "url": "https://www.pakistantoday.com.pk/2026/08/05/pakistan-china-step-up-counterterrorism-cooperation-over-afghan-based-terror-threats",
+          "source": "pakistantoday.com.pk",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-04T23:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "South Africa Secures $122 Billion Chinese Energy Investment to Revitalize Manufacturing and Overcome Decades of Power Shortages – Ghanamma . com",
+          "url": "https://www.ghanamma.com/2026/08/04/south-africa-secures-122-billion-chinese-energy-investment-to-revitalize-manufacturing-and-overcome-decades-of-power-shortages/",
+          "source": "ghanamma.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-04T17:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "Africa takes lead in BRI investment , report says",
+          "url": "http://usa.chinadaily.com.cn/a/202608/03/WS6a6fec28a310986e2b468a00.html",
+          "source": "usa.chinadaily.com.cn",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-03T08:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "Africa takes lead in BRI investment , report says",
+          "url": "http://europe.chinadaily.com.cn/a/202608/03/WS6a6fec28a310986e2b468a00.html",
+          "source": "europe.chinadaily.com.cn",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-03T06:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "Africa tops China Belt and Road engagement as Ethiopia draws major green energy investment",
+          "url": "https://capitalethiopia.com/2026/08/02/africa-tops-chinas-belt-and-road-engagement-as-ethiopia-draws-major-green-energy-investment/",
+          "source": "capitalethiopia.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-02T10:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "Iran Bombs Chinese Company Building in Kuwait , Killing One",
+          "url": "https://www.breitbart.com/national-security/2026/07/30/iran-bombs-chinese-company-building-kuwait-killing-one/",
+          "source": "breitbart.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-01T20:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "Iran Bombs Chinese Company Building in Kuwait , Killing One",
+          "url": "https://www.breitbart.com/middle-east/2026/07/30/iran-bombs-chinese-company-building-kuwait-killing-one/",
+          "source": "breitbart.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-31T02:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "How the US created its own global challenger through its role in China rise over half a century",
+          "url": "https://www.livemint.com/opinion/online-views/us-global-challenger-china-rise-hegemony-beijing-washington-nixon-kissinger-11785313315221.html",
+          "source": "livemint.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-30T10:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "China - led AI bloc could narrow digital divide , expand global influence",
+          "url": "https://www.eco-business.com/news/china-led-ai-bloc-could-narrow-digital-divide-expand-global-influence/",
+          "source": "eco-business.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-30T07:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "PNG attractive place for investment : Businessman",
+          "url": "https://www.thenational.com.pg/png-attractive-place-for-investment-businessman/",
+          "source": "thenational.com.pg",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-30T06:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "Column : Promoting exchanges on governance , advancing common development between Malaysia and China",
+          "url": "http://www.shanghaisun.com/news/279214970/column-promoting-exchanges-on-governance-advancing-common-development-between-malaysia-and-china",
+          "source": "shanghaisun.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-29T18:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "Column : Promoting exchanges on governance , advancing common development between Malaysia and China",
+          "url": "http://www.malaysiasun.com/news/279214970/column-promoting-exchanges-on-governance-advancing-common-development-between-malaysia-and-china",
+          "source": "malaysiasun.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-29T18:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "China to likely slow pace of investments in Pakistan if current security situation continues : Report",
+          "url": "https://www.prokerala.com/news/articles/a1794078.html",
+          "source": "prokerala.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-29T17:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "ASEAN nuclear choices , geopolitical consequences",
+          "url": "http://www.nepalnational.com/news/279214476/asean-nuclear-choices-geopolitical-consequences",
+          "source": "nepalnational.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-29T13:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        }
+      ]
     },
     "politics": {
       "label": "Politics & Governance",
       "icon": "🏛️",
       "color": "#9b6de8",
       "featured": false,
-      "articles": [
-        {
-          "title": "日媒 ： 习生日前这番操作 ， 意味深长",
-          "url": "https://www.aboluowang.com/2026/0804/2416538.html",
-          "source": "aboluowang.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-08-04T03:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "習近平2027不設接班人 ？ 日媒解析 ： 73歲生日前為何這番操作 ， 恐意味習不打算交棒 | 劉煥彥 | 新聞",
-          "url": "https://www.storm.mg/article/11153411",
-          "source": "storm.mg",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-08-03T02:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "中共建军99周年 中国防长 ： 坚定挫败台独",
-          "url": "https://www.dw.com/zh/%E4%B8%AD%E5%85%B1%E5%BB%BA%E5%86%9B99%E5%91%A8%E5%B9%B4-%E4%B8%AD%E5%9B%BD%E9%98%B2%E9%95%BF%E5%9D%9A%E5%AE%9A%E6%8C%AB%E8%B4%A5%E5%8F%B0%E7%8B%AC/a-78201190",
-          "source": "dw.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-08-01T10:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "習近平 ： 確保槍桿子永遠聽黨指揮 深入推進共軍反腐 | 中國",
-          "url": "https://newtalk.tw/news/view/2026-08-01/1050686",
-          "source": "newtalk.tw",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-08-01T04:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "習近平 ： 確保槍桿子永遠聽黨指揮 深入推進共軍反腐 | 兩岸",
-          "url": "https://www.cna.com.tw:443/news/acn/202608010025.aspx",
-          "source": "cna.com.tw",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-08-01T03:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "钟原 ： 政治局会议降调 中共政局添新变数 ？",
-          "url": "https://www.aboluowang.com/2026/0801/2415216.html",
-          "source": "aboluowang.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-07-31T22:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "共軍構建智慧化體系 習近平親自指示 ： 加強無人技術軍事應用 | ETtoday大陸新聞",
-          "url": "https://www.ettoday.net/news/20260731/3210945.htm",
-          "source": "ettoday.net",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-07-31T06:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "建軍99年前夕 習近平 ： 深入反腐敗鬥爭 如期實現建軍百年奮鬥目標 | 兩岸要聞 | 兩岸",
-          "url": "https://udn.com/news/story/7331/9662751",
-          "source": "udn.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-07-31T05:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "周晓辉 ： 十月召开的五中全会 人事问题是焦点",
-          "url": "https://www.aboluowang.com/2026/0731/2414912.html",
-          "source": "aboluowang.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-07-31T04:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "周曉輝 ： 十月召開的五中全會 人事問題是焦點 | 中共中央政治局 | 二十屆五中全會 | 議程反常",
-          "url": "https://www.ntdtv.com/b5/2026/07/30/a104120034.html",
-          "source": "ntdtv.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-07-31T04:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "王友群 ： 中共国家开发银行为何贪官那么多 ？",
-          "url": "https://www.aboluowang.com/2026/0731/2414918.html",
-          "source": "aboluowang.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-07-31T04:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "61岁罗文履新中共河北省委书记 同岁原书记倪岳峰另有任用",
-          "url": "https://www.zaobao.com.sg/news/china/story20260731-9448792",
-          "source": "zaobao.com.sg",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-07-31T03:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "馬興瑞大祕高世文 「 失蹤 」 多月被罷職 | 南昌市長 | 馬興瑞秘書 | 中國航太科技集團",
-          "url": "https://www.ntdtv.com/b5/2026/07/30/a104119724.html",
-          "source": "ntdtv.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-07-30T03:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "全国政协召开  加快农业农村现代化  专题协商会 王沪宁出席并讲话 - 半月谈",
-          "url": "http://www.banyuetan.org/yw/detail/20260729/1000200033137441785288084313043745_1.html",
-          "source": "banyuetan.org",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-07-29T04:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "全国政协召开  加快农业农村现代化  专题协商会 - 大河网",
-          "url": "https://news.dahe.cn/2026/07-29/2114532.html",
-          "source": "news.dahe.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-07-29T02:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        }
-      ]
+      "articles": []
     },
     "military_security": {
       "label": "Military & Security",
       "icon": "⚔️",
       "color": "#e05f5f",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "Датская принцесса Изабелла пошла служить в армию » Gazeta . kg новости Кыргызстана и Бишкека сегодня",
+          "url": "https://gazeta.kg/society/211807-datskaja-princessa-izabella-poshla-sluzhit-v-armiju.html",
+          "source": "gazeta.kg",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-04T08:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "中國北斗衛星超車GPS 美示警第一島鏈美軍恐更難躲",
+          "url": "https://def.ltn.com.tw/article/breakingnews/5527924",
+          "source": "def.ltn.com.tw",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-08-04T05:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "中美太空博弈升级 ： 美方亮反卫星  底牌 ， 中方硬核防御底气足 - 业界动态 - ITBear科技资讯",
+          "url": "https://www.itbear.com.cn/html/2026-08/1479326.html",
+          "source": "itbear.com.cn",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-08-03T21:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "未来战争第一击 或从攻击卫星开始",
+          "url": "https://www.zaobao.com.sg/news/world/story20260803-9461972",
+          "source": "zaobao.com.sg",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-08-03T11:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "ОДКБ за 5 лет изъяла более 8 тысяч единиц оружия и пресекла 46 терактов » Gazeta . kg новости Кыргызстана и Бишкека сегодня",
+          "url": "https://gazeta.kg/exclusive/211561-odkb-za-5-let-izjala-bolee-8-tysjach-edinic-oruzhija-i-presekla-46-teraktov.html",
+          "source": "gazeta.kg",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-03T05:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "На 33 , 7 процента сократилась площадь ледников в Иссык - Кульской котловине » Gazeta . kg новости Кыргызстана и Бишкека сегодня",
+          "url": "https://gazeta.kg/society/211546-na-337-procenta-sokratilas-ploschad-lednikov-v-issyk-kulskoj-kotlovine.html",
+          "source": "gazeta.kg",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-03T05:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Google , Amazon , Microsoft и Meta вложили в ИИ - инфраструктуру более $1 , 1 трлн » Gazeta . kg новости Кыргызстана и Бишкека сегодня",
+          "url": "https://gazeta.kg/exclusive/211442-google-amazon-microsoft-i-meta-vlozhili-v-ii-infrastrukturu-bolee-11-trln.html",
+          "source": "gazeta.kg",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-02T00:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "中美俄太空攻防战 卫星如何成为现代战争的第一击 ？",
+          "url": "https://www.wenxuecity.com/news/2026/08/01/126727836.html",
+          "source": "wenxuecity.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-08-01T16:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Великобритания вложит £8 , 4 млрд в постройку новых атомных подлодок » Gazeta . kg новости Кыргызстана и Бишкека сегодня",
+          "url": "https://gazeta.kg/exclusive/211406-velikobritanija-vlozhit-pf84-mlrd-v-postrojku-novyh-atomnyh-podlodok.html",
+          "source": "gazeta.kg",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-01T16:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "中国北斗空间信号精度达2米 ！ 2027年将发射3颗先导试验卫星开启新征程 - 手机快报 - ITBear科技资讯",
+          "url": "https://www.itbear.com.cn/html/2026-08/1476317.html",
+          "source": "itbear.com.cn",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-08-01T14:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Amazon , Microsoft , Google и Meta готовят рекордный разгон расходов на ИИ » Gazeta . kg новости Кыргызстана и Бишкека сегодня",
+          "url": "https://gazeta.kg/exclusive/211395-amazon-microsoft-google-i-meta-gotovjat-rekordnyj-razgon-rashodov-na-ii.html",
+          "source": "gazeta.kg",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-01T10:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Війна в космосі - BBC пояснила загрози для супутників - новини світу",
+          "url": "https://zn.ua/ukr/WORLD/bbc-pojasnila-jak-mozhe-vihljadati-vijna-v-kosmosi.html",
+          "source": "zn.ua",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-31T21:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "الصين تقترب من القمر .. لماذا تشعر أمريكا بالذعر ؟",
+          "url": "https://www.aljazeera.net/science/2026/7/31/%D9%83%D9%8A%D9%81-%D8%AA%D8%B3%D8%AA%D8%B9%D8%AF-%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7-%D9%88%D8%A7%D9%84%D8%B5%D9%8A%D9%86-%D9%84%D8%A3%D9%88%D9%84-%D8%AD%D8%B1%D8%A8",
+          "source": "aljazeera.net",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-31T19:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "« Εξολοθρευτές δορυφόρων »: Πώς μπορεί να μοιάζει ένας - όχι και τόσο μακρινός - πόλεμος στο διάστημα",
+          "url": "https://e-thessalia.gr/exolothreytes-doryforon-pos-mporei-na-moiazei-enas-ochi-kai-toso-makrinos-polemos-sto-diastima/",
+          "source": "e-thessalia.gr",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-31T18:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Ядерное сдерживание на Ближнем Востоке 2026",
+          "url": "https://jtimes.ru/yadernoe-sderzhivanie-blizhnij-vostok-2026/",
+          "source": "jtimes.ru",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-31T16:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Is space becoming the new frontline in conflict ?",
+          "url": "https://www.thenews.com.pk/latest/1410823-is-space-becoming-the-new-frontline-in-conflict",
+          "source": "thenews.com.pk",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-31T12:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "中共刷屏太空 美国坐不住了",
+          "url": "https://www.aboluowang.com/2026/0731/2414965.html",
+          "source": "aboluowang.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-07-31T04:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Čína prudko rozširuje jadrový arzenál , Pentagón varuje pred novou rovnováhou síl",
+          "url": "https://www.topky.sk/cl/11/9456765/Desivy-rozsah-cinskeho-jadroveho-arzenalu--Peking-buduje-neznicitelnu-silu-novej-generacie-",
+          "source": "topky.sk",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-31T03:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "China satellite fleet grows sixfold , narrowing U . S . lead",
+          "url": "https://www.upi.com/Top_News/World-News/2026/07/30/space-capabilities-anti-satellite-weapons/6401785451315/",
+          "source": "upi.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-30T23:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Посол РФ в ФРГ : Россия обеспокоена ядерными учениями Германии и Франции",
+          "url": "https://www.vedomosti.ru/politics/news/2026/07/31/1217821-posol-rf-v-frg-rossiya",
+          "source": "vedomosti.ru",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-30T22:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Πρόκληση για ΗΠΑ η ραγδαία ανάπτυξη του εμπορικού διαστημικού τομέα της Κίνας",
+          "url": "https://www.kathimerini.gr/economy/international/564374233/proklisi-gia-ipa-i-ragdaia-anaptyxi-toy-emporikoy-diastimikoy-tomea-tis-kinas/",
+          "source": "kathimerini.gr",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-30T20:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Китай разширява разполагането на хиперзвукови противокорабни ракети",
+          "url": "https://news.bg/int-politics/kitay-razshiryava-razpolaganeto-na-hiperzvukovi-protivokorabni-raketi.html",
+          "source": "news.bg",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-30T13:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "China closes the satellite gap in space race with the US",
+          "url": "https://www.livemint.com/global/china-closes-the-satellite-gap-in-space-race-with-the-us-11785373885106.html",
+          "source": "livemint.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-30T04:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Для чемпионата UIM F1H2O на Иссык - Куле подготовили резервные источники электроснабжения » Gazeta . kg новости Кыргызстана и Бишкека сегодня",
+          "url": "https://gazeta.kg/exclusive/210868-dlja-chempionata-uim-f1h2o-na-issyk-kule-podgotovili-rezervnye-istochniki-jelektrosnabzhenija.html",
+          "source": "gazeta.kg",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-29T16:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Китай ускоряет контроль над орбитой : стартап привлёк $14 , 8 млн на создание группировки спутников слежения",
+          "url": "https://www.ixbt.com/news/2026/07/29/kitaj-uskorjaet-kontrol-nad-orbitoj-startap-privljok-148-mln-na-sozdanie-gruppirovki-sputnikov-slezhenija.html",
+          "source": "ixbt.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-29T15:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "仿效電動車模式 ！ 中國商業太空快速崛起 CSIS示警 ： 恐對美構成戰略挑戰 - 國際",
+          "url": "https://news.ltn.com.tw/news/world/breakingnews/5522256",
+          "source": "news.ltn.com.tw",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-07-29T14:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Великобритания и Франция отказываются от миссии по охране Ормузского пролива » Gazeta . kg новости Кыргызстана и Бишкека сегодня",
+          "url": "https://gazeta.kg/exclusive/210834-velikobritanija-i-francija-otkazyvajutsja-ot-missii-po-ohrane-ormuzskogo-proliva.html",
+          "source": "gazeta.kg",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-29T13:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "На ремонт здания  Агропрома  в Бишкеке потратят 36 миллионов сомов » Gazeta . kg новости Кыргызстана и Бишкека сегодня",
+          "url": "https://gazeta.kg/exclusive/210714-na-remont-zdanija-agroproma-v-bishkeke-potratjat-36-millionov-somov.html",
+          "source": "gazeta.kg",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-29T07:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Kina zapretila Japanu : Ako krenete ka nuklearnom oružju , platićete veoma visoku cenu",
+          "url": "https://informer.rs/planeta/vesti/1137055/kina-japan-pretnja-nukelarno-oruzje",
+          "source": "informer.rs",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-29T07:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "The new nuclear terror",
+          "url": "https://www.newstatesman.com/cover-story/2026/07/the-new-nuclear-terror",
+          "source": "newstatesman.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-29T06:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        }
+      ]
     },
     "economy": {
       "label": "Economy & Trade",
@@ -258,96 +582,12 @@
       "featured": false,
       "articles": [
         {
-          "title": "Chinese yuan weakens to 6 . 7917 against USD Tuesday - Xinhua",
-          "url": "https://english.news.cn/20260804/a65317c365ac4472b1604ea4c543135b/c.html",
-          "source": "english.news.cn",
+          "title": "Half - year Financial Report | Company Announcement",
+          "url": "https://www.investegate.co.uk/announcement/rns/georgia-capital--cgeo/half-year-financial-report/9702442",
+          "source": "investegate.co.uk",
           "language": "en",
           "type": "wire",
-          "published": "2026-08-04T04:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "Market exchange rates in China -- Aug . 4 - Xinhua",
-          "url": "https://english.news.cn/20260804/2036e5c0889e43ff945374d4c3148ee9/c.html",
-          "source": "english.news.cn",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-04T04:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "Chinese yuan weakens to 6 . 7917 against USD Tuesday",
-          "url": "http://www.bignewsnetwork.com/news/279221482/chinese-yuan-weakens-to-67917-against-usd-tuesday",
-          "source": "bignewsnetwork.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-04T02:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "PBOC is expected to set the USD / CNY reference rate at 6 . 7595 – Reuters estimate",
-          "url": "https://investinglive.com/central-banks/pboc-is-expected-to-set-the-usd-cny-reference-rate-at-6-7-reuters-estimate-0/",
-          "source": "investinglive.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-04T02:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "Chinese yuan weakens to 6 . 7898 against USD Monday - Xinhua",
-          "url": "https://english.news.cn/20260803/46e281744a5f47498f0a0bc7aefd6455/c.html",
-          "source": "english.news.cn",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-03T05:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "Market exchange rates in China -- Aug . 3 - Xinhua",
-          "url": "https://english.news.cn/20260803/5957472f532445fe8a6689b35f1ed0d7/c.html",
-          "source": "english.news.cn",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-03T05:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "Market exchange rates in China -- July 31 - Xinhua",
-          "url": "https://english.news.cn/20260731/22998cfda1ea402194b8e75bef4e2fd6/c.html",
-          "source": "english.news.cn",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-31T06:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "Editorial | China drive to sidestep weaponised Western finance gains speed",
-          "url": "https://www.scmp.com/opinion/comment/article/3362077/chinas-drive-sidestep-weaponised-western-finance-gains-speed",
-          "source": "scmp.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-29T03:00:00+00:00",
+          "published": "2026-08-04T08:00:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -362,180 +602,60 @@
       "featured": false,
       "articles": [
         {
-          "title": "다큐가 된 풍자 , 인도 모디 정권을 뒤흔들다",
-          "url": "https://h21.hani.co.kr/arti/world/world_general/59710.html",
-          "source": "h21.hani.co.kr",
+          "title": "From Fujian to Mountville : How a Chinese dissident made Lancaster County his new home",
+          "url": "https://lancasteronline.com/news/local/from-fujian-to-mountville-how-a-chinese-dissident-made-lancaster-county-his-new-home/article_1c6925fb-1527-4fdc-a8b1-805be5517572.html",
+          "source": "lancasteronline.com",
           "language": "en",
           "type": "wire",
-          "published": "2026-08-04T23:00:00+00:00",
+          "published": "2026-08-02T00:00:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "society"
         },
         {
-          "title": "A Warning from Bankipur : The High Cost of Centralised Control and Economic Ignorance",
-          "url": "https://www.nyoooz.com/news/patna/1727167/a-warning-from-bankipur-the-high-cost-of-centralised-control-and-economic-ignorance/",
-          "source": "nyoooz.com",
+          "title": "ICE in central Pa . monitoring Chinese asylum seeker released from Moshannon Valley Processing Center",
+          "url": "https://radio.wpsu.org/2026-07-31/ice-in-central-pa-monitoring-chinese-asylum-seeker-released-from-moshannon-valley-processing-center",
+          "source": "radio.wpsu.org",
           "language": "en",
           "type": "wire",
-          "published": "2026-08-03T15:15:00+00:00",
+          "published": "2026-07-31T19:30:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "society"
         },
         {
-          "title": "共產黨員年增101 . 5萬名 陸委會 ： 中共要求從嚴政治審查 - 政治",
-          "url": "https://news.ltn.com.tw/news/politics/breakingnews/5527108",
-          "source": "news.ltn.com.tw",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-08-03T09:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "寻路乡村 读懂中国",
-          "url": "http://news.cyol.com/gb/news/articles/2026-08/03/content_77q6QxfeEY.html",
-          "source": "news.cyol.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-08-03T02:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "首個五年規劃重中之重 ！ 李家超 ： 北部都會區是香港大機遇 - 香港",
-          "url": "https://www.wenweipo.com/a/202608/03/AP6a6fdfece4b0c1e500234f54.html",
-          "source": "wenweipo.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-08-03T01:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "中国人越来越没有自由 ＊ 阿波罗新闻网",
-          "url": "https://www.aboluowang.com/2026/0803/2415956.html",
-          "source": "aboluowang.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-08-03T00:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "ابتكار فتيات صينيات خبيرًا مزيفًا في التربية لمناقشة آبائهن",
-          "url": "https://ar.globalvoices.org/2026/08/01/97745/",
-          "source": "ar.globalvoices.org",
+          "title": "Razor - Wire Barriers Divide Beijing , Hebei Villages as Security Controls Tighten",
+          "url": "https://www.theepochtimes.com/china/razor-wire-barriers-divide-beijing-hebei-villages-as-security-controls-tighten-6069669",
+          "source": "theepochtimes.com",
           "language": "en",
           "type": "wire",
-          "published": "2026-08-01T20:30:00+00:00",
+          "published": "2026-07-31T15:45:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "society"
         },
         {
-          "title": "近6成民眾認同補習助升學 108課綱增不確定感 - 生活",
-          "url": "https://news.cts.com.tw/cna/life/202608/202608013062496.html",
-          "source": "news.cts.com.tw",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-08-01T12:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "印度青年示威迫政府軟化 總理稱願原諒出言不遜者 | 國際",
-          "url": "https://www.cna.com.tw:443/news/aopl/202608010126.aspx",
-          "source": "cna.com.tw",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-08-01T09:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "中国退役军人事务部长 ： 确有老兵生活碰到特殊困难",
-          "url": "https://www.zaobao.com.sg/news/china/story20260801-9454568",
-          "source": "zaobao.com.sg",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-08-01T05:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "从菲尔兹奖看中国高等教育  一头一尾  的巨大尴尬 : 中国高等教育就无法为  提问者  与  思考者  提供免于恐惧 、 自由发芽的土壤 - amico发表于 时事述评 - 论坛",
-          "url": "https://bbs.wenxuecity.com/currentevent/4043515.html",
-          "source": "bbs.wenxuecity.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-07-31T18:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "Demographic Window Of 25 Years - Will It Be a Dividend Or Disaster For India ?",
-          "url": "https://www.deccanchronicle.com/nation/current-affairs/demographic-window-of-25-years-will-it-be-a-dividend-or-disaster-for-india-1975507",
-          "source": "deccanchronicle.com",
+          "title": "Tom Purcell - Taking our right to speak freely for granted",
+          "url": "http://www.crescent-news.com/opinion/opinion_columnists/tom-purcell---taking-our-right-to-speak-freely-for-granted/article_35fa85fa-d078-4b74-836d-4b816638001b.html",
+          "source": "crescent-news.com",
           "language": "en",
           "type": "wire",
-          "published": "2026-07-31T13:00:00+00:00",
+          "published": "2026-07-30T04:00:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "society"
         },
         {
-          "title": "युवाओं के सत्याग्रह ने अपने पीछे कुछ सबक छोड़े",
-          "url": "https://www.deshbandhu.co.in/articles/the-youths-satyagraha-left-behind-some-lessons-312867",
-          "source": "deshbandhu.co.in",
+          "title": "Taking our right to speak freely for granted",
+          "url": "https://jewishworldreview.com/0726/purcell072926.php",
+          "source": "jewishworldreview.com",
           "language": "en",
           "type": "wire",
-          "published": "2026-07-30T23:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "官方数据暴露经济危机 ： 赚钱的不需要人 用人的全在赔钱",
-          "url": "https://www.renminbao.com/rmb/articles/2026/7/30/96080.html",
-          "source": "renminbao.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-07-29T21:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "Sondazhi i NDI - së : Rritet pesimizmi , një në katër qytetarë do të largohet nga Kosova",
-          "url": "https://24-ore.com/sondazhi-i-ndi-se-rritet-pesimizmi-nje-ne-kater-qytetare-do-te-largohet-nga-kosova/",
-          "source": "24-ore.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-29T14:00:00+00:00",
+          "published": "2026-07-29T14:30:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -548,7 +668,68 @@
       "icon": "⚓",
       "color": "#3ab8c5",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "Médaille Fields : et si le Maroc se donnait les moyens den décrocher une ? - Médias24 - Numéro un de linformation économique marocaine",
+          "url": "https://medias24.com/2026/08/03/medaille-fields-et-si-le-maroc-se-donnait-les-moyens-den-decrocher-une-1735363/",
+          "source": "medias24.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-03T18:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "maritime_security"
+        },
+        {
+          "title": "PH strengthens claim , files WPS map at UN | The Manila Times",
+          "url": "https://www.manilatimes.net/2026/08/02/news/ph-strengthens-claim-files-wps-map-at-un/2396235",
+          "source": "manilatimes.net",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-01T16:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "maritime_security"
+        },
+        {
+          "title": "国防部新闻发言人蒋斌就近期涉军问题发布消息",
+          "url": "http://news.china.com.cn/txt/2026-07/31/content_118626653.shtml",
+          "source": "news.china.com.cn",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-07-30T21:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "maritime_security"
+        },
+        {
+          "title": "菲律賓印尼親美 東盟內部現分歧",
+          "url": "http://orientaldaily.on.cc/content/%E5%85%A9%E5%B2%B8%E5%9C%8B%E9%9A%9B/odn-20260730-0730_00192_001/%E8%8F%B2%E5%BE%8B%E8%B3%93%E5%8D%B0%E5%B0%BC%E8%A6%AA%E7%BE%8E--%E6%9D%B1%E7%9B%9F%E5%85%A7%E9%83%A8%E7%8F%BE%E5%88%86%E6%AD%A7",
+          "source": "orientaldaily.on.cc",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-07-29T21:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "maritime_security"
+        },
+        {
+          "title": "Middle East War Dominates ASEAN Foreign Ministers Manila Summit",
+          "url": "https://foreignpolicy.com/2026/07/29/asean-foreign-ministers-summit-manila-middle-east-war/",
+          "source": "foreignpolicy.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-07-29T07:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "maritime_security"
+        }
+      ]
     },
     "domestic_security": {
       "label": "Domestic Security",
@@ -557,180 +738,60 @@
       "featured": false,
       "articles": [
         {
-          "title": "WUC accuses China of expanding Uyghur repression beyond borders",
-          "url": "http://www.afghanistansun.com/news/279218522/wuc-accuses-china-of-expanding-uyghur-repression-beyond-borders",
-          "source": "afghanistansun.com",
+          "title": "A young Tibetan flees his homeland – and reveals how China is eroding his culture",
+          "url": "https://abc17news.com/news/national-world/cnn-world/2026/08/01/a-young-tibetan-flees-his-homeland-and-reveals-how-china-is-eroding-his-culture/",
+          "source": "abc17news.com",
           "language": "en",
           "type": "wire",
-          "published": "2026-08-01T15:30:00+00:00",
+          "published": "2026-08-02T11:45:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "domestic_security"
         },
         {
-          "title": "WUC accuses China of expanding Uyghur repression beyond borders",
-          "url": "http://www.shanghaisun.com/news/279218522/wuc-accuses-china-of-expanding-uyghur-repression-beyond-borders",
-          "source": "shanghaisun.com",
+          "title": "A young Tibetan flees his homeland – and reveals how China is eroding his culture",
+          "url": "https://kesq.com/news/national-world/cnn-world/2026/08/01/a-young-tibetan-flees-his-homeland-and-reveals-how-china-is-eroding-his-culture/",
+          "source": "kesq.com",
           "language": "en",
           "type": "wire",
-          "published": "2026-08-01T15:30:00+00:00",
+          "published": "2026-08-02T10:45:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "domestic_security"
         },
         {
-          "title": "WUC accuses China of expanding Uyghur repression beyond borders",
-          "url": "http://www.sierraleonetimes.com/news/279218522/wuc-accuses-china-of-expanding-uyghur-repression-beyond-borders",
-          "source": "sierraleonetimes.com",
+          "title": "A young Tibetan flees his homeland – and reveals how China is eroding his culture",
+          "url": "https://kvia.com/news/us-world/cnn-world/2026/08/01/a-young-tibetan-flees-his-homeland-and-reveals-how-china-is-eroding-his-culture/",
+          "source": "kvia.com",
           "language": "en",
           "type": "wire",
-          "published": "2026-08-01T15:00:00+00:00",
+          "published": "2026-08-02T09:00:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "domestic_security"
         },
         {
-          "title": "WUC accuses China of expanding Uyghur repression beyond borders",
-          "url": "http://www.newyorkstatesman.com/news/279218522/wuc-accuses-china-of-expanding-uyghur-repression-beyond-borders",
-          "source": "newyorkstatesman.com",
+          "title": "A young Tibetan flees his homeland – and reveals how China is eroding his culture",
+          "url": "https://keyt.com/news/national-world/cnn-world/2026/08/01/a-young-tibetan-flees-his-homeland-and-reveals-how-china-is-eroding-his-culture/",
+          "source": "keyt.com",
           "language": "en",
           "type": "wire",
-          "published": "2026-08-01T14:30:00+00:00",
+          "published": "2026-08-02T08:15:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "domestic_security"
         },
         {
-          "title": "WUC accuses China of expanding Uyghur repression beyond borders",
-          "url": "http://www.greekherald.com/news/279218522/wuc-accuses-china-of-expanding-uyghur-repression-beyond-borders",
-          "source": "greekherald.com",
+          "title": "A young Tibetan flees his homeland – and reveals how China is eroding his culture - LocalNews8 . com",
+          "url": "https://localnews8.com/news/national-world/cnn-world/2026/08/01/a-young-tibetan-flees-his-homeland-and-reveals-how-china-is-eroding-his-culture/",
+          "source": "localnews8.com",
           "language": "en",
           "type": "wire",
-          "published": "2026-08-01T14:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "WUC accuses China of expanding Uyghur repression beyond borders",
-          "url": "http://www.centralasiatimes.com/news/279218522/wuc-accuses-china-of-expanding-uyghur-repression-beyond-borders",
-          "source": "centralasiatimes.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-01T13:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "WUC accuses China of expanding Uyghur repression beyond borders",
-          "url": "http://www.bignewsnetwork.com/news/279218522/wuc-accuses-china-of-expanding-uyghur-repression-beyond-borders",
-          "source": "bignewsnetwork.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-01T12:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "WUC accuses China of expanding Uyghur repression beyond borders",
-          "url": "http://www.shanghainews.net/news/279218522/wuc-accuses-china-of-expanding-uyghur-repression-beyond-borders",
-          "source": "shanghainews.net",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-01T12:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "WUC accuses China of expanding Uyghur repression beyond borders",
-          "url": "http://www.kenyastar.com/news/279218522/wuc-accuses-china-of-expanding-uyghur-repression-beyond-borders",
-          "source": "kenyastar.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-01T11:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "WUC accuses China of expanding Uyghur repression beyond borders",
-          "url": "http://www.zimbabwestar.com/news/279218522/wuc-accuses-china-of-expanding-uyghur-repression-beyond-borders",
-          "source": "zimbabwestar.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-01T11:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "WUC accuses China of expanding Uyghur repression beyond borders",
-          "url": "http://www.newyorktelegraph.com/news/279218522/wuc-accuses-china-of-expanding-uyghur-repression-beyond-borders",
-          "source": "newyorktelegraph.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-01T11:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "WUC accuses China of expanding Uyghur repression beyond borders",
-          "url": "https://news.webindia123.com/news/Articles/World/20260801/4481897.html",
-          "source": "news.webindia123.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-01T10:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "WUC accuses China of expanding Uyghur repression beyond borders",
-          "url": "https://aninews.in/news/world/europe/wuc-accuses-china-of-expanding-uyghur-repression-beyond-borders20260801132410/",
-          "source": "aninews.in",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-01T09:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "ETGE marks 12th anniversary of Yarkent Massacre in Washington",
-          "url": "http://www.chinanationalnews.com/news/279215244/etge-marks-12th-anniversary-of-yarkent-massacre-in-washington",
-          "source": "chinanationalnews.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-29T18:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "ETGE marks 12th anniversary of Yarkent Massacre in Washington",
-          "url": "https://news.webindia123.com/news/Articles/World/20260729/4480675.html",
-          "source": "news.webindia123.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-07-29T14:00:00+00:00",
+          "published": "2026-08-02T07:45:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -931,191 +992,340 @@
       "icon": "🏢",
       "color": "#3ab8a0",
       "featured": false,
-      "articles": [
-        {
-          "title": "NATO quiet foray into Asean : Hard lessons for Africa and the Global South",
-          "url": "https://www.thestandard.co.zw/standard-people/article/200059021/natos-quiet-foray-into-asean-hard-lessons-for-africa-and-the-global-south",
-          "source": "thestandard.co.zw",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-04T17:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "China - ASEAN Alliance for Lifelong Learning Launched",
-          "url": "http://www.malaysiasun.com/news/279220234/china-asean-alliance-for-lifelong-learning-launched",
-          "source": "malaysiasun.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-03T08:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "China - ASEAN Alliance for Lifelong Learning Launched",
-          "url": "http://www.sydneysun.com/news/279220234/china-asean-alliance-for-lifelong-learning-launched",
-          "source": "sydneysun.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-03T08:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "China - ASEAN Alliance for Lifelong Learning Launched",
-          "url": "http://www.singaporestar.com/news/279220234/china-asean-alliance-for-lifelong-learning-launched",
-          "source": "singaporestar.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-03T07:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "China - ASEAN Alliance for Lifelong Learning Launched",
-          "url": "http://www.vietnamtribune.com/news/279220234/china-asean-alliance-for-lifelong-learning-launched",
-          "source": "vietnamtribune.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-03T06:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "China - ASEAN Alliance for Lifelong Learning Launched",
-          "url": "http://www.asiabulletin.com/news/279220234/china-asean-alliance-for-lifelong-learning-launched",
-          "source": "asiabulletin.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-03T04:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "China - ASEAN Alliance for Lifelong Learning Launched",
-          "url": "http://www.australiannews.net/news/279220234/china-asean-alliance-for-lifelong-learning-launched",
-          "source": "australiannews.net",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-03T04:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "China - ASEAN Alliance for Lifelong Learning Launched",
-          "url": "https://www.manilatimes.net/2026/08/03/tmt-newswire/pr-newswire/china-asean-alliance-for-lifelong-learning-launched/2396676",
-          "source": "manilatimes.net",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-03T04:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "ASEAN : The last place where serious diplomacy still happens",
-          "url": "http://www.arabherald.com/news/279219614/asean-the-last-place-where-serious-diplomacy-still-happens",
-          "source": "arabherald.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-02T15:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "ASEAN : The last place where serious diplomacy still happens",
-          "url": "http://www.malaysiasun.com/news/279219614/asean-the-last-place-where-serious-diplomacy-still-happens",
-          "source": "malaysiasun.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-02T12:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "ASEAN : The last place where serious diplomacy still happens",
-          "url": "http://www.batonrougepost.com/news/279219614/asean-the-last-place-where-serious-diplomacy-still-happens",
-          "source": "batonrougepost.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-02T12:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "ASEAN : The last place where serious diplomacy still happens",
-          "url": "http://www.iranherald.com/news/279219614/asean-the-last-place-where-serious-diplomacy-still-happens",
-          "source": "iranherald.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-02T12:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "潮州竹基循环新材料亮相第25届马来西亚建材展 - 潮州新闻网 - 潮州日报官方网站",
-          "url": "https://www.chaozhoudaily.com/content/202608/02/c26073347.html",
-          "source": "chaozhoudaily.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-08-02T07:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "2026中国 东盟青年共同体论坛顺利举办",
-          "url": "http://www.shangbao.com.ph/zgxw/2026/08-01/202716.shtml",
-          "source": "shangbao.com.ph",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-08-01T18:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "跨越山海  的引力 ！ 中国 东盟教育交流周十八年 ， 从双边对话到共建  友好家园",
-          "url": "https://baijiahao.baidu.com/s?id=1872036056828486333",
-          "source": "baijiahao.baidu.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-07-29T13:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        }
-      ]
+      "articles": []
     }
   },
   "latest_rss": [
+    {
+      "title": "月經週期：什麼是「黃體期變醜」？如何影響女性？",
+      "url": "https://www.bbc.com/zhongwen/articles/cy450nxz11eo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-08-05T05:16:15+00:00",
+      "summary": "越來越多的女性在社群媒體上談論黃體期，但它究竟會對你產生什麼影響呢？",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3784/live/e4105750-8ced-11f1-a573-93159e2b55da.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Most Americans say US has not achieved war goals in Iran, survey finds",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3362985/most-americans-say-us-has-not-achieved-war-goals-iran-survey-finds?utm_source=rss_feed",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-08-05T05:00:13+00:00",
+      "summary": "Most Americans believe the Donald Trump administration has been unable to achieve its war objectives against Iran, according to a Marquette Law School poll released on Wednesday, as negotiations continue to reopen the Strait of Hormuz and end five months of hostilities.\nA striking 88 per cent of respondents said the US had not achieved its goals in the war with Iran, up seven percentage points from April, while only 12 per cent believed it had met its objectives, down from 21 per cent.\nThe poll...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/1a2b2bec-f192-41db-a368-862edc83ecdb_f4694643.jpg?itok=t13sIEzf&v=1785892563",
+      "via": "rss"
+    },
+    {
+      "title": "Bangladesh Truth Seeker",
+      "url": "https://www.aljazeera.com/video/witness/2026/8/5/bangladesh-truth-seeker?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-08-05T05:00:00+00:00",
+      "summary": "Amid political upheaval in Bangladesh, a journalist debunks fake news in a fight for his nation’s democratic future.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Explosions across Kyiv as Russian missiles strike Ukraine’s capital",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/explosions-across-kyiv-as-russian-missiles-strike-ukraines-capital?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-08-05T04:38:00+00:00",
+      "summary": "At least one person has been killed after a Russian ballistic missile attack on Ukraine’s capital Wednesday morning.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Has a US court just set the grounds for another January 6 insurrection?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/has-a-us-court-just-set-the-grounds-for-another-january-6-insurrection?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-08-05T04:37:43+00:00",
+      "summary": "A US judge has begrudgingly dismissed the last prosecution cases tied to the January 6 insurrection on Capitol Hill.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "打造韩国版澳门：美国原住民部落的一场豪赌",
+      "url": "https://cn.nytimes.com/asia-pacific/20260805/mohegan-south-korea-casino-bain/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "language": "zh",
+      "type": "newspaper",
+      "published": "2026-08-05T04:27:56+00:00",
+      "summary": "莫西干美国原住民部落斥资16亿美元、耗时近10年，在首尔附近建设了一座综合博彩度假村。但开幕不足一年，迎仕柏未达到业绩目标，莫西干也失去了项目控制权。                                        韩国仁川迎仕柏度假城赌场入口，摄于今年1月。",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "When A.I. Goes Rogue",
+      "url": "https://www.nytimes.com/2026/08/04/world/rogue-ai-agents-cybersecurity-uber.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-08-05T04:10:27+00:00",
+      "summary": "It was the stuff of science fiction — until recently.",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/05int-theworld-ai-security-01-kmbz-promo/05int-theworld-ai-security-01-kmbz-promo-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "The ethical perils of gene therapy",
+      "url": "https://www.ft.com/content/c1e34575-9d72-4699-90a8-3052ca648282?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-08-05T04:00:29+00:00",
+      "summary": "A case in China shows the dangers associated with this groundbreaking treatment",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F124f2abe-ba7f-4956-a85c-3606108acb2c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Banks to offload $15bn of debt for Anthropic data centre backed by Google",
+      "url": "https://www.ft.com/content/c492ce6b-483b-4196-8f2a-9bd1afda92d3?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-08-05T04:00:29+00:00",
+      "summary": "Bond sale could free up lending capacity as mega AI deals stretch Wall Street financing limits",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9b9bbda1-2d40-4aec-aeaa-3d8100566c29.png?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Nik Storonsky in talks over new share award if Revolut hits $500bn valuation",
+      "url": "https://www.ft.com/content/7a284485-f648-45da-9f0b-a8b19bbdb99b?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-08-05T04:00:29+00:00",
+      "summary": "Pay deal by Europe’s most valuable start-up would emulate that of Elon Musk",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9e99fde6-1a76-4c02-988f-8a4c5e124eec.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "China launches global tax hunt going back decades",
+      "url": "https://www.ft.com/content/e17912c0-7691-42f7-8920-b43268930e41?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-08-05T04:00:22+00:00",
+      "summary": "Fiscal pressure sparks retroactive campaign and tougher controls on future offshore capital flows",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc8640eb4-8ed3-47ba-bb73-cb9edd3f25dc.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "The real message in the yen intervention",
+      "url": "https://www.ft.com/content/86dbf0c1-d127-4255-85af-602afc30228e?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-08-05T04:00:22+00:00",
+      "summary": "The dollar’s status as a reserve currency is not what it used to be",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3f7c42d2-be73-4807-bd9e-b694208d4b58.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "European carmakers turn to Chinese rivals to fill factory floors",
+      "url": "https://www.ft.com/content/9a59bb55-d060-4002-bc4f-4563aa598b02?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-08-05T04:00:11+00:00",
+      "summary": "The second in a series on Chinese auto companies looks at the European industry’s struggle to keep its plants alive",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F34b2ebe8-68cd-434f-aaaf-2c43039e993b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "How an amputee Chinese scientist is fortifying the country’s military software",
+      "url": "https://www.scmp.com/news/china/science/article/3362932/how-amputee-chinese-scientist-fortifying-countrys-military-software?utm_source=rss_feed",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-08-05T04:00:11+00:00",
+      "summary": "Much of the global debate on Chinese military power focuses on hardware but a vital part of the modernisation process is in the niche field of software verification.\nWang Ji, a computer science researcher at the National University of Defence Technology (NUDT), is mentoring a new generation of scientists to treat the software code in national defence systems with the same precision as doctors diagnosing patients.\nAfter losing both legs to a life-threatening emergency, Wang, 56, has stayed at the...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/04/cbb515eb-8bf2-4e17-8598-eaa893f395b6_9b7ae6b4.jpg?itok=u0w59rcu&v=1785835282",
+      "via": "rss"
+    },
+    {
+      "title": "China’s Nonsmokers Try to Clear the Air, One Confrontation at a Time",
+      "url": "https://www.nytimes.com/2026/08/05/world/asia/china-cigarette-smoking.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-08-05T04:00:04+00:00",
+      "summary": "Smoking outside the Beijing Railway Station in February. China consumes roughly half the world’s cigarettes, and enforcement of local smoking bans can be lax or virtually nonexistent.",
+      "image": "https://static01.nyt.com/images/2026/07/30/multimedia/00int-china-smoking-bgqp/00int-china-smoking-bgqp-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Bolivia sends troops to stop Brazilian gang violence along border",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/bolivia-sends-troops-to-stop-brazilian-gang-violence-along-border?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-08-05T03:58:12+00:00",
+      "summary": "Footage shows some of the more than 200 Bolivian police and military officers patrolling its border with Brazil.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "North Korea’s Kim Yo Jong issues military threat over Japan missile test",
+      "url": "https://www.aljazeera.com/news/2026/8/5/north-koreas-kim-yo-jong-issues-military-threat-over-japan-missile-test?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-08-05T03:48:21+00:00",
+      "summary": "The powerful sister of North Korean leader Kim Jong Un has accused Japan of moving beyond a defensive posture.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Protesters demand answers from ICE after second man dies at Delaney Hall",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-demand-answers-from-ice-after-second-man-dies-at-delaney-hall?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-08-05T03:33:21+00:00",
+      "summary": "Anger is growing after a 41-year-old Salvadoran man named Edwin Lopez-Cornejo died at an ICE detention centre.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Israel approves $37m to seize more than 70 occupied West Bank sites",
+      "url": "https://www.aljazeera.com/news/2026/8/5/israel-approves-37m-to-seize-more-than-70-occupied-west-bank-sites?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-08-05T03:19:59+00:00",
+      "summary": "The allocated funding seeks to accelerate Israel&#039;s control of historical landmarks across the occupied West Bank.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "如何应对中国开源AI模型？特朗普政府内部争论升级",
+      "url": "https://cn.nytimes.com/technology/20260805/ai-washington-regulation-whiplash/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "language": "zh",
+      "type": "newspaper",
+      "published": "2026-08-05T03:13:08+00:00",
+      "summary": "知情人士透露，特朗普政府曾考虑制裁中国开源AI模型，但因硅谷反对而改变主意，转而推动美国模型以提升竞争力。这反映出政府在掌控AI时面临的困难。                    Agence France-Presse — Getty Images                    华盛顿与北京之间正展开一场关于谁将控制关键技术的博弈，由月之暗面开发的Kimi等中国开源人工智能模型为这场博弈增添了全新且紧迫的维度。",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "边检排队六小时？欧洲全新出入境系统引发旅行“噩梦”",
+      "url": "https://cn.nytimes.com/world/20260805/eu-passport-control-chaos/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "language": "zh",
+      "type": "newspaper",
+      "published": "2026-08-05T03:10:24+00:00",
+      "summary": "欧洲全新的生物识别边检系统旨在通过指纹采集和面部扫描更好地追踪旅客。但新系统屡屡出现技术故障和拥堵问题，导致旅客大排长龙，甚至错过航班，引发大规模不满。                    Armando Franca/Associated Press                    官员表示，里斯本机场护照检查的等候时间在去年冬天达到了六个小时的峰值，但现在最长时间仅为当时的四分之一。",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "韩国希望提高生育率，但新生儿科医生数量严重短缺",
+      "url": "https://cn.nytimes.com/asia-pacific/20260805/south-korea-birth-rate-nicu-crisis/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "language": "zh",
+      "type": "newspaper",
+      "published": "2026-08-05T03:01:51+00:00",
+      "summary": "韩国的生育率处于世界最低水平，政府多年来一直在努力改变这一局面。但该国儿科医生、产房和新生儿科医生的数量逐年暴跌，新生儿重症监护室的专科医生短缺尤为严重。                    Jean Chung for The New York Times                    2024年，在韩国首尔某产后护理中心的新生儿病房里，工作人员正在照料新生儿。",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "PNG’s closure of Taiwan trade office signals expanded economic ties with China",
+      "url": "https://rfa.org/english/pacific/2026/08/05/png-taiwan-china-trade-office/",
+      "source": "Radio Free Asia",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-08-05T02:52:06+00:00",
+      "summary": "PORT MORESBY, Papua New Guinea – Papua New Guinea’s decision to close Taiwan’s trade office in Port Moresby is puzzling from a diplomatic standpoint, but it signals a coming expansion of its economic relationship with China, experts told Radio Free Asia.Last month, PNG’s Foreign Affairs Minister Justin Tkatchenko announced in an official statement the immediate cessation of operations and the formal closure of the physical presence of the Chinese Taipei Economics Office, citing Port Moresby’s “unwavering commitment to honoring, respecting and upholding Papua New Guinea’s foundational One-China Policy,” which aligns with Beijing’s view, the One-China Principle, which states that Taiwan is an inalienable part of its territory. The decision was confusing, Paul Barker, executive director of the PNG Institute of National Affairs, a Port Moresby-based think tank, told RFA.“One really wonders why one would take this action at this point,” he said. “PNG has always stated its position of friend",
+      "image": "https://www.rfa.org/resizer/v2/5XBETUEZY5CARFA7TR2QBRNZFM.jpg?auth=5af089b2c14853152584e9d4628ee6f20d41f6b33285495a0c9f8d451beb4863&smart=true&width=1500",
+      "via": "rss"
+    },
+    {
+      "title": "在中国：人工智能正在摧毁越来越多的工作岗位，而政府的反应却畏首畏尾",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260805-%E5%9C%A8%E4%B8%AD%E5%9B%BD-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%AD%A3%E5%9C%A8%E6%91%A7%E6%AF%81%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%B2%97%E4%BD%8D%EF%BC%8C%E8%80%8C%E6%94%BF%E5%BA%9C%E7%9A%84%E5%8F%8D%E5%BA%94%E5%8D%B4%E7%95%8F%E9%A6%96%E7%95%8F%E5%B0%BE",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-08-05T02:40:16+00:00",
+      "summary": "在中国，人工智能的大规模应用扰乱了本已脆弱的劳动力市场。数千万工人被迫放弃稳定的工作，转而从事不稳定的就业，政府正在制定以人为本的新指导方针。外媒指出，在中国：人工智能正在摧毁越来越多的工作岗位，而政府的反应却畏首畏尾",
+      "image": "https://s.rfi.fr/media/display/5057dac8-8f3c-11f1-a171-005056a97e36/w:1024/p:16x9/000-36RU8KY.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "台灣「漢光演習」四大看點：淡江大橋首阻絕、民用工廠產軍火",
+      "url": "https://www.bbc.com/zhongwen/articles/cj9d7y31yylo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-08-05T02:30:53+00:00",
+      "summary": "台灣國防部年度「漢光演習」將於8月5日展開，為期十天九夜，軍方目標是「擊潰敵人，讓全面入侵的作戰失敗」。分析指，演習焦點已轉為強調「軍民結合」，並擴展至城市防禦和韌性訓練。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1d53/live/9e2ba9e0-906e-11f1-8a0c-6d75eaa4bd97.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "US stock market hits record high amid hopes for Strait of Hormuz reopening",
+      "url": "https://www.aljazeera.com/economy/2026/8/5/us-stock-market-hits-record-high-amid-hopes-for-strait-of-hormuz-reopening?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-08-05T02:09:06+00:00",
+      "summary": "Oil prices fall as US officials tout progress in talks to reopen critical waterway.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Who are the officers filling the big shoes left behind in PLA anti-corruption drive?",
+      "url": "https://www.scmp.com/news/china/military/article/3362837/who-are-officers-filling-big-shoes-left-behind-pla-anti-corruption-drive?utm_source=rss_feed",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-08-05T02:00:07+00:00",
+      "summary": "The sweeping anti-corruption drive in China’s military appears to have cleared the way for a new batch of officers to quietly assume de facto leadership of key People’s Liberation Army bodies.\nAccording to a South China Morning Post analysis of official insignia and protocol seating from state media coverage of recent meetings, dozens of fresh commanders have stepped into the roles of their ousted predecessors, positioning them to lead the world’s largest standing army.\nMany have assumed major...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/ba311c65-3dae-461b-b386-176c6297ab3a_63d9d233.jpg?itok=gqhedyy1&v=1785863759",
+      "via": "rss"
+    },
+    {
+      "title": "Trump Administration Revokes Visa of Brazil’s Ambassador in the U.S.",
+      "url": "https://www.nytimes.com/2026/08/04/world/americas/brazil-ambassador-us-visa.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-08-05T01:47:42+00:00",
+      "summary": "The State Department has canceled the visa of the Brazilian ambassador in Washington, deepening a diplomatic crisis between the two countries.",
+      "image": "https://static01.nyt.com/images/2026/08/04/multimedia/04int-brazil-us-ambassador-hmwt/04int-brazil-us-ambassador-hmwt-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Armed man arrested at Trump’s LA golf course ahead of president’s visit",
+      "url": "https://www.aljazeera.com/news/2026/8/5/armed-man-arrested-at-trumps-la-golf-course-ahead-of-presidents-visit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-08-05T01:29:01+00:00",
+      "summary": "Loaded pistol and rifle among items found in suspect&#039;s pocket, car and home following arrest, police say.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Ceuta and Melilla: Why Europe’s African border remains a flashpoint",
+      "url": "https://www.aljazeera.com/news/2026/8/5/ceuta-and-melilla-why-europes-african-border-remains-a-flashpoint?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-08-05T01:21:16+00:00",
+      "summary": "The two Spanish enclaves in North Africa remain at the centre of a diplomatic standoff between Spain and Morocco.",
+      "image": "",
+      "via": "rss"
+    },
     {
       "title": "Indonesia’s Cyberscam Story",
       "url": "https://www.asiasentinel.com/p/indonesia-cyberscam-story",
@@ -1125,6 +1335,17 @@
       "published": "2026-08-05T01:19:58+00:00",
       "summary": "By: Joe HeaverHundreds of scamsters arrested in BaliWhile police raids on online scam operations in Indonesia are no longer a rare occurrence, with victims falling for sophisticated romance scams for a decade, the magnitude of fraud is astonishing, with the country ranked the second most fraud-vulnerable in the world after Pakistan according to the Glob&#8230;\n      \n          \n              Read more",
       "image": "https://substackcdn.com/image/fetch/$s_!wsD7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1a3367e8-0438-44a1-bc79-fcefb7900bd4_1023x575.jpeg",
+      "via": "rss"
+    },
+    {
+      "title": "Trump administration cancels Brazilian ambassador’s visa in tit-for-tat",
+      "url": "https://www.washingtonpost.com/national-security/2026/08/04/trump-administration-cancels-brazilian-ambassadors-visa-tit-for-tat/",
+      "source": "Washington Post",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-08-05T01:01:37+00:00",
+      "summary": "A senior State Department official told reporters in a background briefing that it was a “reciprocal” action because Brazil has not approved President Donald Trump’s nominee as ambassador to Brasilia.",
+      "image": "",
       "via": "rss"
     },
     {
@@ -1150,17 +1371,6 @@
       "via": "rss"
     },
     {
-      "title": "Trump Administration Revokes Visa of Brazil’s Ambassador in the U.S.",
-      "url": "https://www.nytimes.com/2026/08/04/world/americas/brazil-ambassador-us-visa.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-08-05T00:26:27+00:00",
-      "summary": "The State Department has canceled the visa of the Brazilian ambassador in Washington, deepening a diplomatic crisis between the two countries.",
-      "image": "https://static01.nyt.com/images/2026/08/04/multimedia/04int-brazil-us-ambassador-hmwt/04int-brazil-us-ambassador-hmwt-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
       "title": "火裏去，槍下躺：俄羅斯如何將傷兵重新送回烏克蘭前線？",
       "url": "https://www.bbc.com/zhongwen/articles/c07rmmvm1pmo/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
@@ -1169,17 +1379,6 @@
       "published": "2026-08-05T00:03:04+00:00",
       "summary": "BBC俄語取得的法庭文件顯示，多次有指控稱，指揮官將在烏克蘭受傷的士兵重新送回戰場，而非按照法律要求安排他們接受醫療評估。",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2663/live/e9e4aa20-85e8-11f1-8ade-a7a676c613b9.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "如何应对中国开源AI模型？特朗普政府内部争论升级",
-      "url": "https://cn.nytimes.com/technology/20260805/ai-washington-regulation-whiplash/?utm_source=RSS",
-      "source": "纽约时报中文",
-      "language": "zh",
-      "type": "newspaper",
-      "published": "2026-08-05T00:02:48+00:00",
-      "summary": "知情人士透露，特朗普政府曾考虑制裁中国开源AI模型，但因硅谷强烈而改变主意，转而推动美国AI模型以提升竞争力。这反映出美国政府在掌控人工智能时所面临的困难。                    Agence France-Presse — Getty Images                    华盛顿与北京之间正展开一场关于谁将控制关键技术的博弈，由月之暗面开发的Kimi等中国开源人工智能模型为这场博弈增添了全新且紧迫的维度。",
-      "image": "",
       "via": "rss"
     },
     {
@@ -1271,7 +1470,7 @@
       "via": "rss"
     },
     {
-      "title": "One killed, five injured in Russian ballistic missile attack on Kyiv",
+      "title": "Russian missile attack kills 14, injures 27 in Ukraine’s Kyiv region",
       "url": "https://www.aljazeera.com/news/2026/8/4/russia-strikes-ukrainian-capital-kyiv-with-ballistic-missiles?traffic_source=rss",
       "source": "Al Jazeera",
       "language": "en",
@@ -1289,7 +1488,7 @@
       "type": "newspaper",
       "published": "2026-08-04T23:24:33+00:00",
       "summary": "Shares slide even as group says its quarterly revenues nearly doubled",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F47665e8d-d89d-4c46-9742-cc443771babb.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7016e7f9-9d5d-4159-9348-acd4c631abe8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -1312,17 +1511,6 @@
       "published": "2026-08-04T22:59:42+00:00",
       "summary": "&#x7de8;&#x6309;&#xff1a;&#x300c;&#x6578;&#x8aaa;&#x79d1;&#x6280;&#x300d;&#x662f;&#x7aef;&#x50b3;&#x5a92;&#x65b0;&#x63a8;&#x51fa;&#x7684;&#x8a3b;&#x518a;&#x514d;&#x8cbb;&#x6b04;&#x76ee;&#xff0c;&#x6bcf;&#x9031;&#x4e09;&#x66f4;&#x65b0;&#x3002;&#x5f9e;&#x4e00;&#x500b;&#x6578;&#x5b57;&#x51fa;&#x767c;&#xff0c;&#x7528;1500&#x5b57;&#x89e3;&#x6790;&#x79d1;&#x6280;&#x8a71;&#x984c;&#xff0c;&#x8ffd;&#x8e64;&#x503c;&#x5f97;&#x95dc;&#x6ce8;&#x7684; AI &#x8da8;&#x52e2;&#x3002;&#x5728;&#x8cc7;&#x8a0a;&#x904e;&#x8f09;&#x7684;&#x6642;&#x4ee3;&#xff0c;&#x6bcf;&#x9031;&#x82b1;&#x4e09;&#x5206;&#x9418;&#x7406;&#x89e3;&#x79d1;&#x6280;&#x4e16;&#x754c;&#x3002;&#x6b61;&#x8fce;&#x8b80;&#x8005;&#x81f3;&#x300c;&#x5e33;&#x6236;&#x4e2d;&#x5fc3;&#x300d;&#x7684;&#x300c;&#x96fb;&#x5b50;&#x90f5;&#x4ef6;&#x7ba1;&#x7406;&#x300d;&#xff0c;&#x8a02;&#x95b1;&#x96fb;&#x5b50;&#x4fe1;&#x3002;4&#x842c;&#x500b;&#xff1a;&#x73fe;&#x6709;&#x592a;&#x7a7a;&#x76e3;&#x6e2c;&#x7db2;&#x7d61;&#x8ffd;&#x8e64;&#x4e2d;&#x7684;&#x5728;&#x8ecc;&#x592a",
       "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/08/GettyImages-2191711363.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "When A.I. Goes Rogue",
-      "url": "https://www.nytimes.com/2026/08/04/world/rogue-ai-agents-cybersecurity-uber.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-08-04T22:52:01+00:00",
-      "summary": "It was the stuff of science fiction — until recently.",
-      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/05int-theworld-ai-security-01-kmbz-promo/05int-theworld-ai-security-01-kmbz-promo-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -1381,17 +1569,6 @@
       "via": "rss"
     },
     {
-      "title": "Trump administration refunds $100bn in ‘liberation day’ tariffs",
-      "url": "https://www.ft.com/content/b0f728aa-1e71-4bb0-b50f-2e0818712734?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-08-04T21:07:20+00:00",
-      "summary": "US customs officials repay about 60% of the levies that were struck down by the Supreme Court",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9609f6ee-664d-406f-adfc-80b576bdb182.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
       "title": "China Launches New Crackdown on Organized Crime",
       "url": "https://foreignpolicy.com/2026/08/04/china-crime-illegal-mining-sand-industry-crackdown/",
       "source": "Foreign Policy",
@@ -1441,7 +1618,7 @@
       "source": "New York Times",
       "language": "en",
       "type": "newspaper",
-      "published": "2026-08-04T21:00:05+00:00",
+      "published": "2026-08-04T21:00:06+00:00",
       "summary": "Staff taking care of newborns in the neonatal room at a postpartum care center in Seoul, South Korea, in 2024.",
       "image": "https://static01.nyt.com/images/2026/07/30/multimedia/00int-skorea-neonatal-mzwv/00int-skorea-neonatal-mzwv-mediumSquareAt3X.jpg",
       "via": "rss"
@@ -1546,17 +1723,6 @@
       "via": "rss"
     },
     {
-      "title": "Kosovo finds third wartime mass grave site as officials widen search",
-      "url": "https://www.aljazeera.com/news/2026/8/4/kosovo-finds-third-wartime-mass-grave-site-as-officials-widen-search?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-04T20:29:02+00:00",
-      "summary": "Excavation work continues as officials believe that there could be people buried dating back to the Kosovo war.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "古巴全国性大停电之后逐步恢复供电",
       "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20260804-%E5%8F%A4%E5%B7%B4%E5%85%A8%E5%9B%BD%E6%80%A7%E5%A4%A7%E5%81%9C%E7%94%B5%E4%B9%8B%E5%90%8E%E9%80%90%E6%AD%A5%E6%81%A2%E5%A4%8D%E4%BE%9B%E7%94%B5",
       "source": "法广中文",
@@ -1565,17 +1731,6 @@
       "published": "2026-08-04T20:28:37+00:00",
       "summary": "古巴周二宣布，在周日晚至周一凌晨发生的全国性大停电后，已恢复电网供电。这是今年古巴第六次大停电，而此次停电正值该国面临严重的能源危机和美国实施的石油封锁之际。",
       "image": "https://s.rfi.fr/media/display/80e8f302-7ddf-11f1-88c1-005056bf30b7/w:1024/p:16x9/000-B9WB3J9.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Shop owners dismantle businesses after Israeli demolition orders",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/shop-owners-dismantle-businesses-after-israeli-demolition-orders?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-04T20:26:56+00:00",
-      "summary": "Shop owners dismantle businesses after Israeli demolition orders",
-      "image": "",
       "via": "rss"
     },
     {
@@ -1601,17 +1756,6 @@
       "via": "rss"
     },
     {
-      "title": "Argentina grain exports halt as maritime pilots strike over Milei decree",
-      "url": "https://www.aljazeera.com/news/2026/8/4/argentina-grain-exports-halt-as-maritime-pilots-strike-over-milei-decree?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-04T20:20:11+00:00",
-      "summary": "More than 45 vessels have been affected by the strike at Argentinian ports.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "埃博拉疫苗研究同步推进     莫德纳加入",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260804-%E5%9F%83%E5%8D%9A%E6%8B%89%E7%96%AB%E8%8B%97%E7%A0%94%E7%A9%B6%E5%90%8C%E6%AD%A5%E6%8E%A8%E8%BF%9B-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E8%8E%AB%E5%BE%B7%E7%BA%B3%E5%8A%A0%E5%85%A5",
       "source": "法广中文",
@@ -1620,28 +1764,6 @@
       "published": "2026-08-04T20:15:31+00:00",
       "summary": "加拿大卫生部周二宣布，已授权美国制药巨头莫德纳（Moderna ）公司启动其针对本迪布焦（Bundibugyo）病毒埃博拉病毒株的疫苗临床试验。据加拿大当局称，这项I期临床试验“将评估候选疫苗的安全性，确定安全剂量范围，并识别任何潜在的副作用”。",
       "image": "https://s.rfi.fr/media/display/3a2fe0a0-9041-11f1-9fa3-005056bf30b7/w:1024/p:16x9/95001788.jpeg",
-      "via": "rss"
-    },
-    {
-      "title": "US cannot ‘stay isolated’ from Chinese EV competition, warns Lucid CEO",
-      "url": "https://www.ft.com/content/4bc98c31-d430-4e84-9353-6b9a6154d4d6?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-08-04T20:10:49+00:00",
-      "summary": "Carmaker’s new boss predicts industry ‘shakeout’ and announces $1.4bn cost-cutting programme",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0d28a1e2-b1eb-4841-94d4-bc13100d7a53.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "US stocks jump after Bessent says deal to reopen Hormuz is imminent",
-      "url": "https://www.ft.com/content/1ed68c71-e1e8-4ae5-a965-5380cbdeaa22?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-08-04T20:06:41+00:00",
-      "summary": "S&amp;P 500 hits record high as Iranian and Omani negotiators agree on temporary shipping arrangement",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa2e2a752-aeda-4bbf-8deb-bcd6ee0971e8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -1678,39 +1800,6 @@
       "via": "rss"
     },
     {
-      "title": "Evacuations ordered as Guatemala volcano erupts",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/evacuations-ordered-as-guatemala-volcano-erupts?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-04T19:41:17+00:00",
-      "summary": "Guatemala’s Fuego volcano erupted Monday, triggering an orange alert and evacuations near the deadly 2018 eruption site.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Red Cross urges international aid as Sudan crisis deepens",
-      "url": "https://www.aljazeera.com/news/2026/8/4/red-cross-urges-international-aid-as-sudan-crisis-deepens?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-04T19:39:58+00:00",
-      "summary": "Charity warns that shrinking humanitarian support could threaten efforts to support communities trying to rebuild lives.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Telegram says Apple suspension followed content norms violation by one user",
-      "url": "https://www.aljazeera.com/economy/2026/8/4/telegram-says-apple-suspension-followed-content-norms-violation-by-one-user?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-04T19:35:12+00:00",
-      "summary": "Apple said its review found the content had violated guidelines prohibiting child sexual abuse material.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "中国经济持续低迷让德国面临新风险",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260804-%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%8C%81%E7%BB%AD%E4%BD%8E%E8%BF%B7%E8%AE%A9%E5%BE%B7%E5%9B%BD%E9%9D%A2%E4%B8%B4%E6%96%B0%E9%A3%8E%E9%99%A9",
       "source": "法广中文",
@@ -1730,17 +1819,6 @@
       "published": "2026-08-04T19:22:57+00:00",
       "summary": "The transition will be funded by New Zealand’s state-regulated national betting agency. Much of that money will be spent on rehoming about 1,400 greyhounds.",
       "image": "https://static01.nyt.com/images/2026/08/04/multimedia/04int-NZ-GREYHOUND-09-tqkf/04int-NZ-GREYHOUND-09-tqkf-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Kazakhstan releases first tiger to restore extinct species",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/kazakhstan-releases-first-tiger-to-restore-extinct-species?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-04T19:21:16+00:00",
-      "summary": "Kazakhstan has released the first Amur tiger in the wild in more than 70 years to help restore the extinct Caspian tiger",
-      "image": "",
       "via": "rss"
     },
     {
@@ -1777,28 +1855,6 @@
       "via": "rss"
     },
     {
-      "title": "White House to meet AI firms on advanced model safety",
-      "url": "https://www.aljazeera.com/economy/2026/8/4/white-house-to-meet-ai-firms-on-advanced-model-safety?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-04T19:04:18+00:00",
-      "summary": "The White House confirmed Tuesday’s meeting to address advanced model safety amid recent high-profile hacking incidents.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "DOJ sends monitors to Michigan poll sites as lawmakers warn of partisan aim",
-      "url": "https://www.aljazeera.com/news/2026/8/4/doj-sends-monitors-to-michigan-poll-sites-as-lawmakers-warn-of-partisan-aim?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-04T18:50:29+00:00",
-      "summary": "While FBI poll monitoring not new, US lawmakers raise alarm amid Trump&#039;s years-long claims of election fraud.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "Bachelet-led panel urges Latin America not to choose sides in US-China rivalry",
       "url": "https://www.scmp.com/news/china/article/3362979/bachelet-led-panel-urges-latin-america-not-choose-sides-us-china-rivalry?utm_source=rss_feed",
       "source": "SCMP",
@@ -1807,17 +1863,6 @@
       "published": "2026-08-04T18:50:12+00:00",
       "summary": "Latin American countries should resist pressure to choose between the United States and China and use their vast reserves of lithium, copper and other strategic resources to strengthen their negotiating power, according to a high-level commission co-chaired by former Chilean president Michelle Bachelet and former Colombian president Ivan Duque.\nBut the commission acknowledges that the region’s room for manoeuvre is sharply constrained in security, technology and critical infrastructure, areas in...",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/05/566c1888-118a-424c-9e20-06d70735cfc0_19edefe9.jpg?itok=rVHniY0s&v=1785878890",
-      "via": "rss"
-    },
-    {
-      "title": "Mass funeral held for 112 members of two Palestinian families",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/mass-funeral-held-for-112-members-of-two-palestinian-families?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-04T18:35:35+00:00",
-      "summary": "Palestinians in Gaza held a mass funeral for 112 members of the Abu Sharia and al-Hasayna families.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -1851,6 +1896,17 @@
       "published": "2026-08-04T17:57:27+00:00",
       "summary": "Qatar said that draft language of a deal was being circulated, while Secretary of State Marco Rubio expressed optimism about the talks but added that nothing was final yet.",
       "image": "https://static01.nyt.com/images/2026/09/03/multimedia/03int-iran-talks-A-hzfw/03int-iran-talks-A-hzfw-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "优步应对性侵诉讼的策略：“你当时穿了什么？”",
+      "url": "https://cn.nytimes.com/business/20260805/uber-sexual-assault-lawsuits/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "language": "zh",
+      "type": "newspaper",
+      "published": "2026-08-04T17:24:34+00:00",
+      "summary": "优步宣称致力于以“以幸存者为中心”的方式处理性暴力索赔。但在庭审中，优步的律师翻查受害女性的纪录，寻找敏感细节，对她们的性生活和事发当晚的行为进行严厉盘问。                    max-o-matic",
+      "image": "",
       "via": "rss"
     },
     {
@@ -2107,6 +2163,17 @@
       "via": "rss"
     },
     {
+      "title": "The Quad needs ASEAN more than ASEAN needs the Quad",
+      "url": "https://www.lowyinstitute.org/the-interpreter/the-quad-needs-asean-more-than-asean-needs-the-quad",
+      "source": "Lowy Institute",
+      "language": "en",
+      "type": "thinktank",
+      "published": "2026-08-04T14:00:00+00:00",
+      "summary": "Southeast Asia can tell commitment from choreography.",
+      "image": "https://cdn.sanity.io/images/5dcouzig/production/a8951faeec003ed5f7ef074a34fdac1f68e497da-3000x2003.jpg?rect=0,215,3000,1575&w=1200&h=630&fm=webp&q=85&fit=crop",
+      "via": "rss"
+    },
+    {
       "title": "America’s Cosmic Bet on AI",
       "url": "https://foreignpolicy.com/2026/08/04/united-states-artificial-intelligence-race-china-openai-anthropic-donald-trump-elon-musk/",
       "source": "Foreign Policy",
@@ -2305,17 +2372,6 @@
       "via": "rss"
     },
     {
-      "title": "The Democrats’ civil war over Israel is getting worse",
-      "url": "https://www.ft.com/content/07aed955-d8c7-4ba4-b7b0-14e996bb9bc8?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-08-04T10:30:10+00:00",
-      "summary": "While the party fractures over Middle East policy, it is ignoring the threat posed by AI and social media",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7551c77f-0498-4021-8c7d-62e9865497c9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
       "title": "Indonesian Central Bank Governor’s Resignation Exposes Political Influence",
       "url": "https://www.asiasentinel.com/p/indonesia-central-bank-governor-perry-warjiyo-resignation-expose-political-influence",
       "source": "Asia Sentinel",
@@ -2357,17 +2413,6 @@
       "published": "2026-08-04T10:00:49+00:00",
       "summary": "A new book describes the destruction of Palestinian life street by street.",
       "image": "https://foreignpolicy.com/wp-content/uploads/2026/08/1-gaza-genocide-israel-GettyImages-2231244377.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "U.S. Sends Flight With Deportees to Venezuela for First Time Since Earthquakes",
-      "url": "https://www.nytimes.com/2026/08/03/world/americas/venezuela-us-deportation-flights-resume.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-08-04T09:56:44+00:00",
-      "summary": "A Venezuelan-operated plane arrived with deported migrants at Simón Bolívar International Airport in Maiquetía, Venezuela, in December.",
-      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-venezuela-deportation-pgmz/03int-venezuela-deportation-pgmz-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -2426,17 +2471,6 @@
       "via": "rss"
     },
     {
-      "title": "Toyota plans $6.3bn buyback as weak yen boosts outlook",
-      "url": "https://www.ft.com/content/8a703d1e-99d4-4a04-a08a-761489d33da3?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-08-04T09:04:12+00:00",
-      "summary": "World’s biggest carmaker expects to sell more than 5mn hybrid electric vehicles this year",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2ded7950-93bb-4244-807b-b7a99319b5a6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
       "title": "Shenzhen-based AI mathematician Yurii Nesterov wins top prize in applied maths",
       "url": "https://www.scmp.com/news/china/science/article/3362465/shenzhen-based-ai-mathematician-yurii-nesterov-wins-top-prize-applied-maths?utm_source=rss_feed",
       "source": "SCMP",
@@ -2467,17 +2501,6 @@
       "published": "2026-08-04T08:55:15+00:00",
       "summary": "台湾总统赖清德周二在接见“日本自民党青年局海外研修团”时表示，台湾和日本最大的威胁不是台风、地震或传染病，而是中国持续对周边国家进行灰色地带侵扰及海上胁迫。他称，中国上月更实施“跨国镇压”专法，意图将政治管辖与恐惧治理延伸到台湾、日本及全球民主国家，台日唯有团结，才能共同守护民主自由、和平与繁荣。",
       "image": "https://s.rfi.fr/media/display/f074e83a-8fe0-11f1-905c-005056a90284/w:1024/p:16x9/Capture-3639.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "平壤谴责美日韩等11国联合发布涉朝IT人员警示是抹黑朝鲜形象",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260804-%E5%B9%B3%E5%A3%A4%E8%B0%B4%E8%B4%A3%E7%BE%8E%E6%97%A5%E9%9F%A9%E7%AD%8911%E5%9B%BD%E8%81%94%E5%90%88%E5%8F%91%E5%B8%83%E6%B6%89%E6%9C%9Dit%E4%BA%BA%E5%91%98%E8%AD%A6%E7%A4%BA%E6%98%AF%E6%8A%B9%E9%BB%91%E6%9C%9D%E9%B2%9C%E5%BD%A2%E8%B1%A1",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-08-04T08:49:52+00:00",
-      "summary": "朝鲜官媒朝中社周二发表外交部发言人讲话，谴责美国及其盟国借对其网络活动毫无根据的指控，抹黑朝鲜形象，并以此为手段向主权国家施压。",
-      "image": "https://s.rfi.fr/media/display/8e8c220a-1693-11ea-90d3-005056a99247/w:1024/p:16x9/e02f263b7933afb43a513193037c47c2f096fdcf_0.jpg",
       "via": "rss"
     },
     {
@@ -2544,17 +2567,6 @@
       "published": "2026-08-04T04:47:00+00:00",
       "summary": "The announcement follows the Pakatan Harapan coalition's bruising defeat in the Negeri Sembilan state election on Saturday.",
       "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/08/thediplomat_2026-08-04-140146.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "The king who outfoxed Pedro Sánchez",
-      "url": "https://www.ft.com/content/b2440aa5-be3e-40ae-ad2d-ad5893de79d3?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-08-04T04:00:24+00:00",
-      "summary": "Morocco’s absolute ruler Mohammed VI turned Spain’s border into leverage over Madrid",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0b80d491-816a-48d2-90c1-32eab67fdc7b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -2676,17 +2688,6 @@
       "published": "2026-08-04T00:41:00+00:00",
       "summary": "His rhetoric was familiar, but carried additional weight in light of recent clashes between Chinese and Philippine vessels in the South China Sea.",
       "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/08/thediplomat_2026-08-04-095806.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "「奇蹟」嬰兒胚胎接受開創性子宮手術 修復腸臟外露",
-      "url": "https://www.bbc.com/zhongwen/articles/cpw91wpe1g1o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-08-04T00:03:05+00:00",
-      "summary": "作為一項開創性臨床試驗的一部分，西奧（Theo）是全球第三名在子宮內接受手術，以矯正複雜型腹裂症的嬰兒。",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1e00/live/17a583e0-8cd2-11f1-ad76-996492004557.jpg",
       "via": "rss"
     },
     {
@@ -3097,17 +3098,6 @@
       "via": "rss"
     },
     {
-      "title": "Chinese military unveils AI system to plan and coordinate mass air strikes",
-      "url": "https://www.scmp.com/news/china/military/article/3362824/chinese-military-unveils-ai-system-plan-and-coordinate-mass-air-strikes?utm_source=rss_feed",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-08-03T13:00:13+00:00",
-      "summary": "The Chinese air force is using an AI-enabled system to draw up battle plans for operations involving more than 100 units, according to a state television documentary.\nThe “intelligent strike planning system” was designed to help commanders and pilots by prioritising targets, coordinating attack waves and allocating specific tasks to units, the CCTV programme broadcast on Sunday said, adding that it had been used “multiple” times.\nThe rare insight into the use of AI highlights Beijing’s efforts...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/03/9c1f9b79-e4d6-4fed-9538-a301a131a9a5_915c5916.jpg?itok=_vl3-POO&v=1785758183",
-      "via": "rss"
-    },
-    {
       "title": "Can PM Modi reconnect with India's Gen Z?",
       "url": "https://www.dw.com/en/can-pm-modi-reconnect-with-india-s-gen-z/a-78216627?maca=en-rss-en-world-4025-xml-mrss",
       "source": "Deutsche Welle",
@@ -3127,17 +3117,6 @@
       "published": "2026-08-03T12:37:00+00:00",
       "summary": "The new generation of Japanese policymakers is far less willing to accommodate China than its predecessors.",
       "image": "https://images.thediplomat.com/v1/td-list-l-2/2025/11/thediplomat_2025-11-25-225919.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Could Silicon Valley’s lobbying create ‘mutual suspicion’ between US and China?",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3362808/could-silicon-valleys-lobbying-create-mutual-suspicion-between-us-and-china?utm_source=rss_feed",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-08-03T12:00:06+00:00",
-      "summary": "The US tech industry’s increasingly hawkish attitude towards China has caused alarm among some observers who warn it could cause greater mistrust between the two countries.\nSilicon Valley has become much more politicised in recent years, with leading figures such as Elon Musk donating vast sums to political campaigns, including Donald Trump’s 2024 presidential bid.\nThe US government has placed technological competition at the centre of its rivalry with Beijing. Meanwhile, tech lobbyists are...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/03/34b831c8-9e74-46a2-9866-07c547858bd7_8951554b.jpg?itok=x2GJUbc8&v=1785750879",
       "via": "rss"
     },
     {
@@ -3215,105 +3194,6 @@
       "published": "2026-08-03T11:15:55+00:00",
       "summary": "今天是星期一，8月3日，歡迎來端周報。",
       "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/08/GettyImages-2287489789.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "The Second Chokepoint: Why the Red Sea is No Longer Calm",
-      "url": "https://www.asiasentinel.com/p/second-chokepoint-red-sea-no-longer-calm",
-      "source": "Asia Sentinel",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-08-03T11:03:34+00:00",
-      "summary": "By: Salman Rafi SheikhAlthough the Strait of Hormuz has dominated global attention, with Iran&#8217;s intermittent disruptions threatening one of the world&#8217;s most important energy arteries since the United States and Israel launched military strikes against Iran on February 28, the collapse of the four-year truce between Saudi Arabia and Yemen&#8217;s Houthi moveme&#8230;\n      \n          \n              Read more",
-      "image": "https://substackcdn.com/image/fetch/$s_!rrwg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff06799cc-7272-4c79-980a-b5f1ca09930f_768x512.webp",
-      "via": "rss"
-    },
-    {
-      "title": "Russia: Bridge-building with North Korea",
-      "url": "https://www.dw.com/en/russia-bridge-building-with-north-korea/a-78212053?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "Deutsche Welle",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-03T10:26:00+00:00",
-      "summary": "In the far east, well away from world events, Russia and North Korea are building their first road connection. The project has set alarm bells ringing in Ukraine.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Are commercial sea drones a new headache for PLA in South China Sea and Taiwan Strait?",
-      "url": "https://www.scmp.com/news/china/military/article/3362790/are-commercial-sea-drones-new-headache-pla-south-china-sea-and-taiwan-strait?utm_source=rss_feed",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-08-03T10:00:17+00:00",
-      "summary": "Small commercial sea drones that have shown they can monitor PLA warships in the South China Sea have emerged as a new potential challenge for Beijing in the disputed waters.\nLast week, Seasats, a California-based autonomous vessel maker, released footage – which has been verified by Reuters – showing its Lightfish drone operating near a Chinese Type 052D guided-missile destroyer on June 16.\nThe latest encounter reportedly took place 105km (65 miles) northwest of Luzon, the largest Philippine...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/03/16c20b3a-e958-46b1-abe3-7512a10ef352_4168bcc0.jpg?itok=wU5Xo9KO&v=1785745792",
-      "via": "rss"
-    },
-    {
-      "title": "Uzbekistan’s Nuclear Power Plant Project Advances",
-      "url": "https://thediplomat.com/2026/08/uzbekistans-nuclear-power-plant-project-advances/",
-      "source": "The Diplomat",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-08-03T09:17:00+00:00",
-      "summary": "Officials say that the first small modular reactor of Uzbekistan’s nuclear power plant project is to be commissioned in 2029.",
-      "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/08/thediplomat_2026-08-03-182151.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "12 Asian Countries Subject to Finalized US Visa Bond Program",
-      "url": "https://thediplomat.com/2026/08/12-asian-countries-subject-to-finalized-us-visa-bond-program/",
-      "source": "The Diplomat",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-08-03T09:07:00+00:00",
-      "summary": "The program, which launched as a pilot in August 2025, is now permanent and at present affects the citizens of 50 countries.",
-      "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/08/thediplomat_2026-08-03-181001.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Ceuta Migration Crisis Exposes Despair Among Morocco’s Young People",
-      "url": "https://www.nytimes.com/2026/08/03/world/middleeast/morocco-ceuta-spain-migrants.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-08-03T09:05:12+00:00",
-      "summary": "Migrants returning back to Morocco. Last week, between 50,000 and 60,000 people entered Ceuta, a small Spanish exclave in North Africa that shares a border with Morocco.",
-      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-ceuta-morocco-promo/03int-ceuta-morocco-bjmf-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "For Iran, Trump’s Reversal on Escalation Shows Who Has the Upper Hand",
-      "url": "https://www.nytimes.com/2026/08/03/world/middleeast/iran-trump-escalation.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-08-03T08:50:11+00:00",
-      "summary": "Iranian officials remain convinced that President Trump, not them, has the most to lose in a widening war.",
-      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03int-iran-assess-pcwz/03int-iran-assess-pcwz-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "台灣物流商成「審書人」：香港國安法如何改變跨境圖書供應鏈？",
-      "url": "https://www.bbc.com/zhongwen/articles/cy0j4z0e04xo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-08-03T08:05:32+00:00",
-      "summary": "有香港獨立書店店主向BBC中文表示，自己書店販賣的書籍種類，有七成從台灣進口，如果物流公司拒運，會嚴重影響營運。",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9bac/live/c100e050-8f03-11f1-8f9d-578946cd8ec9.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "How to Stop China from Freeriding on American AI",
-      "url": "https://warontherocks.com/cogs-of-war/how-to-stop-china-from-freeriding-on-american-ai/",
-      "source": "War on the Rocks",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-08-03T08:00:32+00:00",
-      "summary": "The release of the Chinese open-weight AI model Kimi K3 has compressed a year&#8217;s worth of unresolved AI policy debate into a single news cycle. On July 21, Treasury Secretary Scott Bessent threatened sanctions against Chinese labs found to have built their models on &#8220;theft,&#8221; reporting that the government is &#8220;finding watermarks of our U.S. large language models on many of the Chinese models.&#8221; The following day, White House science advisor Michael Kratsios clarified that the Chinese AI lab behind K3, Moonshot AI, had built a sophisticated platform to copy Anthropic&#8217;s Fable model while evading detection.Industry has been vocal about\nThe post How to Stop China from Freeriding on American AI appeared first on War on the Rocks.",
-      "image": "",
       "via": "rss"
     }
   ]
