@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T07:38:16.365662+00:00",
+  "last_updated": "2026-08-10T10:30:25.374994+00:00",
   "source_counts": {
     "en": 36,
     "zh": 24
@@ -10,32 +10,7 @@
       "icon": "🤖",
       "color": "#7d6be8",
       "featured": true,
-      "articles": [
-        {
-          "title": "Canada unicorn moment : AI investment boom helps propel billion - dollar startups",
-          "url": "https://www.digitaljournal.com/article/canadas-unicorn-moment-ai-investment-boom-helps-propel-billion-dollar-startups/",
-          "source": "digitaljournal.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-09T20:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "ai_tech"
-        },
-        {
-          "title": "How is Japan turning defense spending into an economic growth strategy ?",
-          "url": "https://news.az/news/how-is-japan-turning-defense-spending-into-an-economic-growth-strategy",
-          "source": "news.az",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-05T03:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "ai_tech"
-        }
-      ]
+      "articles": []
     },
     "foreign_policy": {
       "label": "Foreign Policy & Diplomacy",
@@ -49,202 +24,563 @@
       "icon": "🏛️",
       "color": "#9b6de8",
       "featured": false,
-      "articles": [
-        {
-          "title": "王友群 ： 五中全会将开 中共如何  从严治党 ？",
-          "url": "https://www.epochtimes.com/gb/26/8/7/n14825582.htm",
-          "source": "epochtimes.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-08-09T16:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "習近平為連任大整肅 ！ 一批批上將落馬中將頂上 解放軍戰力打問號 - 國際",
-          "url": "https://news.ltn.com.tw/news/world/breakingnews/5534128",
-          "source": "news.ltn.com.tw",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-08-09T15:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "傳江澤民百年誕辰紀念大會17日舉行 中共元老出席情況受關注 | 兩岸要聞 | 兩岸",
-          "url": "https://udn.com/news/story/7331/9680021",
-          "source": "udn.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-08-09T04:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "Xi Faces Shrinking Pool of Generals as PLA Command Vacancies Mount",
-          "url": "https://www.theepochtimes.com/china/xi-faces-shrinking-pool-of-generals-as-pla-command-vacancies-mount-6072365",
-          "source": "theepochtimes.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-07T03:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "林辉 ： 偷国民党报纸看 毛逃亡中才知陕北有刘志丹",
-          "url": "https://www.epochtimes.com/gb/26/8/6/n14824746.htm",
-          "source": "epochtimes.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-08-06T19:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "【 時事縱橫 】 新協議曝光 伊朗管控霍峽 川普能接受嗎 ？ | 美伊最新協議 | 阿曼 | 日本新防衛白皮書",
-          "url": "https://www.ntdtv.com/b5/2026/08/05/a104121500.html",
-          "source": "ntdtv.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-08-05T16:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "王友群 ： 从林彪被打倒到张又侠被打倒",
-          "url": "https://www.epochtimes.com/gb/26/8/3/n14822597.htm",
-          "source": "epochtimes.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-08-04T21:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "北戴河时间开启 外界观察血雨腥风的人事争夺战",
-          "url": "https://www.renminbao.com/rmb/articles/2026/8/4/96133.html",
-          "source": "renminbao.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-08-04T15:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "蔡奇说辞再证习  一尊  地位不在 北戴河将为五中定调 ？",
-          "url": "https://www.renminbao.com/rmb/articles/2026/8/4/96130.html",
-          "source": "renminbao.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-08-04T15:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "중국  베이다이허 회의  시작 … 첨단기술 전문가 대거 참가",
-          "url": "https://www.hani.co.kr/arti/international/china/1271375.html",
-          "source": "hani.co.kr",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-04T09:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "日媒 ： 习生日前这番操作 ， 意味深长",
-          "url": "https://www.aboluowang.com/2026/0804/2416538.html",
-          "source": "aboluowang.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-08-04T03:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "Xi Shanghai Tour Offers No Relief for the Housing Crisis – The Diplomat",
-          "url": "https://thediplomat.com/2026/08/xis-shanghai-tour-offers-no-relief-for-the-housing-crisis/",
-          "source": "thediplomat.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-04T02:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "吴稼祥 ： 中国当代政坛的生死对决",
-          "url": "https://www.aboluowang.com/2026/0804/2416516.html",
-          "source": "aboluowang.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-08-04T02:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "蔡奇来了 ， 北戴河会议开始了 ？",
-          "url": "https://www.aboluowang.com/2026/0804/2416380.html",
-          "source": "aboluowang.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-08-04T00:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "我的文革 （ 189 ） - 博客",
-          "url": "https://blog.wenxuecity.com/myblog/83351/202608/503.html",
-          "source": "blog.wenxuecity.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-08-03T23:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        }
-      ]
+      "articles": []
     },
     "military_security": {
       "label": "Military & Security",
       "icon": "⚔️",
       "color": "#e05f5f",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "Taiwan rehearses Chinese invasion with live - fire drills , mobile internet slowdown",
+          "url": "https://timesofindia.indiatimes.com/defence/international/taiwan-rehearses-chinese-invasion-with-live-fire-drills-mobile-internet-slowdown/articleshow/133079637.cms",
+          "source": "timesofindia.indiatimes.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-10T04:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "漢光42號 》 澎防部指揮所及彈藥轉移 迎接明日實彈射擊",
+          "url": "https://def.ltn.com.tw/article/breakingnews/5533875",
+          "source": "def.ltn.com.tw",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-08-09T09:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "漢光42 》 不讓物資被敵奪去 國軍多地實施 「 反資敵 」 演練",
+          "url": "https://def.ltn.com.tw/article/breakingnews/5533542",
+          "source": "def.ltn.com.tw",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-08-09T04:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "「 白海豚 」 驟雨突襲雙北 ！ 漢光演習官兵冒雨操演",
+          "url": "https://www.ettvamerica.com/News/Article?i=399181",
+          "source": "ettvamerica.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-08-08T19:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "專家看演習 ： 驗證這4大調整 強化跨區增援 | 軍事 | 要聞",
+          "url": "https://udn.com/news/story/10930/9679579",
+          "source": "udn.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-08-08T18:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "South Asia New Space Race : How Satellites Shape Conflict",
+          "url": "https://www.thedailystar.net/slow-reads/geopolitical-insights/news/how-satellites-are-transforming-conflict-between-india-and-pakistan-4242811",
+          "source": "thedailystar.net",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-08T12:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "سیٹلائٹس کو نشانہ بنانے والے ہتھیار : کیا خلا اب جنگ کا اگلا محاذ بننے جا رہا ہے ؟",
+          "url": "https://www.bbc.com/urdu/articles/crl728y6xl2o",
+          "source": "bbc.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-08T05:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "الفضاء .. آخر جسور التعاون بين واشنطن وموسكو يواجه اختباراً جديداً",
+          "url": "https://www.emaratalyoum.com/politics/weekly-supplements/world-press/2026-08-08-1.2072110",
+          "source": "emaratalyoum.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-08T00:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Китай проследил за Falcon 9 до самого удара о Луну заодно испытал систему космического контроля",
+          "url": "https://3dnews.ru/1146428/kitay-prosledil-za-falcon-9-do-samogo-udara-o-lunu-zaodno-ispital-sistemukosmicheskogo-kontrolya",
+          "source": "3dnews.ru",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-07T07:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "漢光DAY3 ！ M1A2T桃機演練反空降 淡水河架阻絕鏈 | 政治 | 三立新聞網 SETN . COM",
+          "url": "https://www.setn.com/news/1885541",
+          "source": "setn.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-08-07T06:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "影音 ／ 漢光演練拖延敵侵略 淡江大橋封橋10hr設阻絕 M1A2T現蹤桃機",
+          "url": "https://news.tvbs.com.tw/politics/4003639",
+          "source": "news.tvbs.com.tw",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-08-07T05:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "淡江大橋配合漢光演習封閉 工兵建3防線模擬阻擋敵軍 ｜ 公視新聞網 PNN",
+          "url": "https://news.pts.org.tw/article/821258",
+          "source": "news.pts.org.tw",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-08-07T05:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Advanced Capabilities Needed To Counter China - Russia Space Weapon Cooperation",
+          "url": "https://www.eurasiareview.com/05082026-advanced-capabilities-needed-to-counter-china-russia-space-weapon-cooperation/",
+          "source": "eurasiareview.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-07T02:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "台湾  汉光  演习登场检验实战能力 ， 赖清德穿防弹衣搭装甲车演练战时指挥",
+          "url": "https://www.voachinese.com/a/taiwan-begins-annual-drill-with-its-president-simulating-war-time-command-to-keep-government-in-operation-20260806/8183525.html",
+          "source": "voachinese.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-08-06T21:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "日本新版白皮书暴露哪些危险动向",
+          "url": "https://www.163.com/dy/article/L3KLT1T00514R9OJ.html",
+          "source": "163.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-08-05T23:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "日本新版白皮书暴露哪些危险动向",
+          "url": "https://baijiahao.baidu.com/s?id=1872724655661374802",
+          "source": "baijiahao.baidu.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-08-05T23:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "India and Pakistan 79 - year rivalry has made the dangerous move into space",
+          "url": "https://theconversation.com/india-and-pakistans-79-year-rivalry-has-made-the-dangerous-move-into-space-286966",
+          "source": "theconversation.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-05T14:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "India should invest in space sovereignty",
+          "url": "https://www.hindustantimes.com/ht-insight/governance/india-should-invest-in-space-sovereignty-101785929482528.html",
+          "source": "hindustantimes.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-05T12:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "國防標案出貨遞延 全訊上半年EPS0 . 63元 、 下半年增溫",
+          "url": "https://ec.ltn.com.tw/article/breakingnews/5529533",
+          "source": "ec.ltn.com.tw",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-08-05T08:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "漢光42號演習登場 軍方人士 ： 反封鎖護航是重要科目 | 政治",
+          "url": "https://www.cna.com.tw:443/news/aipl/202608050140.aspx",
+          "source": "cna.com.tw",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-08-05T07:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "影響操演 ？ 漢光演習首日被找去報告 顧立雄 ： 立法院監督也是幫忙建軍備戰 | 張曜麟 | 新聞",
+          "url": "https://www.storm.mg/article/11154102",
+          "source": "storm.mg",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-08-05T03:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "漢光42號今登場 ！ 首納網路降速 、 擴大無人機攻防 10天9夜不間斷 | 政治快訊 | 要聞",
+          "url": "https://www.nownews.com/news/6863111",
+          "source": "nownews.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-08-05T02:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "台軍  漢光演習  又來了 ， 今年有哪些新花樣 ？ | 台灣",
+          "url": "https://www.hkcna.hk/docDetail.jsp?id=101386959&channel=2805",
+          "source": "hkcna.hk",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-08-05T02:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "台軍  漢光演習  又來了 ， 今年有哪些新花樣 ？ | 頭條",
+          "url": "https://www.hkcna.hk/docDetail.jsp?id=101386959&channel=2803",
+          "source": "hkcna.hk",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-08-05T02:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "漢光首日跟 「 一堆星星 」 在立院備詢 顧立雄 ： 監督是幫忙建軍備戰 | ETtoday政治新聞",
+          "url": "https://www.ettoday.net/news/20260805/3213552.htm",
+          "source": "ettoday.net",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-08-05T02:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Війна в Україні з космосу як воюватиме Росія Ексклюзив ТСН",
+          "url": "https://tsn.ua/exclusive/rosiia-za-licheni-misiatsi-moze-rozpochaty-viynu-proty-ukrayiny-z-kosmosu-choho-chekaty-velykym-mistam-3141500.html",
+          "source": "tsn.ua",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-04T06:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "中國北斗衛星超車GPS 美示警第一島鏈美軍恐更難躲",
+          "url": "https://def.ltn.com.tw/article/breakingnews/5527924",
+          "source": "def.ltn.com.tw",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-08-04T05:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "3氪首发 | 两位  三清  博士联合创业做空间态势感知服务 ， 完成数千万天使+轮融资|卫星",
+          "url": "https://www.163.com/dy/article/L3G0K9RN05118DFD.html",
+          "source": "163.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-08-04T04:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "中美太空博弈升级 ： 美方亮反卫星  底牌 ， 中方硬核防御底气足 - 业界动态 - ITBear科技资讯",
+          "url": "https://www.itbear.com.cn/html/2026-08/1479326.html",
+          "source": "itbear.com.cn",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-08-03T21:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "未来战争第一击 或从攻击卫星开始",
+          "url": "https://www.zaobao.com.sg/news/world/story20260803-9461972",
+          "source": "zaobao.com.sg",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-08-03T11:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        }
+      ]
     },
     "economy": {
       "label": "Economy & Trade",
       "icon": "📈",
       "color": "#3dbd86",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "Trump orders 15 % tariff on key chip material to challenge China",
+          "url": "http://www.bignewsnetwork.com/news/279226650/trump-orders-15-tariff-on-key-chip-material-to-challenge-china",
+          "source": "bignewsnetwork.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-07T17:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "Trump orders 15 % tariff on key chip material to challenge China",
+          "url": "http://www.russiaherald.com/news/279226650/trump-orders-15-tariff-on-key-chip-material-to-challenge-china",
+          "source": "russiaherald.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-07T17:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "Trump orders 15 % tariff on key chip material to challenge China",
+          "url": "http://www.batonrougepost.com/news/279226650/trump-orders-15-tariff-on-key-chip-material-to-challenge-china",
+          "source": "batonrougepost.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-07T17:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "Beijing blacklists six US firms , curbs drone exports after fresh tariffs",
+          "url": "http://www.chinanationalnews.com/news/279223758/beijing-blacklists-six-us-firms-curbs-drone-exports-after-fresh-tariffs",
+          "source": "chinanationalnews.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-06T01:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "Beijing blacklists six US firms , curbs drone exports after fresh tariffs",
+          "url": "http://www.shanghaisun.com/news/279223758/beijing-blacklists-six-us-firms-curbs-drone-exports-after-fresh-tariffs",
+          "source": "shanghaisun.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-05T21:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "Beijing blacklists six US firms , curbs drone exports after fresh tariffs",
+          "url": "http://www.russiaherald.com/news/279223758/beijing-blacklists-six-us-firms-curbs-drone-exports-after-fresh-tariffs",
+          "source": "russiaherald.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-05T19:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "Beijing blacklists six US firms , curbs drone exports after fresh tariffs",
+          "url": "http://www.batonrougepost.com/news/279223758/beijing-blacklists-six-us-firms-curbs-drone-exports-after-fresh-tariffs",
+          "source": "batonrougepost.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-05T18:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "Beijing blacklists six US firms , curbs drone exports after fresh tariffs",
+          "url": "http://www.heraldglobe.com/news/279223758/beijing-blacklists-six-us-firms-curbs-drone-exports-after-fresh-tariffs",
+          "source": "heraldglobe.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-05T18:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "China Sanctions 6 US Companies , Tightens Drone Export Controls Amid Fresh Trade Tensions",
+          "url": "https://www.freepressjournal.in/world/china-sanctions-6-us-companies-tightens-drone-export-controls-amid-fresh-trade-tensions",
+          "source": "freepressjournal.in",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-05T16:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "China retaliates against US with sanctions , drone export curbs",
+          "url": "https://www.samaa.tv/2087354725-china-retaliates-against-us-with-sanctions-drone-export-curbs",
+          "source": "samaa.tv",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-05T13:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "Beijing blacklists six US firms , curbs drone exports after fresh tariffs",
+          "url": "https://news.webindia123.com/news/Articles/World/20260805/4483558.html",
+          "source": "news.webindia123.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-05T12:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "Beijing Blacklists Six US Firms , Curbs Drone Exports After Fresh Tariffs » IndiaPost NewsPaper",
+          "url": "https://indiapost.com/beijing-blacklists-six-us-firms-curbs-drone-exports-after-fresh-tariffs/",
+          "source": "indiapost.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-05T12:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "China announces  countermeasure after U . S . trade sanctions",
+          "url": "https://www.thehindu.com/news/international/china-announces-countermeasures-after-us-trade-sanctions/article71309251.ece",
+          "source": "thehindu.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-05T12:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "China Announces  Countermeasure after US Trade Sanctions",
+          "url": "https://english.aawsat.com/business/5303635-china-announces-countermeasures-after-us-trade-sanctions",
+          "source": "english.aawsat.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-05T12:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "China announces  countermeasure after US trade sanctions",
+          "url": "https://www.straitstimes.com/world/china-announces-countermeasures-after-us-trade-sanctions",
+          "source": "straitstimes.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-05T12:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        }
+      ]
     },
     "society": {
       "label": "Society & Culture",
@@ -253,36 +589,12 @@
       "featured": false,
       "articles": [
         {
-          "title": "Ryan Bomberger , Co - Founder of The Radiance Foundation , is facing a real book ban in the Pacific Northwest .",
-          "url": "https://afr.net:443/podcasts/the-hamilton-corner-with-abraham-hamilton-iii/2026/august/ryan-bomberger-co-founder-of-the-radiance-foundation-is-facing-a-real-book-ban-in-the-pacific-northwest/",
-          "source": "afr.net",
+          "title": "الحرب الديموغرافية",
+          "url": "https://arabi21.com/story/1779769/%D8%A7%D9%84%D8%AD%D8%B1%D8%A8-%D8%A7%D9%84%D8%AF%D9%8A%D9%85%D9%88%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9",
+          "source": "arabi21.com",
           "language": "en",
           "type": "wire",
-          "published": "2026-08-08T02:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "Вторгнення Росії в Україну . Події за травень 2026 року",
-          "url": "https://ua.korrespondent.net/ukraine/politics/4900168-vtorhnennia-rosii-v-ukrainu-podii-za-traven-2026-roku",
-          "source": "ua.korrespondent.net",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-05T23:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "Weekly Climate and Energy News Roundup # 700 - Watts Up With That ?",
-          "url": "https://wattsupwiththat.com/2026/08/03/weekly-climate-and-energy-news-roundup-700/",
-          "source": "wattsupwiththat.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-03T12:45:00+00:00",
+          "published": "2026-08-05T16:30:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -363,7 +675,32 @@
       "icon": "🔒",
       "color": "#e07070",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "The Murder of a Uyghur in America Spotlights the Dangers for the Diaspora",
+          "url": "https://thediplomat.com/2026/08/the-murder-of-a-uyghur-in-america-spotlights-the-dangers-for-the-diaspora/",
+          "source": "thediplomat.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-10T05:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "domestic_security"
+        },
+        {
+          "title": "CHINA :  The Ethnic Unity Law Means There Is One Acceptable Way to Be Chinese",
+          "url": "https://www.ipsnews.net/2026/08/china-the-ethnic-unity-law-means-there-is-one-acceptable-way-to-be-chinese/",
+          "source": "ipsnews.net",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-05T17:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "domestic_security"
+        }
+      ]
     },
     "bilateral_relations": {
       "label": "Bilateral Relations",
@@ -379,90 +716,6 @@
       "featured": false,
       "articles": [
         {
-          "title": "LankaWeb – Ethnic Conflict & Other Minority Inventions in Sri Lanka",
-          "url": "https://www.lankaweb.com/news/items/2026/08/09/ethnic-conflict-other-minority-inventions-in-sri-lanka/",
-          "source": "lankaweb.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-10T02:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "Вучић : Нисам овде да удовољим Русима , Украјинцима или било коме , радим у интересу Србије",
-          "url": "https://www.rtv.rs/sr_ci/politika/vucic-nisam-ovde-da-udovoljim-rusima-ukrajincima-ili-bilo-kome-radim-u-interesu-srbije_1734987.html",
-          "source": "rtv.rs",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-09T19:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "O mundo está mudando a nosso favor : Paulo Nogueira Batista Jr . aponta declínio dos EUA e urgência da soberania nacional – Brasil 247",
-          "url": "https://www.brasil247.com/ideias/o-mundo-esta-mudando-a-nosso-favor-paulo-nogueira-batista-jr-aponta-declinio-dos-eua-e-urgencia-da-soberania-nacional/",
-          "source": "brasil247.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-09T09:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "Pretoria to São Paulo : Africa Single Market and Latin America",
-          "url": "https://www.riotimesonline.com/from-pretoria-to-s-o-paulo-africa-s-single-market-south-2026-08-05/",
-          "source": "riotimesonline.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-08T08:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "EIR Convenes Roundtable of Global Experts To Confront the Crisis of Forced Migration",
-          "url": "https://larouchepub.com/other/2026/5330-eir_convenes_roundtable_of_glo.html",
-          "source": "larouchepub.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-06T20:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "Единственный путь на юг . Границы монгольского суверенитета : к чему обязывает зависимость от Китая ( Modern Diplomacy , Бельгия )",
-          "url": "https://inosmi.ru/20260805/mongoliya-279565479.html",
-          "source": "inosmi.ru",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-05T15:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "chinese self - revolution with confucius ....",
-          "url": "https://www.yourdemocracy.net.au/drupal/node/60700",
-          "source": "yourdemocracy.net.au",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-05T12:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
           "title": "LankaWeb – The united states Teaches Sri Lanka Navy to Hijack Ships & Handle Snakes",
           "url": "https://www.lankaweb.com/news/items/2026/08/04/the-usa-teaches-sri-lankas-navy-to-hijack-ships-handle-snakes/",
           "source": "lankaweb.com",
@@ -473,95 +726,363 @@
           "image": "",
           "via": "gdelt",
           "category": "multilateral"
-        },
-        {
-          "title": "Could a UN - backed plan to reopen Hormuz break the deadlock ?",
-          "url": "https://fortune.com/2026/08/04/could-a-un-backed-plan-to-reopen-hormuz-break-the-deadlock/",
-          "source": "fortune.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-04T12:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "Beyond stabilisation : Sri Lanka path to inclusive growth",
-          "url": "https://www.ft.lk/opinion/Beyond-stabilisation-Sri-Lanka-s-path-to-inclusive-growth/14-795560",
-          "source": "ft.lk",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-04T01:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "Interview de Jean Pierre Page par lagence de presse chinoise Xinhua",
-          "url": "http://www.legrandsoir.info/interview-de-jean-pierre-page-par-l-agence-de-presse-chinoise-xinhua.html",
-          "source": "legrandsoir.info",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-04T00:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "How China Does Tourism Without Losing Itself",
-          "url": "https://www.greanvillepost.com/how-china-does-tourism-without-losing-itself/",
-          "source": "greanvillepost.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-03T19:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "Presidency knocks Atiku over his censure of Tinubu economic , fiscal policies",
-          "url": "https://theeagleonline.com.ng/presidency-knocks-atiku-over-his-censure-of-tinubus-economic-fiscal-policies/",
-          "source": "theeagleonline.com.ng",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-03T15:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "Facts , Not Fear : A Point - By - Point Response To Atiku Abubakar On Nigeria Reform Journey",
-          "url": "https://promptnewsonline.com/facts-not-fear-a-point-by-point-response-to-atiku-abubakar-on-nigerias-reform-journey/",
-          "source": "promptnewsonline.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-03T09:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
-        },
-        {
-          "title": "Presidency Counters Atiku Criticism , Says Tinubu Policies Are Reviving Nigeria Economy",
-          "url": "https://thenewsnigeria.com.ng/2026/08/03/presidency-counters-atikus-criticism-says-tinubus-policies-are-reviving-nigerias-economy/",
-          "source": "thenewsnigeria.com.ng",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-08-03T09:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "multilateral"
         }
       ]
     }
   },
   "latest_rss": [
+    {
+      "title": "Why India’s new Himalayan border map threatens a fragile thaw in China ties",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3363541/why-indias-new-himalayan-border-map-threatens-fragile-thaw-china-ties?utm_source=rss_feed",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-08-10T10:02:48+00:00",
+      "summary": "New Delhi has issued names for 27 locations in Arunachal Pradesh on its official maps, including sensitive sites near the disputed border with China, in a move that an analyst warned could complicate efforts to repair bilateral ties.\nThe Indian government announced the move on Friday, just a day after officials from the two countries held a working-level consultation in New Delhi to discuss border management and reaffirm the need for peace along the Line of Actual Control.\nBeijing has long...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/624af1ec-0087-4c2a-9e30-7eb46b7f80df_b664d6bc.jpg?itok=cUp0VRSt&v=1786356155",
+      "via": "rss"
+    },
+    {
+      "title": "Lightning hits China Southern Airbus A321 while taxiing, 20 strike marks found",
+      "url": "https://www.scmp.com/news/china/politics/article/3363538/lightning-hits-china-southern-airbus-a321-while-taxiing-20-strike-marks-found?utm_source=rss_feed",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-08-10T09:49:23+00:00",
+      "summary": "A China Southern Airlines flight was forced to abandon its departure and return to the gate at Shenzhen airport over the weekend after the Airbus A321 aircraft was struck by lightning while taxiing.\nFlight CZ3209, bound for the city of Wuxi in China’s eastern Jiangsu province, was waiting on the ground during a heavy thunderstorm on Saturday afternoon when the incident occurred, according to a report by The First Scene, a news portal under Shenzhen Media Group.\nThe incident came to light on...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/393e281f-355b-48a9-aac0-8fbc4d79c5f5_c3e42da6.jpg?itok=kInSljo7&v=1786355363",
+      "via": "rss"
+    },
+    {
+      "title": "China halts drone shows across the country as airspace controls tighten",
+      "url": "https://www.scmp.com/news/china/politics/article/3363535/china-halts-drone-shows-across-country-airspace-controls-tighten?utm_source=rss_feed",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-08-10T09:39:05+00:00",
+      "summary": "Scheduled drone performances at tourist attractions and events across China have been grounded as the country steps up scrutiny of low-altitude aviation, although in many cases no clear reason was given for the cancellation.\nTourist attractions and event organisers in 11 provinces and regions, including Inner Mongolia, Gansu, Shandong, Guangdong and Hainan, took the unusual step last week of announcing that drone shows scheduled from Friday onwards were cancelled. By Monday, none had announced...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/5c491c67-408e-4408-ad90-7a843d84ba1c_97ad00fc.jpg?itok=cttmd2MP&v=1786354661",
+      "via": "rss"
+    },
+    {
+      "title": "Tropical Storm Dolphin batters eastern China with heavy rain, strong winds",
+      "url": "https://www.aljazeera.com/news/2026/8/10/tropical-storm-dolphin-batters-eastern-china-with-heavy-rain-strong-winds?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-08-10T09:35:55+00:00",
+      "summary": "Dolphin is forecast to move deeper inland to the central provinces of Hubei and Henan in ⁠the coming days.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Weather tracker: Europe breaks more heat records as temperatures soar",
+      "url": "https://www.theguardian.com/environment/2026/aug/10/weather-tracker-europe-break-heat-records-temperatures-drought-wildfires",
+      "source": "The Guardian",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-08-10T09:32:54+00:00",
+      "summary": "Drought and wildfires intensify across continent, while tropical storms bring heavy rain and disruption to east AsiaEurope live – latest updatesHigh pressure has dominated central and eastern Europe in early August, breaking temperature records  across the region. Austria recorded a high of 41.2C (106.2F), while Slovakia reached 42.2C. Hungary hit a peak of 41.8C, surpassing a record set in 1905, while overnight temperatures remained above 28C in some areas, marking it as a tropical night.The extreme temperatures have been driven by a heat dome beneath the high-pressure system, which traps warm air close to the surface. Continue reading...",
+      "image": "https://i.guim.co.uk/img/media/ced8cb7fe2827b08f0264b952257584616e81b0a/636_0_3170_2537/master/3170.jpg?width=140&quality=85&auto=format&fit=max&s=c8e7679ec3c3afc06a1e04315cac19c8",
+      "via": "rss"
+    },
+    {
+      "title": "Ukrainian Drone Attack Kills 13 Deep Inside Russia",
+      "url": "https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-08-10T09:26:22+00:00",
+      "summary": "A strike on an industrial center in Tatarstan marked one of the deadliest attacks on Russian territory since the start of the war.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Osaka, Gauff race into Canadian Open quarters as Rybakina survives scare",
+      "url": "https://www.aljazeera.com/sports/2026/8/10/osaka-gauff-race-into-canadian-open-quarters-as-rybakina-survives-scare?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-08-10T09:25:13+00:00",
+      "summary": "World No. 2 Elena Rybakina rallies to beat unseeded Liudmila Samsonova while stars Naomi Osaka, Coco Gauff progress.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "因未被安排在外交使团区域 台湾方面向长崎市表示抗议",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260810-%E5%9B%A0%E6%9C%AA%E8%A2%AB%E5%AE%89%E6%8E%92%E5%9C%A8%E5%A4%96%E4%BA%A4%E4%BD%BF%E5%9B%A2%E5%8C%BA%E5%9F%9F-%E5%8F%B0%E6%B9%BE%E6%96%B9%E9%9D%A2%E5%90%91%E9%95%BF%E5%B4%8E%E5%B8%82%E8%A1%A8%E7%A4%BA%E6%8A%97%E8%AE%AE",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-08-10T09:22:07+00:00",
+      "summary": "台北驻日经济文化代表处代表李逸洋9日因在长崎举行的“长崎原子弹爆炸遇难者慰灵暨和平祈念仪式”上被安排在“外交使团区域以外”的座位，决定不出席该仪式，仪式由福冈分处处长陈铭俊代表出席。台北驻日经济文化代表处对此发表声明表示抗议。",
+      "image": "https://s.rfi.fr/media/display/e68fecaa-949c-11f1-a18f-005056a90284/w:1024/p:16x9/2026-08-09T023330Z-1111251841-RC2QUMAS1SUG-RTRMADP-3-WW2-ANNIVERSARY-NAGASAKI.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Anguished locals watch as Israel demolishes homes in southern Lebanon",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/anguished-locals-watch-as-israel-demolishes-homes-in-southern-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-08-10T09:20:12+00:00",
+      "summary": "Anguished locals watch as Israel demolishes homes in southern Lebanon",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "為什麼航空公司對鋰電池日趨警惕",
+      "url": "https://www.bbc.com/zhongwen/articles/clyjvy7zzngo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-08-10T09:16:11+00:00",
+      "summary": "航空公司希望乘客在攜帶鋰離子電池旅行時要格外小心。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3bf5/live/f3675220-90ae-11f1-b2ab-0dd01740f9f6.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "‘Like the movies’: How Ukraine’s ground robots are changing rules of war",
+      "url": "https://www.aljazeera.com/news/2026/8/10/like-the-movies-how-ukraines-ground-robots-are-changing-rules-of-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-08-10T09:09:08+00:00",
+      "summary": "They carry ammunition, can conduct kamikaze missions and have shown they can capture enemy positions.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "‘Islamic Nato’ may create China opening in Middle East",
+      "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3363530/islamic-nato-may-create-china-opening-middle-east?utm_source=rss_feed",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-08-10T09:07:26+00:00",
+      "summary": "Pakistan, Saudi Arabia and Turkey signed a Nato-like defence agreement in Mecca as the United States’ war on Iran prompts countries in the region to rethink security arrangements.\nThe Mecca Joint Defence Agreement stipulates that “any armed attack against any one of the three states shall be regarded as an attack against them all”, the three countries said in a joint statement. Saudi Crown Prince Mohammed bin Salman, Turkish President Recep Tayyip Erdogan and Pakistani Prime Minister Shehbaz...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/0b354cbe-4d15-4133-89fa-c08ffee29366_d21c7439.jpg?itok=qTP3pU3x&v=1786352755",
+      "via": "rss"
+    },
+    {
+      "title": "Southern Iran Bears Brunt of U.S. Bombing",
+      "url": "https://www.nytimes.com/2026/08/10/world/middleeast/iran-south-bombing-strait-hormuz.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-08-10T09:02:27+00:00",
+      "summary": "Tourists in 2023 in the Valley of Stars, a popular location for visitors on Qeshm island, off Iran’s southern coast.",
+      "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10int-iran-south-01-wcpg/10int-iran-south-01-wcpg-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Marine heatwaves strike as climate change plays out ‘in front of our eyes’",
+      "url": "https://www.ft.com/content/a7e8c998-575e-4d5a-9adb-2b0afd160da0?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-08-10T08:46:53+00:00",
+      "summary": "Sea temperature records broken for month of July, Copernicus report reveals",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd100585e-d3cc-4497-9312-9c11e727ba0c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "China evacuates a million from homes as Typhoon Dolphin arrives",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/china-evacuates-a-million-from-homes-as-typhoon-dolphin-arrives?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-08-10T08:44:34+00:00",
+      "summary": "China evacuates a million from homes as Typhoon Dolphin arrives",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "How the guest list for Beijing’s summer retreat reveals its tech priorities",
+      "url": "https://www.scmp.com/news/china/politics/article/3363523/how-guest-list-beijings-summer-retreat-reveals-its-tech-priorities?utm_source=rss_feed",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-08-10T08:43:40+00:00",
+      "summary": "China’s central government has invited dozens of scientific, technological and academic experts to its annual summer retreat, highlighting how the country is focusing on innovation and breaking through “chokepoints” amid fierce competition with the US.\nAccording to state news agency Xinhua, the Communist Party’s Central Committee and the State Council, China’s cabinet, invited 60 experts to the seaside resort of Beidaihe from August 1 to 7.\nThe list of invitees – who represented fields including...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/bd60929b-dc64-45a4-b1fe-3b967b1dad10_86a5108e.jpg?itok=rZz09W5i&v=1786351408",
+      "via": "rss"
+    },
+    {
+      "title": "Nigeria eliminated as Cameroon, Malawi reach WAFCON semis and World Cup",
+      "url": "https://www.aljazeera.com/sports/2026/8/10/nigeria-eliminated-as-cameroon-malawi-reach-wafcon-semis-and-world-cup?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-08-10T08:39:25+00:00",
+      "summary": "Outsiders Malawi qualify for their first FIFA World Cup, while defending champions Nigeria are eliminated by Cameroon.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Malaysia Was Confident in Its Social Media Ban, but Kids Are Still Logged In",
+      "url": "https://www.nytimes.com/2026/08/10/world/asia/malaysia-social-media-ban-delayed.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-08-10T08:27:16+00:00",
+      "summary": "Officials told platforms to verify children’s ages using government-issued documents, like identity cards. But the companies have balked, apparently over privacy concerns.",
+      "image": "https://static01.nyt.com/images/2026/08/06/multimedia/00int-malaysia-social-media-wbcm/00int-malaysia-social-media-wbcm-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Typhoon Dolphin Barrels Into China, Prompting Mass Evacuations",
+      "url": "https://www.nytimes.com/2026/08/10/world/asia/typhoon-dolphin-china-evacuations.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-08-10T08:23:05+00:00",
+      "summary": "The storm, which made landfall on Sunday evening, is the strongest to hit China this year and also caused flooding in parts of the Philippines.",
+      "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10int-typhoon-dolphin-01-hctb/10int-typhoon-dolphin-01-hctb-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "台风“白海豚”持续影响中国东部 上海多地被淹 943个航班取消",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260810-%E5%8F%B0%E9%A3%8E-%E7%99%BD%E6%B5%B7%E8%B1%9A-%E5%BD%B1%E5%93%8D%E4%B8%AD%E5%9B%BD%E4%B8%9C%E9%83%A8-%E4%B8%8A%E6%B5%B7%E5%A4%9A%E5%9C%B0%E8%A2%AB%E6%B7%B9-943%E4%B8%AA%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-08-10T08:16:29+00:00",
+      "summary": "台风“白海豚”登陆后持续影响中国东部地区。尽管风力逐渐减弱，但所带来的强降雨仍将席卷浙江、安徽、江苏、山东等地，造成上海多地积水，数百个航班被取消。",
+      "image": "https://s.rfi.fr/media/display/31693aba-9493-11f1-bb20-005056a90284/w:1024/p:16x9/2026-08-10T065415Z-1343674871-RC2FVMA78YHT-RTRMADP-3-ASIA-WEATHER-CHINA.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Pakistan-administered Kashmir votes in reduced third phase amid unrest",
+      "url": "https://www.aljazeera.com/news/2026/8/10/pakistan-administered-kashmir-votes-in-reduced-third-phase-amid-unrest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-08-10T08:05:05+00:00",
+      "summary": "Voting postponed in seven of 11 Poonch division constituencies as boycott calls and violence mar the region&#039;s elections.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "国民党主席郑丽文称「台湾从不是国家」引风波 绿营批掩饰选战无能搏版面",
+      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260810-%E5%9B%BD%E6%B0%91%E5%85%9A%E4%B8%BB%E5%B8%AD%E9%83%91%E4%B8%BD%E6%96%87%E7%A7%B0-%E5%8F%B0%E6%B9%BE%E4%BB%8E%E4%B8%8D%E6%98%AF%E5%9B%BD%E5%AE%B6-%E5%BC%95%E9%A3%8E%E6%B3%A2-%E7%BB%BF%E8%90%A5%E6%89%B9%E6%8E%A9%E9%A5%B0%E9%80%89%E6%88%98%E6%97%A0%E8%83%BD%E6%90%8F%E7%89%88%E9%9D%A2",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-08-10T08:04:33+00:00",
+      "summary": "国民党主席郑丽文日前表示，台湾从来没有独立过，台湾也从来不是一个国家。此说法立刻引起绿营立委批评，身为台湾培育出的政治人物，却否定自己的国家认同。另外，法律学者也反驳其说法无依据。",
+      "image": "https://s.rfi.fr/media/display/4b9aa9dc-8f39-11f1-a6ba-005056a97e36/w:1024/p:16x9/AP24284221443799.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "What America Learned About Democracy When It Gained Stealth",
+      "url": "https://warontherocks.com/cogs-of-war/what-america-learned-about-democracy-when-it-gained-stealth/",
+      "source": "War on the Rocks",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-08-10T08:00:41+00:00",
+      "summary": "Editor&#8217;s note: This is the seventh article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America&#8217;s 250th anniversary, and winners will be selected by a reader vote undertaken through our newsletter&#160;later this summer. Prior installments can be found at the&#160;Arsenal of Innovation&#160;page.On the night of 24 March 1999, U.S. pilots flying 15,000 feet or more above the Balkans released precision-guided munitions, or &#8220;smart bombs,&#8221; onto military targets in Yugoslavia, beginning Operation Allied Force. The U.S.-led NATO operation carried\nThe post What America Learned About Democracy When It Gained Stealth appeared first on War on the Rocks.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "保「先人」清靜 《哈利波特》書迷影迷成功迫使跨境電纜改道",
+      "url": "https://www.bbc.com/zhongwen/articles/cqlxgle9prro/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-08-10T08:00:07+00:00",
+      "summary": "一名項目經理接受BBC採訪時表示電纜將鋪設於「墳墓」下方，引發《哈利波特》粉絲投訴。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/880d/live/dedf3c60-9481-11f1-870d-5d08c49babb2.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "North Korea’s hackers using AI for attacks, cybersecurity firm says",
+      "url": "https://www.aljazeera.com/economy/2026/8/10/north-koreas-hackers-using-ai-for-attacks-cybersecurity-firm-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-08-10T07:59:04+00:00",
+      "summary": "Hacking group Kimsuky using AI-generated documents in spear-phishing attacks, South Korean cybersecurity firm says.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Don Nelson, Hall of Fame basketball coach and NBA player, dies at 86",
+      "url": "https://www.aljazeera.com/sports/2026/8/10/don-nelson-hall-of-fame-basketball-coach-and-nba-player-dies-at-86?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-08-10T07:47:11+00:00",
+      "summary": "Nelson was a five-time NBA champion with the Boston Celtics but is best remembered for his innovative coaching style.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Thai ex-lawmaker shoots local official dead over loan",
+      "url": "https://www.dw.com/en/thai-ex-lawmaker-shoots-local-official-dead-over-loan/a-78300045?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "Deutsche Welle",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-08-10T07:47:00+00:00",
+      "summary": "A former lawmaker confessed to shooting a senior official at a government office over a money dispute, police have said. The incident came just days after Thailand's deadliest shooting in nearly four years.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Israeli forces kill one in Gaza as another body recovered from rubble",
+      "url": "https://www.aljazeera.com/news/2026/8/10/israeli-forces-kill-one-in-gaza-as-another-body-recovered-from-rubble?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-08-10T07:43:01+00:00",
+      "summary": "Gaza Health Ministry says hospitals receive bodies of two Palestinians as Netanyahu rejects Trump plan to end war.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Why Military Cooperation in the Indian Ocean Still Falls Short",
+      "url": "https://warontherocks.com/why-military-cooperation-in-the-indian-ocean-still-falls-short/",
+      "source": "War on the Rocks",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-08-10T07:30:32+00:00",
+      "summary": "The United States has bluntly signaled a deprioritization of the Indian Ocean at a peculiar time. The reversion of U.S. Indo-Pacific Command to its former name, U.S. Pacific Command, signifies no material change in force posture or organizational responsibilities, but it unavoidably signals less focus on the Indian Ocean, presumably in favor of its consistent top priority in the western Pacific, although it&#8217;s not clear anyone really knows.The recent closure and persistent uncertainty over the Strait of Hormuz have underscored the fragility of international shipping lanes that traverse the ocean, especially in Asia, where most countries relied on oil shipped\nThe post Why Military Cooperation in the Indian Ocean Still Falls Short appeared first on War on the Rocks.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "China evacuates one million from homes as massive storm arrives",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-08-10T07:23:54+00:00",
+      "summary": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ce6/live/e2285ea0-945a-11f1-80f4-1baf774a4468.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Explosive Canada Wildfire Leaves 1 Dead in British Columbia",
+      "url": "https://www.nytimes.com/2026/08/10/world/canada/western-canada-wildfires-british-columbia-bc.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-08-10T07:21:52+00:00",
+      "summary": "The Bald Range fire had burned more than 33,000 acres and remained out of control on Sunday, officials said. About 20,000 people were ordered to evacuate.",
+      "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10xp-canada-wildfire-jbpk/10xp-canada-wildfire-jbpk-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Solar eclipse tracker: What time will it hit your location on August 12?",
+      "url": "https://www.aljazeera.com/news/2026/8/10/solar-eclipse-tracker-what-time-will-it-hit-your-location-on-august-12?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-08-10T07:10:32+00:00",
+      "summary": "On August 12, nearly one billion people could see a partial solar eclipse, with 15 million in its path of totality.",
+      "image": "",
+      "via": "rss"
+    },
     {
       "title": "When extreme heat threatens Europe's nuclear power",
       "url": "https://www.dw.com/en/when-extreme-heat-threatens-europe-s-nuclear-power/a-78297778?maca=en-rss-en-world-4025-xml-mrss",
@@ -607,17 +1128,6 @@
       "via": "rss"
     },
     {
-      "title": "Typhoon Dolphin Barrels Into China, Prompting Mass Evacuations",
-      "url": "https://www.nytimes.com/2026/08/10/world/asia/typhoon-dolphin-china-evacuations.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-08-10T06:46:22+00:00",
-      "summary": "The storm, which made landfall on Sunday evening, is the strongest to hit China this year and also caused flooding in parts of the Philippines.",
-      "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10int-typhoon-dolphin-01-hctb/10int-typhoon-dolphin-01-hctb-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
       "title": "想要開放霍爾木茲海峽 伊朗向特朗普提出的六個條件",
       "url": "https://www.bbc.com/zhongwen/articles/cdrv28lg4y3o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
@@ -637,17 +1147,6 @@
       "published": "2026-08-10T06:26:04+00:00",
       "summary": "What&#039;s driving unrest in Pakistan-administered Kashmir?",
       "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "China evacuates one million from homes as massive storm arrives",
-      "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-10T06:15:13+00:00",
-      "summary": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3f6/live/8f6ac130-9487-11f1-870d-5d08c49babb2.jpg",
       "via": "rss"
     },
     {
@@ -684,17 +1183,6 @@
       "via": "rss"
     },
     {
-      "title": "Explosive Canada Wildfire Leaves 1 Dead in British Columbia",
-      "url": "https://www.nytimes.com/2026/08/10/world/canada/western-canada-wildfires-british-columbia-bc.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-08-10T04:59:24+00:00",
-      "summary": "The Bald Range fire had burned more than 33,000 acres and remained out of control on Sunday, officials said. About 20,000 people were ordered to evacuate.",
-      "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10xp-canada-wildfire-jbpk/10xp-canada-wildfire-jbpk-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
       "title": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai",
       "url": "https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations",
       "source": "The Guardian",
@@ -728,14 +1216,25 @@
       "via": "rss"
     },
     {
-      "title": "40% of flights grounded in Shanghai as long-lived Typhoon Dolphin moves north",
+      "title": "Beijing on red alert as Typhoon Dolphin grounds nearly 1,000 flights in Shanghai",
       "url": "https://www.scmp.com/news/china/politics/article/3363486/40-flights-grounded-shanghai-long-lived-typhoon-dolphin-moves-north?utm_source=rss_feed",
       "source": "SCMP",
       "language": "en",
       "type": "newspaper",
       "published": "2026-08-10T04:29:59+00:00",
-      "summary": "Shanghai airports cancelled nearly 40 per cent of all flights on Monday as heavy rain continued after Typhoon Dolphin made landfall in eastern China on Sunday evening and continued to move north.\nAccording to a notice from the Shanghai government on Monday morning, there were 642 cancellations at Pudong airport and 301 at Hongqiao. Passengers were urged to check their airlines for updates.\nSome trains began to recover on Monday morning, including services to Hangzhou, the capital of Zhejiang...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/13ed1def-cf71-4051-b367-a9678fb6fe5a_de01ad0d.jpg?itok=-8oSOvt3&v=1786336121",
+      "summary": "Residents in Beijing have been warned not to go outside unless it is absolutely necessary as the capital and multiple other cities are on high alert for the arrival of Typhoon Dolphin, which is travelling north.\nIn Beijing, a red rainstorm alert – the second highest – was issued on Monday for a number of districts, with rain expected to continue over the next three days.\nAccording to the city’s forecaster, the rain will get increasingly stronger with the most concentrated period expected to be...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/10/2e440009-ac08-451d-88fc-974719a2c50b_09c71501.jpg?itok=fjinRDQp&v=1786352682",
+      "via": "rss"
+    },
+    {
+      "title": "Myanmar Nationals Face Deportation From US After Court Ruling",
+      "url": "https://thediplomat.com/2026/08/myanmar-nationals-face-deportation-from-us-after-court-ruling/",
+      "source": "The Diplomat",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-08-10T04:10:00+00:00",
+      "summary": "The ruling follows a Supreme Court decision in June that limited courts' ability to challenge TPS designations.",
+      "image": "https://images.thediplomat.com/v1/td-list-l-2/2025/12/thediplomat_2025-12-23-142918.jpg",
       "via": "rss"
     },
     {
@@ -769,17 +1268,6 @@
       "published": "2026-08-10T04:01:20+00:00",
       "summary": "The traditional ways of cultivating the peppers may not survive the challenges of climate change and soaring costs, so Pakistani farmers are trying to adapt.",
       "image": "https://static01.nyt.com/images/2026/08/06/multimedia/00int-pakistan-chiles-dispatch-promo-hmpq/00int-pakistan-chiles-dispatch-promo-hmpq-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Malaysia Was Confident in Its Social Media Ban, but Kids Are Still on TikTok",
-      "url": "https://www.nytimes.com/2026/08/10/world/asia/malaysia-social-media-ban-delayed.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-08-10T04:01:16+00:00",
-      "summary": "Officials told platforms to verify children’s ages using government-issued documents, like identity cards. But the companies have balked, apparently over privacy concerns.",
-      "image": "https://static01.nyt.com/images/2026/08/06/multimedia/00int-malaysia-social-media-wbcm/00int-malaysia-social-media-wbcm-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -1025,6 +1513,17 @@
       "via": "rss"
     },
     {
+      "title": "The Quiet Vietnamese",
+      "url": "https://thediplomat.com/2026/08/the-quiet-vietnamese/",
+      "source": "The Diplomat",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-08-10T01:27:00+00:00",
+      "summary": "Landlocked Laos needs counterweights to its massive neighbor, China, if is to avoid being paralyzed by debt. The most obvious choice is Vietnam.",
+      "image": "https://images.thediplomat.com/v1/td-list-l-2/2022/08/thediplomat_2022-08-24-014337.jpg",
+      "via": "rss"
+    },
+    {
       "title": "Could Morocco’s football chief Fouzi Lekjaa become its next prime minister?",
       "url": "https://www.aljazeera.com/news/2026/8/10/could-moroccos-football-chief-fouzi-lekjaa-become-its-next-prime-minister?traffic_source=rss",
       "source": "Al Jazeera",
@@ -1033,6 +1532,17 @@
       "published": "2026-08-10T00:51:19+00:00",
       "summary": "Lekjaa’s decision to join a political party has fuelled speculation about his political ambitions.",
       "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Myanmar Rejects ASEAN Call for Suu Kyi’s Release, Questions Need For Special Envoy",
+      "url": "https://thediplomat.com/2026/08/myanmar-rejects-asean-call-for-suu-kyis-release-questions-need-for-special-envoy/",
+      "source": "The Diplomat",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-08-10T00:28:00+00:00",
+      "summary": "The military-backed government is pushing for full readmission to ASEAN, while rejecting outright the bloc’s Five-Point Consensus initiative.",
+      "image": "https://images.thediplomat.com/v1/td-list-l-2/2025/03/thediplomat_2025-03-28-124557.jpg",
       "via": "rss"
     },
     {
@@ -1058,7 +1568,7 @@
       "via": "rss"
     },
     {
-      "title": "Iran war live: US ‘semi-negotiating’ with Tehran; Israel rejects Gaza plan",
+      "title": "Iran war live: Tehran says ‘no military solution’ to Hormuz reopening",
       "url": "https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?traffic_source=rss",
       "source": "Al Jazeera",
       "language": "en",
@@ -1069,35 +1579,13 @@
       "via": "rss"
     },
     {
-      "title": "F-16s intercept two aircraft near Trump’s New Jersey golf club",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/aje-onl-nf_f-16s-intercept-two-aircraft-near-trump-golf-club-090826?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-09T23:28:38+00:00",
-      "summary": "F-16s intercepted two civilian aircraft entering restricted airspace over Bedminster, NJ, where President Trump was.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Netanyahu rejects Trump-backed Gaza peace plan",
-      "url": "https://www.dw.com/en/netanyahu-rejects-trump-backed-gaza-peace-plan/a-78298282?maca=en-rss-en-world-4025-xml-mrss",
+      "title": "Netanyahu, at odds with Trump, rejects Gaza peace plan",
+      "url": "https://www.dw.com/en/netanyahu-at-odds-with-trump-rejects-gaza-peace-plan/a-78298282?maca=en-rss-en-world-4025-xml-mrss",
       "source": "Deutsche Welle",
       "language": "en",
       "type": "broadcast",
       "published": "2026-08-09T23:11:00+00:00",
       "summary": "The Israeli prime minister says his country will not withdraw from Gaza until Hamas fully disarms, putting him at odds with a US-backed roadmap endorsed by the group.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Union reports 108 attacks on Palestinian journalists in July",
-      "url": "https://www.aljazeera.com/news/2026/8/9/union-reports-108-attacks-on-palestinian-journalists-in-july?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-09T23:01:25+00:00",
-      "summary": "Palestinian Journalists Syndicate exposes rising threats, with over 270 journalists killed in Gaza since October 2023.",
       "image": "",
       "via": "rss"
     },
@@ -1355,61 +1843,6 @@
       "via": "rss"
     },
     {
-      "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
-      "url": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-09T20:40:25+00:00",
-      "summary": "Espionage, sabotage, cyberattacks, and covert operations are a &#039;constant reality&#039;, says Germany&#039;s interior minister.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/palestinians-say-netanyahus-decision-leaves-no-clear-path-to-peace?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-09T20:02:57+00:00",
-      "summary": "‘We&#039;re going backwards.’",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Israel is ‘trying to make Palestine disappear’: The Elders",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/9/israel-is-trying-to-make-palestine-disappear-the-elders?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-09T19:30:00+00:00",
-      "summary": "Former Irish President Mary Robinson: Israel ‘erasing Palestine physically, economically, culturally and politically’.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Can the Doha Framework end the conflict in eastern DRC?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-09T19:07:35+00:00",
-      "summary": "Kinshasa hands over 15 prisoners to powerful rebel alliance.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Hundreds of anti-tourism Spanish protesters march in Mallorca’s Soller",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/hundreds-of-anti-tourism-spanish-protesters-march-in-mallorcas-soller?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-09T18:59:33+00:00",
-      "summary": "Hundreds of people marched on Saturday in the town of Soller, in the island of Mallorca against mass tourism.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "非洲女子国家杯2026四分之一赛",
       "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260809-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2%E5%A5%B3%E5%AD%90%E5%9B%BD%E5%AE%B6%E6%9D%AF2026%E5%9B%9B%E5%88%86%E4%B9%8B%E4%B8%80%E8%B5%9B",
       "source": "法广中文",
@@ -1418,17 +1851,6 @@
       "published": "2026-08-09T18:54:53+00:00",
       "summary": "在北非马格里布地区的摩洛哥王国，于两个星期前2026年07月26号周日开幕的第14届非洲女子国家杯足球赛（la CAN féminine 2026）目前正在如火如荼的举行之中。这一计划为期三个星期的赛程，预计是在一周后的08月16日星期天落幕。进入本届赛事四分之一决赛的八支女足队，于本周末两天（08月08日星期六和08月09日星期天）分别在卡萨布兰卡（Casablanca）和拉巴特（Rabat）对阵，展开淘汰赛。打入半决赛的4支球队将获得2027年巴西女足世界杯（la Coupe du Monde FIFA Brésil-2027）的参赛资格。经过08月08日周六的赛事，目前已有阿尔及利亚和摩洛哥先后分别各自摘取一张直接进军南美洲的入场券。08月09日星期天晚，喀麦隆(le Cameroun)在卡萨布兰卡（Casablanca）迎战尼日利亚(le Nigéria)，以1：0险胜。另一场比赛是马拉维(le Malawi)在拉巴特（Rabat）对阵加纳(le Ghana)，以2：1赢得直接于明年前往巴西参赛的资格。",
       "image": "https://s.rfi.fr/media/display/02bb31d6-9421-11f1-8a7c-005056bfb2b6/w:1024/p:16x9/2026-08-09-D-FMM-archive-Afrique-CAN-f%C3%A9minine-Le-Troph%C3%A9e-archive-RFI.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Where does Iran stand on Saudi-Pakistan-Turkiye pact?",
-      "url": "https://www.aljazeera.com/news/2026/8/9/where-does-iran-stand-on-saudi-pakistan-turkiye-pact?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-09T18:44:28+00:00",
-      "summary": "Iran not immediately threatened by pact, analysts say, with officials focusing on aspect of diminishing US role.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -1531,39 +1953,6 @@
       "via": "rss"
     },
     {
-      "title": "Jannik Sinner withdraws from Cincinnati Open with knee injury",
-      "url": "https://www.aljazeera.com/sports/2026/8/9/jannik-sinner-withdraws-from-cincinnati-open-with-knee-injury?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-09T16:53:53+00:00",
-      "summary": "Number one ranked player in men&#039;s tennis will miss the tournament due to a knee issue, he says via organisers.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Former Iraqi provincial governor arrested as graft crackdown continues",
-      "url": "https://www.aljazeera.com/news/2026/8/9/former-iraqi-provincial-governor-arrested-as-graft-crackdown-continues?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-09T16:53:45+00:00",
-      "summary": "Ahmed al-Jubouri and a close associate were arrested on charges of misusing contract funds in Saladin province.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Wildfires in Albania and Spain cause hundreds to evacuate",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/wildfires-in-albania-and-spain-cause-hundreds-to-evacuate?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-09T16:41:00+00:00",
-      "summary": "Wildfires have spread near Albania’s capital and in parts of southern Spain, prompting hundreds to evacuate.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "一架无人机坠毁在保加利亚输气管道附近农田 索非亚指责基辅",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260809-%E4%B8%80%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%9D%A0%E6%AF%81%E5%9C%A8%E4%BF%9D%E5%8A%A0%E5%88%A9%E4%BA%9A%E8%BE%93%E6%B0%94%E7%AE%A1%E9%81%93%E9%99%84%E8%BF%91%E5%86%9C%E7%94%B0-%E7%B4%A2%E9%9D%9E%E4%BA%9A%E6%8C%87%E8%B4%A3%E5%9F%BA%E8%BE%85",
       "source": "法广中文",
@@ -1583,17 +1972,6 @@
       "published": "2026-08-09T16:00:09+00:00",
       "summary": "The grand security bargain between the United States and Gulf countries is widely perceived to be fraying, creating what analysts see as an opening for Beijing to expand its presence in the region.\nFor decades, Saudi Arabia and other Gulf states relied on Washington’s defensive shield, while it in turn relied on them for access, energy and influence.\nRiyadh’s decision to sign a mutual defence agreement with Turkey and Pakistan is the clearest sign yet of that shift.\nSigned this week in Mecca,...",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/09/ca6e845a-4af0-413a-99e4-fa7b784d5d4d_80ddb66c.jpg?itok=7eieQOfr&v=1786277501",
-      "via": "rss"
-    },
-    {
-      "title": "Trump is dismantling US guardrails, warn former security officials",
-      "url": "https://www.ft.com/content/4fc0fdda-0919-4584-9bdd-855e2aaa5c09?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-08-09T16:00:01+00:00",
-      "summary": "Ex-CIA staffers step up efforts to publicise their deepening alarm about the state of American democracy",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdd8b8db2-b3ac-43fa-ab3e-1acf99d1ec0d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -1806,17 +2184,6 @@
       "via": "rss"
     },
     {
-      "title": "台湾“汉光”军演：备战的同时守护战略产业",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260809-%E5%8F%B0%E6%B9%BE-%E6%B1%89%E5%85%89-%E5%86%9B%E6%BC%94-%E5%A4%87%E6%88%98%E7%9A%84%E5%90%8C%E6%97%B6%E5%AE%88%E6%8A%A4%E6%88%98%E7%95%A5%E4%BA%A7%E4%B8%9A",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-08-09T10:31:13+00:00",
-      "summary": "周末法国《世界报》特约记者文章，介绍台湾正在举行的年度“汉光”军事演习，同时将视角从军事领域延伸到台湾的另一场没有硝烟的的战斗：保护其战略产业免受北京的觊觎。",
-      "image": "https://s.rfi.fr/media/display/0a6b3da6-90dc-11f1-966b-005056bfb2b6/w:1024/p:16x9/AP23101185020969-1.jpg",
-      "via": "rss"
-    },
-    {
       "title": "Matter of pure force: US, Israeli physicists hail China’s glueball discovery as ‘triumph’",
       "url": "https://www.scmp.com/news/china/science/article/3363444/matter-pure-force-us-israeli-physicists-hail-chinas-glueball-discovery-triumph?utm_source=rss_feed",
       "source": "SCMP",
@@ -1847,28 +2214,6 @@
       "published": "2026-08-09T09:00:15+00:00",
       "summary": "The aftermath of a strike in March on a building in Beirut that Israel asserted was linked to Hezbollah’s financial arm.",
       "image": "https://static01.nyt.com/images/2026/08/05/multimedia/00int-hezbollah-finances-jpgz/00int-hezbollah-finances-jpgz-mediumSquareAt3X-v2.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "缅甸再次拒绝无条件释放昂山素季，并称现任政府已实现民选，不再需要东盟特使",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260809-%E7%BC%85%E7%94%B8%E5%86%8D%E6%AC%A1%E6%8B%92%E7%BB%9D%E6%97%A0%E6%9D%A1%E4%BB%B6%E9%87%8A%E6%94%BE%E6%98%82%E5%B1%B1%E7%B4%A0%E5%AD%A3%EF%BC%8C%E5%B9%B6%E7%A7%B0%E7%8E%B0%E4%BB%BB%E6%94%BF%E5%BA%9C%E5%B7%B2%E5%AE%9E%E7%8E%B0%E6%B0%91%E9%80%89%EF%BC%8C%E4%B8%8D%E5%86%8D%E9%9C%80%E8%A6%81%E4%B8%9C%E7%9B%9F%E7%89%B9%E4%BD%BF",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-08-09T08:39:37+00:00",
-      "summary": "美联社8月9日报道，据缅甸外交部消息，由缅甸军方支持的缅甸政府拒绝了东盟再次提出的、要求无条件释放被拘押的前领导人昂山素季的呼吁，同时表示没有必要继续由东盟别特使负责缅甸事务。",
-      "image": "https://s.rfi.fr/media/display/b7a62214-6c8e-11f1-8acc-005056a97e36/w:1024/p:16x9/AP24033091893646.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "土耳其：土巴沙防务协议技术上等同北约“第五条” 埃及或将加入",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260809-%E5%9C%9F%E8%80%B3%E5%85%B6-%E5%9C%9F%E5%B7%B4%E6%B2%99%E9%98%B2%E5%8A%A1%E5%8D%8F%E8%AE%AE%E6%8A%80%E6%9C%AF%E4%B8%8A%E7%AD%89%E5%90%8C%E5%8C%97%E7%BA%A6-%E7%AC%AC%E4%BA%94%E6%9D%A1-%E5%9F%83%E5%8F%8A%E6%88%96%E5%B0%86%E5%8A%A0%E5%85%A5",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-08-09T08:35:24+00:00",
-      "summary": "土耳其外长哈坎·菲丹8月8日表示，土耳其、沙特阿拉伯和巴基斯坦前日在麦加签署的共同防务协议，在技术上与北约第五条的集体防御原则相同。他同时强调，该协议并非针对伊朗，并透露“埃及很可能在下一阶段加入”。",
-      "image": "https://s.rfi.fr/media/display/9babb1a2-fd83-11f0-a4bd-005056a90284/w:1024/p:16x9/000-834A3DY.jpg",
       "via": "rss"
     },
     {
@@ -2147,17 +2492,6 @@
       "via": "rss"
     },
     {
-      "title": "Why Beijing struggles to win Indian hearts and minds despite diplomatic thaw",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3363382/why-beijing-struggles-win-indian-hearts-and-minds-despite-diplomatic-thaw?utm_source=rss_feed",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-08-08T10:00:11+00:00",
-      "summary": "Though the relationship between the Chinese and Indian governments has been thawing, Beijing has yet to win over the Indian public as it lacked a long-term strategy and communication channels, according to Chinese researchers.\nBeijing needed to find common ground by expanding its bottom-up strategies as “a matter of urgency”, Zhou Qingan, dean of Tsinghua University’s school of journalism, and Li Yiming, a research assistant at the school argued in a recent article.\nIn a June paper published in...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/08/2799120e-e191-4fda-8de4-c5aab4ee6d43_d376eac6.jpg?itok=8vrScM-S&v=1786170741",
-      "via": "rss"
-    },
-    {
       "title": "Signs of Economic Recovery While Greater Uncertainty Looms",
       "url": "https://www.nytimes.com/2026/08/08/world/canada/canada-economy-tariffs-carney-trump.html",
       "source": "New York Times",
@@ -2180,50 +2514,6 @@
       "via": "rss"
     },
     {
-      "title": "Pellet Guns, Sticks and Tear Gas: How India’s Police Halted a Youth March",
-      "url": "https://www.nytimes.com/2026/08/08/world/asia/india-new-delhi-cjp-protest-march-police.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-08-08T05:21:06+00:00",
-      "summary": "A New York Times analysis details the July 20 crackdown on unarmed protesters in New Delhi that has provoked public outrage and accusations of excessive force.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Typhoon Dolphin causes flight chaos in China, with Shanghai set to enter danger zone",
-      "url": "https://www.scmp.com/news/china/article/3363380/typhoon-dolphin-causes-flight-chaos-china-shanghai-set-enter-danger-zone?utm_source=rss_feed",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-08-08T05:04:04+00:00",
-      "summary": "Flights serving eastern China were disrupted on Saturday as Typhoon Dolphin approached the coast, with some services cancelled and airlines offering flexible rebooking and refund options for affected passengers.\nMost of the typhoon-related flight disruptions have been reported at airports in the cities of Ningbo, Wenzhou, Taizhou, Hangzhou and Shanghai, according to Chinese media.\nSome travellers also reported receiving notifications that flights to and from Shanghai on Sunday and Monday would...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/08/4be8ac9d-943a-4d10-aea8-06caddde52b0_7d08ecce.jpg?itok=PuiRKCuE&v=1786165440",
-      "via": "rss"
-    },
-    {
-      "title": "As Ukraine Strikes Wildberries, Russia’s Richest Businesswoman Faces Her Biggest Test Yet",
-      "url": "https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-08-08T04:01:50+00:00",
-      "summary": "Tatyana Kim, the billionaire co-founder of Wildberries, Russia’s largest online marketplace, in June.",
-      "image": "https://static01.nyt.com/images/2026/08/08/multimedia/08int-russia-wildberries-01-lkft/08int-russia-wildberries-01-lkft-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Chinese scientists find some Yangtze flood controls may do more harm than good",
-      "url": "https://www.scmp.com/news/china/science/article/3363133/chinese-scientists-find-some-yangtze-flood-controls-may-do-more-harm-good?utm_source=rss_feed",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-08-08T04:00:13+00:00",
-      "summary": "For centuries, the Yangtze River has been China’s vital lifeblood, yet its floods have claimed countless lives. To tame its waters, flood-control systems have evolved from ancient dykes to the engineering marvel of the Three Gorges Dam.\nBut a new study has uncovered a paradox: some human interventions may have inadvertently worsened the very flood risks they were built to mitigate.\n“We show that flood frequency peaked during the Little Ice Age [1500−1850] … and that human interventions,...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/06/1ab508e1-30dc-44d0-9701-6a19bee9bf8b_cbc0da82.jpg?itok=wP5AQwBm&v=1785994377",
-      "via": "rss"
-    },
-    {
       "title": "Ceuta: Spain sets up border controls on travelers from Italy",
       "url": "https://www.dw.com/en/ceuta-spain-sets-up-border-controls-on-travelers-from-italy/a-78282840?maca=en-rss-en-world-4025-xml-mrss",
       "source": "Deutsche Welle",
@@ -2232,17 +2522,6 @@
       "published": "2026-08-08T01:24:00+00:00",
       "summary": "Spain had warned Italy it would impose entry checks on visitors unless Rome halts its controls by Sunday. Even though they don't share a land border, the countries entered a spat after the Ceuta border rush.",
       "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Taiwan’s push to dissolve pro-Beijing party triggers political censorship debate",
-      "url": "https://www.scmp.com/news/china/politics/article/3363313/taiwans-push-dissolve-pro-beijing-party-triggers-political-censorship-debate?utm_source=rss_feed",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-08-08T01:00:10+00:00",
-      "summary": "Taiwan’s plan to dissolve the pro-Beijing Chinese Unification Promotion Party (CUPP) has sparked controversy over whether the independence-leaning authorities are using security concerns to suppress political dissent.\nThe island’s interior ministry is seeking a Constitutional Court order to declare the CUPP unconstitutional and dissolve it, marking the first such action against a political party in Taiwan’s history.\n“The CUPP has long been linked to organised crime, including cross-border...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/07/e9d5a2d0-d769-4552-b300-42f05be5a64e_7d8526b2.jpg?itok=8BUt3Lvf&v=1786095387",
       "via": "rss"
     },
     {
@@ -2265,17 +2544,6 @@
       "published": "2026-08-07T23:00:59+00:00",
       "summary": "&#x3010;&#x7de8;&#x8005;&#x6309;&#x3011;&#x300c;&#x5176;&#x5be6;&#x4f60;&#x8fd4;&#x5de5;&#x6709;&#x54a9;&#x505a;&#x35ce;&#xff1f;&#x300d;&#x2014;&#x2014;&#x9019;&#x500b;&#x554f;&#x984c;&#xff0c;&#x4f60;&#x6709;&#x554f;&#x904e;&#x5225;&#x4eba;&#x6216;&#x88ab;&#x4eba;&#x554f;&#x8d77;&#x55ce;&#xff1f;&#x9019;&#x500b;&#x4f86;&#x81ea;&#x65e5;&#x5e38;&#x7684;&#x554f;&#x984c;&#xff0c;&#x555f;&#x767c;&#x6211;&#x5011;&#x958b;&#x555f;&#x300c;&#x8fd4;&#x5de5;&#x9019;&#x56de;&#x4e8b;&#x300d;&#x9019;&#x500b;&#x6b04;&#x76ee;&#x3002;&#x5728;&#x7576;&#x4ee3;&#x793e;&#x6703;&#xff0c;&#x5de5;&#x4f5c;&#x4e3b;&#x5bb0;&#x6211;&#x5011;&#x7684;&#x751f;&#x6d3b;&#xff0c;&#x65e2;&#x5b9a;&#x7fa9;&#x500b;&#x4eba;&#x7684;&#x8eab;&#x4efd;&#xff0c;&#x4ea6;&#x7dad;&#x7e6b;&#x793e;&#x6703;&#x7684;&#x300c;&#x6b63;&#x5e38;&#x300d;&#x904b;&#x8f49;&#xff0c;&#x4f46;&#x5728;&#x300c;&#x9694;&#x884c;&#x5982;&#x9694;&#x5c71;&#x300d;&#x7684;&#x5340;&#x9694;&#x4e2d;&#xff0c;&#x6211;&#x5011;&#x4e26;&#x4e0d;&#x5bb9;&#x6613;&#x770b;&#x898b;",
       "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/08/L_015882.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "US judge blocks Pentagon’s ‘Chinese military’ label for WuXi AppTec",
-      "url": "https://www.scmp.com/news/us/article/3363369/us-judge-blocks-pentagons-chinese-military-label-wuxi-apptec?utm_source=rss_feed",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-08-07T20:38:37+00:00",
-      "summary": "A US federal judge on Friday temporarily blocked the Pentagon from designating Chinese biotechnology group WuXi AppTec as a “Chinese military company”, finding that defence officials repeatedly misread the evidence used to justify the decision.\nUS District Chief Judge James Boasberg granted WuXi a preliminary injunction barring the Department of Defence from enforcing or otherwise giving effect to the designation while the company’s lawsuit proceeds.\n“A scarlet letter sends a clear message: keep...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/08/08/fb4de003-180f-4d64-a9cf-4bb973428414_3027eb06.jpg?itok=6RYVbgX9&v=1786153863",
       "via": "rss"
     },
     {
@@ -2334,25 +2602,14 @@
       "via": "rss"
     },
     {
-      "title": "Migrant tunnels in Lithuania direct suspicion towards Minsk",
-      "url": "https://www.dw.com/en/migrant-tunnels-in-lithuania-direct-suspicion-towards-minsk/a-78280640?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "Deutsche Welle",
+      "title": "The Murder of a Uyghur in America Spotlights the Dangers for the Diaspora",
+      "url": "https://thediplomat.com/2026/08/the-murder-of-a-uyghur-in-america-spotlights-the-dangers-for-the-diaspora/",
+      "source": "The Diplomat",
       "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-07T19:36:00+00:00",
-      "summary": "Lithuania's border guards have discovered tunnels through which migrants are trying to enter the country from Belarus. Analysts see them as a means to destabilize the country.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Ukraine's Zelenskyy makes first visit to Russia-friendly Serbia",
-      "url": "https://www.dw.com/en/ukraine-s-zelenskyy-makes-first-visit-to-russia-friendly-serbia/a-78285302?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "Deutsche Welle",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-07T19:34:00+00:00",
-      "summary": "Ukrainian President Zelenskyy is making his first visit to Serbia. His host, President Aleksandar Vucic, hopes to score points with the EU, while Zelenskyy seeks more arms from a country that remains friendly to Russia.",
-      "image": "",
+      "type": "journal",
+      "published": "2026-08-07T19:29:00+00:00",
+      "summary": "China’s transnational repression is real, and host governments themselves are now playing a role in pressuring Uyghur communities.",
+      "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/08/thediplomat_2026-08-08-043602.jpg",
       "via": "rss"
     },
     {
@@ -2386,6 +2643,17 @@
       "published": "2026-08-07T18:20:08+00:00",
       "summary": "Thomas Wright on the post-Cold War order.",
       "image": "https://foreignpolicy.com/wp-content/uploads/2026/08/1-trump-and-biden-2020-debateGettyImages-1228795338.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "The Iran-US War a Win for China? Not So Fast.",
+      "url": "https://thediplomat.com/2026/08/the-iran-us-war-a-win-for-china-not-so-fast/",
+      "source": "The Diplomat",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-08-07T18:03:00+00:00",
+      "summary": "The war is also creating strategic opportunities for Washington and new challenges for Beijing in the Middle East.",
+      "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/04/thediplomat_2026-04-28-050213.jpg",
       "via": "rss"
     },
     {
@@ -2661,105 +2929,6 @@
       "published": "2026-08-07T06:48:00+00:00",
       "summary": "The pledge came as Prime Minister Anutin Charnvirakul hosted the country's military-appointed president, Min Aung Hlaing, in Bangkok.",
       "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/08/thediplomat_2026-08-07-160834.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "金元、私有化與政治干預：FIFA「世界盃公司計畫」的金權風暴｜Whatsnew",
-      "url": "https://theinitium.com/20260807-whatsnew-uefa-boycott-infantino-fifa-enterprise-plan/",
-      "source": "端传媒",
-      "language": "zh",
-      "type": "journal",
-      "published": "2026-08-07T06:15:01+00:00",
-      "summary": "2026&#x5e74;&#x5317;&#x7f8e;&#x4e16;&#x754c;&#x76c3;&#x5713;&#x6eff;&#x843d;&#x5e55;&#x4e4b;&#x5f8c;&#xff0c;&#x8db3;&#x7403;&#x76db;&#x5bb4;&#x9918;&#x6eab;&#x6f38;&#x6de1;&#xff0c;&#x7403;&#x54e1;&#x8207;&#x7403;&#x8ff7;&#x6b63;&#x6e96;&#x5099;&#x8fce;&#x63a5;&#x5168;&#x65b0;&#x8cfd;&#x5b63;&#xff0c;&#x7136;&#x800c;&#x4e00;&#x5834;&#x7531;&#x570b;&#x969b;&#x8db3;&#x7e3d;&#xff08;FIFA&#xff09;&#x4e3b;&#x5e2d;&#x56e0;&#x51e1;&#x8482;&#x8afe;&#xff08;Gianni Infantino&#xff09;&#x6697;&#x4e2d;&#x4e3b;&#x5c0e;&#x7684;&#x300c;&#x4e16;&#x754c;&#x76c3;&#x79c1;&#x6709;&#x5316;&#x300d;&#x91d1;&#x5143;&#x8a08;&#x5283;&#xff0c;&#x4ee5;&#x53ca;&#x570d;&#x7e5e;&#x56e0;&#x51e1;&#x8482;&#x8afe;&#x7684;&#x653f;&#x6cbb;&#x5e72;&#x9810;&#x919c;&#x805e;&#xff0c;&#x537b;&#x5728;&#x77ed;&#x77ed;&#x6578;&#x65e5;&#x5167;&#x5f15;&#x7206;&#x4e86;&#x4e16;&#x754c;&#x8db3;&#x58c7;&#x6b77;&#x53f2;&#x4e0a;&#x6700;&#x56b4;&#x91cd;&#x7684;&#x6cbb;&#x7406;&#x5371;&#x6a5f;&#x3002;&#x4e8b;&#x4ef6;&#x7684;&#x8d77;&#x56e0;&#xff0c;",
-      "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/08/AP26213254624609-------.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Why was Taiwan’s president evacuated in the middle of the night?",
-      "url": "https://www.bbc.co.uk/news/videos/cly83vm923go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-07T04:52:19+00:00",
-      "summary": "President William Lai took part in an emergency evacuation drill as part of Taiwan military exercises preparing for a potential Chinese invasion.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/790d/live/48a9d250-921a-11f1-af4d-5164294a85c7.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "11岁逃美，18岁犯罪，44岁被遣返：一个越南难民的半生",
-      "url": "https://cn.nytimes.com/usa/20260807/deportations-southeast-asians-trump/?utm_source=RSS",
-      "source": "纽约时报中文",
-      "language": "zh",
-      "type": "newspaper",
-      "published": "2026-08-07T03:59:09+00:00",
-      "summary": "特朗普政府正在遣返数量创纪录的东南亚人。许多人年幼时以合法难民身份来到美国，后来犯下罪行，如今被强行驱逐。这再次凸显出美国对东南亚难民历史责任的复杂问题。                    Linh Pham for The New York Times",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "特朗普再次签署行政令限制出生公民权，打击“生育旅游”",
-      "url": "https://cn.nytimes.com/usa/20260807/trump-birthright-citizenship-tourism/?utm_source=RSS",
-      "source": "纽约时报中文",
-      "language": "zh",
-      "type": "newspaper",
-      "published": "2026-08-07T03:13:04+00:00",
-      "summary": "行政令旨在限制有资格获得出生公民权的人群，并打击“生育旅游”。目前尚不清楚这两项行政命令将如何执行。此前，最高法院已驳回了特朗普限制出生公民权的企图。                    Haiyun Jiang/The New York Times                    特朗普总统与顾问威尔·沙夫和斯蒂芬·米勒（左）及商务部长霍华德·卢特尼克（右）。周四，总统签署限制出生公民权的行政令后向媒体发表了讲话。",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "特朗普簽署新行政命令 試圖重新限制美國出生公民權",
-      "url": "https://www.bbc.com/zhongwen/articles/c1e1v7gxwzdo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-08-07T02:50:00+00:00",
-      "summary": "美國總統特朗普（川普）簽署行政命令，禁止生育旅遊，並擴大了對不符合美國出生公民權資格的兒童的定義。",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2c27/live/ed75acd0-91e0-11f1-9bc8-c9e5b4077192.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "宇树科技IPO：会翻跟头的机器人能吸引投资者吗？",
-      "url": "https://cn.nytimes.com/business/20260807/china-unitree-ipo-robot/?utm_source=RSS",
-      "source": "纽约时报中文",
-      "language": "zh",
-      "type": "newspaper",
-      "published": "2026-08-07T02:33:21+00:00",
-      "summary": "中国人形机器人市场的领军企业宇树科技进行首次公开募股。人形机器人被广泛视为下一个重大技术突破，但短期内是否会出现大规模的商业市场仍存在极大的不确定性。                    Hiroko Masuike/The New York Times",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Big Brother Comes to Southeast Asia",
-      "url": "https://www.asiasentinel.com/p/big-brother-malaysia-ministry-communications",
-      "source": "Asia Sentinel",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-08-07T01:47:51+00:00",
-      "summary": "Orwell would be proudSince the 2020 onset of the Covid-19 pandemic, Malaysia&#8217;s Ministry of Communications and its executive arm, the Malaysian Communications and Multimedia Commission, have metastasized into one of Asia&#8217;s largest state information control agencies, raising concerns among civil libertarians and press protection organizations that it is u&#8230;\n      \n          \n              Read more",
-      "image": "https://substackcdn.com/image/fetch/$s_!HrQz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e4d835c-e35b-44c6-a884-1d40698e9a37_1672x941.png",
-      "via": "rss"
-    },
-    {
-      "title": "战争、高温、难民危机：失去对自身命运掌控的欧洲",
-      "url": "https://cn.nytimes.com/world/20260807/europe-war-wildfires-migration/?utm_source=RSS",
-      "source": "纽约时报中文",
-      "language": "zh",
-      "type": "newspaper",
-      "published": "2026-08-07T01:22:32+00:00",
-      "summary": "今年夏天对欧洲来说尤为残酷：两场战争、创纪录的高温、西班牙移民危机，以及对食品、能源和安全的深深焦虑。但在许多问题上，欧洲面临的挑战根本不在其掌控之中。                    Pierre Crom/Getty Images                    上周，法国波尔多西南方小镇朗通的消防员。",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Trump imposes 15% tariff on key chip material to counter China",
-      "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-08-07T01:03:35+00:00",
-      "summary": "The move  aims to protect US firms as they face increasing competition from China's chip industry.",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60dd/live/9a103bd0-91fb-11f1-952a-e58ebd1358f8.jpg",
       "via": "rss"
     }
   ]
