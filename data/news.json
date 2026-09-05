@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T20:04:46.269872+00:00",
+  "last_updated": "2026-09-05T22:52:46.575188+00:00",
   "source_counts": {
     "en": 36,
     "zh": 24
@@ -17,7 +17,56 @@
       "icon": "🌐",
       "color": "#4f8de8",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "En route - Opinion - Chinadaily . com . cn",
+          "url": "http://global.chinadaily.com.cn/a/202609/02/WS6a9716a7e4b06d4aa055bc91.html",
+          "source": "global.chinadaily.com.cn",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-02T04:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "En route - Opinion - Chinadaily . com . cn",
+          "url": "http://europe.chinadaily.com.cn/a/202609/02/WS6a9716a7e4b06d4aa055bc91.html",
+          "source": "europe.chinadaily.com.cn",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-02T02:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "En route - Opinion - Chinadaily . com . cn",
+          "url": "http://usa.chinadaily.com.cn/a/202609/02/WS6a9716a7e4b06d4aa055bc91.html",
+          "source": "usa.chinadaily.com.cn",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-02T00:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "As Xi and Japarov chart new course for China - Kyrgyzstan ties , landmark accord and flagship railway project unlock diversified , high - quality co - op : experts",
+          "url": "https://www.globaltimes.cn/page/202608/1369501.shtml",
+          "source": "globaltimes.cn",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-08-31T19:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        }
+      ]
     },
     "politics": {
       "label": "Politics & Governance",
@@ -214,24 +263,180 @@
       "featured": false,
       "articles": [
         {
-          "title": "В США моделируют войну НАТО с Россией",
-          "url": "https://www.zavtra.ru/blogs/v_ssha_modeliruyut_vojnu_nato_s_rossiej",
-          "source": "zavtra.ru",
+          "title": "Russia : Foreign Aid Crisis",
+          "url": "http://www.strategypage.com/%5Cqnd%5Crussia%5Carticles%5C2026090264852.aspx",
+          "source": "strategypage.com",
           "language": "en",
           "type": "wire",
-          "published": "2026-09-05T02:00:00+00:00",
+          "published": "2026-09-05T06:30:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "military_security"
         },
         {
-          "title": "FT : Россия тайно помогает Ирану разрабатывать сверхзвуковую ракету",
-          "url": "https://www.bfm.ru/news/616821",
-          "source": "bfm.ru",
+          "title": "ΗΠΑ και Κίνα προετοιμάζονται για το πραγματικό Star Wars με δορυφόρους - κυνηγούς και διαστημικά όπλα",
+          "url": "https://www.naftemporiki.gr/techscience/2157453/ipa-kai-kina-proetoimazontai-gia-to-pragmatiko-star-wars-me-doryforoys-kynigoys-kai-diastimika-opla/",
+          "source": "naftemporiki.gr",
           "language": "en",
           "type": "wire",
-          "published": "2026-09-02T15:15:00+00:00",
+          "published": "2026-09-05T06:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "[ 한마당 ] 헌터 위성",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000009238&code=11171211&sid1=col",
+          "source": "kmib.co.kr",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-05T01:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "జాతీయ భద్రతకు కొత్త ఆయుధం",
+          "url": "https://www.eenadu.net/telugu-news/editorial/general/1200/126159662",
+          "source": "eenadu.net",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-04T21:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "EOS - 05 : GSO से इमेजिंग करने वाले इन खास देशों में शामिल हुआ भारत , 36 , 000 km ऊंचाई से भेजेगा रियल - टाइम तस्वीर",
+          "url": "https://navbharattimes.indiatimes.com/india/india-isro-joins-nations-real-time-imaging-eos-05-geosynchronous-orbit-36000-km-altitude/articleshow/133757788.cms",
+          "source": "navbharattimes.indiatimes.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-04T09:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Διαστημικό κυνηγητό : Η νέα κούρσα εξοπλισμών ΗΠΑ - Κίνας πάνω από τη Γη",
+          "url": "https://www.reporter.gr/diethnh/diethneis-eidhseis/684466-diastimiko-kynigito-i-nea-koyrsa-eksoplismon-ipa-kinas-pano-apo-ti-gi",
+          "source": "reporter.gr",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-04T06:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "中  헌터 위성 , 궤도 근접전에 그물 던져 나포까지 - 국민일보",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000008885&code=11142200&sid1=int",
+          "source": "kmib.co.kr",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-03T12:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "US , China arm for space warfare : Hunter satellites and orbital weapons",
+          "url": "https://www.jpost.com/defense-and-tech/article-907403",
+          "source": "jpost.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-03T07:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "美中太空战角力升温 卫星成攻防利器光华日报 | 1910年创刊 创新每一天生活",
+          "url": "https://www.kwongwah.com.my/20260903/%E7%BE%8E%E4%B8%AD%E5%A4%AA%E7%A9%BA%E6%88%98%E8%A7%92%E5%8A%9B%E5%8D%87%E6%B8%A9%E3%80%80%E5%8D%AB%E6%98%9F%E6%88%90%E6%94%BB%E9%98%B2%E5%88%A9%E5%99%A8/",
+          "source": "kwongwah.com.my",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-09-03T06:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "抗衡中國 ， 美國和英國聯手加速發展太空獵手與軌道武器",
+          "url": "https://technews.tw/2026/09/03/usa-and-allies-are-speeding-up-orbital-weapons-against-china/",
+          "source": "technews.tw",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-09-03T05:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "美中太空戰角力升溫 衛星成攻防利器 | 國際",
+          "url": "https://www.cna.com.tw:443/news/aopl/202609030035.aspx",
+          "source": "cna.com.tw",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-09-03T04:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "US , China arm for space warfare : hunter satellites and orbital weapons",
+          "url": "https://www.thedailystar.net/news/world/news/us-china-arm-space-warfare-hunter-satellites-and-orbital-weapons-4263661",
+          "source": "thedailystar.net",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-03T04:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "美大力布局卫星技术 应对和中共未来太空战",
+          "url": "https://www.epochtimes.com/gb/26/9/2/n14841566.htm",
+          "source": "epochtimes.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-09-03T01:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "US , China arm for space warfare : hunter satellites and orbital weapons",
+          "url": "https://tribune.com.pk/story/2627133/us-china-arm-for-space-warfare-hunter-satellites-and-orbital-weapons",
+          "source": "tribune.com.pk",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-02T21:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "США и Китай готовят спутники к возможному конфликту в космосе - СМИ",
+          "url": "https://korrespondent.net/world/4908386-ssha-y-kytai-hotoviat-sputnyky-k-vozmozhnomu-konflyktu-v-kosmose-smy",
+          "source": "korrespondent.net",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-02T17:15:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -258,32 +463,7 @@
       "icon": "⚓",
       "color": "#3ab8c5",
       "featured": false,
-      "articles": [
-        {
-          "title": "How a middling Chinese guided - missile frigate unnerves Japan , Taiwan and the US",
-          "url": "https://www.navytimes.com/global/asia-pacific/2026/09/02/how-a-middling-chinese-guided-missile-frigate-unnerves-japan-taiwan-and-the-us/",
-          "source": "navytimes.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-09-04T22:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "maritime_security"
-        },
-        {
-          "title": "國際現勢 -- 開欄文 - 時事論壇",
-          "url": "https://city.udn.com/2976/7291863?raid=7298227",
-          "source": "city.udn.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-09-01T07:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "maritime_security"
-        }
-      ]
+      "articles": []
     },
     "domestic_security": {
       "label": "Domestic Security",
@@ -297,7 +477,20 @@
       "icon": "🤝",
       "color": "#6b7de8",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "India and China Prepare for New Border Commander Talks",
+          "url": "https://slguardian.org/india-and-china-prepare-for-new-border-commander-talks/",
+          "source": "slguardian.org",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-05T10:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        }
+      ]
     },
     "multilateral": {
       "label": "Multilateral & Int'l Orgs",
@@ -370,13 +563,134 @@
   },
   "latest_rss": [
     {
-      "title": "Woman beaten to death as bystanders watch in India’s Gujarat",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/5-09-sv-woman-beaten-to-death-in-gujarat-in?traffic_source=rss",
+      "title": "美特使与普京长谈3小时10分钟: 谈停战, 谈合作, 承诺把俄方主张带到基辅, 俄乌“三日不袭首都”",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260905-%E7%BE%8E%E7%89%B9%E4%BD%BF%E4%B8%8E%E6%99%AE%E4%BA%AC%E9%95%BF%E8%B0%883%E5%B0%8F%E6%97%B610%E5%88%86%E9%92%9F-%E8%B0%88%E5%81%9C%E6%88%98-%E8%B0%88%E5%90%88%E4%BD%9C-%E6%89%BF%E8%AF%BA%E6%8A%8A%E4%BF%84%E6%96%B9%E4%B8%BB%E5%BC%A0%E5%B8%A6%E5%88%B0%E5%9F%BA%E8%BE%85-%E4%BF%84%E4%B9%8C-%E4%B8%89%E6%97%A5%E4%B8%8D%E8%A2%AD%E9%A6%96%E9%83%BD",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-09-05T22:23:56+00:00",
+      "summary": "9月5日星期六，俄罗斯总统普京在克里姆林宫会见了到访的美国总统特使史蒂夫·维特科夫和贾里德·库什纳，会谈持续了3小时10分钟。二人将在次日造访乌克兰首都基辅。俄方在俄美会谈后指出，本次会面，双方并未局限于谈乌克兰战争，还详细讨论了经济话题，以及双边大型互惠互利的项目。",
+      "image": "https://s.rfi.fr/media/display/121c73c0-a979-11f1-a89b-005056bf30b7/w:1024/p:16x9/2026-09-05T213255Z-1540954950-RC29DNACCR3S-RTRMADP-3-UKRAINE-CRISIS-RUSSIA-USA.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Trump envoys take Ukraine peace proposal to meeting with Putin",
+      "url": "https://www.ft.com/content/9ae2c655-bcf7-4ef2-9a9b-0855248d06a0?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-09-05T21:57:39+00:00",
+      "summary": "Russia and Ukraine announce pause in air strikes for duration of Jared Kushner and Steve Witkoff’s visit",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feb4a0721-0860-4f0b-b83b-1f392bce6c39.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "US regulator sues ISS as it steps up scrutiny of proxy advisers",
+      "url": "https://www.ft.com/content/ecab45a4-6786-4151-a998-f64279457435?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-09-05T21:35:17+00:00",
+      "summary": "The SEC accuses the firm of ignoring a subpoena as part of its ‘fact-finding investigation’",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fac9eca2b-c31d-4ef8-ba7f-a1ce1c626ae5.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "埃博拉:染疫医务人员近30%殉职",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260905-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%9F%83%E5%8D%9A%E6%8B%89-%E6%9F%93%E7%96%AB%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E8%BF%9130-%E6%AE%89%E8%81%8C",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-09-05T21:28:50+00:00",
+      "summary": "在非洲国家刚果民主共和国（la RD Congo），埃博拉疫情（Ebola）现已导致3072人死亡，累计确诊病例高达6342宗。这是本台法广非洲组（RFI Afrique）今天2026年09月05日星期六法文报导有关非洲的关注焦点之一。自疫情爆发以来，至少已有45名医务人员因染疫殉职，占感染医护人员总数近30%。在金沙萨（Kinshasa），刚果(金)政府于昨天09月04日星期五启动一项新的应对计划，目标旨在遏制本迪布焦型（Bundibugyo）病毒的传播，尤其是要致力于减少与第17轮疫情相关的死亡人数。",
+      "image": "https://s.rfi.fr/media/display/8c42bb2c-a970-11f1-94cb-005056bf30b7/w:1024/p:16x9/2026-09-05-s-FMM-archive-Afrique-RDC-Ituri-Ebola-Pr%C3%A9vention-Reuters-archive-RFI.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "约旦河西岸以色列定居者打死巴勒斯坦裔美国人，美大使谴责“恐怖行径”",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260905-%E7%BA%A6%E6%97%A6%E6%B2%B3%E8%A5%BF%E5%B2%B8%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%9A%E5%B1%85%E8%80%85%E6%89%93%E6%AD%BB%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E8%A3%94%E7%BE%8E%E5%9B%BD%E4%BA%BA%EF%BC%8C%E7%BE%8E%E5%A4%A7%E4%BD%BF%E8%B0%B4%E8%B4%A3-%E6%81%90%E6%80%96%E8%A1%8C%E5%BE%84",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-09-05T21:26:04+00:00",
+      "summary": "9月5日星期六，美国驻以色列大使麦克·哈卡比访问约旦河西岸土尔姆斯·阿亚村，公开谴责以色列定居者对巴勒斯坦人制造的暴力，将相关暴力行为称为“犯罪”和“恐怖行径”。",
+      "image": "https://s.rfi.fr/media/display/26a1acb0-a970-11f1-84f2-005056a90284/w:1024/p:16x9/AP26113797234480.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "欧洲五国拟与第三国签署协议 在欧盟境外设立移民遣返中心",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260905-%E6%AC%A7%E6%B4%B2%E4%BA%94%E5%9B%BD%E6%8B%9F%E4%B8%8E%E7%AC%AC%E4%B8%89%E5%9B%BD%E7%AD%BE%E7%BD%B2%E5%8D%8F%E8%AE%AE-%E5%9C%A8%E6%AC%A7%E7%9B%9F%E5%A2%83%E5%A4%96%E8%AE%BE%E7%AB%8B%E7%A7%BB%E6%B0%91%E9%81%A3%E8%BF%94%E4%B8%AD%E5%BF%83",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-09-05T21:25:52+00:00",
+      "summary": "德国、奥地利、希腊、丹麦和荷兰周五（9月4日）表示，计划今年与欧盟以外的第三国签署协议，将没有合法居留身份的移民送往设在欧盟境外的遣返中心。",
+      "image": "https://s.rfi.fr/media/display/4f886fa4-a8eb-11f1-80af-005056bf30b7/w:1024/p:16x9/2026-09-04T160250Z-834668253-RC2CCNAR7GC0-RTRMADP-3-EU-IMMIGRATION.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "US envoys Witkoff, Kushner meet Putin for talks on Ukraine war",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-envoys-witkoff-kushner-meet-putin-for-talks-on-ukraine-war?traffic_source=rss",
       "source": "Al Jazeera",
       "language": "en",
       "type": "broadcast",
-      "published": "2026-09-05T19:13:29+00:00",
-      "summary": "A woman was beaten to death at a crowded bus station in India, with CCTV showing bystanders watching.",
+      "published": "2026-09-05T21:23:06+00:00",
+      "summary": "US envoys Steve Witkoff and Jared Kushner met Russian President Vladimir Putin at the Kremlin on Saturday.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "援乌立场与英法移民协议引争议: 法国极右翼遭各方围攻",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260905-%E6%8F%B4%E4%B9%8C%E7%AB%8B%E5%9C%BA%E4%B8%8E%E8%8B%B1%E6%B3%95%E7%A7%BB%E6%B0%91%E5%8D%8F%E8%AE%AE%E5%BC%95%E4%BA%89%E8%AE%AE-%E6%B3%95%E5%9B%BD%E6%9E%81%E5%8F%B3%E7%BF%BC%E9%81%AD%E5%90%84%E6%96%B9%E5%9B%B4%E6%94%BB",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-09-05T21:23:01+00:00",
+      "summary": "法国极右翼国民联盟近日因援乌和移民政策接连遭到批评：该党高层先是提出，如果上台可能中断对乌克兰的财政援助；党主席巴尔德拉随后又与英国改革党领袖法拉奇签署一份涉及将移民遣返法国的象征性备忘录。法国各派政治对手借此指责国民联盟在国际事务上立场矛盾。",
+      "image": "https://s.rfi.fr/media/display/f3508e44-a96f-11f1-b253-005056a97e36/w:1024/p:16x9/2026-09-05T130639Z-1533897789-RC2DCNABIX8X-RTRMADP-3-FRANCE-POLITICS-IMMIGRATION.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "美军打击三艘伊朗油轮 伊朗警告将对美国军舰发动更猛烈打击",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260905-%E7%BE%8E%E5%86%9B%E6%89%93%E5%87%BB%E4%B8%89%E8%89%98%E4%BC%8A%E6%9C%97%E6%B2%B9%E8%BD%AE-%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E5%B0%86%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%86%9B%E8%88%B0%E5%8F%91%E5%8A%A8%E6%9B%B4%E7%8C%9B%E7%83%88%E6%89%93%E5%87%BB",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-09-05T21:17:13+00:00",
+      "summary": "伊朗军方周六（9月5日）警告：如果美国继续袭击及骚扰伊朗船只，并维持对伊朗的海上封锁，伊朗将对地区内的美国军舰发动“比以往更强硬”的打击，行动范围也可能进一步扩大。此前，美军宣布在海湾地区打击三艘伊朗油轮。",
+      "image": "https://s.rfi.fr/media/display/044e7596-a950-11f1-a1b4-005056bfb2b6/w:1024/p:16x9/2026-09-05T154054Z-462517769-RC22DNAKW34Q-RTRMADP-3-IRAN-CRISIS-CENTCOM.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "美国特使会晤普京磋商俄乌停战 拟于6日访问基辅",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260905-%E7%BE%8E%E5%9B%BD%E7%89%B9%E4%BD%BF%E4%BC%9A%E6%99%A4%E6%99%AE%E4%BA%AC%E7%A3%8B%E5%95%86%E4%BF%84%E4%B9%8C%E5%81%9C%E6%88%98-%E6%8B%9F%E4%BA%8E6%E6%97%A5%E8%AE%BF%E9%97%AE%E5%9F%BA%E8%BE%85",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-09-05T21:13:03+00:00",
+      "summary": "俄罗斯总统普京周六（9月5日）在莫斯科会晤美国总统特朗普的两名特使史蒂夫·威特科夫和贾里德·库什纳。特朗普此前表示，两名特使此行向俄方转交一项旨在结束乌克兰战争的方案。",
+      "image": "https://s.rfi.fr/media/display/8fdad956-a96e-11f1-9f8e-005056bfb2b6/w:1024/p:16x9/2026-09-05T194829Z-2009750295-RC26DNA93FYO-RTRMADP-3-UKRAINE-CRISIS-RUSSIA-USA.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
+      "url": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-09-05T21:11:57+00:00",
+      "summary": "Teresios Bundi, who ran an essay-writing business catering to overseas students, said his experience with artificial intelligence was a warning for online gig workers.",
+      "image": "https://static01.nyt.com/images/2026/08/31/multimedia/00biz-ai-essay-mills-Teresios-kjzh/00biz-ai-essay-mills-Teresios-kjzh-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Building collapses after heavy rain in northern India",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/09-05-sv-india-building-collapse-mp4?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-09-05T21:11:25+00:00",
+      "summary": "A building collapsed in Muradabad, northern India, tearing through power lines and sending sparks into the street.",
       "image": "",
       "via": "rss"
     },
@@ -386,9 +700,141 @@
       "source": "New York Times",
       "language": "en",
       "type": "newspaper",
-      "published": "2026-09-05T19:12:58+00:00",
+      "published": "2026-09-05T21:09:39+00:00",
       "summary": "A screenshot of handout video footage released Saturday by the U.S. military, which said it showed American forces striking an Iranian crude oil tanker in the Gulf of Oman.",
       "image": "https://static01.nyt.com/images/2026/09/05/multimedia/05int-iran-tanker-handout-vkbw/05int-iran-tanker-handout-vkbw-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War",
+      "url": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-09-05T21:08:44+00:00",
+      "summary": "In a photo that Russia’s presidential envoy, Kirill Dmitriev, shared on social media, Jared Kushner, center, and Steve Witkoff, left, were greeted by Mr. Dmitriev after arriving in Moscow on Saturday.",
+      "image": "https://static01.nyt.com/images/2026/09/05/multimedia/05int-russia-meeting-sub-ckmh/05int-russia-meeting-sub-ckmh-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Timothy Carney, Diplomat Who Went Places Others Avoided, Dies at 82",
+      "url": "https://www.nytimes.com/2026/09/04/obituaries/timothy-carney-dead.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-09-05T21:04:39+00:00",
+      "summary": "Insisting on seeing things for himself, even in hostile terrain, Mr. Carney opposed the closing of the U.S. embassy in Khartoum while Osama Bin Laden established himself there.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "German Far-Right Surges, in Threat to Postwar Taboo on Extremists in Power",
+      "url": "https://www.nytimes.com/2026/09/05/world/europe/germany-afd-saxony-anhalt.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-09-05T21:00:30+00:00",
+      "summary": "Ulrich Siegmund, the Alternative for Germany party’s main candidate in Saxony-Anhalt. Surveys suggest the far-right party could be the first to win a German state election since World War II.",
+      "image": "https://static01.nyt.com/images/2026/09/05/multimedia/05int-germany-far-right-twmk/05int-germany-far-right-twmk-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Why is Argentina reigniting the Falklands dispute?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/5/why-is-argentina-reigniting-the-falklands-dispute?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-09-05T20:14:55+00:00",
+      "summary": "President Javier Milei says sovereignty over the islands remains a national objective.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "US strikes three Iranian oil tankers in response to attacks on warships",
+      "url": "https://www.ft.com/content/7c7c07db-cde5-474d-9a20-8e2c2f273d4e?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-09-05T20:05:42+00:00",
+      "summary": "Military action over Strait of Hormuz continues to escalate after pause in six-month-old conflict",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F35616ff5-003a-48b8-817a-593dfdce9b52.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Everton vs Manchester United: Premier League – prediction, teams, lineups",
+      "url": "https://www.aljazeera.com/sports/2026/9/5/everton-vs-manchester-united-premier-league-prediction-teams-lineups?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-09-05T20:04:30+00:00",
+      "summary": "Manchester United outspent in transfer window, but boss Michael Carrick says team ready to fire ahead of Everton trip.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Colombian government reports three killed in rebel attack on military post",
+      "url": "https://www.aljazeera.com/news/2026/9/5/colombian-government-reports-three-killed-in-rebel-attack-on-military-post?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-09-05T20:03:29+00:00",
+      "summary": "Colombian authorities blame ELN rebel group for attack that reportedly included drones dropping explosives on compound.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Al Jazeera reporter challenges Huckabee over Israeli settler pogroms",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/al-jazeera-reporter-challenges-huckabee-over-israeli-settler-pogroms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-09-05T20:00:05+00:00",
+      "summary": "Al Jazeera reporter challenged US Ambassador to Israel Mike Huckabee after he called violent Israeli settlers a minority",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "France denies inciting failed Niger mutiny, calls accusation ‘pure fantasy’",
+      "url": "https://www.aljazeera.com/news/2026/9/5/france-denies-inciting-failed-niger-mutiny-calls-accusation-pure-fantasy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-09-05T19:45:39+00:00",
+      "summary": "Niger&#039;s government has widened its blame to unnamed neighbours a week after the assault on a military base.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Jerusalem Daily: raids, settlers & sieges",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/jerusalem-daily-raids-settlers-sieges?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-09-05T19:37:10+00:00",
+      "summary": "Mike Huckabee visits as settlers attack Palestinians, Israeli forces carry out raids and arrests.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Cuban and Afghan immigrants deported from US under Trump arrive in Guyana",
+      "url": "https://www.aljazeera.com/news/2026/9/5/cuban-and-afghan-immigrants-deported-from-us-under-trump-arrive-in-guyana?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-09-05T19:19:52+00:00",
+      "summary": "The Trump administration has sought to expand third-country deportations, with more than 30 deals struck so far.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Woman beaten to death as bystanders watch in India’s Gujarat",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/5-09-sv-woman-beaten-to-death-in-gujarat-in?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-09-05T19:13:29+00:00",
+      "summary": "A woman was beaten to death at a crowded bus station in India, with CCTV showing bystanders watching.",
+      "image": "",
       "via": "rss"
     },
     {
@@ -414,19 +860,8 @@
       "via": "rss"
     },
     {
-      "title": "Putin Meets Witkoff and Kushner in Moscow to Discuss Ukraine War",
-      "url": "https://www.nytimes.com/2026/09/05/world/europe/russia-ukraine-witkoff-kushner-moscow.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-09-05T18:56:34+00:00",
-      "summary": "In a photo that Russia’s presidential envoy, Kirill Dmitriev, shared on social media, Jared Kushner, center, and Steve Witkoff, left, are greeted by Mr. Dmitriev after arriving in Moscow on Saturday.",
-      "image": "https://static01.nyt.com/images/2026/09/05/multimedia/05int-russia-meeting-sub-ckmh/05int-russia-meeting-sub-ckmh-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Syria's former dictator Bashar Assad was sentenced to death for crimes against his own people. But for many civil war survivors, it's not enough",
-      "url": "https://www.dw.com/en/syria-s-former-dictator-bashar-assad-was-sentenced-to-death-for-crimes-against-his-own-people-but-for-many-civil-war-survivors-it-s-not-enough/a-78985915?maca=en-rss-en-world-4025-xml-mrss",
+      "title": "Why many Syrians feel Assad death sentence isn't enough",
+      "url": "https://www.dw.com/en/why-many-syrians-feel-assad-death-sentence-isn-t-enough/a-78985915?maca=en-rss-en-world-4025-xml-mrss",
       "source": "Deutsche Welle",
       "language": "en",
       "type": "broadcast",
@@ -455,17 +890,6 @@
       "published": "2026-09-05T18:42:08+00:00",
       "summary": "Demonstrators in Zagreb accuse Croatia&#039;s government of dragging its feet on a hazardous waste scandal.",
       "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Trump envoys take Ukraine peace proposal to meeting with Putin",
-      "url": "https://www.ft.com/content/9ae2c655-bcf7-4ef2-9a9b-0855248d06a0?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-09-05T18:23:47+00:00",
-      "summary": "Russia and Ukraine announce pause in air strikes for duration of Jared Kushner and Steve Witkoff’s visit",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feb4a0721-0860-4f0b-b83b-1f392bce6c39.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -508,7 +932,7 @@
       "language": "en",
       "type": "broadcast",
       "published": "2026-09-05T18:12:52+00:00",
-      "summary": "Both Russia and Ukraine vow not to strike each other&#039;s capitals for three days during talks in Moscow and Kyiv.",
+      "summary": "Russia and Ukraine pledge not to strike each other&#039;s capitals for three days during talks in Moscow and Kyiv.",
       "image": "",
       "via": "rss"
     },
@@ -678,28 +1102,6 @@
       "via": "rss"
     },
     {
-      "title": "Masked protesters block Dover port roads",
-      "url": "https://www.ft.com/content/53751b68-5af6-42ec-9d93-bf3daee6acdd?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-09-05T15:30:29+00:00",
-      "summary": "Port operator says services back to normal after ‘public order incident’ affected ‘all routes in and out’",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6243486c-caa5-40b8-990d-6d9b37e7d766.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "US strikes three Iranian oil tankers in response to attacks on warships",
-      "url": "https://www.ft.com/content/7c7c07db-cde5-474d-9a20-8e2c2f273d4e?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-09-05T15:07:06+00:00",
-      "summary": "Military action over Strait of Hormuz continues to escalate after pause in six-month-old conflict",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F35616ff5-003a-48b8-817a-593dfdce9b52.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
       "title": "Families Turn to Symbolic Cremation After Nepal Floods",
       "url": "https://www.nytimes.com/2026/09/04/world/asia/nepal-symbolic-cremation-floods.html",
       "source": "New York Times",
@@ -766,17 +1168,6 @@
       "via": "rss"
     },
     {
-      "title": "Coach Luis Enrique unconcerned by PSG’s poor start to French league season",
-      "url": "https://www.aljazeera.com/sports/2026/9/5/coach-luis-enrique-unconcerned-by-psgs-poor-start-to-french-league-season?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-09-05T14:07:52+00:00",
-      "summary": "Two points from three matches is ⁠their worst start since the ​2007-08 season, when PSG came close to relegation.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "How Asian shipyards in Japan, Korea and Philippines keep US warships battle ready",
       "url": "https://www.scmp.com/news/china/military/article/3366489/how-asian-shipyards-japan-korea-and-philippines-keep-us-warships-battle-ready?utm_source=rss_feed",
       "source": "SCMP",
@@ -788,39 +1179,6 @@
       "via": "rss"
     },
     {
-      "title": "Why has the Trump administration ordered staff to take polygraph tests?",
-      "url": "https://www.aljazeera.com/news/2026/9/5/why-has-the-trump-administration-ordered-staff-to-take-polygraph-tests?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-09-05T13:54:33+00:00",
-      "summary": "Reports of dwindling US weapons stocks have triggered an unusually sweeping hunt for leakers inside the Pentagon.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "UK gov’t condemns masked anti-immigrant protesters blocking Dover port",
-      "url": "https://www.aljazeera.com/news/2026/9/5/uk-govt-condemns-masked-anti-immigrant-protesters-blocking-dover-port?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-09-05T13:51:29+00:00",
-      "summary": "Traffic at Britain&#039;s largest international port briefly halted as &#039;stop the boats&#039; protesters blocked approaching roads.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Arsenal vs Chelsea: Premier League – prediction, teams, lineups",
-      "url": "https://www.aljazeera.com/sports/2026/9/5/arsenal-vs-chelsea-premier-league-prediction-teams-lineups?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-09-05T13:20:42+00:00",
-      "summary": "Arsenal manager Mikel Arteta and Chelsea boss Xabi Alonso do battle in the Premier League for the first time on Sunday.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "喜马拉雅洪灾 尼泊尔灾区一名中国籍男子和一名妇女获救",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260905-%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E6%B4%AA%E7%81%BE-%E5%B0%BC%E6%B3%8A%E5%B0%94%E7%81%BE%E5%8C%BA%E4%B8%80%E5%90%8D%E4%B8%AD%E5%9B%BD%E7%B1%8D%E7%94%B7%E5%AD%90%E5%92%8C%E4%B8%80%E5%90%8D%E5%A6%87%E5%A5%B3%E8%8E%B7%E6%95%91",
       "source": "法广中文",
@@ -829,28 +1187,6 @@
       "published": "2026-09-05T13:11:52+00:00",
       "summary": "喜马拉雅洪灾：周六，救援人员成功从尼泊尔北部被掩埋的隧道中救出第三名幸存者，是一名中国公民。自8月26日喜马拉雅致命洪灾发生以来，救援人员一直不间断地在这些隧道中搜救。",
       "image": "https://s.rfi.fr/media/display/d1164f0e-a914-11f1-9c52-005056a97e36/w:1024/p:16x9/2026-09-05T082253Z-991223984-RC2WCNA6N2U6-RTRMADP-3-NEPAL-FLOODS.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "‘Stop the boats’ masked protesters block England’s Port of Dover",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/stop-the-boats-masked-protesters-block-englands-port-of-dover?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-09-05T13:09:24+00:00",
-      "summary": "Masked protesters blocked major roads around England’s Port of Dover on Saturday.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Iran President Pezeshkian calls for unity as US ramps up economic pressure",
-      "url": "https://www.aljazeera.com/economy/2026/9/5/iran-president-pezeshkian-calls-for-unity-as-us-ramps-up-economic-pressure?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-09-05T13:07:36+00:00",
-      "summary": "Amid rising public discontent, Iranian authorities say adversaries are focused on encouraging domestic unrest.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -876,28 +1212,6 @@
       "via": "rss"
     },
     {
-      "title": "At least four civilians killed in Houthi missile strike near Yemen’s Taiz",
-      "url": "https://www.aljazeera.com/news/2026/9/5/at-least-four-killed-in-houthi-missile-strike-near-yemens-taiz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-09-05T12:54:15+00:00",
-      "summary": "The attack on a crowded road comes amid fierce clashes across Taiz and Hodeidah and rapid civilian displacement.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "How big is Africa really? Why the UN voted to change the world map",
-      "url": "https://www.aljazeera.com/news/2026/9/5/how-big-is-africa-really-why-the-un-voted-to-change-the-world-map?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-09-05T12:49:50+00:00",
-      "summary": "The new map makes Africa, Latin America, South Asia and Oceania larger than the traditional Mercator projection.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "Here Is Where Ukraine Peace Talks Stand, as a New Round Approaches",
       "url": "https://www.nytimes.com/2026/09/05/world/europe/ukraine-russia-talks-wtk.html",
       "source": "New York Times",
@@ -909,17 +1223,6 @@
       "via": "rss"
     },
     {
-      "title": "Yemen government launches own air attacks on Houthis: What that means",
-      "url": "https://www.aljazeera.com/news/2026/9/5/yemen-government-launches-own-air-attacks-on-houthis-what-that-means?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-09-05T12:43:38+00:00",
-      "summary": "A major Houthi offensive towards Bab al-Mandeb has triggered some of Yemen’s worst fighting in years.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "Putin Denies a Draft Is Coming, but Some Russian Men Are Taking No Chances",
       "url": "https://www.nytimes.com/2026/09/05/world/europe/russia-war-mobilization-draft.html",
       "source": "New York Times",
@@ -928,17 +1231,6 @@
       "published": "2026-09-05T12:35:46+00:00",
       "summary": "As the fear of a possible mobilization becomes a fixture of daily life across Russia, many men are deciding whether to flee, hide or sit tight.",
       "image": "https://static01.nyt.com/images/2026/09/05/multimedia/05int-russia-mobilization-top-vzwf/05int-russia-mobilization-top-vzwf-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Kenyans Made a Living Writing College Essays. Then A.I. Arrived.",
-      "url": "https://www.nytimes.com/2026/09/05/technology/kenya-college-essays-ai.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-09-05T12:34:27+00:00",
-      "summary": "Teresios Bundi, who ran an essay-writing business catering to overseas students, said his experience with artificial intelligence was a warning for online gig workers.",
-      "image": "https://static01.nyt.com/images/2026/08/31/multimedia/00biz-ai-essay-mills-Teresios-kjzh/00biz-ai-essay-mills-Teresios-kjzh-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -1239,17 +1531,6 @@
       "via": "rss"
     },
     {
-      "title": "German Far-Right Surges, in Threat to Postwar Taboo on Extremists in Power",
-      "url": "https://www.nytimes.com/2026/09/05/world/europe/germany-afd-saxony-anhalt.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-09-05T04:01:07+00:00",
-      "summary": "Ulrich Siegmund, the Alternative for Germany party’s main candidate in Saxony-Anhalt. Surveys suggest the far-right party could be the first to win a German state election since World War II.",
-      "image": "https://static01.nyt.com/images/2026/09/05/multimedia/05int-germany-far-right-twmk/05int-germany-far-right-twmk-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
       "title": "The other side of the 1990s",
       "url": "https://www.ft.com/content/845a0760-cf73-4e06-b378-233123361a50?syn-25a6b1a6=1",
       "source": "Financial Times",
@@ -1291,17 +1572,6 @@
       "published": "2026-09-05T04:00:23+00:00",
       "summary": "How nationalists, theocrats and tech titans turned their backs on a shared future",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F99629f37-f5cc-4f09-8ca7-4497c628d679.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "EU counterterror envoy urges pressure on social platforms over youth extremism",
-      "url": "https://www.ft.com/content/18900164-fa33-4d6d-a39e-6898043cd62f?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-09-05T04:00:13+00:00",
-      "summary": "Large-scale terrorism has receded but smaller attacks by individuals recruited online are on the rise",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdbdace2c-045a-4849-9e62-b5c01ac70c2a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -1382,17 +1652,6 @@
       "via": "rss"
     },
     {
-      "title": "联合国粮农组织：干旱与战争推升8月食品价格",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260904-%E8%81%94%E5%90%88%E5%9B%BD%E7%B2%AE%E5%86%9C%E7%BB%84%E7%BB%87-%E5%B9%B2%E6%97%B1%E4%B8%8E%E6%88%98%E4%BA%89%E6%8E%A8%E5%8D%878%E6%9C%88%E9%A3%9F%E5%93%81%E4%BB%B7%E6%A0%BC",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-09-04T21:48:06+00:00",
-      "summary": "联合国粮食及农业组织周五（9月4日）公布的数据显示，干旱、高温和武装冲突冲击全球大宗商品市场，推动2026年8月食品价格进一步上涨，其中食糖价格升至一年多来的最高水平。",
-      "image": "https://s.rfi.fr/media/display/4b8739da-a8aa-11f1-b4e0-005056a90284/w:1024/p:16x9/2026-09-02T101116Z-1885625913-RC2C6NASYN16-RTRMADP-3-EUROPE-WEATHER-EASTEUROPE-GRAINS.jpg",
-      "via": "rss"
-    },
-    {
       "title": "俄无人机袭击乌克兰安全局总部 基辅称局长办公室成为目标",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260904-%E4%BF%84%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB%E4%B9%8C%E5%85%8B%E5%85%B0%E5%AE%89%E5%85%A8%E5%B1%80%E6%80%BB%E9%83%A8-%E5%9F%BA%E8%BE%85%E7%A7%B0%E5%B1%80%E9%95%BF%E5%8A%9E%E5%85%AC%E5%AE%A4%E6%88%90%E4%B8%BA%E7%9B%AE%E6%A0%87",
       "source": "法广中文",
@@ -1467,28 +1726,6 @@
       "published": "2026-09-04T20:34:35+00:00",
       "summary": "Israeli Prime Minister Benjamin Netanyahu, who is facing a tough re-election in October, has tried to associate Mayor Zohran Mamdani of New York with Israel’s enemies.",
       "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04int-Netanyahu-ai-kgmv/04int-Netanyahu-ai-kgmv-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Timothy Carney, Diplomat Who Went Places Others Avoided, Dies at 82",
-      "url": "https://www.nytimes.com/2026/09/04/obituaries/timothy-carney-dead.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-09-04T20:33:10+00:00",
-      "summary": "Insisting on seeing things for himself, even in hostile terrain, Mr. Carney opposed the closing of the U.S. embassy in Khartoum while Osama Bin Laden established himself there.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "美中拟9月中旬首次举行AI安全对话",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260904-%E7%BE%8E%E4%B8%AD%E6%8B%9F9%E6%9C%88%E4%B8%AD%E6%97%AC%E9%A6%96%E6%AC%A1%E4%B8%BE%E8%A1%8Cai%E5%AE%89%E5%85%A8%E5%AF%B9%E8%AF%9D",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-09-04T20:20:51+00:00",
-      "summary": "美国与中国正筹备9月中旬举行AI安全对话，知情人士告诉路透社，双方可能讨论如何监测人工智能引发的网路攻击，以及建立机制防止先进AI系统遭到滥用。这将是美国总统特朗普（Donald Trump）第二任期以来，美中首次专门聚焦AI的正式双边对话。",
-      "image": "https://s.rfi.fr/media/display/03bf7648-a153-11f1-9584-005056bf30b7/w:1024/p:16x9/2026-08-24T172302Z-674808780-RC255NAJ6P3M-RTRMADP-3-USA-TREASURY-BESSENT.jpg",
       "via": "rss"
     },
     {
@@ -1580,17 +1817,6 @@
       "via": "rss"
     },
     {
-      "title": "意大利总理梅洛尼打破任期最长纪录 正式启动2027竞选活动",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260904-%E6%84%8F%E5%A4%A7%E5%88%A9%E6%80%BB%E7%90%86%E6%A2%85%E6%B4%9B%E5%B0%BC%E6%89%93%E7%A0%B4%E4%BB%BB%E6%9C%9F%E6%9C%80%E9%95%BF%E7%BA%AA%E5%BD%95-%E6%AD%A3%E5%BC%8F%E5%90%AF%E5%8A%A82027%E7%AB%9E%E9%80%89%E6%B4%BB%E5%8A%A8",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-09-04T17:56:02+00:00",
-      "summary": "意大利首位女总理乔尔吉娅·梅洛尼在本周五（9月4日）打破二战以来该国总理执政期最长纪录，这进一步巩固了她在2027年议会选举中启动竞选活动的“公信力”。她表示，我们没有辜负选民的信任，还有很多工作亟待完成。",
-      "image": "https://s.rfi.fr/media/display/81c9cde8-a849-11f1-acd0-005056a97e36/w:1024/p:16x9/2026-08-31T073427Z-136758950-RC2OOW90DT6E-RTRMADP-3-ITALY-GOVERNMENT-MELONI.jpg",
-      "via": "rss"
-    },
-    {
       "title": "After CIA director visit to Moscow, Putin pushes harder for military win",
       "url": "https://www.washingtonpost.com/world/2026/09/04/after-cia-director-visit-moscow-putin-escalates-ukraine-strikes/",
       "source": "Washington Post",
@@ -1610,17 +1836,6 @@
       "published": "2026-09-04T17:19:30+00:00",
       "summary": "A memorial for the victims of a deadly mass shooting at a school in Tumbler Ridge, British Columbia, in February.",
       "image": "https://static01.nyt.com/images/2026/09/04/multimedia/04XP-TUMBLERRIDGE-vcfp/04XP-TUMBLERRIDGE-vcfp-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "汽车制造商敦促美国国会永久禁止中国网联汽车进入美国",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260904-%E6%B1%BD%E8%BD%A6%E5%88%B6%E9%80%A0%E5%95%86%E6%95%A6%E4%BF%83%E7%BE%8E%E5%9B%BD%E5%9B%BD%E4%BC%9A%E6%B0%B8%E4%B9%85%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E7%BD%91%E8%81%94%E6%B1%BD%E8%BD%A6%E8%BF%9B%E5%85%A5%E7%BE%8E%E5%9B%BD",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-09-04T17:15:23+00:00",
-      "summary": "在美运营的主要汽车制造商正在加大对国会施压，要求永久禁止在美国国内销售、进口和生产中国网联汽车及其软硬件。汽车创新联盟（Alliance for Automotive Innovation）敦促国会在1月3日会期结束前通过这项禁令。",
-      "image": "https://s.rfi.fr/media/display/8bc26364-91ba-11f1-96b4-005056a90284/w:1024/p:16x9/AP25289406070825.jpg",
       "via": "rss"
     },
     {
@@ -1646,17 +1861,6 @@
       "via": "rss"
     },
     {
-      "title": "中国航运巨头中远集团否认为北京搜集情报的指控",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260904-%E4%B8%AD%E5%9B%BD%E8%88%AA%E8%BF%90%E5%B7%A8%E5%A4%B4%E4%B8%AD%E8%BF%9C%E9%9B%86%E5%9B%A2%E5%90%A6%E8%AE%A4%E4%B8%BA%E5%8C%97%E4%BA%AC%E6%90%9C%E9%9B%86%E6%83%85%E6%8A%A5%E7%9A%84%E6%8C%87%E6%8E%A7",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-09-04T16:37:13+00:00",
-      "summary": "路透社北京消息，中国国有航运巨头中远集团周五（9月4日）否认了有关其在船上使用隐蔽设备为北京政府搜集情报的指控，称这些说法“完全没有根据”且是虚假的。然而，据悉中国法律要求中国企业为政府情报工作提供支持。",
-      "image": "https://s.rfi.fr/media/display/e337a926-44d8-11f1-bb3a-005056bf30b7/w:1024/p:16x9/2026-04-10T101437Z-1752255085-RC20LKAZ4SWD-RTRMADP-3-PERU-ELECTION-USA.jpg",
-      "via": "rss"
-    },
-    {
       "title": "Why the United States Should Recognize Somaliland",
       "url": "https://foreignpolicy.com/2026/09/04/somaliland-somalia-iran-houthis-united-states-israel/",
       "source": "Foreign Policy",
@@ -1676,17 +1880,6 @@
       "published": "2026-09-04T15:39:27+00:00",
       "summary": "José Mourinho’s lessons on how to influence people (and not win friends).",
       "image": "https://foreignpolicy.com/wp-content/uploads/2026/09/1-jose-mourinho-universal-base-square-1x_na_41_zxx.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "李在明9月6日开始访法国与马克龙共同担任“卢米埃尔峰会”主席",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260904-%E6%9D%8E%E5%9C%A8%E6%98%8E9%E6%9C%886%E6%97%A5%E5%BC%80%E5%A7%8B%E8%AE%BF%E6%B3%95%E5%9B%BD%E4%B8%8E%E9%A9%AC%E5%85%8B%E9%BE%99%E5%85%B1%E5%90%8C%E6%8B%85%E4%BB%BB-%E5%8D%A2%E7%B1%B3%E5%9F%83%E5%B0%94%E5%B3%B0%E4%BC%9A-%E4%B8%BB%E5%B8%AD",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-09-04T15:38:17+00:00",
-      "summary": "据韩联社报道，韩国总统李在明将于9月6日开始对法国进行国是访问。法国总统马克龙在4月访韩期间邀请李在明访问法国。李在明将在法国与马克龙总统共同担任“卢米埃尔峰会”主席。",
-      "image": "https://s.rfi.fr/media/display/5119eb2e-a876-11f1-87f4-005056bfb2b6/w:1024/p:16x9/2026-09-04T022408Z-861987015-RC21VLAIQTUN-RTRMADP-3-FRANCE-SOUTHKOREA.jpg",
       "via": "rss"
     },
     {
@@ -1731,17 +1924,6 @@
       "published": "2026-09-04T15:25:45+00:00",
       "summary": "",
       "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "中国将尼泊尔边境樟木口岸过境点迁址",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260904-%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%B0%BC%E6%B3%8A%E5%B0%94%E8%BE%B9%E5%A2%83%E6%A8%9F%E6%9C%A8%E5%8F%A3%E5%B2%B8%E8%BF%87%E5%A2%83%E7%82%B9%E8%BF%81%E5%9D%80",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-09-04T15:02:59+00:00",
-      "summary": "西藏聂拉木政府一份通告显示，中国将于周六上午起，迁移连接西藏与尼泊尔的樟木海关及出入境边防检查作业场地，并对通往新场所的道路实施闭环管制。",
-      "image": "https://s.rfi.fr/media/display/a1d6a764-a871-11f1-a6aa-005056a97e36/w:1024/p:16x9/5-ports-entre-Tibet-et-Nepal-2026-08-27.png",
       "via": "rss"
     },
     {
@@ -2566,6 +2748,17 @@
       "type": "newspaper",
       "published": "2026-09-04T00:33:03+00:00",
       "summary": "来自台湾的参展作品以“台湾馆”的名称展出引发中国不满，中方策展团队指此举为“允许政治因素干扰艺术”，宣布撤展。中国驻韩大使馆批评此举“损害中韩关系的政治基础”。                    Woohae Cho for The New York Times                    2021年，韩国光州双年展展厅。第16届双年展于周六开幕。",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Under pressure, Iran lashes out and ramps up rhetoric",
+      "url": "https://www.washingtonpost.com/world/2026/09/03/iran-fires-missiles-drones-kuwait-strikes-resume-us-war/",
+      "source": "Washington Post",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-09-04T00:21:21+00:00",
+      "summary": "Iranian Vice President Mohammad Reza Aref said that Iran’s strategy would now be “asymmetrical” and warned, “Dark months await the American economy.”",
       "image": "",
       "via": "rss"
     }
