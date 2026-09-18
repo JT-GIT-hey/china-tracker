@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T18:19:46.271125+00:00",
+  "last_updated": "2026-09-18T20:49:32.759811+00:00",
   "source_counts": {
     "en": 36,
     "zh": 24
@@ -17,239 +17,118 @@
       "icon": "🌐",
       "color": "#4f8de8",
       "featured": false,
-      "articles": []
-    },
-    "politics": {
-      "label": "Politics & Governance",
-      "icon": "🏛️",
-      "color": "#9b6de8",
-      "featured": false,
       "articles": [
         {
-          "title": "Tung Chee - hwa remembered for foresight in developing Hong Kong tech sector",
-          "url": "https://www.scmp.com/news/hong-kong/politics/article/3367340/tung-chee-hwa-remembered-foresight-developing-hong-kongs-tech-sector",
-          "source": "scmp.com",
+          "title": "Global Times : Silk Road Maritime shipping routes span 153 ports , boosting global trade prosperity amid uncertainty",
+          "url": "http://www.prnewswire.com/news-releases/global-times-silk-road-maritime-shipping-routes-span-153-ports-boosting-global-trade-prosperity-amid-uncertainty-302876847.html",
+          "source": "prnewswire.com",
           "language": "en",
           "type": "wire",
-          "published": "2026-09-13T07:30:00+00:00",
+          "published": "2026-09-12T13:30:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
-          "category": "politics"
+          "category": "foreign_policy"
         },
         {
-          "title": "驻华使节沪苏行 ： 从人民城市感悟  中国之治 -- 国际 -- 人民网",
-          "url": "http://world.people.com.cn/n1/2026/0913/c1002-40797591.html",
-          "source": "world.people.com.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-09-13T07:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "新华鲜报丨驻华使节沪苏行 ： 从人民城市感悟  中国之治 - 新华网",
-          "url": "https://www.news.cn/politics/20260912/4b882b74f78c431d922da89958de7f41/c.html",
-          "source": "news.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-09-12T15:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        }
-      ]
-    },
-    "military_security": {
-      "label": "Military & Security",
-      "icon": "⚔️",
-      "color": "#e05f5f",
-      "featured": false,
-      "articles": [
-        {
-          "title": "Самит за безбедноста на Арктикот во Финска : Лидерите на ЕУ бараат поголеми инвестиции и зајакната одбрана од руските закани",
-          "url": "https://republika.mk/vesti/svet/samit-za-bezbednosta-na-arktikot-vo-finska-liderite-na-eu-baraat-pogolemi-investiczii-i-zajaknata-odbrana-od-ruskite-zakani/",
-          "source": "republika.mk",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-09-13T08:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "military_security"
-        },
-        {
-          "title": "頭上から落ちてくる巨大な 「 宇宙ごみ 」 激化する開発競争が招く野放しの危機 ： 朝日新聞GLOBE＋",
-          "url": "https://globe.asahi.com/article/16824994",
-          "source": "globe.asahi.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-09-13T05:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "military_security"
-        },
-        {
-          "title": "BRICS 2026 : Bloc opposes arms race in outer space",
-          "url": "https://www.tribuneindia.com/news/india/brics-2026-bloc-opposes-arms-race-in-outer-space/",
-          "source": "tribuneindia.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-09-13T03:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "military_security"
-        },
-        {
-          "title": "Uzayda silahlanma - 3 : Kim kimin yanýnda ?",
-          "url": "https://www.yenimesaj.com.tr/uzayda-silahlanma-3-kim-kimin-yaninda-H1616576.htm",
-          "source": "yenimesaj.com.tr",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-09-13T00:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "military_security"
-        },
-        {
-          "title": "Çin , yeni hayalet uçaklar için devrimsel teknolojileri açıkladı",
-          "url": "https://www.donanimhaber.com/cin-yeni-hayalet-ucaklar-icin-devrimsel-teknolojileri-acikladi--210396",
-          "source": "donanimhaber.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-09-12T21:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "military_security"
-        },
-        {
-          "title": "Space Stocks To Follow Now – September 12th",
-          "url": "https://www.themarketsdaily.com/2026/09/12/space-stocks-to-follow-now-september-12th.html",
-          "source": "themarketsdaily.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-09-12T20:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "military_security"
-        },
-        {
-          "title": "Китайските космически програми през „ Очилата  на Вашингтон",
-          "url": "http://bradva.bg/bg/article/article-200949",
-          "source": "bradva.bg",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-09-12T18:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "military_security"
-        },
-        {
-          "title": "America Hidden Space Vulnerability : Too Few Hands to Rebuild After Attack",
-          "url": "https://www.webpronews.com/americas-hidden-space-vulnerability-too-few-hands-to-rebuild-after-attack/",
-          "source": "webpronews.com",
+          "title": "Interview : BRICS key to Global South representation , scholar says -- China Economic Net",
+          "url": "http://en.ce.cn/main/latest/202609/t20260912_3209505.shtml",
+          "source": "en.ce.cn",
           "language": "en",
           "type": "wire",
           "published": "2026-09-12T13:00:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
-          "category": "military_security"
+          "category": "foreign_policy"
         },
         {
-          "title": "Η Κίνα στο κάδρο για το φονικό χτύπημα του Ιράν σε Αμερικανούς στην Ιορδανία - Τι αποκαλύπτει η WSJ",
-          "url": "https://www.iefimerida.gr/kosmos/kina-sto-kadro-foniko-htypima-iran-se-amerikanoys-iordania",
-          "source": "iefimerida.gr",
+          "title": "Interview : BRICS key to Global South representation , scholar says",
+          "url": "http://en.people.cn/n3/2026/0912/c90000-20498909.html",
+          "source": "en.people.cn",
           "language": "en",
           "type": "wire",
-          "published": "2026-09-12T08:45:00+00:00",
+          "published": "2026-09-12T09:30:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
-          "category": "military_security"
+          "category": "foreign_policy"
         },
         {
-          "title": "Η Κίνα στο κάδρο για το φονικό χτύπημα του Ιράν σε Αμερικανούς στην Ιορδανία - Τι αποκαλύπτει η WSJ",
-          "url": "https://www.inewsgr.com/184/i-kina-sto-kadro-gia-to-foniko-chtypima-tou-iran-se-amerikanous-stin-iordania--ti-apokalyptei-i-WSJ.htm",
-          "source": "inewsgr.com",
+          "title": "BRICS key to Global South representation , scholar says",
+          "url": "http://www.shanghaisun.com/news/279302316/brics-key-to-global-south-representation-scholar-says",
+          "source": "shanghaisun.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-12T09:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "Interview : BRICS key to Global South representation , scholar says - Xinhua",
+          "url": "https://english.news.cn/20260912/6f4c53508e314d818c59cbbd9907747c/c.html",
+          "source": "english.news.cn",
           "language": "en",
           "type": "wire",
           "published": "2026-09-12T08:15:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
-          "category": "military_security"
+          "category": "foreign_policy"
         },
         {
-          "title": "Китай і РФ випереджають США в космічному озброєнні Світ",
-          "url": "https://tsn.ua/svit/viyna-u-kosmosi-ssha-moze-ne-vystoiaty-proty-rf-ta-kytaiu-3167018.html",
-          "source": "tsn.ua",
+          "title": "Rwanda China road project : construction starts in Kigali",
+          "url": "https://www.riotimesonline.com/rwanda-china-road-project-technical-training-2026/",
+          "source": "riotimesonline.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-12T07:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "BRICS key to Global South representation , scholar says",
+          "url": "http://www.shanghainews.net/news/279302316/brics-key-to-global-south-representation-scholar-says",
+          "source": "shanghainews.net",
           "language": "en",
           "type": "wire",
           "published": "2026-09-12T06:45:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
-          "category": "military_security"
+          "category": "foreign_policy"
         },
         {
-          "title": "BRICS 2026 New Delhi Summit : India - France Space Technology Partnership",
-          "url": "https://divyamarathi.bhaskar.com/national/news/brics-2026-new-delhi-india-france-space-tech-collaboration-139005511.html",
-          "source": "divyamarathi.bhaskar.com",
+          "title": "BRICS key to Global South representation , scholar says",
+          "url": "http://www.bignewsnetwork.com/news/279302316/brics-key-to-global-south-representation-scholar-says",
+          "source": "bignewsnetwork.com",
           "language": "en",
           "type": "wire",
-          "published": "2026-09-12T05:00:00+00:00",
+          "published": "2026-09-12T05:45:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
-          "category": "military_security"
-        },
-        {
-          "title": "Så närmar sig Nordkoreas Kim Jong - Un och Rysslands Putin",
-          "url": "https://www.svd.se/a/y5JLye/sa-narmar-sig-nordkoreas-kim-jong-un-och-rysslands-putin",
-          "source": "svd.se",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-09-11T23:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "military_security"
-        },
-        {
-          "title": "India and Russia are building something big in space",
-          "url": "http://www.beijingbulletin.com/news/279300639/india-and-russia-are-building-something-big-in-space",
-          "source": "beijingbulletin.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-09-11T19:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "military_security"
-        },
-        {
-          "title": "India and Russia are building something big in space",
-          "url": "http://www.venezuelastar.com/news/279300639/india-and-russia-are-building-something-big-in-space",
-          "source": "venezuelastar.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-09-11T19:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "military_security"
+          "category": "foreign_policy"
         }
       ]
+    },
+    "politics": {
+      "label": "Politics & Governance",
+      "icon": "🏛️",
+      "color": "#9b6de8",
+      "featured": false,
+      "articles": []
+    },
+    "military_security": {
+      "label": "Military & Security",
+      "icon": "⚔️",
+      "color": "#e05f5f",
+      "featured": false,
+      "articles": []
     },
     "economy": {
       "label": "Economy & Trade",
@@ -265,132 +144,12 @@
       "featured": false,
       "articles": [
         {
-          "title": "张国伟 、 刘翔  霸榜热搜 ， 张国伟评刘翔退役安置事件 ： 没有国家培养就没有我 ， 别断了很多贫穷孩子的上升途径|跨栏|世锦赛女子",
-          "url": "https://www.163.com/dy/article/L6NB616105345ARG.html",
-          "source": "163.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-09-13T07:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "会馆晚宴勿沦  文化摆设  陈来福促华社关注年轻人困境光华日报 | 1910年创刊 创新每一天生活",
-          "url": "https://www.kwongwah.com.my/20260913/%E4%BC%9A%E9%A6%86%E6%99%9A%E5%AE%B4%E5%8B%BF%E6%B2%A6%E6%96%87%E5%8C%96%E6%91%86%E8%AE%BE-%E9%99%88%E6%9D%A5%E7%A6%8F%E4%BF%83%E5%8D%8E%E7%A4%BE%E5%85%B3%E6%B3%A8%E5%B9%B4%E8%BD%BB/",
-          "source": "kwongwah.com.my",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-09-13T06:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "The People Republic : How they rule - Tribune Online",
-          "url": "https://tribuneonlineng.com/the-peoples-republic-how-they-rule-23/",
-          "source": "tribuneonlineng.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-09-13T05:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "The Herders Who Keep Deserts At Bay - Analysis",
-          "url": "https://www.eurasiareview.com/13092026-the-herders-who-keep-deserts-at-bay-analysis/",
-          "source": "eurasiareview.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-09-13T02:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
           "title": "La natalità non si appalta : Roccella porta a Dubrovnik la battaglia italiana per il futuro dellEuropa",
           "url": "https://www.secoloditalia.it/2026/09/la-natalita-non-si-appalta-roccella-porta-a-dubrovnik-la-battaglia-italiana-per-il-futuro-delleuropa/",
           "source": "secoloditalia.it",
           "language": "en",
           "type": "wire",
           "published": "2026-09-12T20:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "Mao Zedong at 50 : His Teachings Remain Relevant",
-          "url": "https://countercurrents.org/2026/09/mao-zedong-at-50-his-teachings-remain-relevant/",
-          "source": "countercurrents.org",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-09-12T19:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "中国生源锐减 一年减少近3万所幼儿园小学",
-          "url": "https://www.epochtimes.com/gb/26/9/12/n14848272.htm",
-          "source": "epochtimes.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-09-12T15:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "How Anthropic says Claude was used for weapons , spying and cyber operations",
-          "url": "https://www.asiaone.com:443/digital/how-anthropic-says-claude-was-used-weapons-spying-and-cyber-operations",
-          "source": "asiaone.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-09-12T07:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "在交锋和共创之间 ， 外滩大会的五点共识",
-          "url": "https://www.163.com/dy/article/L6KOT5GB0514R9P4.html",
-          "source": "163.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-09-12T06:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "How Anthropic says Claude was used for weapons , spying and cyber operations",
-          "url": "https://www.asiaone.com/digital/how-anthropic-says-claude-was-used-weapons-spying-and-cyber-operations",
-          "source": "asiaone.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-09-12T06:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "China Targets Lawyers to Silence Faith Groups",
-          "url": "https://www.theepochtimes.com/china/china-targets-lawyers-to-silence-faith-groups-6086355",
-          "source": "theepochtimes.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-09-11T21:30:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -410,56 +169,7 @@
       "icon": "🔒",
       "color": "#e07070",
       "featured": false,
-      "articles": [
-        {
-          "title": "The People Republic : How they rule - Tribune Online",
-          "url": "https://tribuneonlineng.com/the-peoples-republic-how-they-rule-23/",
-          "source": "tribuneonlineng.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-09-13T05:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "BRICS 2026 : PM Modi , Xi hold bilateral talks ; back  fair , reasonable  settlement of boundary dispute",
-          "url": "https://www.tribuneindia.com/live-blog/delhi/brics-summit-2026-live-xi-jinping-reaches-new-delhi-to-hold-talks-with-pm-modi/",
-          "source": "tribuneindia.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-09-12T18:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "Xi Jinping Delhi Visit : How India Is Guarding Chinese President With Multi - Layered Security , CBRN Sweeps , Anti - Drone Measures",
-          "url": "https://www.freepressjournal.in/india/xi-jinpings-delhi-visit-how-india-is-guarding-chinese-president-with-multi-layered-security-cbrn-sweeps-anti-drone-measures",
-          "source": "freepressjournal.in",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-09-12T06:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "issue17455",
-          "url": "https://aawsat.com/files/pdf/issue17455/",
-          "source": "aawsat.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-09-11T22:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        }
-      ]
+      "articles": []
     },
     "bilateral_relations": {
       "label": "Bilateral Relations",
@@ -468,12 +178,12 @@
       "featured": false,
       "articles": [
         {
-          "title": "BRICS 2026 and the dawn of a multipolar world",
-          "url": "https://timesofindia.indiatimes.com/toi-blogs/power-policy/brics-2026-and-the-dawn-of-a-multipolar-world/articleshow/134184470.cms",
-          "source": "timesofindia.indiatimes.com",
+          "title": "سیاست خارجی چندبعدی و استراتژی توازن",
+          "url": "https://kar-online.com/119434/",
+          "source": "kar-online.com",
           "language": "en",
           "type": "wire",
-          "published": "2026-09-13T08:00:00+00:00",
+          "published": "2026-09-13T05:30:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -492,24 +202,48 @@
           "category": "bilateral_relations"
         },
         {
-          "title": "Russia : A Financial Disaster",
-          "url": "http://www.strategypage.com/%5Cqnd%5Crussia%5Carticles%5C2026091172542.aspx",
-          "source": "strategypage.com",
+          "title": "11 Eylülden 25 yıl sonra : Amerikan düzeninin krizi",
+          "url": "https://www.haksozhaber.net/11-eylulden-25-yil-sonra-amerikan-duzeninin-krizi-260483h.htm",
+          "source": "haksozhaber.net",
           "language": "en",
           "type": "wire",
-          "published": "2026-09-12T07:15:00+00:00",
+          "published": "2026-09-12T20:15:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "bilateral_relations"
         },
         {
-          "title": "America Walks Away from Global Democracy",
-          "url": "https://carnegieendowment.org/research/2026/09/america-walks-away-from-global-democracy",
-          "source": "carnegieendowment.org",
+          "title": "POINT : Post - 9 / 11 lessons We overlooked festering geostrategic issues",
+          "url": "https://www.wyomingnews.com/rawlinstimes/opinion/guest_column/point-post-9-11-lessons-we-overlooked-festering-geostrategic-issues/article_1e28c6f4-04c3-4395-9fb8-1af17cb3c1f8.html",
+          "source": "wyomingnews.com",
           "language": "en",
           "type": "wire",
-          "published": "2026-09-11T20:15:00+00:00",
+          "published": "2026-09-12T11:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
+          "title": "Column : After 9 / 11 , the US overlooked festering geostrategic issues",
+          "url": "https://www.pilotonline.com/2026/09/11/column-after-9-11-the-us-overlooked-festering-geostrategic-issues/",
+          "source": "pilotonline.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-12T01:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
+          "title": "Can India Hold BRICS Together When Its Members Cannot Agree ?",
+          "url": "https://kashmirlife.net/can-india-hold-brics-together-when-its-members-cannot-agree-451350/",
+          "source": "kashmirlife.net",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-11T21:15:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -522,10 +256,576 @@
       "icon": "🏢",
       "color": "#3ab8a0",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "BRICS New Delhi Declaration : Global South Seeks Greater Voice and Reforms",
+          "url": "https://dailypioneer.com/news/big-win-for-india-terror-stand-gets-global-backing",
+          "source": "dailypioneer.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-13T09:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "multilateral"
+        },
+        {
+          "title": "Tu jahan jahan chale ga , mera saaya saath hoga : Jairam Ramesh highlights how Jawaharlal Nehru Bandung spirit continues to shape modern diplomacy",
+          "url": "http://www.chinanationalnews.com/news/279303248/tu-jahan-jahan-chale-ga-mera-saaya-saath-hoga-jairam-ramesh-highlights-how-jawaharlal-nehru-bandung-spirit-continues-to-shape-modern-diplomacy",
+          "source": "chinanationalnews.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-12T20:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "multilateral"
+        },
+        {
+          "title": "Tu jahan jahan chale ga , mera saaya saath hoga : Jairam Ramesh highlights how Jawaharlal Nehru Bandung spirit continues to shape modern diplomacy",
+          "url": "http://www.shanghainews.net/news/279303248/tu-jahan-jahan-chale-ga-mera-saaya-saath-hoga-jairam-ramesh-highlights-how-jawaharlal-nehru-bandung-spirit-continues-to-shape-modern-diplomacy",
+          "source": "shanghainews.net",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-12T20:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "multilateral"
+        },
+        {
+          "title": "Tu jahan jahan chale ga , mera saaya saath hoga : Jairam Ramesh highlights how Jawaharlal Nehru Bandung spirit continues to shape modern diplomacy",
+          "url": "http://www.brazilsun.com/news/279303248/tu-jahan-jahan-chale-ga-mera-saaya-saath-hoga-jairam-ramesh-highlights-how-jawaharlal-nehru-bandung-spirit-continues-to-shape-modern-diplomacy",
+          "source": "brazilsun.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-12T20:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "multilateral"
+        },
+        {
+          "title": "Tu jahan jahan chale ga , mera saaya saath hoga : Jairam Ramesh highlights how Jawaharlal Nehru Bandung spirit continues to shape modern diplomacy",
+          "url": "http://www.pakistantelegraph.com/news/279303248/tu-jahan-jahan-chale-ga-mera-saaya-saath-hoga-jairam-ramesh-highlights-how-jawaharlal-nehru-bandung-spirit-continues-to-shape-modern-diplomacy",
+          "source": "pakistantelegraph.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-12T20:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "multilateral"
+        },
+        {
+          "title": "Tu jahan jahan chale ga , mera saaya saath hoga : Jairam Ramesh highlights how Jawaharlal Nehru Bandung spirit continues to shape modern diplomacy",
+          "url": "http://www.vietnamtribune.com/news/279303248/tu-jahan-jahan-chale-ga-mera-saaya-saath-hoga-jairam-ramesh-highlights-how-jawaharlal-nehru-bandung-spirit-continues-to-shape-modern-diplomacy",
+          "source": "vietnamtribune.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-12T19:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "multilateral"
+        },
+        {
+          "title": "Tu jahan jahan chale ga , mera saaya saath hoga : Jairam Ramesh highlights how Jawaharlal Nehru Bandung spirit continues to shape modern diplomacy",
+          "url": "http://www.sierraleonetimes.com/news/279303248/tu-jahan-jahan-chale-ga-mera-saaya-saath-hoga-jairam-ramesh-highlights-how-jawaharlal-nehru-bandung-spirit-continues-to-shape-modern-diplomacy",
+          "source": "sierraleonetimes.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-12T19:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "multilateral"
+        },
+        {
+          "title": "Tu jahan jahan chale ga , mera saaya saath hoga : Jairam Ramesh highlights how Jawaharlal Nehru Bandung spirit continues to shape modern diplomacy",
+          "url": "http://www.africaleader.com/news/279303248/tu-jahan-jahan-chale-ga-mera-saaya-saath-hoga-jairam-ramesh-highlights-how-jawaharlal-nehru-bandung-spirit-continues-to-shape-modern-diplomacy",
+          "source": "africaleader.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-12T19:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "multilateral"
+        },
+        {
+          "title": "Tu jahan jahan chale ga , mera saaya saath hoga : Jairam Ramesh highlights how Jawaharlal Nehru Bandung spirit continues to shape modern diplomacy",
+          "url": "http://www.nepalnational.com/news/279303248/tu-jahan-jahan-chale-ga-mera-saaya-saath-hoga-jairam-ramesh-highlights-how-jawaharlal-nehru-bandung-spirit-continues-to-shape-modern-diplomacy",
+          "source": "nepalnational.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-12T19:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "multilateral"
+        },
+        {
+          "title": "Tu jahan jahan chale ga , mera saaya saath hoga : Jairam Ramesh highlights how Jawaharlal Nehru Bandung spirit continues to shape modern diplomacy",
+          "url": "http://www.nigeriasun.com/news/279303248/tu-jahan-jahan-chale-ga-mera-saaya-saath-hoga-jairam-ramesh-highlights-how-jawaharlal-nehru-bandung-spirit-continues-to-shape-modern-diplomacy",
+          "source": "nigeriasun.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-12T18:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "multilateral"
+        },
+        {
+          "title": "Tu jahan jahan chale ga , mera saaya saath hoga : Jairam Ramesh highlights how Jawaharlal Nehru Bandung spirit continues to shape modern diplomacy",
+          "url": "http://www.argentinastar.com/news/279303248/tu-jahan-jahan-chale-ga-mera-saaya-saath-hoga-jairam-ramesh-highlights-how-jawaharlal-nehru-bandung-spirit-continues-to-shape-modern-diplomacy",
+          "source": "argentinastar.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-12T18:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "multilateral"
+        },
+        {
+          "title": "Tu jahan jahan chale ga , mera saaya saath hoga : Jairam Ramesh highlights how Jawaharlal Nehru Bandung spirit continues to shape modern diplomacy",
+          "url": "http://www.zimbabwestar.com/news/279303248/tu-jahan-jahan-chale-ga-mera-saaya-saath-hoga-jairam-ramesh-highlights-how-jawaharlal-nehru-bandung-spirit-continues-to-shape-modern-diplomacy",
+          "source": "zimbabwestar.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-12T18:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "multilateral"
+        },
+        {
+          "title": "Tu jahan jahan chale ga , mera saaya saath hoga : Jairam Ramesh highlights how Jawaharlal Nehru Bandung spirit continues to shape modern diplomacy",
+          "url": "http://www.caribbeanherald.com/news/279303248/tu-jahan-jahan-chale-ga-mera-saaya-saath-hoga-jairam-ramesh-highlights-how-jawaharlal-nehru-bandung-spirit-continues-to-shape-modern-diplomacy",
+          "source": "caribbeanherald.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-12T18:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "multilateral"
+        },
+        {
+          "title": "Tu jahan jahan chale ga , mera saaya saath hoga : Jairam Ramesh highlights how Jawaharlal Nehru Bandung spirit continues to shape modern diplomacy",
+          "url": "http://www.bignewsnetwork.com/news/279303248/tu-jahan-jahan-chale-ga-mera-saaya-saath-hoga-jairam-ramesh-highlights-how-jawaharlal-nehru-bandung-spirit-continues-to-shape-modern-diplomacy",
+          "source": "bignewsnetwork.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-12T18:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "multilateral"
+        },
+        {
+          "title": "Tu jahan jahan chale ga , mera saaya saath hoga : Jairam Ramesh highlights how Jawaharlal Nehru Bandung spirit continues to shape modern diplomacy",
+          "url": "http://www.asiabulletin.com/news/279303248/tu-jahan-jahan-chale-ga-mera-saaya-saath-hoga-jairam-ramesh-highlights-how-jawaharlal-nehru-bandung-spirit-continues-to-shape-modern-diplomacy",
+          "source": "asiabulletin.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-09-12T18:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "multilateral"
+        }
+      ]
     }
   },
   "latest_rss": [
+    {
+      "title": "美国汽车业游说团体要特朗普封堵中国汽车在美国生产",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260918-%E7%BE%8E%E5%9B%BD%E6%B1%BD%E8%BD%A6%E4%B8%9A%E6%B8%B8%E8%AF%B4%E5%9B%A2%E4%BD%93%E8%A6%81%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%81%E5%A0%B5%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%9C%A8%E7%BE%8E%E5%9B%BD%E7%94%9F%E4%BA%A7",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-09-18T20:22:38+00:00",
+      "summary": "在下周与中国领导人习近平举行峰会前夕，美国本土汽车制造商及供应商于周五敦促总统特朗普，将中国的汽车生产拒之门外。",
+      "image": "https://s.rfi.fr/media/display/b6c4b7f2-b081-11f1-a989-005056bf30b7/w:1024/p:16x9/2026-09-14T150124Z-1153299042-RC27BNATF408-RTRMADP-3-USA-TRUMP-AI.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Warren Buffett’s son to succeed his father as Berkshire Hathaway chair",
+      "url": "https://www.ft.com/content/e26d8335-426a-4405-ae4c-433bd2696994?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-09-18T20:20:28+00:00",
+      "summary": "Conglomerate says the elder Buffett will take on role of chair emeritus",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F26012bd0-0b22-4dc0-9365-3202b77c6802.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Syria arrests five former al-Assad-era officers over strikes on civilians",
+      "url": "https://www.aljazeera.com/news/2026/9/18/syria-arrests-five-former-al-assad-era-officers-over-strikes-on-civilians?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-09-18T20:20:23+00:00",
+      "summary": "Former air officers, including an air force general, were arrested in a series of operations.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "美媒：国会对F-35零件被转运至香港一事展开调查",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260918-%E7%BE%8E%E5%AA%92-%E5%9B%BD%E4%BC%9A%E5%AF%B9f-35%E9%9B%B6%E4%BB%B6%E8%A2%AB%E8%BD%AC%E8%BF%90%E8%87%B3%E9%A6%99%E6%B8%AF%E4%B8%80%E4%BA%8B%E5%B1%95%E5%BC%80%E8%B0%83%E6%9F%A5",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-09-18T19:47:52+00:00",
+      "summary": "美国政治新闻网站《政客》（POLITICO）独家报导，一批原本从澳大利亚运往美国维修的F-35战机敏感零组件，今年夏季在横越太平洋途中被意外改道，最终运抵香港，引发美国国会及国防部门调查，也使外界担心中国可能取得F-35关键技术。",
+      "image": "https://s.rfi.fr/media/display/87659208-834e-11f0-98f3-005056a90284/w:1024/p:16x9/AP25168514480491.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Protests Erupt in Nigeria After Police Pack 66 Miners Into One Cell",
+      "url": "https://www.nytimes.com/2026/09/18/world/africa/nigeria-miners-dead-police-minna.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-09-18T19:45:51+00:00",
+      "summary": "Relatives of miners who were arrested on suspicion of illegal mining outside a hospital in Minna, Nigeria, on Thursday.",
+      "image": "https://static01.nyt.com/images/2026/09/18/multimedia/18int-nigeria-deaths-vtql/18int-nigeria-deaths-vtql-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Russia labels Cannes-winning director Andrey Zvyagintsev a ‘foreign agent’",
+      "url": "https://www.aljazeera.com/news/2026/9/18/russia-labels-cannes-winning-director-andrey-zvyagintsev-a-foreign-agent?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-09-18T19:39:16+00:00",
+      "summary": "Acclaimed Russian film director who won 2026 Grand Prix award at Cannes, ⁠has been critical of the war in Ukraine.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "美国再次拒绝向阿巴斯发放签证",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20260918-%E7%BE%8E%E5%9B%BD%E5%86%8D%E6%AC%A1%E6%8B%92%E7%BB%9D%E5%90%91%E9%98%BF%E5%B7%B4%E6%96%AF%E5%8F%91%E6%94%BE%E7%AD%BE%E8%AF%81",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-09-18T19:36:52+00:00",
+      "summary": "联合国秘书长古特雷斯的发言人周五表示，美国连续第二年拒绝向巴勒斯坦权利机构主席阿巴斯发放参加下周联合国大会的签证，对此他“深感遗憾”。 斯特凡·杜哈里克补充道：“秘书长担心这一决定对巴勒斯坦国充分参与联合国工作的能力的影响”。",
+      "image": "https://s.rfi.fr/media/display/4829334e-b398-11f1-95be-6f779f079bc8/w:1024/p:16x9/abbas-1.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Lebanese artist turns Israeli missile debris into art",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/lebanese-artist-turns-israeli-missile-debris-into-art?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-09-18T19:31:32+00:00",
+      "summary": "In southern Lebanon, visual artist Lina Jouni transforms debris from Israeli missile strikes into pieces of art.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Trump bans CNN, MS NOW, Politico from the White House for ‘fake news’",
+      "url": "https://www.aljazeera.com/news/2026/9/18/trump-bans-news-outlets-cnn-ms-now-and-politico-from-white-house?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-09-18T19:25:04+00:00",
+      "summary": "The US president insists media outlets report &#039;fiction and lies&#039; as he enforces new bans on White House access.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Rejecting Trump, South Korean Leader Says He Will Not Send Troops to Iran",
+      "url": "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-09-18T19:24:18+00:00",
+      "summary": "President Lee Jae Myung of South Korea holding a news conference at the Blue House in Seoul on Friday. Mr. Lee rejected any South Korean military involvement in the Middle East conflict.",
+      "image": "https://static01.nyt.com/images/2026/09/18/multimedia/18int-skorea-lee-hckp/18int-skorea-lee-hckp-mediumSquareAt3X-v2.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Iran's 'new Hezbollah:' How powerful are the Houthis now?",
+      "url": "https://www.dw.com/en/iran-s-new-hezbollah-how-powerful-are-the-houthis-now/a-79331945?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "Deutsche Welle",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-09-18T19:22:00+00:00",
+      "summary": "After Houthi victories in Yemen, the group's importance in the US-Iran war has grown. Previously Lebanon's Hezbollah was considered most significant in Iran's \"axis of resistance.\" Now the Houthis are rising to the top.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Trump bans major US news outlets from White House",
+      "url": "https://www.ft.com/content/4cd82226-3d4a-474d-bc3e-de2ed0b1e6f8?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-09-18T19:20:08+00:00",
+      "summary": "CNN, MS Now and Politico barred by president as he escalates assault on media",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7cc2a650-20dd-4c4d-9c3d-77fa8f7b2e47.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Ex-Apollo executive admits to improperly using company documents",
+      "url": "https://www.ft.com/content/c57e73d1-547d-4f69-addb-6516845fbe6d?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-09-18T19:18:14+00:00",
+      "summary": "Imran Siddiqui had been sued by buyout group’s Athene unit over his rival start-up",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4308e7cc-7c56-4e42-8298-360ce214a5bd.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Two injured by Israeli shelling as troops advance in southern Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/9/18/two-injured-by-israeli-shelling-as-troops-advance-in-southern-lebanon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-09-18T19:14:41+00:00",
+      "summary": "Israeli forces withdraw from outskirts of a town in southern Lebanon after a standoff with Lebanese forces.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Eugenia Apostol, Whose Journalism Helped Topple a Dictator, Dies at 100",
+      "url": "https://www.nytimes.com/2026/09/18/world/asia/eugenia-apostol-dead.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-09-18T19:13:32+00:00",
+      "summary": "A publisher in the Philippines, she used her women’s magazine as a forum for political stories that helped drive Ferdinand Marcos from power.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "England fast bowler Carse to face no charges over alleged nightclub assault",
+      "url": "https://www.aljazeera.com/sports/2026/9/18/england-fast-bowler-carse-to-face-no-charges-over-alleged-nightclub-assault?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-09-18T19:12:58+00:00",
+      "summary": "Derbyshire Police said they were investigating an alleged assault but have now decided no further action will be taken.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportees",
+      "url": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-09-18T19:06:40+00:00",
+      "summary": "A still from a video showing a police officer point a firearm at men deported by the United States to Equatorial Guinea at Hotel Bamy on the outskirts of Malabo, Equatorial Guinea, Sept. 5.",
+      "image": "https://static01.nyt.com/images/2026/09/17/multimedia/00int-deportation-hotel-1-tzvj/00int-deportation-hotel-1-tzvj-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Will Russia Ever Be ‘Normal’?",
+      "url": "https://foreignpolicy.com/2026/09/18/russia-war-putin-empire-imperialism-history-ukraine-neighbors-soviet/",
+      "source": "Foreign Policy",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-09-18T19:00:16+00:00",
+      "summary": "Empires inevitably decline, and Putin’s project will be no exception.",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/09/1-russia-ukraine-normalno-putin-GettyImages-2291457264.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "What in the World?",
+      "url": "https://foreignpolicy.com/2026/09/18/news-quiz-houthi-strikes-saudi-arabia-eu-finland-xi-modi-brics-summit/",
+      "source": "Foreign Policy",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-09-18T18:54:46+00:00",
+      "summary": "Test yourself on the week of Sept. 12: Modi and Xi meet, the Houthis fire on Saudi Arabia, and EU leaders gather in Finland.",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/09/Nigeria-Dangote-GettyImages-2294766963.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Pentagon resumes paused testosterone policy amid medical experts’ concerns",
+      "url": "https://www.aljazeera.com/news/2026/9/18/pentagon-resumes-paused-testosterone-policy-amid-medical-experts-concerns?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-09-18T18:54:12+00:00",
+      "summary": "New policy mandates testosterone testing for US service members over 30, citing readiness while experts warn of risks.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Mexico’s Sheinbaum says she spoke with Trump as trade negotiations continue",
+      "url": "https://www.aljazeera.com/news/2026/9/18/mexicos-sheinbaum-says-she-spoke-with-trump-as-trade-negotiations-continue?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-09-18T18:46:51+00:00",
+      "summary": "Mexican president says she is seeking a decrease in tariffs as both countries seek new bilateral trade deal.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Do elections in Russia make a difference?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/18/do-elections-in-russia-make-a-difference?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-09-18T18:45:30+00:00",
+      "summary": "Millions of people are choosing a new lower house of Parliament.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "In War, Trump and Putin Are Much Alike",
+      "url": "https://foreignpolicy.com/2026/09/18/keir-giles-american-overthrow-book-trump-putin-war-iran-ukraine-russia/",
+      "source": "Foreign Policy",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-09-18T18:40:12+00:00",
+      "summary": "Washington is emulating Moscow’s ways of fighting wars—and helping it in the process.",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/09/Giles-1-GettyImages-2229449795.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
+      "url": "https://www.aljazeera.com/economy/2026/9/18/warren-buffett-steps-down-as-berkshire-hathaway-chairman?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-09-18T18:32:24+00:00",
+      "summary": "Buffett will become chairman emeritus immediately and his son Howard will become chairman.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Pressure Points",
+      "url": "https://warontherocks.com/pressure-points/",
+      "source": "War on the Rocks",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-09-18T18:30:37+00:00",
+      "summary": "Welcome to The Adversarial.&#160;Every other week, we&#8217;ll provide you with expert analysis on America&#8217;s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranSenior officials from Iran, Oman, and neighboring Gulf states were scheduled to meet in Salalah on Monday to unveil the provisions of a deal for managing the Strait of Hormuz. Those plans unraveled before the meeting could take place, and Oman&#8217;s foreign minister announced a postponement.For Tehran, securing buy-in from U.S. allies in the Gulf was potentially a step toward resuming negotiations with Washington &#8212; presenting the Trump administration with a fix, even if temporary,\nThe post Pressure Points appeared first on War on the Rocks.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "St. Pierre and Miquelon, France, In the Spotlight as Macron and Carney Visit",
+      "url": "https://www.nytimes.com/2026/09/18/world/canada/saint-pierre-miquelon-france-canada-macron-carney.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-09-18T18:27:40+00:00",
+      "summary": "St. Pierre and Miquelon, the French territory off the coast of Canada’s Newfoundland, is experiencing a surge in visitors after three unrelated events raised its profile.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Trump Courts North Korea’s Leader, but Might Need China to Reignite the Flame",
+      "url": "https://www.nytimes.com/2026/09/18/us/politics/trump-north-korea.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-09-18T18:25:01+00:00",
+      "summary": "President Trump and Kim Jong-un on the North Korean side of the Demilitarized Zone in 2019. For Mr. Trump, a summit with Mr. Kim would help him turn the spotlight away from the unpopular war against Iran and toward a leader-to-leader relationship that Mr. Trump has treasured since his first term.",
+      "image": "https://static01.nyt.com/images/2026/09/18/multimedia/18dc-trump-northkorea-bpvm/18dc-trump-northkorea-bpvm-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "More U.S. troops have died amid Iran war than Pentagon has disclosed publicly",
+      "url": "https://www.washingtonpost.com/national-security/2026/09/18/more-us-troops-have-died-amid-iran-war-than-pentagon-has-disclosed-publicly/",
+      "source": "Washington Post",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-09-18T18:23:56+00:00",
+      "summary": "Officials who spoke with The Post expressed frustration that the additional loss of life in the Middle East is not reflected in the Defense Department’s casualty database.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Airport malaria in Germany remains infrequent",
+      "url": "https://www.dw.com/en/airport-malaria-in-germany-remains-infrequent/a-79333920?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "Deutsche Welle",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-09-18T18:23:00+00:00",
+      "summary": "An outbreak of malaria at Frankfurt Airport this summer has raised alarm. Experts believe parasites probably arrived in a passenger's luggage. But with the onset of fall, the risks of contracting the disease are low.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Chinese Literature Is Undergoing a Vibe Shift",
+      "url": "https://foreignpolicy.com/2026/09/18/china-workers-literature-ccp-censorship-xi-wang-jibing/",
+      "source": "Foreign Policy",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-09-18T18:20:18+00:00",
+      "summary": "Beijing long promoted novels about working-class travails. What happens when authors point fingers at the state?",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/09/1-Beijing-China-Bookstore-Reading-traditional-culture-GettyImages-75927907.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Russia’s drones threaten Kyiv-bound Western officials as war effort stalls",
+      "url": "https://www.aljazeera.com/news/2026/9/18/russia-targets-ukraines-peaceful-borders?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-09-18T18:19:47+00:00",
+      "summary": "Russia strikes Ukraine’s border crossings with Poland and Moldova as its offensives peter out in the east.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Police clear Ceuta migrants off beaches in Spanish enclave",
+      "url": "https://www.aljazeera.com/news/2026/9/18/police-clear-ceuta-migrants-off-beaches-in-spanish-enclave?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-09-18T18:16:20+00:00",
+      "summary": "At least 10,000 of the 72,000 migrants who broke through fence from Morocco in July remain in the Spanish enclave.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Early in-person voting begins in the 2026 US midterm elections in Virginia",
+      "url": "https://www.aljazeera.com/news/2026/9/18/early-in-person-voting-begins-in-the-2026-us-midterm-elections-in-virginia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-09-18T18:15:32+00:00",
+      "summary": "Virginia leads the way for in-person voting, reflecting a nationwide trend towards casting ballots before Election Day.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Emily Wilson Chooses Her Words Carefully",
+      "url": "https://foreignpolicy.com/2026/09/18/odyssey-emily-wilson-translation-nolan/",
+      "source": "Foreign Policy",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-09-18T18:00:31+00:00",
+      "summary": "The Homeric scholar’s new book on translation is bitingly smart.",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/09/1-odyssey-emily-wilson-translation-nolanwilsonemily_ctrusteesoftheuniversityofpennsylvania.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Sweden’s left-wing opposition leader begins efforts to form government",
+      "url": "https://www.aljazeera.com/news/2026/9/18/swedens-left-wing-opposition-leader-begins-efforts-to-form-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-09-18T17:55:38+00:00",
+      "summary": "Magdalena Andersson will likely face several challenges as she tries to get Sweden&#039;s other left-wing parties to unite.",
+      "image": "",
+      "via": "rss"
+    },
     {
       "title": "Nine bodies found in South Africa raise fears of serial murder, femicide",
       "url": "https://www.washingtonpost.com/world/2026/09/18/nine-bodies-found-south-africa-raise-fears-serial-murder-femicide/",
@@ -560,6 +860,17 @@
       "via": "rss"
     },
     {
+      "title": "Gavin Newsom advances AI ‘kill switch’ in response to safety fears",
+      "url": "https://www.ft.com/content/cd4e4514-944b-4919-a245-d8013734b8a0?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-09-18T17:12:25+00:00",
+      "summary": "California’s governor signals tougher stance on the technology after public outcry",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fea397409-2059-4b9b-9fc9-00f3ffbdc0fc.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
       "title": "UEFA, CONCACAF challenge FIFA on reserves and demand $10m payout to members",
       "url": "https://www.aljazeera.com/sports/2026/9/18/uefa-concacaf-challenge-fifa-on-reserves-and-demand-10m-payout-to-members?traffic_source=rss",
       "source": "Al Jazeera",
@@ -582,17 +893,6 @@
       "via": "rss"
     },
     {
-      "title": "Ex-Apollo executive admits to improperly using company documents",
-      "url": "https://www.ft.com/content/c57e73d1-547d-4f69-addb-6516845fbe6d?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-09-18T16:41:40+00:00",
-      "summary": "Imran Siddiqui had been sued by buyout group’s Athene unit over his rival start-up",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4308e7cc-7c56-4e42-8298-360ce214a5bd.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
       "title": "Jerusalem Daily: Netanyahu says he will ‘change the face of the Middle East",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/jerusalem-daily-netanyahu-says-he-will-change-the-face-of-the-middle-east?traffic_source=rss",
       "source": "Al Jazeera",
@@ -612,17 +912,6 @@
       "published": "2026-09-18T16:28:24+00:00",
       "summary": "Authorities warn of further potential currency intervention after central bank move fails to buoy currency",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9686c509-7813-45a0-a340-47befe8810ea.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "Howard Buffett to succeed father as Berkshire Hathaway chair",
-      "url": "https://www.ft.com/content/e26d8335-426a-4405-ae4c-433bd2696994?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-09-18T16:18:54+00:00",
-      "summary": "Conglomerate says the elder Buffett will take on role of chair emeritus",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F26012bd0-0b22-4dc0-9365-3202b77c6802.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -692,17 +981,6 @@
       "via": "rss"
     },
     {
-      "title": "37 Miners in Nigeria Die in Police Custody, Sparking Protests",
-      "url": "https://www.nytimes.com/2026/09/18/world/africa/nigeria-miners-dead-police-minna.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-09-18T15:27:09+00:00",
-      "summary": "Relatives of miners who were arrested on suspicion of illegal mining outside a hospital in Minna, Nigeria, on Thursday.",
-      "image": "https://static01.nyt.com/images/2026/09/18/multimedia/18int-nigeria-deaths-vtql/18int-nigeria-deaths-vtql-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
       "title": "Police hit migrants with batons during camp transfer in Ceuta",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/police-hit-migrants-with-batons-during-camp-transfer-in-ceuta?traffic_source=rss",
       "source": "Al Jazeera",
@@ -741,20 +1019,9 @@
       "source": "New York Times",
       "language": "en",
       "type": "newspaper",
-      "published": "2026-09-18T15:14:31+00:00",
+      "published": "2026-09-18T15:14:32+00:00",
       "summary": "Russia is staging an election that matters to almost no one — except President Vladimir V. Putin and his inner circle.",
       "image": "https://static01.nyt.com/images/2026/09/18/multimedia/18int-ideas-putin-lzpf/18int-ideas-putin-lzpf-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "A Central African Hotel Has Become a Nightmare Prison for U.S. Deportations",
-      "url": "https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-09-18T15:10:35+00:00",
-      "summary": "A still from a video showing a police officer point a firearm at men deported by the United States to Equatorial Guinea at Hotel Bamy on the outskirts of Malabo, Equatorial Guinea, Sept. 5.",
-      "image": "https://static01.nyt.com/images/2026/09/17/multimedia/00int-deportation-hotel-1-tzvj/00int-deportation-hotel-1-tzvj-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -763,7 +1030,7 @@
       "source": "New York Times",
       "language": "en",
       "type": "newspaper",
-      "published": "2026-09-18T15:08:29+00:00",
+      "published": "2026-09-18T15:08:30+00:00",
       "summary": "The suspect, a 16-year-old student, also died, officials said. It was the third high-profile school shooting in the Philippines in recent months.",
       "image": "https://static01.nyt.com/images/2026/09/18/multimedia/18xp-philippines-shooting-1-wffc-promo/18xp-philippines-shooting-1-wtmc-mediumSquareAt3X.jpg",
       "via": "rss"
@@ -796,7 +1063,7 @@
       "source": "New York Times",
       "language": "en",
       "type": "newspaper",
-      "published": "2026-09-18T15:02:12+00:00",
+      "published": "2026-09-18T15:02:13+00:00",
       "summary": "James Purcell, left, and Andrew Taeger with the terrifyingly complex Campaign for North Africa board game.",
       "image": "https://static01.nyt.com/images/2026/09/17/multimedia/17xp-war-game-06/17xp-war-game-06-mediumSquareAt3X.jpg",
       "via": "rss"
@@ -945,17 +1212,6 @@
       "via": "rss"
     },
     {
-      "title": "Barcelona’s Lamine Yamal says he has experienced racism ‘a thousand times’",
-      "url": "https://www.aljazeera.com/sports/2026/9/18/barcelonas-lamine-yamal-says-he-has-experienced-racism-a-thousand-times?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-09-18T14:08:03+00:00",
-      "summary": "Spain&#039;s Lamine Yamal says most racism he has suffered has come from people unaware of their own comments or behaviour.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "Palace rejects claims King Charles was ‘elated’ after Princess Diana’s death",
       "url": "https://www.washingtonpost.com/world/2026/09/18/palace-rejects-claims-king-charles-was-elated-after-princess-dianas-death/",
       "source": "Washington Post",
@@ -1022,17 +1278,6 @@
       "via": "rss"
     },
     {
-      "title": "The cost of Iran’s regional leverage",
-      "url": "https://www.aljazeera.com/opinions/2026/9/18/the-cost-of-irans-regional-leverage?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-09-18T13:52:49+00:00",
-      "summary": "Tehran’s use of pressure across the region is putting its rapprochement with Gulf states under increasing strain.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "Why Russia Holds Elections, and How the Kremlin Gets the Results It Wants",
       "url": "https://www.nytimes.com/2026/09/18/world/europe/russia-duma-election.html",
       "source": "New York Times",
@@ -1041,17 +1286,6 @@
       "published": "2026-09-18T13:47:18+00:00",
       "summary": "Nanna Heitmann for The New York TimesA digital screen featuring candidates from the United Russia party in Moscow this week. Russians began voting on Friday in parliamentary elections.",
       "image": "https://static01.nyt.com/images/2026/09/18/multimedia/18russia-election-WTK-01-hpvw/18russia-election-WTK-01-hpvw-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Ronaldo keeps Portugal place for Nations League as Jesus names first squad",
-      "url": "https://www.aljazeera.com/sports/2026/9/18/ronaldo-keeps-portugal-place-for-nations-league-as-jesus-names-first-squad?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-09-18T13:36:58+00:00",
-      "summary": "Ex-Manchester United and Real Madrid forward Cristiano Ronaldo named in Portugal squad to face ⁠Norway and Denmark.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -1077,17 +1311,6 @@
       "via": "rss"
     },
     {
-      "title": "Video: Students flee deadly school shooting in the Philippines",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/video-students-flee-deadly-school-shooting-in-the-philippines?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-09-18T13:30:16+00:00",
-      "summary": "A 16-year-old suspected gunman has shot two students dead and injured several others at a school in the Philippines.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "比亚迪、小米等公司高管或随习近平访美 黄仁勋、奥特曼等美高管将出席国宴",
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20260918-%E6%AF%94%E4%BA%9A%E8%BF%AA-%E5%B0%8F%E7%B1%B3%E7%AD%89%E5%85%AC%E5%8F%B8%E9%AB%98%E7%AE%A1%E6%88%96%E9%9A%8F%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E-%E9%BB%84%E4%BB%81%E5%8B%8B-%E5%A5%A5%E7%89%B9%E6%9B%BC%E7%AD%89%E7%BE%8E%E9%AB%98%E7%AE%A1%E5%B0%86%E5%87%BA%E5%B8%AD%E5%9B%BD%E5%AE%B4",
       "source": "法广中文",
@@ -1110,39 +1333,6 @@
       "via": "rss"
     },
     {
-      "title": "US voter opposition to war on Iran grows to new highs: Poll",
-      "url": "https://www.aljazeera.com/news/2026/9/18/us-voter-opposition-to-war-on-iran-grows-to-new-highs-poll?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-09-18T13:09:27+00:00",
-      "summary": "Poll reveals 71 percent in US believe Trump&#039;s team lacks a clear strategy for resolving the conflict.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "FIFA’s Infantino ‘must go, no ifs or buts’, blasts German FA vice president",
-      "url": "https://www.aljazeera.com/sports/2026/9/18/fifas-infantino-must-go-no-ifs-or-buts-says-german-fa-vice-president?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-09-18T13:05:35+00:00",
-      "summary": "Hans-Joachim Watzke, one of German football&#039;s vice-presidents, adds to list calling for Gianni Infantino&#039;s resignation.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Rejecting Trump, South Korean Leader Says He Will Not Send Troops to Iran",
-      "url": "https://www.nytimes.com/2026/09/18/world/asia/south-korea-president-lee-jae-myung-trump-iran.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-09-18T13:04:33+00:00",
-      "summary": "South Korean President Lee Jae Myung holding a news conference at the Blue House in Seoul, on Friday. Mr. Lee rejected any South Korean military involvement in the Middle East conflict.",
-      "image": "https://static01.nyt.com/images/2026/09/18/multimedia/18int-skorea-lee-hckp/18int-skorea-lee-hckp-mediumSquareAt3X-v2.jpg",
-      "via": "rss"
-    },
-    {
       "title": "Beijing, Taipei need peace deal before reunification, Taiwanese scholar says",
       "url": "https://www.scmp.com/news/china/politics/article/3368054/beijing-taipei-need-peace-deal-reunification-taiwanese-scholar-says?utm_source=rss_feed",
       "source": "SCMP",
@@ -1151,28 +1341,6 @@
       "published": "2026-09-18T13:03:04+00:00",
       "summary": "A formal peace deal between Beijing and Taipei should be signed to build trust before discussions on post-reunification political arrangements, a prominent Taiwanese political scientist has argued at a security conference in Beijing.\nChang Ya-chung, who heads the Taiwan-based Sun Yat-sen School advocacy group, said the “one country, two systems” formula, which has been applied to Hong Kong and Macau, had so far failed to resonate in Taiwanese society.\n“If reunification means that one side, with...",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/09/18/4948617d-6d66-4707-97c0-57e412d35172_de4007af.jpg?itok=p3MzahVL&v=1789735656",
-      "via": "rss"
-    },
-    {
-      "title": "Chinese ship rams Philippines gov’t vessel in South China Sea: Coastguard",
-      "url": "https://www.aljazeera.com/news/2026/9/18/chinese-ship-rams-philippines-govt-vessel-in-south-china-sea-coastguard?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-09-18T13:02:05+00:00",
-      "summary": "Philippine Coast Guard accuses China of dangerous military manoeuvres near Palawan province.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Pakistan pledges full committment to defence of Saudi Arabia",
-      "url": "https://www.aljazeera.com/news/2026/9/18/pakistan-pledges-full-committment-to-defence-of-saudi-arabia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-09-18T13:00:18+00:00",
-      "summary": "Assurance comes amid questions over Pakistan and Turkiye&#039;s stance on Riyadh&#039;s fight with Houthis following defence pact.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -1198,39 +1366,6 @@
       "via": "rss"
     },
     {
-      "title": "Asian Games 2026: Dates, venues, sports and a growing accommodation crisis",
-      "url": "https://www.aljazeera.com/sports/2026/9/18/asian-games-2026-dates-venues-sports-and-a-growing-accommodation-crisis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-09-18T12:59:13+00:00",
-      "summary": "More than 11,000 athletes from 45 countries will compete at world’s second-largest multisport event.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "As Houthis grab Bab al-Mandeb, US appears willing to watch from sidelines",
-      "url": "https://www.aljazeera.com/news/2026/9/18/as-houthis-grab-bab-al-mandeb-us-appears-willing-to-watch-from-sidelines?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-09-18T12:52:29+00:00",
-      "summary": "Stretched by its war with Iran, Washington may have little choice but to trust Houthi assurances on shipping.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Why does Canada want to join the Europe-led JEF military partnership?",
-      "url": "https://www.aljazeera.com/news/2026/9/18/why-does-canada-want-to-join-the-europe-led-jef-military-partnership?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-09-18T12:51:15+00:00",
-      "summary": "This is the latest step in Canada&#039;s bid to move closer to Europe amid bitter trade war with the US.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "Where Does North Korea’s Nuclear Program Stand in 2026?",
       "url": "https://thediplomat.com/2026/09/where-does-north-koreas-nuclear-program-stand-in-2026/",
       "source": "The Diplomat",
@@ -1250,39 +1385,6 @@
       "published": "2026-09-18T12:30:40+00:00",
       "summary": "由欧洲空客在天津第二条总装线（FAL）组装的首架A320飞机在9月16日正式交付给中国东方航空，请看视频报道。",
       "image": "https://s.rfi.fr/media/display/c910000e-b358-11f1-a8e0-994e92b1193e/w:1024/p:16x9/photo-A320tianjing.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "How fantasy fans are keeping a Turkish blacksmithing tradition alive",
-      "url": "https://www.aljazeera.com/features/longform/2026/9/18/how-fantasy-fans-are-keeping-a-turkish-blacksmithing-tradition-alive?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-09-18T12:27:44+00:00",
-      "summary": "In Izmir’s historic Kemeralti bazaar, the Akdemir family is finding new customers for a four-generation craft.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "The view from Russia: ‘No party can be antiwar’ in parliamentary election",
-      "url": "https://www.aljazeera.com/news/2026/9/18/the-view-from-russia-no-party-can-be-antiwar-in-parliamentary-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-09-18T12:26:46+00:00",
-      "summary": "First vote since Russia invaded Ukraine seen as a sham by some and an opportunity to strengthen nationalism by others.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Thailand’s Malay-Muslim separatists vow to fight as peace talks stall",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/thailand-malay-muslim-separatists-southern-insurgency-peace-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-09-18T12:20:37+00:00",
-      "summary": "Thailand’s main armed separatist group, Barisan Revolusi Nasional, says it will continue fighting for self-determination",
-      "image": "",
       "via": "rss"
     },
     {
@@ -1539,17 +1641,6 @@
       "via": "rss"
     },
     {
-      "title": "Saint Pierre and Miquelon, France, In the Spotlight as Macron and Carney Visit",
-      "url": "https://www.nytimes.com/2026/09/18/world/canada/saint-pierre-miquelon-france-canada-macron-carney.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-09-18T09:02:50+00:00",
-      "summary": "Saint Pierre and Miquelon, the French territory off the coast of Canada’s Newfoundland, is experiencing a surge in visitors after three unrelated events raised its profile.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "Xi-Trump summit, China AI at Brics, Asian Games",
       "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3368001/xi-trump-summit-china-ai-brics-asian-games?utm_source=rss_feed",
       "source": "SCMP",
@@ -1715,17 +1806,6 @@
       "via": "rss"
     },
     {
-      "title": "美议员提法案 吁制裁致黎智英和政治犯死亡的中港人员 港府谴责称是恫吓",
-      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20260918-%E7%BE%8E%E8%AE%AE%E5%91%98%E6%8F%90%E6%B3%95%E6%A1%88-%E5%90%81%E5%88%B6%E8%A3%81%E8%87%B4%E9%BB%8E%E6%99%BA%E8%8B%B1%E5%92%8C%E6%94%BF%E6%B2%BB%E7%8A%AF%E6%AD%BB%E4%BA%A1%E7%9A%84%E4%B8%AD%E6%B8%AF%E4%BA%BA%E5%91%98-%E6%B8%AF%E5%BA%9C%E8%B0%B4%E8%B4%A3%E7%A7%B0%E6%98%AF%E6%81%AB%E5%90%93",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-09-18T06:14:09+00:00",
-      "summary": "在中美元首会晤前，美国跨党派议员因应香港传媒大亨黎智英在狱中的健康情况，向国会提交法案，一旦通过，若出现黎智英或其他政治犯在狱中因医疗疏忽等原因而致死的个案，国务院应向相关中港官员实施制裁，并推动联合国调查死因。香港政府对此发出强烈谴责，认为这是恫吓维护国家安全的特区人员。",
-      "image": "https://s.rfi.fr/media/display/0bf3393a-b328-11f1-8b1e-1d1125ed9143/w:1024/p:16x9/18-9-%E7%BE%8E%E5%9B%BD%E8%B7%A8%E5%85%9A%E6%B4%BE%E8%AE%AE%E5%91%98%E6%8F%90%E5%87%BA%E6%B3%95%E6%A1%88-%E6%8C%87%E8%8B%A5%E6%9E%9C%E9%BB%8E%E6%99%BA%E8%8B%B1%E6%88%96%E5%85%B6%E4%BB%96%E6%94%BF%E6%B2%BB%E7%8A%AF%E5%9C%A8%E5%9B%9A%E6%97%B6%E5%9B%A0%E8%99%90%E5%BE%85%E6%88%96%E5%8C%BB%E7%96%97%E7%96%8F%E5%BF%BD%E7%AD%89%E5%8E%9F%E5%9B%A0%E8%87%B4%E6%AD%BB-%E7%BE%8E%E5%9B%BD%E5%BA%94%E9%97%AE%E8%B4%A3%E6%B6%89%E4%BA%8B%E5%AE%98%E5%91%98-%E4%BD%9C%E5%87%BA%E5%88%B6%E8%A3%81-%E9%BA%A6%E7%87%95%E5%BA%AD%E6%8F%90%E4%BE%9B.jpg",
-      "via": "rss"
-    },
-    {
       "title": "Could Chinese explorers have settled New Zealand before the Maori?",
       "url": "https://www.scmp.com/news/china/science/article/3367968/could-chinese-explorers-have-settled-new-zealand-maori?utm_source=rss_feed",
       "source": "SCMP",
@@ -1822,28 +1902,6 @@
       "published": "2026-09-18T04:01:09+00:00",
       "summary": "A view of the Trishuli River after the deadly flooding that swept away homes in Betrawati, Nepal, this month.",
       "image": "https://static01.nyt.com/images/2026/09/18/multimedia/18INT-HIMALAYAS-RISK-01-hfpl/18INT-HIMALAYAS-RISK-01-hfpl-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Democrats vow to pursue ‘Trump crime family’ after midterm elections",
-      "url": "https://www.ft.com/content/0e64746c-d531-4ceb-a700-e5e47289bfb3?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-09-18T04:00:19+00:00",
-      "summary": "Lawmaker on oversight committee says he will probe Donald Trump’s sons and Elon Musk if his party takes control of the House",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F98e3f8a8-1381-4be7-b96d-1d5a84ef4eca.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "Medical AI has a proof problem",
-      "url": "https://www.ft.com/content/34319b00-f874-4119-aa28-8376d81e7190?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-09-18T04:00:10+00:00",
-      "summary": "The technology’s advances have not yet translated into big improvements in real-life care",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0a6c5032-2cfb-41fc-8a8f-11ba26d90c1d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -2078,17 +2136,6 @@
       "via": "rss"
     },
     {
-      "title": "中美对抗：在某种程度上，特朗普正服务于中国的利益",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260917-%E4%B8%AD%E7%BE%8E%E5%AF%B9%E6%8A%97-%E5%9C%A8%E6%9F%90%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%B8%8A%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%AD%A3%E6%9C%8D%E5%8A%A1%E4%BA%8E%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%88%A9%E7%9B%8A",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-09-17T22:13:33+00:00",
-      "summary": "9月24日，美国总统将在华盛顿接待习近平。这将是习近平十年来首次对美国进行国事访问。法国世界报专栏作者弗拉雄周四写道，在中美对抗中，习近平正受益于特朗普领导下的美国信誉越来越差。甚至，在某种程度上，特朗普似乎正在服务于中国的利益。为什么这么说呢？",
-      "image": "https://s.rfi.fr/media/display/bddd2032-0bde-11ea-9862-005056bff430/w:1024/p:16x9/fa_guo_shi_jie_bao_wb161923-rfi-cn-20150123_cartouche.jpg",
-      "via": "rss"
-    },
-    {
       "title": "US families ramp up efforts for loved ones’ release from China ahead of Xi’s visit",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3367914/us-families-ramp-efforts-loved-ones-release-china-ahead-xis-visit?utm_source=rss_feed",
       "source": "SCMP",
@@ -2119,17 +2166,6 @@
       "published": "2026-09-17T21:35:55+00:00",
       "summary": "Executive Summary:\n\n\n\n\nSatellite imagery in August showed the Russian military building pontoon crossings and roads around Henichesk and Chongar, two critical land-logistics sites connecting occupied southern Ukraine with Crimea.\n\n\n\nThe Kremlin has incorporated industrial assets in occupied Ukraine into its military-industrial system, repurposing factories and other enterprises for military production and ammunition storage.\n\n\n\nMoscow has expanded military repair capacity in occupied Ukraine, mobilizing residents and facilities to restore equipment used by Russian forces in the war in Ukraine. Russia is building and modernizing railways, roads, and ports across occupied Ukraine to strengthen military logistics and connect occupied Ukraine with Russia.\n\n\n\n\n\n\n\n\nIn August, satellite imagery showed the Russian military building new pontoon crossings and access roads around Henichesk and Chongar, two critical land-logistics nodes connecting occupied southern Ukraine with Crimea. They are al",
       "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "欧盟贸易委员10月访华 寻求欧中经贸关系再平衡",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260917-%E6%AC%A7%E7%9B%9F%E8%B4%B8%E6%98%93%E5%A7%94%E5%91%9810%E6%9C%88%E8%AE%BF%E5%8D%8E-%E5%AF%BB%E6%B1%82%E6%AC%A7%E4%B8%AD%E7%BB%8F%E8%B4%B8%E5%85%B3%E7%B3%BB%E5%86%8D%E5%B9%B3%E8%A1%A1",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-09-17T21:29:02+00:00",
-      "summary": "欧盟委员会一名发言人周四（9月17日）宣布，欧盟委员会负责贸易事务的委员谢夫乔维奇将于10月8日至9日访问北京，继续与中方磋商，推动欧中贸易关系实现“再平衡”。",
-      "image": "https://s.rfi.fr/media/display/c41413d0-b2de-11f1-b286-430f3874e448/w:1024/p:16x9/images-284.jpg",
       "via": "rss"
     },
     {
@@ -2474,17 +2510,6 @@
       "via": "rss"
     },
     {
-      "title": "Afghan Sentenced to 20 Years After Mixed Verdict in 2021 Kabul Attack Case",
-      "url": "https://www.nytimes.com/2026/09/17/us/abbey-gate-attack-sentencing-afghanistan.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-09-17T14:54:29+00:00",
-      "summary": "Portraits of some of the U.S. service members who were killed in a 2021 suicide bombing at an airport in Kabul, Afghanistan, are seen at a posthumous award ceremony at the Capitol in 2024.",
-      "image": "https://static01.nyt.com/images/2026/09/17/multimedia/17xp-terrorist-01-vtfw/17xp-terrorist-01-vtfw-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
       "title": "The path to mutual recognition of traditional medicine standards",
       "url": "https://news.cgtn.com/news/2026-09-17/The-path-to-mutual-recognition-of-traditional-medicine-standards-1QweIsmjdv2/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
       "source": "CGTN",
@@ -2537,17 +2562,6 @@
       "published": "2026-09-17T14:15:00+00:00",
       "summary": "It is the second consecutive year the State Department has prevented key Palestinian officials from attending the U.N. meeting in New York.",
       "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "What Is the E1 Project, Israel’s Disputed Settlement Plan in the West Bank?",
-      "url": "https://www.nytimes.com/2026/09/17/world/middleeast/e1-israel-west-bank-settlement.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-09-17T14:14:58+00:00",
-      "summary": "An area this month in the E1 zone, near Maale Adumim, an Israeli settlement in the occupied West Bank.",
-      "image": "https://static01.nyt.com/images/2026/09/17/multimedia/17int-israel-e1-gzfh/17int-israel-e1-gzfh-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -2625,105 +2639,6 @@
       "published": "2026-09-17T14:00:00+00:00",
       "summary": "New Delhi’s careful diplomacy gives Southeast Asian capitals room to sit inside BRICS without picking a side.",
       "image": "https://cdn.sanity.io/images/5dcouzig/production/ecd31614cb3bc83fbc426cd28eed9b0193f199ed-1280x966.jpg?rect=0,147,1280,672&w=1200&h=630&fm=webp&q=85&fit=crop",
-      "via": "rss"
-    },
-    {
-      "title": "Glass ceiling or glass cliff: The race for the UN’s top job",
-      "url": "https://www.lowyinstitute.org/the-interpreter/glass-ceiling-or-glass-cliff-the-race-for-the-un-s-top-job",
-      "source": "Lowy Institute",
-      "language": "en",
-      "type": "thinktank",
-      "published": "2026-09-17T14:00:00+00:00",
-      "summary": "A record field of women is vying to be the next Secretary-General, testing whether the UN practises what it preaches.",
-      "image": "https://cdn.sanity.io/images/5dcouzig/production/e561baa3436d49b772d993c24eb4fc5305b9d196-1200x800.jpg?rect=0,85,1200,630&w=1200&h=630&fm=webp&q=85&fit=crop",
-      "via": "rss"
-    },
-    {
-      "title": "The Potential Mismatch Between Japan and the US on China",
-      "url": "https://thediplomat.com/2026/09/the-potential-mismatch-between-japan-and-the-us-on-china/",
-      "source": "The Diplomat",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-09-17T13:30:00+00:00",
-      "summary": "Ahead of the Trump-Xi summit, it is critical for Japan that the United States stays on the same page regarding the challenge from China.",
-      "image": "https://images.thediplomat.com/v1/td-list-l-2/2025/10/thediplomat_2025-10-28-223513.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Canada’s Carney embraces tighter ties with E.U. despite Trump warning",
-      "url": "https://www.washingtonpost.com/world/2026/09/17/trump-suggests-canada-joining-eu-could-be-hostile-act/",
-      "source": "Washington Post",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-09-17T13:23:36+00:00",
-      "summary": "Canadian Prime Minister Mark Carney addressed European lawmakers after E.U. officials said Canada could become the bloc’s first “associate member.”",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Smuggling suspected as more rare animals seen in India",
-      "url": "https://www.dw.com/en/smuggling-suspected-as-more-rare-animals-seen-in-india/a-79309352?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "Deutsche Welle",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-09-17T13:18:00+00:00",
-      "summary": "Orangutans, rare reptiles and other exotic animals are popping up in India, suggesting the country is becoming a major destination for trafficked wildlife.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "The Daily Roundup",
-      "url": "https://www.thewirechina.com/2026/09/17/the-daily-roundup-september-17-2026/",
-      "source": "The Wire China",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-09-17T13:15:00+00:00",
-      "summary": "September 17th, 2026 &#124; Welcome to The Wire’s daily news roundup. Each day, our staff gathers the top China business, finance, and economics headlines from a selection of the world’s leading news organizations.\nThe post The Daily Roundup appeared first on The Wire China.",
-      "image": "https://www.thewirechina.com/wp-content/uploads/2020/06/News_Final_Valentina_Verc_3_smaller-1-300x148.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "The Space Security Landscape Is Deteriorating Rapidly",
-      "url": "https://thediplomat.com/2026/09/the-space-security-landscape-is-deteriorating-rapidly/",
-      "source": "The Diplomat",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-09-17T13:08:00+00:00",
-      "summary": "With the United States announcing that it has deployed “on-orbit space control weapons,” the space arms race now appears to be fully underway.",
-      "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/09/thediplomat_2026-09-17-221059.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Will Taiwan Fight? We Need Better Evidence.",
-      "url": "https://thediplomat.com/2026/09/will-taiwan-fight-we-need-better-evidence/",
-      "source": "The Diplomat",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-09-17T12:54:00+00:00",
-      "summary": "Both those making pessimistic predictions and those confidently rejecting them often rely on thin evidence.",
-      "image": "https://images.thediplomat.com/v1/td-list-l-2/2025/05/thediplomat_2025-05-22-125642.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Fact check: How disinformation fuels Houthi-Saudi conflict",
-      "url": "https://www.dw.com/en/fact-check-how-disinformation-fuels-houthi-saudi-conflict/a-79307257?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "Deutsche Welle",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-09-17T12:51:00+00:00",
-      "summary": "As fighting between the Houthis and Saudi Arabia escalates, old and repurposed videos have flooded social media, with many presented as fresh footage from the front lines.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "China Is Building a Global Infrastructure for Its Cultural Industries",
-      "url": "https://thediplomat.com/2026/09/china-is-building-a-global-infrastructure-for-its-cultural-industries/",
-      "source": "The Diplomat",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-09-17T12:16:00+00:00",
-      "summary": "When a cultural industry expands overseas, that usually means exporting content. China is increasingly exporting the infrastructure behind entertainment products.",
-      "image": "https://images.thediplomat.com/v1/td-list-l-2/2021/04/thediplomat-2021-04-12-8.jpg",
       "via": "rss"
     }
   ]
