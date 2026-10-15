@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T08:10:44.830248+00:00",
+  "last_updated": "2026-10-15T14:07:53.764769+00:00",
   "source_counts": {
     "en": 36,
     "zh": 24
@@ -24,14 +24,64 @@
       "icon": "🏛️",
       "color": "#9b6de8",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "湘江潮涌 法治兴城 写在长沙市获得地方立法权四十周年之际",
+          "url": "https://news.changsha.cn/cslb/html/111874/20261010/231262.shtml",
+          "source": "news.changsha.cn",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-10-10T06:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "politics"
+        }
+      ]
     },
     "military_security": {
       "label": "Military & Security",
       "icon": "⚔️",
       "color": "#e05f5f",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "Futures Slide As AI Unwind Goes Global : Kospi Crashes Into Bear Market , Treasuries Soar",
+          "url": "http://www.zerohedge.com/markets/futures-slide-ai-unwind-goes-global-kospi-crashes-bear-market-treasuries-soar",
+          "source": "zerohedge.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-15T12:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Česlovas Iškauskas . Nuo Einošiaus pas Keipošių ...",
+          "url": "https://www.voruta.lt/ceslovas-iskauskas-nuo-einosiaus-pas-keiposiu/",
+          "source": "voruta.lt",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-15T11:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "New global architecture",
+          "url": "https://www.sb.by/en/new-global-architecture.html",
+          "source": "sb.by",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-15T10:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        }
+      ]
     },
     "economy": {
       "label": "Economy & Trade",
@@ -78,13 +128,871 @@
   },
   "latest_rss": [
     {
-      "title": "Russian nuclear-powered submarine fires missiles during Pacific drills",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-clip-russia-nuclear-submarines?traffic_source=rss",
+      "title": "Why Russia Sees a Window to Bomb Ukraine Into Submission This Winter",
+      "url": "https://www.nytimes.com/2026/10/15/world/europe/russia-ukraine-winter-energy.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T13:45:52+00:00",
+      "summary": "Moscow is not winning on the battlefield. Instead, it is seizing an opening to inflict immense human suffering in Ukrainian cities.",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15int-ukraine-assess-01-fglq/15int-ukraine-assess-01-fglq-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "刚果金 : 受中资公司污染民众谴责当局不作为",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E4%BF%9D%E5%A4%A9%E5%9C%B0/20261015-%E5%88%9A%E6%9E%9C%E9%87%91-%E5%8F%97%E4%B8%AD%E8%B5%84%E5%85%AC%E5%8F%B8%E6%B1%A1%E6%9F%93%E6%B0%91%E4%BC%97%E8%B0%B4%E8%B4%A3%E5%BD%93%E5%B1%80%E6%9C%89%E7%BD%AA%E4%B8%8D%E7%BD%9A",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-10-15T13:42:12+00:00",
+      "summary": "法新社发自刚果金著名的矿业城市科卢韦齐的快讯介绍了一家名叫穆索诺伊公司（简称COMMUS SAS）的中资矿业公司如何迅速扩大，威胁当地居民的家园，正在抹去城市与矿场之间的分界线，而与此同时，当地的手工采矿者的作业空间越来越狭窄，当他们进入私人矿区采矿时，经常会遭到保安人员的开枪射击，有手工采矿者向记者表示，他的多名朋友因此而失去了生命。",
+      "image": "https://s.rfi.fr/media/display/2fbf568c-fd16-11f0-880d-005056a97e36/w:1024/p:16x9/WhatsApp-Image-2026-01-25-at-16-55-16.jpeg",
+      "via": "rss"
+    },
+    {
+      "title": "Zelensky Says Ukraine Will Resume Russian Refinery Strikes, Defying Trump",
+      "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-russia-oil-strikes-zelensky-us-intelligence.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T13:40:14+00:00",
+      "summary": "President Volodymyr Zelensky expressed overt frustration with the United States in an interview with The Financial Times. He had paused the strikes to comply with a demand from the United States.",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15xp-zelensky-fbcz/15xp-zelensky-fbcz-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "捷克一名中国公民涉嫌间谍案首次开庭 当事人否认指控",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261015-%E6%8D%B7%E5%85%8B%E4%B8%80%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%B6%89%E5%AB%8C%E9%97%B4%E8%B0%8D%E6%A1%88%E9%A6%96%E6%AC%A1%E5%BC%80%E5%BA%AD-%E5%BD%93%E4%BA%8B%E4%BA%BA%E5%90%A6%E8%AE%A4%E6%8C%87%E6%8E%A7",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-10-15T13:39:54+00:00",
+      "summary": "据捷克媒体塞茲納姆（seznamzpravy）网14日消息：周三，中国公民杨艺明（音译）在布拉格市法院通过其辩护律师，对指控其为中国情报机构从事间谍活动的起诉书予以否认。",
+      "image": "https://s.rfi.fr/media/display/7d60cb82-d1b0-11f0-9c7c-005056a90284/w:1024/p:16x9/2025-12-04T183352Z-2106100956-RC2T9IAIFPOB-RTRMADP-3-UKRAINE-CRISIS-CZECH-PROTEST.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Global chip stocks sink as AI debt fears intensify",
+      "url": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T13:39:35+00:00",
+      "summary": "Treasuries rally as investors flee to safety of bonds",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6a5856a3-e032-4006-930b-dc103cb4ef0d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "What is Starshield, and who limited Ukraine’s access to it?",
+      "url": "https://www.aljazeera.com/news/2026/10/15/what-is-starshield-and-who-limited-ukraines-access-to-it?traffic_source=rss",
       "source": "Al Jazeera",
       "language": "en",
       "type": "broadcast",
-      "published": "2026-10-15T07:44:35+00:00",
-      "summary": "Russia&#039;s Pacific Fleet has test-fired cruise missiles from a nuclear-powered submarine, striking a target 1,200km away.",
+      "published": "2026-10-15T13:32:16+00:00",
+      "summary": "Ukraine relies on Starshield, the military-grade version of Elon Musk&#039;s Starlink satellite service, to fight Russia.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Russia accuses Ukraine of contradicting US brokered deal",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/russia-accuses-ukraine-of-contradicting-us-brokered-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T13:29:38+00:00",
+      "summary": "Russia has accused Ukraine of going against US peace efforts, after an overnight Ukrainian drone strike.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Nazi-Looted Kandinsky Painting Sells for $42 Million at Auction",
+      "url": "https://www.nytimes.com/2026/10/15/world/europe/kandinsky-nazi-looted-art-auction.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T13:29:13+00:00",
+      "summary": "“The Colorful Life,” a 1907 work by the Russian painter Wassily Kandinsky, had been returned to the original owners’ heirs in 2023.",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15xp-kandinsky-qktl/15xp-kandinsky-qktl-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "32 Children Killed After School Roof Collapses in Pakistan",
+      "url": "https://www.nytimes.com/2026/10/15/world/asia/pakistan-school-collapse.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T13:28:12+00:00",
+      "summary": "A rescue worker carried a child from a school in Peshawar, Pakistan, on Thursday, after the roof of the building collapsed.",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15int-pakistan-collapse-01-hkfj/15int-pakistan-collapse-01-hkfj-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Investors dump data centre bonds as AI borrowers face ‘Darwin moment’",
+      "url": "https://www.ft.com/content/678bcd31-6c2a-447b-a68c-ce6dec220bbc?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T13:26:08+00:00",
+      "summary": "Debt issued by AI infrastructure providers and neocloud companies has sunk towards stressed territory",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fef825cc6-1924-400d-b896-1f24d681040e.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Real Madrid’s Vinicius says he’s being targeted by referees",
+      "url": "https://www.aljazeera.com/sports/2026/10/15/real-madrids-vinicius-says-hes-being-targeted-by-referees?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T13:21:51+00:00",
+      "summary": "Vinicius wants protection for players like him, Yamal and Alvarez &#039;who bring something different to the game.&#039;",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Ukrainians lash out at Trump as Zelenskyy warns of US betrayal",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-ukraine-angry-at-us-sv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T13:19:09+00:00",
+      "summary": "Ukrainians accuse the US of gambling with their lives as Russian strikes devastated residential buildings in the capital",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
+      "url": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T13:08:54+00:00",
+      "summary": "A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.",
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-ukraine-vulnerability-03-qbck/14int-ukraine-vulnerability-03-qbck-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "马斯克将“星盾”延迟基辅军事行动归因特朗普 泽连斯基吁美国勿站侵略者一边",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261015-%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%86-%E6%98%9F%E7%9B%BE-%E5%BB%B6%E8%BF%9F%E5%9F%BA%E8%BE%85%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%BD%92%E5%9B%A0%E7%89%B9%E6%9C%97%E6%99%AE-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%90%81%E7%BE%8E%E5%9B%BD%E5%8B%BF%E7%AB%99%E4%BE%B5%E7%95%A5%E8%80%85%E4%B8%80%E8%BE%B9",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-10-15T13:01:13+00:00",
+      "summary": "法新社华盛顿消息：周四，埃隆·马斯克再次呼吁换掉乌克兰总统泽连斯基之前不久，坚称其在乌克兰的卫星服务出现任何延迟都是由于拥有星盾控制权的美军，也就是由于总统特朗普。",
+      "image": "https://s.rfi.fr/media/display/ad8831ec-be36-11f1-a86f-13420ab900a2/w:1024/p:16x9/AP26272760880738.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "While Pope Leo Recovers From Lung Surgery, the Vatican Runs on Autopilot",
+      "url": "https://www.nytimes.com/2026/10/15/world/europe/pope-leo-cancer-surgery-vatican.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T13:01:07+00:00",
+      "summary": "Mass in St. Peter’s Square at the Vatican on Wednesday. The service was held by Cardinal Luis Antonio Tagle in Pope Leo’s absence, and included special prayers for the pontiff’s health.",
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-pope-vatican-01-lqtb/14int-pope-vatican-01-lqtb-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Credit Suisse secured $800mn from insurers in Greensill settlement",
+      "url": "https://www.ft.com/content/43c9d38a-652a-45df-b3be-c3dead3390f1?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T13:00:37+00:00",
+      "summary": "Broker Marsh to shoulder largest share rather than insurers who wrote policies",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd544a39f-611d-45f4-97df-06e74cfb1772.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "The Radioactive Ore That Could Break China’s Grip on Rare Earths",
+      "url": "https://foreignpolicy.com/2026/10/15/monazite-china-rare-earths-radioactive/",
+      "source": "Foreign Policy",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-10-15T13:00:05+00:00",
+      "summary": "Western powers are scrambling for monazite ore—but can they handle it?",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/10/1-monazite-rare-earths-mining-GettyImages-1163776831.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Starlink: How Elon Musk's company influences geopolitics",
+      "url": "https://www.dw.com/en/starlink-how-elon-musk-s-company-influences-geopolitics/a-75963477?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "Deutsche Welle",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T12:59:00+00:00",
+      "summary": "Designed to bring internet access to remote regions, Elon Musk's Starlink has become vital in crisis regions and war zones. But Ukraine also shows the risks of depending on the service.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Photos: China and North Korea open new border bridge amid deepening ties",
+      "url": "https://www.aljazeera.com/gallery/2026/10/15/photos-china-and-north-korea-open-new-border-bridge-amid-deepening-ties?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T12:54:00+00:00",
+      "summary": "The New Yalu River Bridge connects Dandong, China, and Sinuiju, North Korea, enhancing regional trade and collaboration.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Sally Rooney books withdrawn from sale in UK over Palestine Action support",
+      "url": "https://www.aljazeera.com/news/2026/10/15/sally-rooney-withdraws-books-from-uk-over-palestine-action-support?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T12:53:49+00:00",
+      "summary": "Publisher Faber says withdrawal due to &#039;circumstances where Faber cannot pass on UK earnings to Sally Rooney&#039;.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "新鴨綠江大橋閒置12年終開通：中朝關係回暖？",
+      "url": "https://www.bbc.com/zhongwen/watch/cm0e0q5dp3lyo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-10-15T12:46:44+00:00",
+      "summary": "連接中國與朝鮮的鴨綠江大橋，在閒置12年之後終於正式開通。近年朝鮮與俄羅斯關係愈走愈近，專家分析中方需要透過開通大橋鞏固對朝關係，也被視為關係回暖的象徵。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cc92/live/fce73850-c895-11f1-bc2e-018d645d8d21.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Sally Rooney Withdraws Her Books From UK Over Her Support of Palestine Action",
+      "url": "https://www.nytimes.com/2026/10/14/world/europe/rooney-britain-palestine-book-sales.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T12:36:44+00:00",
+      "summary": "Ms. Rooney and her publisher said that she could no longer receive royalties from British sales because she pledged to donate book revenues to Palestine Action, which is banned in Britain.",
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-uk-sally-rooney01-photo-blgh/14int-uk-sally-rooney01-photo-blgh-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "West Indies’ Hope jokes India series record role a problem as finale looms",
+      "url": "https://www.aljazeera.com/sports/2026/10/15/west-indies-hope-jokes-india-series-record-role-an-problem-as-finale-looms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T12:33:04+00:00",
+      "summary": "Shai Hope worried about excess baggage after latest Player of the Match award in thrilling India-West Indies series.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Young Americans are key for the US to better understand China",
+      "url": "https://www.scmp.com/opinion/world-opinion/article/3370738/young-americans-are-key-us-better-understand-china?utm_source=rss_feed",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T12:30:10+00:00",
+      "summary": "When US President Donald Trump and Chinese President Xi Jinping meet again in Shenzhen next month, and then in Miami in December, the world will watch for signs of progress on trade, technology, security and other contentious issues. Such high-level diplomacy is indispensable.\nBut the future of the US-China relationship also depends on something less visible: whether their people, especially the young, can still understand one another.\nAs Washington and Beijing navigate intensifying strategic...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/15/095a4ae5-983e-4e29-91ef-9f43817b28ab_526c2203.jpg?itok=4icNeQhc&v=1792057545",
+      "via": "rss"
+    },
+    {
+      "title": "刚果(金)总统亲属欧洲住宅被搜",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20261015-rfi%E6%B3%95%E5%B9%BF-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%88%9A%E6%9E%9C-%E9%87%91-%E6%80%BB%E7%BB%9F%E4%BA%B2%E5%B1%9E%E6%AC%A7%E6%B4%B2%E4%BD%8F%E5%AE%85%E8%A2%AB%E6%90%9C",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-10-15T12:29:28+00:00",
+      "summary": "非洲国家刚果民主共和国（RD CONGO）现任总统的众多直系亲属在欧洲布鲁塞尔（Bruxelles）及其周边地区的住宅于昨天2026年10月14日星期三遭搜查。这是本台法广非洲组（RFI Afrique）的最新法文消息之一。比利时联邦检察院（Le parquet fédéral belge）就此在一份新闻公报（communiqué）中提到一桩涉嫌洗钱的指控。",
+      "image": "https://s.rfi.fr/media/display/4c001d10-c893-11f1-b816-4dd8ac2cf3bf/w:1024/p:16x9/2026-10-15-j-FMM-archive-Afrique-RD-Congo-F%C3%A9lix-Tshisekedi-Image-RFI-1.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "出口激增、贸易顺差将再破纪录：中国式碾压令欧美不快",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20261015-%E5%87%BA%E5%8F%A3%E6%BF%80%E5%A2%9E-%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E5%B0%86%E5%86%8D%E7%A0%B4%E7%BA%AA%E5%BD%95-%E4%B8%AD%E5%9B%BD%E5%BC%8F%E7%A2%BE%E5%8E%8B%E4%BB%A4%E6%AC%A7%E7%BE%8E%E4%B8%8D%E5%BF%AB",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-10-15T12:09:30+00:00",
+      "summary": "10月15号法国各大报头版关注焦点各异。有多篇与中国相关的议题从多个角度报道。",
+      "image": "https://s.rfi.fr/media/display/95d15fee-0ffe-11ea-9ec8-005056a99247/w:1024/p:16x9/2013-04-01-voiture_CHINA-ECONOMY-PMI.JPG",
+      "via": "rss"
+    },
+    {
+      "title": "Hypersonic missiles highlight arms race on Korean Peninsula",
+      "url": "https://www.dw.com/en/hypersonic-missiles-highlight-arms-race-on-korean-peninsula/a-79667084?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "Deutsche Welle",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T12:02:00+00:00",
+      "summary": "Both South and North Korea have tested weapons feared by military planners for their speed and ability to maneuver in flight.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "China-led team hits 83% success rate anticipating earthquakes in ‘seismo-ripples’ study",
+      "url": "https://www.scmp.com/news/china/science/article/3371035/china-led-team-hits-83-success-rate-anticipating-earthquakes-seismo-ripples-study?utm_source=rss_feed",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T12:00:09+00:00",
+      "summary": "A China-led international team has reported a new pre-earthquake phenomenon that has shown strong predictive potential for major earthquakes since 2022 with minimal failures.\nThe anomalous seismic, magnetic and ionospheric resonance signals they observed – termed “seismo-ripples” by the researchers – are ringlike disturbance patterns triggered before earthquakes happen.\nTheir findings challenge the long-standing scientific belief that these events are unpredictable, opening up a promising new...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/15/ec2a9e5f-11f6-4a1a-947e-bd97dc3fe1a0_963fabdb.jpg?itok=AXF24E1_&v=1792060669",
+      "via": "rss"
+    },
+    {
+      "title": "Germany’s Merz vows to fight on: ‘We are the firewall’",
+      "url": "https://www.ft.com/content/da781749-f146-48a7-9b5c-83911addabae?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T12:00:08+00:00",
+      "summary": "Defiant chancellor tells the FT he is determined to drive through unpopular reforms and equip Europe for an age of upheaval",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F08a2811b-d8e3-4404-bbb8-089217fe5aec.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "The Daily Roundup",
+      "url": "https://www.thewirechina.com/2026/10/15/the-daily-roundup-october-15-2026/",
+      "source": "The Wire China",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-10-15T12:00:00+00:00",
+      "summary": "October 15th, 2026 &#124; Welcome to The Wire’s daily news roundup. Each day, our staff gathers the top China business, finance, and economics headlines from a selection of the world’s leading news organizations.\nThe post The Daily Roundup appeared first on The Wire China.",
+      "image": "https://www.thewirechina.com/wp-content/uploads/2020/06/News_Final_Valentina_Verc_3_smaller-1-300x148.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Home of London’s Oldest Restaurant, Rules, Is Given to National Trust",
+      "url": "https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T11:55:16+00:00",
+      "summary": "The interior of Rules, a British mainstay in the Covent Garden neighborhood of London. In the centuries since it opened, the restaurant has served London’s wealthy and wordy, its royals and its regulars.",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15int-uk-rules-restaurant-01-cftz/15int-uk-rules-restaurant-01-cftz-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Meet Neha Bora, Activist and Face of India’s Young Protesters",
+      "url": "https://www.nytimes.com/2026/10/15/world/asia/india-student-leader-neha.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T11:54:35+00:00",
+      "summary": "When police cracked down, Neha Bora helped rally Gen Z protesters with a mix of boundless energy, street theatrics and satirical humor.",
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/00int-india-activist-02-bctw/00int-india-activist-02-bctw-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Why Does Saudi Arabia Struggle to Stop Houthi Attacks?",
+      "url": "https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T11:53:53+00:00",
+      "summary": "The Saudi military has expensive equipment, but the missiles and drones used by the Yemeni militia are difficult to detect and stop.",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15inyt-saudi-military-1-cflm/15inyt-saudi-military-1-cflm-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Credit Suisse bankers denied bonuses stripped after UBS takeover",
+      "url": "https://www.ft.com/content/6607f0e4-6f99-46d1-a994-decafda46e16?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T11:46:19+00:00",
+      "summary": "Switzerland’s top court sides with government decision, overturning ruling of lower court",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F71aba71b-f1fe-44d4-83ce-793a5252ec01.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Ukrainians fear US intelligence cuts as Russian strikes intensify",
+      "url": "https://www.aljazeera.com/news/2026/10/15/ukrainians-fear-us-intelligence-cuts-as-russian-strikes-intensify?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T11:45:39+00:00",
+      "summary": "Reduced missile warnings increase threat to civilians as Trump pushes an &#039;energy ceasefire&#039; and peace negotiations.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "US-Iran stalemate: What are Trump’s next military options?",
+      "url": "https://www.aljazeera.com/news/2026/10/15/us-iran-stalemate-what-are-trumps-next-military-options?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T11:41:05+00:00",
+      "summary": "Trump has ruled out attacks before the midterms. Analysts weigh what he could do next, and at what cost.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "中朝新鴨綠江大橋通車：北京、平壤與莫斯科的新格局",
+      "url": "https://www.bbc.com/zhongwen/articles/cqn065gxdk4lo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-10-15T11:39:24+00:00",
+      "summary": "連接中國丹東與朝鮮新義州的新鴨綠江大橋建成12年後正式通車。大橋此前遭長期閒置，被觀察人士視為中朝關係起伏的一個象徵。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/440e/live/a5961560-c888-11f1-bc2e-018d645d8d21.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Romania: 2 ships on fire in Black Sea, 7 crew missing",
+      "url": "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "Deutsche Welle",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T11:27:00+00:00",
+      "summary": "Two chemical tankers have caught fire in Romanian territorial waters in the Black Sea. The blazes occurred after Russian drones were sighted in Romanian airspace.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "特朗普言论再次刺激加拿大 两国贸易谈判短期重启无望",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261015-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A8%80%E8%AE%BA%E5%86%8D%E6%AC%A1%E5%88%BA%E6%BF%80%E5%8A%A0%E6%8B%BF%E5%A4%A7-%E4%B8%A4%E5%9B%BD%E8%B4%B8%E6%98%93%E8%B0%88%E5%88%A4%E7%9F%AD%E6%9C%9F%E9%87%8D%E5%90%AF%E6%97%A0%E6%9C%9B",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-10-15T11:14:02+00:00",
+      "summary": "美国总统特朗普在亚利桑那州竞选集会上再次公开表示，加拿大“最终会成为美国第51个州，因为这是唯一可行的出路”。他重申美国“不需要他们，但他们需要我们”。这些言论，进一步激起加拿大人强烈反应，对本已陷于停顿的美加贸易谈判可谓雪上加霜。",
+      "image": "https://s.rfi.fr/media/display/d4e22ace-b26d-11f1-b1d3-0dbbad64a63b/w:1024/p:16x9/000-C6DW264.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Syrian authorities arrest main suspect in 2013 Baniyas mass killings",
+      "url": "https://www.aljazeera.com/news/2026/10/15/syrian-authorities-arrest-main-suspect-in-2013-baniyas-mass-killings?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T11:12:00+00:00",
+      "summary": "Ali Kayali, also known as Mihrac Ural, was apprehended as he tried to cross the border, state media reported.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "US wants to ‘compete’ in Central Asia, ambassador says ahead of Rubio visit",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3371033/us-wants-compete-central-asia-ambassador-says-ahead-rubio-visit?utm_source=rss_feed",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T11:04:00+00:00",
+      "summary": "The US wants to “compete” in resource-rich Central Asia, a senior American official has said as Secretary of State Marco Rubio prepares to head to a region of growing Chinese influence.\nIn New Delhi on Thursday, US ambassador to India Sergio Gor said this weekend’s C5+1 ministerial meeting between the five Central Asian countries and the US in Uzbekistan would be an opportunity to “showcase American ingenuity, American technology”.\nRubio would be joined by representatives from more than 200...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/15/0e923407-8ffc-43b6-84e9-7c96fa02c2cc_dc59c9fc.jpg?itok=pEVkcKBy&v=1792060052",
+      "via": "rss"
+    },
+    {
+      "title": "Fighting in Yemen intensifies: What’s the latest on the battlefield?",
+      "url": "https://www.aljazeera.com/news/2026/10/15/fighting-in-yemen-intensifies-whats-the-latest-on-the-battlefield?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T10:52:12+00:00",
+      "summary": "Houthis attempt to raise the cost of the Yemen war for Saudi Arabia as attacks, fighting intensify.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "FIFA set for rule change after Balogun red card row at the World Cup: reports",
+      "url": "https://www.aljazeera.com/sports/2026/10/15/fifa-set-for-rule-change-after-balogun-red-card-row-at-the-world-cup-reports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T10:46:08+00:00",
+      "summary": "The governing body&#039;s council is expected to prohibit disciplinary committees from overturning match suspensions.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Asian Cup in Saudi Arabia could be postponed by a year amid Houthi attacks",
+      "url": "https://www.aljazeera.com/sports/2026/10/15/asian-cup-in-saudi-arabia-could-be-postponed-by-a-year-amid-houthi-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T10:44:03+00:00",
+      "summary": "The tournament is scheduled to begin on January 7 but could be moved by a year if needed, AFC president says.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Zelenskyy defies Trump as Ukraine resumes strikes on Russian refineries",
+      "url": "https://www.ft.com/content/4d79b52f-1f0d-4739-82ab-7ecfb4251326?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T10:32:33+00:00",
+      "summary": "Ukrainian president expresses anger in FT interview at ‘dangerous’ withdrawal of US intelligence sharing",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2d430473-80d2-4c55-b277-cd24ea6d32b0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Dozens of children killed after roof collapses in Pakistani school",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/10-15-pak-school-collapse-sv?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T10:21:43+00:00",
+      "summary": "At least 29 people, mostly children, have been killed after the school collapsed on them in Pakistan’s Peshawar.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "EU leaders to urge Zelenskyy to rein in criticism of Trump",
+      "url": "https://www.ft.com/content/fb2110b4-50d2-4ff9-9886-f7b42c5b4579?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T10:05:55+00:00",
+      "summary": "Ukrainian leader’s comments about US president alarm European capitals",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9d214c3a-48d1-461d-a01e-2b2343e60127.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Russia says Ukraine resumes attacks on oil refineries",
+      "url": "https://www.aljazeera.com/news/2026/10/15/russia-says-ukraine-resumes-attacks-on-oil-refineries?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T10:02:17+00:00",
+      "summary": "Ukraine&#039;s president earlier said Kyiv was &#039;done&#039; with energy ceasefire and that strikes on Russian oil refineries would resume.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Long-delayed China-North Korea bridge officially opens",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/long-delayed-china-north-korea-bridge-officially-opens?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T10:00:58+00:00",
+      "summary": "China and North Korea have officially opened the New Yalu River Bridge after a 12-year delay.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "China keen to strengthen North Korea trade ties with New Yalu River Bridge opening",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3371000/china-keen-strengthen-north-korea-trade-ties-new-yalu-river-bridge-opening?utm_source=rss_feed",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T10:00:13+00:00",
+      "summary": "China’s premier has reaffirmed his country’s support for North Korea and its leader during the much-delayed opening of a new bridge between the neighbours.\nIn a taped speech to the opening ceremony on the New Yalu River Bridge on Thursday, Premier Li Qiang said the link was a landmark in Chinese-North Korean friendship.\nLi said the bridge would promote economic and trade ties, expand personnel exchanges and tighten the bond between the two peoples, according to state news agency Xinhua.\nThe...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/15/c4991a28-0678-492d-a3cb-b542285c7514_49e6c42a.jpg?itok=T_3CMhD4&v=1792054000",
+      "via": "rss"
+    },
+    {
+      "title": "New ‘zero-click’ spyware hacked phones using targeted ads",
+      "url": "https://www.ft.com/content/b857f1ed-8af6-4d64-b059-912afee1c075?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T10:00:09+00:00",
+      "summary": "Citizen Lab researchers uncover Israeli-developed ‘AdFection’ technique that requires no interaction from victim to infect devices",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F87d1b359-5ec9-4a47-a682-ec153a2722c6.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Republicans fund midterms ad blitz as Democrats gain in polls",
+      "url": "https://www.ft.com/content/481f7865-b6bb-40b8-9ee2-7554f6914007?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T10:00:09+00:00",
+      "summary": "The president’s party is shifting spending on advertising to previously safe seats as election day approaches",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd671bee3-bb75-47d6-afee-da99ce7e0415.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Brazil's elections matter for the planet. This is why",
+      "url": "https://www.dw.com/en/brazil-s-elections-matter-for-the-planet-this-is-why/a-79659928?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "Deutsche Welle",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T09:52:00+00:00",
+      "summary": "Brazil is heading back to the polls, but the impact could be felt worldwide. With the Amazon vital to the health of the planet, the election could help shape its future.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "‘Each country goes its own way’: How Balkan politics shape ties with Israel",
+      "url": "https://www.aljazeera.com/news/2026/10/15/each-country-goes-its-own-way-how-balkan-politics-shape-ties-with-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T09:35:01+00:00",
+      "summary": "Countries’ ties with Israel reflect local politics, defence deals and strategic interests rather than a united stance.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Pope Leo Is Recovering After Cancer Surgery, Vatican Says: What to Know",
+      "url": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-xiv-cancer-diagnosis.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T09:34:27+00:00",
+      "summary": "Pope Leo XIV was diagnosed with a common form of lung cancer. The Vatican said that he had a “good” second night in the hospital after an operation to remove a cancerous nodule.",
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14xp-pope-wwk-gmwb/14xp-pope-wwk-gmwb-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "China, US discuss AI as chip stock rout hits Asian markets",
+      "url": "https://www.scmp.com/plus/tech/tech-war/article/3371013/china-us-discuss-ai-chip-stock-rout-hits-asian-markets?utm_source=rss_feed",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T09:27:12+00:00",
+      "summary": "China and the United States are in regular talks about artificial intelligence (AI) as they seek to firm up plans for an incident “hotline” and develop a formalised dialogue process ahead of a presidential summit next month.\nThe two sides aim to agree on a basic framework for addressing AI incidents before Chinese President Xi Jinping and US President Donald Trump meet on the sidelines of the annual Asia-Pacific Economic Cooperation (Apec) leaders’ meeting in Shenzhen, the South China Morning...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/15/ab3632f4-b1cb-4f79-85b6-fa4dd1dff285_b189a856.jpg?itok=cOFIl0LW&v=1792056431",
+      "via": "rss"
+    },
+    {
+      "title": "Could France trigger another Eurozone debt crisis?",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/10/15/could-france-trigger-another-eurozone-debt-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T09:26:11+00:00",
+      "summary": "France&#039;s soaring borrowing costs and political divisions raise fears of a wider Eurozone debt crisis.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "US floats unfreezing some Russian assets",
+      "url": "https://www.ft.com/content/54353d3a-afed-4fec-985a-50f3dfb9be8e?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T09:19:26+00:00",
+      "summary": "European officials balked at proposal made by Donald Trump’s negotiators during meeting in Miami",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F75c649df-b02f-4a31-94ac-5e563b1fd2e2.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "受人工智能技术需求驱动，台积电今年第三季度净利润再创历史新高",
+      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261015-%E5%8F%97%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%80%E6%9C%AF%E9%9C%80%E6%B1%82%E9%A9%B1%E5%8A%A8%EF%BC%8C%E5%8F%B0%E7%A7%AF%E7%94%B5%E4%BB%8A%E5%B9%B4%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E6%B6%A6%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-10-15T09:11:43+00:00",
+      "summary": "全球先进芯片制造龙头企业台积电15日宣布，受全球人工智能技术对高阶芯片的强劲需求带动，今年第三季度，该集团归属母公司的净利润增长再创历史新高，达到7630.6亿元新台币，大约相当于210亿欧元，同比上涨达69%，高于伦敦证券交易所集团此前收集到的专家预估。",
+      "image": "https://s.rfi.fr/media/display/4b3fad6a-81b1-11f1-a8cc-005056a97e36/w:1024/p:16x9/AP26106367599871.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Inside the Plague Research Labs at the Heart of a Russian Mystery",
+      "url": "https://www.nytimes.com/2026/10/15/science/russia-plague-laboratory-mystery.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T09:04:13+00:00",
+      "summary": "A picture released by the Irkutsk Anti-Plague Research Institute showing specialists working in a laboratory in Krasnoyarsk, Russia, in 2019.",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15SCI-INSIDE-PLAGUE-LAB-01-hfwt/15SCI-INSIDE-PLAGUE-LAB-01-hfwt-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "The Race to Defend Kyiv Against Terrifying New Jet-Powered Drones",
+      "url": "https://www.nytimes.com/2026/10/15/world/europe/ukraine-jet-drone-interceptor.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T09:03:54+00:00",
+      "summary": "Ukrainian engineers are rushing to perfect A.I.-guided, jet-driven interceptors. Their goal: to stop a fast Russian threat in the latest round of a deadly tech duel.",
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-ukraine-jet-drones-03-qkbj/14int-ukraine-jet-drones-03-qkbj-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "The irony of OpenAI crying foul over spying",
+      "url": "https://www.aljazeera.com/opinions/2026/10/15/the-irony-of-openai-crying-foul-over-spying?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T09:03:02+00:00",
+      "summary": "A company that owes its existence and enormous valuation to stealing others&#039; work is now up in arms about theft.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Could Trump join Xi and Putin for 3-way meeting at next month’s Apec summit?",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3371002/could-trump-join-xi-and-putin-three-way-meeting-next-months-apec-summit?utm_source=rss_feed",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T09:00:47+00:00",
+      "summary": "The foreign ministers of China and Russia have discussed their relations with the United States, paving the ground for a possible meeting between their respective leaders at next month’s Apec summit in Shenzhen.\nChinese Foreign Minister Wang Yi and his Russian counterpart, Sergey Lavrov, met in Baku, the capital of Azerbaijan, on Wednesday, where they discussed “relations with the United States and the developments involving the Ukraine and Iran crises as well”, according to Moscow.\nChina did...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/15/916e46f6-442d-4194-a5d0-7a795b3e1b74_34dbff2e.jpg?itok=36gieLMx&v=1792054589",
+      "via": "rss"
+    },
+    {
+      "title": "The West Needs a Pax Biologica",
+      "url": "https://foreignpolicy.com/2026/10/15/china-us-biomanufacturing-competition-industrial-policy/",
+      "source": "Foreign Policy",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-10-15T09:00:31+00:00",
+      "summary": "Chinese firms are displacing Western competitors in one of the century’s most important and most overlooked industries.",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/10/PaxBiologica-GettyImages-799612.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Cross-border matchmaking can lead to financial ruin, Chinese police warn rural men",
+      "url": "https://www.scmp.com/news/china/politics/article/3370982/cross-border-matchmaking-can-lead-financial-ruin-chinese-police-warn-rural-men?utm_source=rss_feed",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T08:59:13+00:00",
+      "summary": "Authorities in the central Chinese province of Hunan have warned of the potential risks of cross-border arranged marriages, saying some relationships lack genuine emotional foundations and can lead to financial ruin or legal trouble.\nMarriages can be risky when they are organised by illegal matchmaking agencies that charge high fees, according to a post on the Xintian county police branch’s social media account on Tuesday.\nFor-profit international matchmaking is illegal in China.\nThe post...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/15/1d660d5f-6aa2-48ff-ae0e-bdb5cbbc2350_2433e597.jpg?itok=yBGEQzNG&v=1792049201",
+      "via": "rss"
+    },
+    {
+      "title": "未来经济2026: 中美科技博弈重塑全球",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%9B%BC%E8%B0%B7%E4%B8%93%E6%A0%8F/20261015-%E6%9C%AA%E6%9D%A5%E7%BB%8F%E6%B5%8E2026-%E4%B8%AD%E7%BE%8E%E7%A7%91%E6%8A%80%E5%8D%9A%E5%BC%88%E9%87%8D%E5%A1%91%E5%85%A8%E7%90%83",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-10-15T08:52:41+00:00",
+      "summary": "在当今地缘政治冲突加剧与技术革命交织的背景下，人工智能（AI）和大数据正在成为大国博弈的核心战场。世界银行未来经济论坛专家警告称，中美两国在人工智能和数据领域的激烈竞争正在影响全球经济的发展命运。有人担忧，人工智能和大数据可能沦为地缘政治博弈的工具。",
+      "image": "https://s.rfi.fr/media/display/c8c2d684-be4e-11f1-8436-dd51fcab6130/w:1024/p:16x9/2026-09-23T080006Z-67862463-RC2UNLAIW1R3-RTRMADP-3-OECD-ECONOMY.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "North Korea and China Open Their Biggest Border Bridge",
+      "url": "https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-15T08:49:12+00:00",
+      "summary": "The long-delayed opening of the New Yalu River Bridge comes as the two countries expand trade despite international sanctions imposed on North Korea.",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15int-nkorea-china-bridge-cglj/15int-nkorea-china-bridge-cglj-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Iraq devalues dinar to ease cash crunch, leaving traders in limbo",
+      "url": "https://www.aljazeera.com/economy/2026/10/15/iraq-devalues-dinar-to-ease-cash-crunch-leaving-traders-in-limbo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T08:44:58+00:00",
+      "summary": "The government hopes a weaker dinar will help pay salaries, but traders face rising import costs and uncertainty.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "专利巴士申请加票价近两成 官员议员竟帮口 评论指是没抗衡力量的新香港宿命",
+      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261015-%E4%B8%93%E5%88%A9%E5%B7%B4%E5%A3%AB%E7%94%B3%E8%AF%B7%E5%8A%A0%E7%A5%A8%E4%BB%B7%E8%BF%91%E4%B8%A4%E6%88%90-%E5%AE%98%E5%91%98%E8%AE%AE%E5%91%98%E7%AB%9F%E5%B8%AE%E5%8F%A3-%E8%AF%84%E8%AE%BA%E6%8C%87%E6%98%AF%E6%B2%A1%E6%8A%97%E8%A1%A1%E5%8A%9B%E9%87%8F%E7%9A%84%E6%96%B0%E9%A6%99%E6%B8%AF%E5%AE%BF%E5%91%BD",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-10-15T08:39:30+00:00",
+      "summary": "香港四家专利巴士公司申请大幅加价，加幅由17.7%至8.1%不等，加幅之大，引起市民叫苦已是必然，但相关政策局在向立法会提交的文件则更多是为巴士公司解释，由爱国者垄断的立法会，其议员亦没有代市民叫屈，被报章社评形容官员和议员都是在「为加价保驾护航」；更有评论形容议员是， 巴士公司的「另类发言人」，预料小市民继续默默承受这种在没有民间社会抗衡力量下的「宿命」。",
+      "image": "https://s.rfi.fr/media/display/04dd6ce0-c87e-11f1-b874-2d1c143cdef3/w:1024/p:16x9/Sans-titre-64.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "‘Our works are next to each other’: Art bridges Gaza and West Bank",
+      "url": "https://www.aljazeera.com/features/2026/10/15/our-works-are-next-to-each-other-art-bridges-gaza-and-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T08:37:41+00:00",
+      "summary": "Young Palestinian artists in Gaza and the occupied West Bank bring their work together in simultaneous exhibitions.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "利用港媒爆料中国企图干扰台湾选举 恐加深台湾社会对立与两极化",
+      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261015-%E5%88%A9%E7%94%A8%E6%B8%AF%E5%AA%92%E7%88%86%E6%96%99%E4%B8%AD%E5%9B%BD%E4%BC%81%E5%9B%BE%E5%B9%B2%E6%89%B0%E5%8F%B0%E6%B9%BE%E9%80%89%E4%B8%BE-%E6%81%90%E5%8A%A0%E6%B7%B1%E5%8F%B0%E6%B9%BE%E7%A4%BE%E4%BC%9A%E5%AF%B9%E7%AB%8B%E4%B8%8E%E4%B8%A4%E6%9E%81%E5%8C%96",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-10-15T08:36:00+00:00",
+      "summary": "台湾学者叶耀元分析，中国透过香港媒体操作相关讯息，试图介入台湾选举，这类认知作战未必能改变选民立场，却可能加深台湾社会对立与两极化，对民主发展造成不良影响。",
+      "image": "https://s.rfi.fr/media/display/6870ce2c-c889-11f1-83c1-638c1c1f5fd6/w:1024/p:16x9/%E5%8F%B0%E5%8C%97%E5%B8%82%E8%A1%97%E9%A0%AD%E9%81%B8%E8%88%89%E5%BB%A3%E5%91%8A.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "School roof collapses in northwestern Pakistan, killing at least 35 people",
+      "url": "https://www.aljazeera.com/news/2026/10/15/school-roof-collapses-in-northwestern-pakistan-killing-at-least-29-people?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T08:30:41+00:00",
+      "summary": "At least 34 students and a teacher killed in incident at Al-Khair Education Centre, a private school in Peshawar.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Man United’s Martinez takes to social media to defend his criticism of club",
+      "url": "https://www.aljazeera.com/sports/2026/10/15/man-uniteds-martinez-takes-to-social-media-to-defend-his-criticism-of-club?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T08:27:32+00:00",
+      "summary": "Argentina defender Lisandro Martinez follows up criticism of his club with social media explanation of frustration.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Messi’s Inter Miami beat New York City to reach third straight MLS playoff",
+      "url": "https://www.aljazeera.com/sports/2026/10/15/messi-and-inter-miami-beat-new-york-city-to-reach-third-straight-playoff?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T08:24:35+00:00",
+      "summary": "Messi assist sets Inter Miami on way to 2-0 win against New York City FC as back-to-back wins guarantee playoff place.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "围绕黑龙江代表团访俄及拘捕日本记者  日向俄提出交涉和强烈抗议",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261015-%E5%9B%B4%E7%BB%95%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%AE%BF%E4%BF%84%E5%8F%8A%E6%8B%98%E6%8D%95%E6%97%A5%E6%9C%AC%E8%AE%B0%E8%80%85-%E6%97%A5%E5%90%91%E4%BF%84%E6%8F%90%E5%87%BA%E4%BA%A4%E6%B6%89%E5%92%8C%E5%BC%BA%E7%83%88%E6%8A%97%E8%AE%AE",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-10-15T08:18:21+00:00",
+      "summary": "10月14日，日本外务省欧洲局局长中村仁威召见俄罗斯驻日大使尼古拉·诺兹德廖夫，就俄罗斯联邦安全局（FSB）宣布在萨哈林州拘留一名日本公民，并单方面对外发布相关消息表示强烈抗议，同时对中国黑龙江省有关人员等访问择捉岛一事，向俄方提出交涉。",
+      "image": "https://s.rfi.fr/media/display/390edf5e-3486-11eb-8b22-005056a964fe/w:1024/p:16x9/AP16348307629940.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "朝鲜进行两种潜射巡航弹道导弹试射",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261015-%E6%9C%9D%E9%B2%9C%E8%BF%9B%E8%A1%8C%E4%B8%A4%E7%A7%8D%E6%BD%9C%E5%B0%84%E5%B7%A1%E8%88%AA%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%E8%AF%95%E5%B0%84",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-10-15T08:16:33+00:00",
+      "summary": "朝鲜官媒周四（10月15日）报道，朝鲜进行了两种从潜艇发射的战略巡航导弹试射，以检验其水下作战系统的战备状态。",
+      "image": "https://s.rfi.fr/media/display/d8879c5a-c86f-11f1-9dff-6313a763b466/w:1024/p:16x9/2026-10-14T220456Z-1512815080-RC293OA83D0C-RTRMADP-3-NORTHKOREA-MISSILES.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "North Korea, China open border bridge after 12-year delay",
+      "url": "https://www.dw.com/en/north-korea-china-open-border-bridge-after-12-year-delay/a-79666112?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "Deutsche Welle",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T08:12:00+00:00",
+      "summary": "Twelve years after it was constructed, the New Yalu River Bridge between China and North Korea is finally operational. It is the latest sign of warming ties between the two nations.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Containers and debris captured floating around the Strait of Hormuz",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/containers-and-debris-captured-floating-around-the-strait-of-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-15T08:06:06+00:00",
+      "summary": "Video shows containers and debris scattered around the Strait of Hormuz due to the recent attacks on vessels.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Golden Dome Is Technologically and Financially Infeasible",
+      "url": "https://warontherocks.com/cogs-of-war/golden-dome-is-technologically-and-financially-infeasible/",
+      "source": "War on the Rocks",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-10-15T08:00:39+00:00",
+      "summary": "For as long as nuclear-armed, intercontinental ballistic missiles and submarine-launched ballistic missiles have existed, strategists and engineers have pursued a seductive idea: a shield effective enough to diminish &#8212; or even block &#8212; a ballistic missile attack. The appeal is obvious. A state that could reliably intercept ballistic missiles could protect its cities from these terrifying weapons and reduce its adversaries&#8217; leverage.But defenses against strategic ballistic missiles have a long history of disappointments. Over roughly seven decades, the United States has spent more than $500 billion (in 2025 dollars) on missile defenses, much of it to defend against intercontinental ballistic\nThe post Golden Dome Is Technologically and Financially Infeasible appeared first on War on the Rocks.",
       "image": "",
       "via": "rss"
     },
@@ -100,50 +1008,6 @@
       "via": "rss"
     },
     {
-      "title": "Global stocks sell-off deepens as chipmakers tumble",
-      "url": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-15T07:30:00+00:00",
-      "summary": "European and Asian equities slide as investors question durability of AI boom",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6a5856a3-e032-4006-930b-dc103cb4ef0d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "Why Does Saudi Arabia Struggle to Stop Houthi Attacks?",
-      "url": "https://www.nytimes.com/2026/10/15/world/middleeast/saudi-arabia-defense-houthi-attacks-yemen.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-15T07:28:02+00:00",
-      "summary": "The Saudi military has expensive equipment, but the missiles and drones used by the Yemeni militia are difficult to detect and stop.",
-      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15inyt-saudi-military-1-cflm/15inyt-saudi-military-1-cflm-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Backlash in Kashmir over proposal for uniform Friday sermons across mosques",
-      "url": "https://www.aljazeera.com/news/2026/10/15/backlash-in-kashmir-over-proposal-for-uniform-friday-sermons-across-mosques?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-15T07:21:36+00:00",
-      "summary": "Political and religious critics accuse India&#039;s Modi government of curbing Kashmir&#039;s freedom of religion and expression.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Clock ticking for leap second: Why timekeeping could change forever",
-      "url": "https://www.aljazeera.com/news/2026/10/15/clock-ticking-for-leap-second-why-timekeeping-could-change-forever?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-15T07:16:50+00:00",
-      "summary": "Timekeepers add a leap second occasionally to keep our clocks and the Earth&#039;s rotation in tune. That could now change.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "China’s Military Expansion in Southeast Asia Masks a More Complicated Reality",
       "url": "https://warontherocks.com/chinas-military-expansion-in-southeast-asia-masks-a-more-complicated-reality/",
       "source": "War on the Rocks",
@@ -152,39 +1016,6 @@
       "published": "2026-10-15T07:15:12+00:00",
       "summary": "The Chinese Ministry of Defense&#8217;s announcement of a &#8220;joint support and training center&#8221; at an airport in Ban Keun, Laos, on Sept. 29 drew attention to the People&#8217;s Liberation Army&#8217;s growing footprint in Southeast Asia. Although China does not call it a &#8220;base&#8221; and said it&#8217;s &#8220;not targeted at any third party,&#8221; it is China&#8217;s first publicly acknowledged overseas military facility centered on airpower. Ban Keun joins Djibouti and Cambodia&#8217;s Ream Naval Base as nodes in a burgeoning network of overseas Chinese security infrastructure.Concern is understandable. While smaller than China&#8217;s base in Djibouti, satellite imagery reveals eight light attack aircraft\nThe post China’s Military Expansion in Southeast Asia Masks a More Complicated Reality appeared first on War on the Rocks.",
       "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "From Morocco to South Africa, Israel election watched closely across Africa",
-      "url": "https://www.aljazeera.com/news/2026/10/15/from-morocco-to-south-africa-israel-election-watched-closely-across-africa?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-15T06:46:52+00:00",
-      "summary": "October 27 vote could test whether Israel&#039;s ties with African countries withstand the fallout from the war on Gaza.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "TSMC profits surge amid relentless AI demand",
-      "url": "https://www.ft.com/content/bf6808c6-ce2d-444f-86c9-a9b557b36a47?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-15T06:46:19+00:00",
-      "summary": "World’s leading contract chipmaker beats estimates in third quarter",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa6ecec22-6b8c-41b2-9c50-d5190663d931.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "North Korea and China Open Their Biggest Border Bridge",
-      "url": "https://www.nytimes.com/2026/10/15/world/asia/north-korea-china-bridge-yalu.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-15T06:45:00+00:00",
-      "summary": "The long-delayed opening of the New Yalu River Bridge comes as the two countries expand trade despite international sanctions imposed on North Korea.",
-      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15int-nkorea-china-bridge-cglj/15int-nkorea-china-bridge-cglj-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -207,17 +1038,6 @@
       "published": "2026-10-15T06:24:45+00:00",
       "summary": "China is the North's largest trading partner and a lifeline against the sanctions Pyongyang faces.",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/481d/live/54fdb770-c83d-11f1-9346-f78c578493f4.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "G20 finance ministers, central bankers gather amid fallout from Iran war",
-      "url": "https://www.aljazeera.com/economy/2026/10/15/g20-finance-ministers-central-bankers-gather-amid-fallout-from-iran-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-15T06:16:46+00:00",
-      "summary": "Officials meet in Thailand as conflict drives energy prices higher and casts uncertainty over global economy.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -254,17 +1074,6 @@
       "via": "rss"
     },
     {
-      "title": "Is Lamine Yamal’s Barcelona record better than Messi’s as a teenager?",
-      "url": "https://www.aljazeera.com/sports/2026/10/15/is-lamine-yamals-barcelona-record-better-than-messis-as-a-teenager?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-15T05:48:00+00:00",
-      "summary": "Yamal&#039;s 17 goal contributions after 10 games are more than Messi&#039;s in his Ballon d&#039;Or-winning season as a teenager.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "Twenty Harbin Students Disciplined for Unauthorized VPN Use After Reportedly Being “Informed on” by Classmate",
       "url": "https://chinadigitaltimes.net/2026/10/twenty-harbin-students-disciplined-for-unauthorized-vpn-use-after-reportedly-being-informed-on-by-classmate/",
       "source": "China Digital Times",
@@ -272,17 +1081,6 @@
       "type": "journal",
       "published": "2026-10-15T05:38:00+00:00",
       "summary": "Twenty students at Harbin Engineering University (HEU) were given disciplinary warnings for using unauthorized VPNs to circumvent the Great Firewall in order to access overseas websites and conduct academic research. The university released a statement announcing that, during a two-day period in late September, it had caught and punished seven undergraduates and 13 graduate students for unauthorized VPN use.\nAs the university’s statement about the disciplinary actions spread online, it fueled intense debate, particularly after rumors surfaced that the school was tipped off by a student “informer” motivated by the desire to bring down an academic rival and move up the recommendation list for admission to HEU’s mathematics department graduate program. \nCDT Chinese editors archived five articles, including two that were later deleted, about the university’s circumvention crackdown against the backdrop of cutthroat academic competition, restrictive postgraduate admission policies, the ubiq",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Restoring nature is key to a more resilient future",
-      "url": "https://www.aljazeera.com/opinions/2026/10/15/restoring-nature-is-key-to-a-more-resilient-future?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-15T05:24:40+00:00",
-      "summary": "At COP17 and COP31, governments must accelerate positive tipping points in energy, food and finance.",
       "image": "",
       "via": "rss"
     },
@@ -331,28 +1129,6 @@
       "via": "rss"
     },
     {
-      "title": "Israel has detained more than 2,000 Palestinian children since 2023: report",
-      "url": "https://www.aljazeera.com/news/2026/10/15/israel-has-detained-more-than-2000-palestinian-children-since-2023-report?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-15T04:43:15+00:00",
-      "summary": "At least 350 Palestinian children currently face &#039;harsh conditions&#039; in Israeli prisons.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Heavy rain causes mass pileup in Brazil tunnel",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/heavy-rain-causes-mass-pileup-in-brazil-tunnel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-15T04:19:06+00:00",
-      "summary": "Flooding left vehicles piled up and people stranded inside Sao Paulo’s Anhangabau tunnel.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "India urges Russia, Ukraine to protect Black Sea shipping",
       "url": "https://www.dw.com/en/india-urges-russia-ukraine-to-protect-black-sea-shipping/a-79662826?maca=en-rss-en-world-4025-xml-mrss",
       "source": "Deutsche Welle",
@@ -360,17 +1136,6 @@
       "type": "broadcast",
       "published": "2026-10-15T04:19:00+00:00",
       "summary": "New Delhi wants Moscow and Kyiv to ensure safe commercial shipping in the Black Sea amid attacks that put Indian seafarers at risk.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "X suspends 13,000 accounts, alleging foreign influence ahead of US midterms",
-      "url": "https://www.aljazeera.com/news/2026/10/15/x-suspends-13000-accounts-alleging-foreign-influence-ahead-of-us-midterms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-15T04:15:55+00:00",
-      "summary": "The social platform says networks targeted US political debate across the spectrum ahead of midterm elections.",
       "image": "",
       "via": "rss"
     },
@@ -408,39 +1173,6 @@
       "via": "rss"
     },
     {
-      "title": "While Leo Recovers From Lung Surgery, the Church Runs on Autopilot",
-      "url": "https://www.nytimes.com/2026/10/15/world/europe/while-leo-recovers-from-lung-surgery-the-church-runs-on-autopilot.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-15T04:01:15+00:00",
-      "summary": "Mass in St. Peter’s Square at the Vatican on Wednesday. The service was held by Cardinal Luis Antonio Tagle in Pope Leo’s absence, and included special prayers for the pontiff’s health.",
-      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-pope-vatican-01-lqtb/14int-pope-vatican-01-lqtb-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Home of London’s Oldest Restaurant, Rules, Is Given to National Trust",
-      "url": "https://www.nytimes.com/2026/10/15/world/europe/rules-london-restaurant-national-trust.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-15T04:01:09+00:00",
-      "summary": "The interior of Rules, a British mainstay in the Covent Garden neighborhood of London. In the centuries since it opened, the restaurant has served London’s wealthy and wordy, its royals and its regulars.",
-      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15int-uk-rules-restaurant-01-cftz/15int-uk-rules-restaurant-01-cftz-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Ukraine to resume strikes on Russian refineries, Zelenskyy says",
-      "url": "https://www.ft.com/content/4d79b52f-1f0d-4739-82ab-7ecfb4251326?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-15T04:00:39+00:00",
-      "summary": "Ukrainian president expresses anger in FT interview at ‘dangerous’ withdrawal of US intelligence sharing and weakening of Starlink satellite internet service",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2d430473-80d2-4c55-b277-cd24ea6d32b0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
       "title": "London’s gold market enjoys the Trump effect",
       "url": "https://www.ft.com/content/bbb1d399-e91c-4600-9882-ea93e1f96ac9?syn-25a6b1a6=1",
       "source": "Financial Times",
@@ -449,28 +1181,6 @@
       "published": "2026-10-15T04:00:39+00:00",
       "summary": "The City’s dominance of physical trading in the metal is being reinforced by global instability",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7b24bfab-a17e-4294-9d37-9f958082e0a2.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "Marsh to shoulder biggest chunk of Greensill settlement with Credit Suisse",
-      "url": "https://www.ft.com/content/43c9d38a-652a-45df-b3be-c3dead3390f1?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-15T04:00:39+00:00",
-      "summary": "Deal is rare example of broker bearing largest share of a settlement rather than insurers who wrote policies",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd544a39f-611d-45f4-97df-06e74cfb1772.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "The man who would lead McKinsey",
-      "url": "https://www.ft.com/content/ff917929-c68e-4bf6-b77f-ee1f7d675934?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-15T04:00:29+00:00",
-      "summary": "North America boss Eric Kutcher is the candidate to beat in the consultancy’s byzantine election",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb7378613-1aa5-4784-bdec-bc61b6bd3ca1.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -485,28 +1195,6 @@
       "via": "rss"
     },
     {
-      "title": "Salmon producers start feeding chicken to fish",
-      "url": "https://www.ft.com/content/8f1e2cc9-4e2a-48f0-9750-251585e345d3?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-15T04:00:29+00:00",
-      "summary": "Fears of consumer backlash pushed aside as producers respond to surge in fishmeal prices",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F03b49f68-0f9c-403c-936f-20d1d729cee3.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "Argentina’s Milei backs Trump for US midterms, calls vote crucial for West",
-      "url": "https://www.aljazeera.com/news/2026/10/15/argentinas-milei-backs-trump-for-us-midterms-calls-vote-crucial-for-west?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-15T03:50:14+00:00",
-      "summary": "The US President&#039;s ally says conservatives “cannot give an inch” in Latin America as he accepts an award in Washington.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "阴谋、疑团和争议：朴正熙暗杀事件电影加剧韩国文化战争",
       "url": "https://cn.nytimes.com/asia-pacific/20261015/korea-assassins-movie/?utm_source=RSS",
       "source": "纽约时报中文",
@@ -514,28 +1202,6 @@
       "type": "newspaper",
       "published": "2026-10-15T03:41:07+00:00",
       "summary": "《暗杀者（们）》讲述了追寻朴正熙暗杀事件真相的故事。这起枪击最终导致朴正熙夫人身亡，引发了诸多阴谋论。围绕电影的争议折射出韩国社会对其动荡的现代史的不同解读。                    Ullstein Bild, via Getty Images                    韩国军事独裁者朴正熙与妻子陆英修，摄于1964年。",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Albanian Ministry of Justice on fire as education protesters riot",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/albanian-ministry-of-justice-on-fire-as-education-protesters-riot?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-15T03:30:42+00:00",
-      "summary": "Hundreds of students joined anti-government protests in Tirana, demanding education reforms.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "OpenAI bugging suspect allegedly booked one-way trip to Saudi Arabia",
-      "url": "https://www.aljazeera.com/economy/2026/10/15/openai-bugging-suspect-allegedly-booked-one-way-trip-to-saudi-arabia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-15T03:28:44+00:00",
-      "summary": "Saudi national Abdulrahman Alfozan was due to fly to Saudi Arabia on October 12, US prosecutors say in court filing.",
       "image": "",
       "via": "rss"
     },
@@ -551,17 +1217,6 @@
       "via": "rss"
     },
     {
-      "title": "North Korea tests two submarine-launched missiles, state media reports",
-      "url": "https://www.aljazeera.com/news/2026/10/15/north-korea-tests-two-submarine-launched-missiles-state-media-reports?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-15T03:23:49+00:00",
-      "summary": "The tests showcase North Korea&#039;s war deterrent capabilities in the region, KCNA says.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "那些从特朗普内阁中“消失”的女性",
       "url": "https://cn.nytimes.com/usa/20261015/trump-administration-kimberly-guilfoyle-women/?utm_source=RSS",
       "source": "纽约时报中文",
@@ -573,67 +1228,12 @@
       "via": "rss"
     },
     {
-      "title": "Teenager dies as heavy rain floods Istanbul",
-      "url": "https://www.aljazeera.com/news/2026/10/15/teenager-dies-as-heavy-rain-floods-istanbul?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-15T03:12:02+00:00",
-      "summary": "Roads collapse and hospitals take in water as floods swamp Turkiye&#039;s largest city, shutting schools and halting traffic.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Trump administration seeks to strip Ilhan Omar of US citizenship: WSJ",
-      "url": "https://www.aljazeera.com/news/2026/10/15/trump-administration-seeks-to-strip-ilhan-omar-of-us-citizenship-wsj?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-15T03:03:00+00:00",
-      "summary": "Investigators have subpoenaed relatives and examined immigration records, the newspaper reports.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Trump plays Muslim Brotherhood card against Senate candidate El-Sayed",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/14-10-clip-trump-attacks-el-sayed-mb-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-15T02:54:31+00:00",
-      "summary": "President Donald Trump says Michigan Senate candidate Abdul El-Sayed is a member of the Muslim Brotherhood.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Kenya’s Ebola cases test preparedness beyond Nairobi",
-      "url": "https://www.aljazeera.com/news/2026/10/15/kenyas-ebola-cases-test-preparedness-beyond-nairobi?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-15T02:45:49+00:00",
-      "summary": "The scare exposed gaps in how far outbreak readiness reaches Kenya’s remote communities.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Tunisia: What has Kais Saied achieved economically in seven years?",
-      "url": "https://www.aljazeera.com/news/2026/10/15/tunisia-what-has-kais-saied-achieved-economically-in-seven-years?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-15T02:42:21+00:00",
-      "summary": "Rising prices, unemployment and public debt test Saied’s economic promises.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "OpenAI Engineer, Who Is Charged With Planting Bug, Advised Saudis",
       "url": "https://www.nytimes.com/2026/10/14/technology/openai-engineer-hidden-device-saudi-government.html",
       "source": "New York Times",
       "language": "en",
       "type": "newspaper",
-      "published": "2026-10-15T02:27:52+00:00",
+      "published": "2026-10-15T02:27:53+00:00",
       "summary": "The San Francisco offices of OpenAI. According to a court filing, a thumb-size recording device wrapped in toilet paper was found plugged into the back of a television in an executive conference room.",
       "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-openai-suspect-jfkp/14biz-openai-suspect-jfkp-mediumSquareAt3X.jpg",
       "via": "rss"
@@ -694,28 +1294,6 @@
       "via": "rss"
     },
     {
-      "title": "White House spokesperson Katie Zacharia’s law career faces scrutiny",
-      "url": "https://www.aljazeera.com/news/2026/10/15/white-house-spokesperson-katie-zacharias-law-career-faces-scrutiny?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-15T01:35:40+00:00",
-      "summary": "Katie Zacharia has repeatedly claimed to be a lawyer, but critics question whether she was ever licensed.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Trump suggests those who leak government information should ‘be shot’",
-      "url": "https://www.aljazeera.com/news/2026/10/15/trump-suggests-those-who-leak-government-information-should-be-shot?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-15T01:34:41+00:00",
-      "summary": "The US president has long been unhappy with inside information about his administration being leaked to the media.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "Young Chinese are choosing healthy relationships over toxic filial piety",
       "url": "https://www.scmp.com/opinion/china-opinion/article/3370667/young-chinese-are-choosing-healthy-relationships-over-toxic-filial-piety?utm_source=rss_feed",
       "source": "SCMP",
@@ -724,28 +1302,6 @@
       "published": "2026-10-15T01:30:08+00:00",
       "summary": "As the Chinese saying goes, “Even an upright judge finds it hard to settle family matters.” Whenever Chinese TV channels air reality shows that centre on couples or parent-child relationships, controversy is guaranteed.\nHeated debates ensue over who is right and who is wrong. Viewers examine every facial expression in microscopic detail and overanalyse every word before arriving at their verdict.\nYet, that wasn’t the case with Zhang Jiaqi after the Olympic diving medallist and her mother, Xiao...",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/13/37dcbe91-da61-456a-a8dc-b779e811a887_c1d6b7b7.jpg?itok=w8fb4FPU&v=1791871708",
-      "via": "rss"
-    },
-    {
-      "title": "Istanbul in chaos, shut down by heaviest rainfall since 1985",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/istanbul-flash-floods-torrential-rain?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-15T01:29:43+00:00",
-      "summary": "Torrential rain has triggered flash floods across Istanbul.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Ship catches fire in Romania’s waters amid rising attacks in the Black Sea",
-      "url": "https://www.aljazeera.com/news/2026/10/15/ship-catches-fire-in-romanias-waters-amid-rising-attacks-in-the-black-sea?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-15T01:20:26+00:00",
-      "summary": "Authorities are investigating whether drones may have been involved in the latest incident.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -768,17 +1324,6 @@
       "published": "2026-10-15T01:00:19+00:00",
       "summary": "Chinese military scientists claim they have developed an algorithm that could help identify electronic warfare units using civil aviation flight data.\nThe researchers said they had located two sources of interference that were spoofing their locations near Israel during the conflict with Iran.\nThe team did not explain why they had focused on the Israeli military.\nThe researchers estimated the locations of the two units as being near Haifa, with reported positioning errors between 10.9km and...",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/14/51938c1b-fbaa-4e7d-998a-87012799e937_807fee1a.jpg?itok=k0d6PCTA&v=1791985099",
-      "via": "rss"
-    },
-    {
-      "title": "Anthropic tells investors its quarterly revenue jumped 50%",
-      "url": "https://www.ft.com/content/11632d03-358c-454b-af95-d06d4072932b?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-15T00:59:36+00:00",
-      "summary": "Rapid growth is slower than some anticipated as fears about AI trade rattle markets",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6686186f-cb33-4f63-8ee3-4251f56fff52.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -811,17 +1356,6 @@
       "type": "newspaper",
       "published": "2026-10-15T00:37:34+00:00",
       "summary": "中国9月出口再次飙升，成为史上贸易顺差第二高的月份，这也使其有望大幅超过去年创纪录的贸易顺差。中国出口激增可能进一步加剧与贸易伙伴的紧张关系。                    Gilles Sabrié for The New York Times                    货币疲软使中国商品在海外更具竞争力，同时提高了国内进口产品的成本。",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Costa Rica opens mega-prison as Bukele model embraced across Latin America",
-      "url": "https://www.aljazeera.com/news/2026/10/15/costa-rica-opens-mega-prison-as-bukele-model-embraced-across-latin-america?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-15T00:24:03+00:00",
-      "summary": "President Laura Fernandez says mega-prison is part of &#039;tough-on-crime model&#039; embraced by her government.",
       "image": "",
       "via": "rss"
     },
@@ -870,17 +1404,6 @@
       "via": "rss"
     },
     {
-      "title": "Mexican court closes case against official over 2023 detention centre fire",
-      "url": "https://www.aljazeera.com/news/2026/10/15/mexican-court-closes-case-against-official-over-2023-detention-centre-fire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-15T00:08:58+00:00",
-      "summary": "Victims&#039; groups, however, have denounced the ruling as &#039;selective&#039; justice that exonerates the former migration chief.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "India and China aren't friends - but Nepal wants to unite them against climate threats",
       "url": "https://www.bbc.co.uk/news/articles/cvy0rd1j2kzlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -892,17 +1415,6 @@
       "via": "rss"
     },
     {
-      "title": "Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates",
-      "url": "https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-14T23:30:02+00:00",
-      "summary": "A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.",
-      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-ukraine-vulnerability-03-qbck/14int-ukraine-vulnerability-03-qbck-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
       "title": "Brazil’s President Lula Accuses Meta of Helping His Right-Wing Opponent",
       "url": "https://www.nytimes.com/2026/10/14/world/americas/brazil-president-lula-meta-bolsonaro.html",
       "source": "New York Times",
@@ -911,17 +1423,6 @@
       "published": "2026-10-14T23:12:14+00:00",
       "summary": "President Luiz Inácio Lula da Silva in Brasília on Monday. He is taking on a right-wing candidate in a runoff on Oct. 25.",
       "image": "https://static01.nyt.com/images/2026/10/14/multimedia/00int-brazil-elections-meta01-photo-jlgw/00int-brazil-elections-meta01-photo-jlgw-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "US floats unfreezing some Russian assets to restart Ukraine peace talks",
-      "url": "https://www.ft.com/content/54353d3a-afed-4fec-985a-50f3dfb9be8e?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-14T23:09:30+00:00",
-      "summary": "European officials balked at proposal made by Donald Trump’s negotiators during meeting in Miami",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F75c649df-b02f-4a31-94ac-5e563b1fd2e2.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -1032,17 +1533,6 @@
       "published": "2026-10-14T21:58:25+00:00",
       "summary": "From Hegseth’s plans to Trump’s theatrics, it’s hard to know what to be most outraged about.",
       "image": "https://foreignpolicy.com/wp-content/uploads/2026/10/Trump-Hegseth-US-politics-GettyImages-2298344870.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Sally Rooney Withdraws Her Books From UK Over Her Support of Palestine Action",
-      "url": "https://www.nytimes.com/2026/10/14/world/europe/rooney-britain-palestine-book-sales.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-14T21:52:20+00:00",
-      "summary": "Ms. Rooney and her publisher said that she could no longer receive royalties from British sales because she pledged to donate book revenues to Palestine Action, which is banned in Britain.",
-      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-uk-sally-rooney01-photo-blgh/14int-uk-sally-rooney01-photo-blgh-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -1189,18 +1679,7 @@
       "via": "rss"
     },
     {
-      "title": "法国超市冰箱遭到的网络攻击 凸显了联网设备的脆弱性",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261014-%E9%92%88%E5%AF%B9%E8%B6%85%E5%B8%82%E5%86%B0%E7%AE%B1%E7%9A%84%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%E5%87%B8%E6%98%BE%E4%BA%86%E8%81%94%E7%BD%91%E8%AE%BE%E5%A4%87%E7%9A%84%E8%84%86%E5%BC%B1%E6%80%A7",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-10-14T19:26:33+00:00",
-      "summary": "10月13日星期二，在法国，数百家超市在前一天遭受网络攻击后，目前正在进行清理工作。此次攻击影响了冰箱的温度控制系统；黑客设法提高了这些冰箱内的温度，有的甚至高达摄氏50度。",
-      "image": "https://s.rfi.fr/media/display/9183885c-c633-11f1-9c86-29a2e29ae696/w:1024/p:16x9/000-D2TA4AV.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Armenia’s ‘Assets-for-Debt’ Hinders Economic Decoupling from Russia (Part One)",
+      "title": "Legacy of Armenia’s ‘Assets-for-Debt’ Hinders Economic Decoupling from Russia (Part One)",
       "url": "https://jamestown.org/armenias-assets-for-debt-hinders-economic-decoupling-from-russia-part-one/",
       "source": "Jamestown Foundation",
       "language": "en",
@@ -1420,17 +1899,6 @@
       "via": "rss"
     },
     {
-      "title": "Pope Leo Is in ‘Good Mood’ After Cancer Surgery, Vatican Says: What to Know",
-      "url": "https://www.nytimes.com/2026/10/14/world/europe/pope-leo-xiv-cancer-diagnosis.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-14T16:32:23+00:00",
-      "summary": "Pope Leo XIV was diagnosed with a common form of lung cancer. The Vatican said that he was walking and receiving therapy after an operation to remove a cancerous nodule.",
-      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14xp-pope-wwk-gmwb/14xp-pope-wwk-gmwb-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
       "title": "沙特首都再传剧烈爆炸声 胡塞武装称对沙特阿美公司发动新一轮袭击",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261014-%E6%B2%99%E7%89%B9%E9%A6%96%E9%83%BD%E5%86%8D%E4%BC%A0%E5%89%A7%E7%83%88%E7%88%86%E7%82%B8%E5%A3%B0-%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E7%A7%B0%E5%AF%B9%E6%B2%99%E7%89%B9%E9%98%BF%E7%BE%8E%E5%85%AC%E5%8F%B8%E5%8F%91%E5%8A%A8%E6%96%B0%E4%B8%80%E8%BD%AE%E8%A2%AD%E5%87%BB",
       "source": "法广中文",
@@ -1461,17 +1929,6 @@
       "published": "2026-10-14T15:42:26+00:00",
       "summary": "A statue of Pope John Paul II outside the hospital in Rome where Pope Leo XIV was hospitalized. The statue has become a gathering point for prayers.",
       "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-pope-dispatch-gkmj/14int-pope-dispatch-gkmj-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "China’s Exports Soar, Putting Its Trade Surplus on Track for a Record",
-      "url": "https://www.nytimes.com/2026/10/14/business/china-exports-trade-surplus.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-14T15:41:21+00:00",
-      "summary": "A weak currency has helped make Chinese goods more competitive overseas while raising the cost of imported products at home.",
-      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14biz-china-trade-fcvw/14biz-china-trade-fcvw-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -1574,17 +2031,6 @@
       "via": "rss"
     },
     {
-      "title": "特朗普:在\"我们的格陵兰岛\"正筹备大规模石油天然气和矿产勘探",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261014-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%9C%A8-%E6%88%91%E4%BB%AC%E7%9A%84%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B-%E6%AD%A3%E7%AD%B9%E5%A4%87%E5%A4%A7%E8%A7%84%E6%A8%A1%E7%9F%B3%E6%B2%B9%E5%A4%A9%E7%84%B6%E6%B0%94%E5%92%8C%E7%9F%BF%E4%BA%A7%E5%8B%98%E6%8E%A2",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-10-14T14:24:12+00:00",
-      "summary": "美国总统特朗普周二晚间宣布正筹备对格陵兰岛的石油、天然气和矿产资源进行“大规模勘探”。美国与丹麦和格陵兰在三周前签署了将丹麦这个自治领土纳入美国影响范围的安全协议。",
-      "image": "https://s.rfi.fr/media/display/ab3feda0-c7da-11f1-ae74-d1d2c32ebb87/w:1024/p:16x9/2026-09-19T202659Z-1585039173-RC2HMNAZSJ9E-RTRMADP-3-USA-TRUMP-GREENLAND.jpg",
-      "via": "rss"
-    },
-    {
       "title": "Indonesian VIP prison scandal exposes inequality across Southeast Asia",
       "url": "https://www.dw.com/en/indonesian-vip-prison-scandal-exposes-inequality-across-southeast-asia/a-79659535?maca=en-rss-en-world-4025-xml-mrss",
       "source": "Deutsche Welle",
@@ -1593,17 +2039,6 @@
       "published": "2026-10-14T14:17:00+00:00",
       "summary": "Luxury accommodation uncovered at an Indonesian prison has reignited concerns about preferential treatment for wealthy convicts across Southeast Asia.",
       "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Dalí Book Cover Stolen in France",
-      "url": "https://www.nytimes.com/2026/10/14/world/europe/france-dali-theft.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-14T14:15:56+00:00",
-      "summary": "Three thieves broke into a private museum in central France and took off with a 330-pound book cover created by the surrealist master Salvador Dalí.",
-      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/13int-france-dali-photo-cvjf/13int-france-dali-photo-cvjf-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -1651,17 +2086,6 @@
       "via": "rss"
     },
     {
-      "title": "COP31峰会召开前夕 人权观察谴责土耳其当局任意拘捕环保人士",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E4%BF%9D%E5%A4%A9%E5%9C%B0/20261014-cop31%E5%B3%B0%E4%BC%9A%E5%8F%AC%E5%BC%80%E5%89%8D%E5%A4%95-%E4%BA%BA%E6%9D%83%E8%A7%82%E5%AF%9F%E8%B0%B4%E8%B4%A3%E5%9C%9F%E8%80%B3%E5%85%B6%E5%BD%93%E5%B1%80%E4%BB%BB%E6%84%8F%E6%8B%98%E6%8D%95%E7%8E%AF%E4%BF%9D%E4%BA%BA%E5%A3%AB",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-10-14T13:53:18+00:00",
-      "summary": "第31届联合国气候峰会将于 11月9日在土耳其的南部城市安塔利亚开幕， 就在峰会召开之前的一个月，人权观察组织发表公告，谴责土耳其政府在峰会召开的前夕，加强了对环保组织的镇压，当局任意的逮捕以及起诉环保人士。",
-      "image": "https://s.rfi.fr/media/display/1766de0e-c7d0-11f1-aaac-3774aeac812a/w:1024/p:16x9/Capture-d-%C3%A9cran-14-10-2026-15358-www-hrw-org.jpeg",
-      "via": "rss"
-    },
-    {
       "title": "How Australia’s Gambling Lobby has Successfully Avoided Any Reform",
       "url": "https://thediplomat.com/2026/10/how-australias-gambling-lobby-has-successfully-avoided-any-reform/",
       "source": "The Diplomat",
@@ -1670,17 +2094,6 @@
       "published": "2026-10-14T13:47:00+00:00",
       "summary": "Political donations, lobbying, and community influence help gambling companies block major policy reforms and protect huge profits.",
       "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/10/thediplomat_2026-10-14-224935.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "选情从老神在在演变到蓝绿紧绷对决，蒋万安是否遭遇连任危机？",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%81%9A%E7%84%A6%E5%8F%B0%E6%B5%B7/20261014-%E9%80%89%E6%83%85%E4%BB%8E%E8%80%81%E7%A5%9E%E5%9C%A8%E5%9C%A8%E6%BC%94%E5%8F%98%E5%88%B0%E8%93%9D%E7%BB%BF%E7%B4%A7%E7%BB%B7%E5%AF%B9%E5%86%B3%EF%BC%8C%E8%92%8B%E4%B8%87%E5%AE%89%E6%98%AF%E5%90%A6%E9%81%AD%E9%81%87%E8%BF%9E%E4%BB%BB%E5%8D%B1%E6%9C%BA",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-10-14T13:42:52+00:00",
-      "summary": "寻求连任的国民党现任市长蒋万安在5月民调中支持度显示高达58%，选举策略最初以「冷处理」，不理对手，让民进党候选人沈伯洋「寂寞而败」。但如今10月民调公布，双方差距骤降至仅剩 8 个百分点。面临选情告急，蒋万安赶紧拼凑团队迎战。选情急转弯，究竟发生什么事？政大外交系教授黄奎博如何分析？",
-      "image": "https://s.rfi.fr/media/display/89fb399a-c6e2-11f1-a74c-53993c5f1f18/w:1024/p:16x9/2026-10-04T161922Z-1445052094-RC27WNAXVYYE-RTRMADP-3-TAIWAN-POLITICS.jpg",
       "via": "rss"
     },
     {
@@ -1706,28 +2119,6 @@
       "via": "rss"
     },
     {
-      "title": "《费加罗报》: 为何中国霸权尚不会发生?",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20261014-%E8%B4%B9%E5%8A%A0%E7%BD%97%E6%8A%A5-%E4%B8%BA%E4%BD%95%E4%B8%AD%E5%9B%BD%E9%9C%B8%E6%9D%83%E5%B0%9A%E4%B8%8D%E4%BC%9A%E5%8F%91%E7%94%9F",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-10-14T13:36:15+00:00",
-      "summary": "10月14日出版的法国全国性大报头版主题侧重各不相同。关于中国，《回声报》发表前法国驻华大使Sylvie Bermann 的文章，认为习近平9月访美是一个重要节点，中美两国从此进入了一种战略对等状态。前法新社驻京记者、《Asia Magazine》主编Pierre-Antoine Donnet在该报观点版发表文章，认为中国在全球铺展开来的工业生产布局对欧洲构成致命威胁。《费加罗报》观点争鸣版介绍Jean-Francois Colosimo关于中国的新书：《Quand la Chine vacillera》。这篇以“为何中国霸权尚不会发生”为题的文章综述了书中主要观点，认为在中国咄咄逼人的气势背后隐藏着多重脆弱性：人口直线下滑式减少，经济停止不前，精英阶层梦想着流亡，而官方叙事不仅无法让外国心服口服，也无法说服自己的国民。",
-      "image": "https://s.rfi.fr/media/display/bb8ae13a-115f-11ea-b5c4-005056a99247/w:1024/p:16x9/fa_guo_bao_zhi_zhai_yao_wb15399-rfi-cn-20100304_cartouche.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "专访台湾学者李世晖：为何冲绳驻日美军暴力案件频发？",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%8D%B0%E5%A4%AA%E7%BA%B5%E8%A7%88/20261014-%E4%B8%93%E8%AE%BF%E5%8F%B0%E6%B9%BE%E5%AD%A6%E8%80%85%E6%9D%8E%E4%B8%96%E6%99%96-%E4%B8%BA%E4%BD%95%E5%86%B2%E7%BB%B3%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%86%9B%E6%9A%B4%E5%8A%9B%E6%A1%88%E4%BB%B6%E9%A2%91%E5%8F%91",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-10-14T13:29:35+00:00",
-      "summary": "近日，一则社会新闻在日本国内引起了不小的波澜：美国海军陆战队员巴拉德涉嫌于10月3日凌晨，在冲绳县那霸抢走一名39岁女性的钱包等物品，并将其杀害。10月5日，该名嫌犯被移送司法机关，但日本警方透露这名海军士兵否认所有指控。对此，日本首相高市在10月5日的临时国会施政演讲中还特别谈及了此事，她表示日本政府已就此事向美方提出了严正的谴责，并强烈要求美方配合调查。",
-      "image": "https://s.rfi.fr/media/display/9c0b395e-165a-11ea-9568-005056bf7c53/w:1024/p:16x9/zzzz%20oki.jpg",
-      "via": "rss"
-    },
-    {
       "title": "In Confronting China, The West Needs Partners in Southeast Asia",
       "url": "https://thediplomat.com/2026/10/in-confronting-china-the-west-needs-partners-in-southeast-asia/",
       "source": "The Diplomat",
@@ -1736,28 +2127,6 @@
       "published": "2026-10-14T13:17:00+00:00",
       "summary": "A plan to confront Beijing without subsequent outreach toward Southeast Asian countries will sacrifice national imperatives for willing partners, and those are hard to come by.",
       "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/07/thediplomat_2026-07-23-112849.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "From Allies to Enemies: Ethiopia and Eritrea Edge Toward War",
-      "url": "https://www.nytimes.com/2026/10/14/world/africa/ethiopia-eritrea-tigray-invasion.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-14T13:15:41+00:00",
-      "summary": "Members of the Ethiopian Federal Police on patrol aboard a pickup truck as they continued operations after federal forces pushed back the rebel Tigray People’s Liberation Front in Mekelle, Ethiopia, last week.",
-      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-ethiopia-1-tfkq/14int-ethiopia-1-tfkq-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "鲁比奥将出访印度和中亚  聚焦能源合作、商业投资和地区安全",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20261014-%E9%B2%81%E6%AF%94%E5%A5%A5%E5%B0%86%E5%87%BA%E8%AE%BF%E5%8D%B0%E5%BA%A6%E5%92%8C%E4%B8%AD%E4%BA%9A-%E8%81%9A%E7%84%A6%E8%83%BD%E6%BA%90%E5%90%88%E4%BD%9C-%E5%95%86%E4%B8%9A%E6%8A%95%E8%B5%84%E5%92%8C%E5%9C%B0%E5%8C%BA%E5%AE%89%E5%85%A8",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-10-14T13:12:09+00:00",
-      "summary": "美国国务院表示，国务卿马可·鲁比奥将于10月17日至22日对印度和乌兹别克斯坦进行为期五天的访问，他率领一个由 200 多名商界领袖组成的代表团，在乌兹别克斯坦出席部长级会议后，对印度的访问旨在加强两国战略和经济联系。能源合作、商业投资和地区安全是此次访问的重点议题。",
-      "image": "https://s.rfi.fr/media/display/898c8e9e-b794-11f1-b6e4-513157f91e8c/w:1024/p:16x9/2026-09-23T145423Z-1718889685-RC22PNAVU061-RTRMADP-3-UN-ASSEMBLY-RUBIO.jpg",
       "via": "rss"
     },
     {
@@ -1860,17 +2229,6 @@
       "via": "rss"
     },
     {
-      "title": "中朝跨鸭绿江新桥周四正式通车",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261014-%E4%B8%AD%E6%9C%9D%E8%B7%A8%E9%B8%AD%E7%BB%BF%E6%B1%9F%E6%96%B0%E6%A1%A5%E5%91%A8%E5%9B%9B%E6%AD%A3%E5%BC%8F%E9%80%9A%E8%BD%A6",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-10-14T12:18:48+00:00",
-      "summary": "中朝跨鸭绿江新桥周四将正式通车，在之前一个月，朝俄首座公路桥开通。据韩联社介绍，中朝这座“新桥”在2014年竣工，因各种问题推迟开通。",
-      "image": "https://s.rfi.fr/media/display/32f5ba5c-c7c9-11f1-ae95-3774aeac812a/w:1024/p:16x9/2026-10-14T022344Z-120406823-RC2WWNAWS613-RTRMADP-3-CHINA-NORTHKOREA-BRIDGE.jpg",
-      "via": "rss"
-    },
-    {
       "title": "Huang Qifan, China’s political tumbler, falls after a decade of close corruption calls",
       "url": "https://www.scmp.com/news/china/politics/article/3370903/huang-qifan-chinas-political-tumbler-falls-after-decade-close-corruption-calls?utm_source=rss_feed",
       "source": "SCMP",
@@ -1967,314 +2325,6 @@
       "published": "2026-10-14T10:30:00+00:00",
       "summary": "https://open.acast.com/public/streams/66b07190af99592b5329f43a/episodes/6acf4401253c13a89800a11b.mp3\n\n\nhttps://shows.acast.com/initium-reports/20261014-mainland-luckin-coffee-ai-transformation\n\n\n&#x4e2d;&#x570b;&#x6700;&#x5927;&#x9023;&#x9396;&#x5496;&#x5561;&#x54c1;&#x724c;&#x745e;&#x5e78;&#xff0c;&#x8fd1;&#x5e74;&#x5c07; AI &#x5927;&#x898f;&#x6a21;&#x5f15;&#x5165;&#x9580;&#x5e97;&#x7ba1;&#x7406;&#x3002;&#x7cfb;&#x7d71;&#x6703;&#x6839;&#x64da;&#x92b7;&#x91cf;&#x3001;&#x8a02;&#x55ae;&#x8207;&#x5de5;&#x6642;&#xff0c;&#x81ea;&#x52d5;&#x5b89;&#x6392;&#x54e1;&#x5de5;&#x6392;&#x73ed;&#xff0c;&#x76ee;&#x6a19;&#x662f;&#x8b93;&#x6bcf;&#x4e00;&#x9593;&#x5e97;&#x66f4;&#x300c;&#x9ad8;&#x6548;&#x300d;&#x3002;&#x4f46;&#x591a;&#x540d;&#x4e00;&#x7dda;&#x5e97;&#x9577;&#x8207;&#x54e1;&#x5de5;&#x767c;&#x73fe;&#xff0c;AI &#x6392;&#x73ed;&#x6c92;&#x6709;&#x6e1b;&#x8f15;&#x5de5;&#x4f5c;&#xff0c;&#x53cd;&#x800c;&#x4e0d;&#x65b7;&#x58d3;&#x7e2e;&#x4eba;&#x529b;&#x8207;&#x5de5;&#x6642;&#x3002;&#x9762;&#x5c0d;&#x720",
       "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/GettyImages-2286691227.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "美国科技巨头英伟达投资Doctolib和三家法国人工智能初创公司",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261014-%E7%BE%8E%E5%9B%BD%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%8A%95%E8%B5%84doctolib%E5%92%8C%E4%B8%89%E5%AE%B6%E6%B3%95%E5%9B%BD%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%88%9D%E5%88%9B%E5%85%AC%E5%8F%B8",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-10-14T10:17:01+00:00",
-      "summary": "英伟达正在加强其在欧洲业务，这家美国芯片巨头今天周二宣布投资法国医疗预约平台Doctolib的股份以及三家法国人工智能初创公司。",
-      "image": "https://s.rfi.fr/media/display/38bccf8c-a214-11f1-961f-005056a97e36/w:1024/p:16x9/AP26210716468930.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Premier Li: Canton Fair offers window into China's economic vitality",
-      "url": "https://news.cgtn.com/news/2026-10-14/Li-Qiang-Canton-Fair-offers-window-into-China-s-economic-vitality-1ReKfi007Qc/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-14T10:11:18+00:00",
-      "summary": "Chinese Premier Li Qiang attended Wednesday's opening ceremony of the 140th China Import and Export Fair, also known as the Canton Fair, in Guangzhou, capital of south China's Guangdong Province, and delivered a keynote speech.Premier Li said the fair, now in its 70th year, has offered the world a window into China's economic vitality, social progress and the deepening ties between China and the world.An increasingly open, innovative and reliable China will bring new opportunities, fresh growth drivers and greater certainty to the world, Li said.Li pointed out that the Canton Fair has stood the test of shifting international circumstances and kept brimming with fresh vitality, embodying plain yet profound inspirations.\"Market connectivity is not a tool for playing games, but an effective means to generate incremental growth. China is committed to promoting the continuous integration and common growth of its domestic market and the international market, and building an open world econom",
-      "image": "https://news.cgtn.com/news/2026-10-14/Li-Qiang-Canton-Fair-offers-window-into-China-s-economic-vitality-1ReKfi007Qc/img/ce064295071c4680a7362c3c799f6711/ce064295071c4680a7362c3c799f6711-750.png",
-      "via": "rss"
-    },
-    {
-      "title": "US holds ‘unusual’ civil-military meeting in Tokyo ahead of Trump’s China trip",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3370884/us-holds-unusual-civil-military-meeting-tokyo-ahead-trumps-china-trip?utm_source=rss_feed",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-14T10:00:07+00:00",
-      "summary": "Senior American diplomats, administration officials and Indo-Pacific military commanders met in Tokyo earlier this month in what one source called an “unusual” gathering ahead of US President Donald Trump’s planned visit to China in November.\nPeople familiar with the meeting said it represented an evolution of a long-standing practice in which US ambassadors stationed across Asia and the Pacific gathered to exchange intelligence, coordinate diplomatic reporting and align regional priorities.\nThe...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/14/9a17b102-b63b-4492-bb98-c805f5f9545c_46ec1237.jpg?itok=vysjdk3L&v=1791970782",
-      "via": "rss"
-    },
-    {
-      "title": "Indian Protesters Describe Rough Treatment by the Police",
-      "url": "https://www.nytimes.com/2026/10/14/world/asia/india-protests-police-brutality.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-14T09:52:43+00:00",
-      "summary": "Security personnel detained protesters demanding the resignation of Chief Election Commissioner Gyanesh Kumar in New Delhi, India, in October.",
-      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-india-detentions-01-vpzm/14int-india-detentions-01-vpzm-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "The Taliban Suspend BBC Broadcasts Across Afghanistan",
-      "url": "https://www.nytimes.com/2026/10/14/world/asia/afghanistan-taliban-suspends-bbc.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-14T09:28:59+00:00",
-      "summary": "Telecommunications antennas in Kabul, Afghanistan, where transmissions of BBC broadcasts from FM radio stations were suspended.",
-      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14int-taliban-bbc-zclt/14int-taliban-bbc-zclt-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "從今以後，不擇手段？普京新策略要讓烏克蘭全國片瓦無存",
-      "url": "https://www.bbc.com/zhongwen/articles/cwm235qpgrrdo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-10-14T09:09:43+00:00",
-      "summary": "從學校、醫院、酒店、數據中心、火車到橋樑，俄羅斯近數星期加強以導彈和無人機襲擊烏克蘭首都及其他主要城市，攻擊民用目標。",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ead/live/60029d80-c08a-11f1-a4af-19dbf5352a59.png",
-      "via": "rss"
-    },
-    {
-      "title": "Fact check: Misleading graph about alleged Russian bot activity",
-      "url": "https://www.dw.com/en/fact-check-misleading-graph-about-alleged-russian-bot-activity/a-79651769?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "Deutsche Welle",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-14T09:08:00+00:00",
-      "summary": "Did attacks on Russian data centers reduce bot activity around Germany's AfD? A viral graph claims they did. But it contains significant inconsistencies and provides no evidence to support the claim.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "俄袭乌克兰能源设施 至少6人死亡 华盛顿否认停与基辅分享情报",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261014-%E4%BF%84%E7%BD%97%E6%96%AF%E7%A9%BA%E8%A2%AD%E4%B9%8C%E5%85%8B%E5%85%B0%E8%83%BD%E6%BA%90%E8%AE%BE%E6%96%BD-%E8%87%B3%E5%B0%916%E4%BA%BA%E6%AD%BB%E4%BA%A1",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-10-14T09:05:01+00:00",
-      "summary": "据基辅当局称，俄罗斯周二晚间对乌克兰的空袭造成至少6人死亡，空袭目标是能源基础设施，且导致基辅多个街区停电。泽连斯基称，这是对美国提出的俄乌“能源停火”的蔑视。",
-      "image": "https://s.rfi.fr/media/display/a475a03e-c7a1-11f1-94e9-29a2e29ae696/w:1024/p:16x9/2026-10-13T213720Z-1159940029-RC2L2OA0GR64-RTRMADP-3-UKRAINE-CRISIS-ATTACK-KYIV-1.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "After Iran, Washington Needs a New Basing Strategy",
-      "url": "https://foreignpolicy.com/2026/10/14/iran-war-us-military-base-strategy-allies-defense/",
-      "source": "Foreign Policy",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-10-14T09:00:29+00:00",
-      "summary": "The decades-old model has been upended by a war that favors movement and dispersal.",
-      "image": "https://foreignpolicy.com/wp-content/uploads/2026/10/trump-us-base-GettyImages-2214564983.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Argentina’s President Has a Dog Psychic. Meet Celia Melamed.",
-      "url": "https://www.nytimes.com/2026/10/14/world/americas/argentina-president-milei-dog-pet-psychic.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-14T09:00:10+00:00",
-      "summary": "In Argentina, many people try to read the mind of the president. Celia Melamed read the mind of his dogs.",
-      "image": "https://static01.nyt.com/images/2026/10/07/world/00int-argentina-psychic-profile/00int-argentina-psychic-profile-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "China’s Liaoning carrier heads to the Pacific as US, Japan prepare for missile drills",
-      "url": "https://www.scmp.com/news/china/military/article/3370859/chinas-liaoning-carrier-heads-pacific-us-japan-prepare-missile-drills?utm_source=rss_feed",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-14T09:00:06+00:00",
-      "summary": "The PLA Navy’s Liaoning aircraft carrier has started its second drill series in the western Pacific this year, with the training likely to coincide with an expanded US-Japan military exercise that could have implications for a Taiwan contingency.\nThe Liaoning carrier group was carrying out the drill in “relevant waters” of the western Pacific Ocean as part of the navy’s annual training plan, China’s defence ministry said on Wednesday.\nWhile it did not disclose the exact location of the drill,...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/14/fd78eae6-7286-4121-936c-95defabed149_c839d22c.jpg?itok=MdcU1kKf&v=1791965625",
-      "via": "rss"
-    },
-    {
-      "title": "Pope Leo’s Cancer Surgery Draws Outpouring From World Leaders",
-      "url": "https://www.nytimes.com/2026/10/13/world/europe/pope-leo-cancer-diagnosis-prayers-reaction.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-14T08:46:26+00:00",
-      "summary": "Pope Leo XIV was welcomed by Daniele Franco, the president of Gemelli University Hospital in Rome, before an operation to remove a mass from his lung on Tuesday.",
-      "image": "https://static01.nyt.com/images/2026/10/13/multimedia/13int-Pope-Reax-pjlk/13int-Pope-Reax-pjlk-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "「我會跟電視說話」：中國這些孤獨的人付錢感受溫暖",
-      "url": "https://www.bbc.com/zhongwen/articles/cmqln6xl303no/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-10-14T08:42:17+00:00",
-      "summary": "隨著中國孤獨感的加劇，一個提供陪伴和支持的新興產業正在興起。",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b864/live/f45a9340-c74a-11f1-a64c-550be9e3c66b.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "特朗普选举造势宣布台湾同意购买阿拉斯加30％天然气并投资44亿美元",
-      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261014-%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%89%E4%B8%BE%E9%80%A0%E5%8A%BF%E5%AE%A3%E5%B8%83%E5%8F%B0%E6%B9%BE%E5%90%8C%E6%84%8F%E8%B4%AD%E4%B9%B0%E9%98%BF%E6%8B%89%E6%96%AF%E5%8A%A030%EF%BC%85%E5%A4%A9%E7%84%B6%E6%B0%94%E5%B9%B6%E6%8A%95%E8%B5%8444%E4%BA%BF%E7%BE%8E%E5%85%83",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-10-14T08:36:31+00:00",
-      "summary": "美国总统特朗普13日在阿拉斯加州一场造势大会中，宣称台湾已同意在未来20年内采购阿拉斯加天然气管线开发计画中30%的天然气，并将额外投资44亿美元。台湾经济部表示，合作方向还包括开采后每年采购600万吨阿拉斯加液化天然气。",
-      "image": "https://s.rfi.fr/media/display/914976e4-c74b-11f1-b048-3774aeac812a/w:1024/p:16x9/2026-10-13T161828Z-2066384657-RC2G2OA58RQ6-RTRMADP-3-USA-TRUMP.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Xi sends congratulatory letter to 140th Canton Fair",
-      "url": "https://news.cgtn.com/news/2026-10-14/Xi-sends-congratulatory-letter-to-140th-Canton-Fair-1ReADc1h80o/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-14T08:31:49+00:00",
-      "summary": "Chinese President Xi Jinping on Wednesday sent a congratulatory letter to the 140th edition of the China Import and Export Fair, also known as the Canton Fair, which will be held in Guangzhou, south China's Guangdong Province, from October 15 to November 4.&nbsp;In his letter, Xi said over the past 70 years since its establishment, the Canton Fair has played a significant role in promoting trade exchanges between China and other countries, serving as an effective platform for China to expand high-level opening up and promote the building of an open world economy.Under the new circumstances, China is willing to join hands with countries around the world to safeguard the multilateral trading system, ensure the stability and smooth operation of global industrial and supply chains, expand the space for mutually beneficial international economic and trade cooperation, and promote a universally beneficial and inclusive economic globalization, to inject new momentum into global development an",
-      "image": "https://news.cgtn.com/news/2026-10-14/Xi-sends-congratulatory-letter-to-140th-Canton-Fair-1ReADc1h80o/img/cebfe7096ba24aa28137f2f2e1500e6e/cebfe7096ba24aa28137f2f2e1500e6e-750.png",
-      "via": "rss"
-    },
-    {
-      "title": "Reform, opening up and innovation: Unpacking Shenzhen's success story",
-      "url": "https://news.cgtn.com/news/2026-10-14/Reform-opening-up-and-innovation-Unpacking-Shenzhen-s-success-story-1Re8XUMQbba/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-14T08:30:30+00:00",
-      "summary": "Editor's Note: Xin Ge, a special commentator for CGTN, is a professor at the School of Public Administration and Policy, Shanghai University of Finance and Economics. This article reflects the author's opinions and not necessarily those of CGTN.As the host of APEC in 2026, China will hold the 33rd APEC Economic Leaders' Meeting in Shenzhen this November. It will be the third time a Chinese city has hosted the meeting of the Asia-Pacific Economic Cooperation, after Shanghai in 2001 and Beijing in 2014, but for the first time the honor falls on a special economic zone (SEZ).The choice is no coincidence. Should you wish to show the APEC member economies what reform, opening up and innovation can achieve within a single generation, there is no better stage than a city that was a border town of just over 30,000 residents in 1980 and is now a metropolis of 18.25 million.Six years ago, on October 14, 2020, Chinese President Xi Jinping addressed the gathering celebrating the 40th anniversary o",
-      "image": "https://news.cgtn.com/news/2026-10-14/Reform-opening-up-and-innovation-Unpacking-Shenzhen-s-success-story-1Re8XUMQbba/img/d11c053ac9dc485d8c48159355349a5a/d11c053ac9dc485d8c48159355349a5a-750.png",
-      "via": "rss"
-    },
-    {
-      "title": "黑龙江代表团访问俄罗斯占据的择捉岛 日外相表示无法接受",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261014-%E9%BB%91%E9%BE%99%E6%B1%9F%E4%BB%A3%E8%A1%A8%E5%9B%A2%E8%AE%BF%E9%97%AE%E4%BF%84%E7%BD%97%E6%96%AF%E5%8D%A0%E6%8D%AE%E7%9A%84%E6%8B%A9%E6%8D%89%E5%B2%9B-%E6%97%A5%E5%A4%96%E7%9B%B8%E8%A1%A8%E7%A4%BA%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-10-14T08:19:05+00:00",
-      "summary": "日本外相茂木敏充14日在众议院预算委员会上就中国黑龙江省考察团访问择捉岛一事表示，对于第三国进入北方四岛并开展活动、仿佛北方四岛属于俄罗斯领土一样的行为，日本绝对无法接受，日本首相高市早苗13日晚对记者谈及中国代表团的访问时表示：目前正在确认事实。我们将适时作出妥善应对。”",
-      "image": "https://s.rfi.fr/media/display/d6866b90-97da-11f1-a869-005056bf30b7/w:1024/p:16x9/2026-08-13T083837Z-686808927-RC2KXMAGOV36-RTRMADP-3-RUSSIA-JAPAN-KURIL.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Chinese business visit to Russia-held Kuril Islands prompts protest from Japan",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3370854/chinese-business-visit-kuril-islands-will-do-nothing-ease-tensions-tokyo?utm_source=rss_feed",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-14T07:59:25+00:00",
-      "summary": "A business delegation from northeastern China has visited a Russian-controlled, Japanese-claimed island off Hokkaido to explore joint economic projects, prompting protests from Tokyo.\nOfficials and business leaders from Heilongjiang province, which borders Russia’s far east, travelled to Etorofu – known to Russians as Iturup – to survey potential investment opportunities, according to the Sakhalin Oblast government, which oversees the island.\nEtorofu is the largest island in a disputed...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/14/46f0ff14-06be-413d-84ff-782cfe07b885_9171df95.jpg?itok=mf6rde2g&v=1791964657",
-      "via": "rss"
-    },
-    {
-      "title": "The Mecca Pact and Pakistan’s Bid to Become Indispensable",
-      "url": "https://warontherocks.com/the-mecca-pact-and-pakistans-bid-to-become-indispensable/",
-      "source": "War on the Rocks",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-10-14T07:30:47+00:00",
-      "summary": "For most of its history, Pakistan&#8217;s geopolitical value has risen and fallen with other countries&#8217; emergencies. The Mecca Pact may be its most serious attempt yet to break that cycle. On Aug. 31, Pakistan, Saudi Arabia, and Turkey established a secretariat in Saudi Arabia for the Mecca Defence Agreement. The first secretary-general comes from Pakistan for a three-year term. The agreement builds on the Saudi-Pakistani agreement signed in September 2025, locking a decades-old informal security arrangement into a mutual defense pact. Turkey&#8217;s inclusion in August 2026 transformed it into a NATO-style collective security arrangement. The three states also outlined cooperation\nThe post The Mecca Pact and Pakistan’s Bid to Become Indispensable appeared first on War on the Rocks.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "As US pursues mine deals, Xi warns African resources are not tools for ‘rivalry’",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3370847/us-pursues-mine-deals-xi-warns-african-resources-are-not-tools-rivalry?utm_source=rss_feed",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-14T07:24:49+00:00",
-      "summary": "Africa’s resources should not be used as a tool for geopolitical rivalry, Chinese President Xi Jinping has warned, as the US challenges Chinese dominance of critical minerals on the continent.\n“Africa’s resources belong to Africa,” Xi told Botswanan President Duma Boko in Beijing on Tuesday, according to Chinese state news agency Xinhua.\nHe said it was a “historical injustice” that an unfair international division of labour had left the continent at the bottom of industrial and value chains, and...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/14/7f3b8cd9-d3de-4dd2-a314-892df3167ab5_45ea29f0.jpg?itok=fUvnp1VK&v=1791962687",
-      "via": "rss"
-    },
-    {
-      "title": "The United Kingdom’s Military AI Ambitions Need Guardrails",
-      "url": "https://warontherocks.com/the-united-kingdoms-military-ai-ambitions-need-guardrails/",
-      "source": "War on the Rocks",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-10-14T07:15:06+00:00",
-      "summary": "Advancing military AI capability is a priority for the United Kingdom, and in recent weeks, the new government has doubled down on its ambitions for AI and defense via two major partnerships.On Aug. 24, 2026, on his first overseas trip as the new prime minister of the United Kingdom, Andy Burnham signed a landmark partnership: The United Kingdom is the first international partner to receive access to Ukraine&#8217;s Avengers AI Labs. The deal will allow the United Kingdom to train its military AI systems with battlefield data, which give crucial insights into warfighting in the 21st century. In return, the\nThe post The United Kingdom’s Military AI Ambitions Need Guardrails appeared first on War on the Rocks.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "China and North Korea to open border bridge after unexplained 12-year delay",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3370843/china-and-north-korea-open-border-bridge-after-unexplained-12-year-delay?utm_source=rss_feed",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-14T07:02:37+00:00",
-      "summary": "A bridge between China and North Korea that was completed 12 years ago will finally open on Thursday.\nThe two countries will hold an opening ceremony to mark the official opening of the New Yalu River Bridge, Chinese state news agency Xinhua reported on Wednesday morning.\nLast week, signs that the bridge would soon open were spotted, including vehicles crossing and traffic lights and bridge indicators being activated, according to South Korean newspaper The Chosun Daily.\nThe bridge links the...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/14/cdce279b-9f0a-432d-b1df-223e265e3f43_fb393479.jpg?itok=2XXzBtDb&v=1791961316",
-      "via": "rss"
-    },
-    {
-      "title": "Foreign diplomats try goji berries to 'become Chinese'",
-      "url": "https://news.cgtn.com/news/2026-10-14/Foreign-diplomats-try-goji-berries-to-become-Chinese--1ReiEYzyy4w/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-14T06:27:03+00:00",
-      "summary": "China’s history with goji berries dates back thousands of years, and adding them to warm water is a daily ritual for many Chinese people. Foreign diplomats visiting northwest China’s Ningxia Hui Autonomous Region picked goji berries and enjoyed a cup of goji tea. Maybe becoming Chinese starts with a cup of goji tea.",
-      "image": "https://video.cgtn.com/news/2026-10-14/Foreign-diplomats-try-goji-berries-to-become-Chinese--1ReiEYzyy4w/video/wu_1k4sc87ntm7ia715uh1ncj8r4b/wu_1k4sc87ntm7ia715uh1ncj8r4b-1280.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "China tests a Dune-like iron-harvesting crawler robot in the Taklamakan Desert",
-      "url": "https://www.scmp.com/news/china/science/article/3370824/chinas-dune-sand-crawler-could-turn-whole-taklamakan-desert-iron-mine?utm_source=rss_feed",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-14T06:00:11+00:00",
-      "summary": "Chinese researchers have built a self-propelled crawler robot that harvests iron from sand and have tested the device in the dunes of the vast Taklamakan Desert – an area the size of Germany – in northwestern China’s Xinjiang Uygur autonomous region.\nIn Frank Herbert’s classic science fiction novel Dune, mobile factories traverse the sands of the fictional planet Arrakis to extract the drug melange, also known as “spice”. The real-world device similarly travels across the desert, extracting...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/14/7b82ba8c-7a7d-4b1f-a5c7-dd9553510fa0_b6e3b1a1.jpg?itok=l0Izmjtq&v=1791955298",
-      "via": "rss"
-    },
-    {
-      "title": "Iran: Political infighting deepens as economic woes mount during war",
-      "url": "https://www.dw.com/en/iran-political-infighting-deepens-as-economic-woes-mount-during-war/a-79654461?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "Deutsche Welle",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-14T05:30:00+00:00",
-      "summary": "Hardliners are stepping up pressure on Iran's government and calling for Foreign Minister Abbas Araghchi's removal. The oil minister resigned, but that's doing little to ease the pressure on President Masoud Pezeshkian.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Bangladesh’s First Dollar Bond Can Wait",
-      "url": "https://thediplomat.com/2026/10/bangladeshs-first-dollar-bond-can-wait/",
-      "source": "The Diplomat",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-10-14T05:29:00+00:00",
-      "summary": "The BNP government plans to issue sovereign bonds in December amid slow economic growth, fiscal strain, rising dollar bills, and a global downturn in the bond market.",
-      "image": "https://images.thediplomat.com/v1/td-list-l-2/2024/09/thediplomat_2024-09-26-082023.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "‘The Assassin(s)’ Movie Fuels South Korea’s Culture Wars",
-      "url": "https://www.nytimes.com/2026/10/14/world/asia/korea-assassins-movie.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-14T05:22:33+00:00",
-      "summary": "The film, “The Assassin(s),” revisits a 1974 shooting that has spawned J.F.K.-style conspiracy theories, exposing divides over the country’s history.",
-      "image": "https://static01.nyt.com/images/2026/10/12/multimedia/00int-skorea-film-01-tqvh/00int-skorea-film-01-tqvh-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Democracy Is Not Silence Between Elections",
-      "url": "https://thediplomat.com/2026/10/democracy-is-not-silence-between-elections/",
-      "source": "The Diplomat",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-10-14T05:20:00+00:00",
-      "summary": "A vote gives a government the authority to rule. It does not give it the right to silence the people.",
-      "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/07/thediplomat_2026-07-29-214059.jpeg",
       "via": "rss"
     }
   ]
