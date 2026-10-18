@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T02:35:36.363958+00:00",
+  "last_updated": "2026-10-18T07:52:38.956685+00:00",
   "source_counts": {
     "en": 36,
     "zh": 24
@@ -17,80 +17,478 @@
       "icon": "🌐",
       "color": "#4f8de8",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "Super El Nino and Metals",
+          "url": "https://www.investorideas.com/news/2026/mining/10164-super-el-nino-and-metals.asp",
+          "source": "investorideas.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-16T22:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "What China Global Initiatives Offer the World – Sri Lanka Guardian",
+          "url": "https://slguardian.org/what-chinas-global-initiatives-offer-the-world/",
+          "source": "slguardian.org",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-16T02:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        }
+      ]
     },
     "politics": {
       "label": "Politics & Governance",
       "icon": "🏛️",
       "color": "#9b6de8",
       "featured": false,
-      "articles": [
-        {
-          "title": "第四屆中國非物質文化遺產保護年會在朝陽盛大啟幕",
-          "url": "https://www.hkcd.com/hkcdweb/content/2026/10/17/content_8780411.html",
-          "source": "hkcd.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-10-17T08:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "《 名城视窗 》· 103 · 千工万匠共  城  长 杭州工会的百年淬炼与时代答卷",
-          "url": "https://hznews.hangzhou.com.cn/chengshi/content/2026-10/16/content_9340709.htm",
-          "source": "hznews.hangzhou.com.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-10-16T04:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        }
-      ]
+      "articles": []
     },
     "military_security": {
       "label": "Military & Security",
       "icon": "⚔️",
       "color": "#e05f5f",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "陆军某旅弘扬互助传统激发练兵热情 - 中国军网",
+          "url": "http://www.81.cn/yw_208727/16493952.html",
+          "source": "81.cn",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-10-18T03:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "美科技股集体跳水 ！ 霍尔木兹海峡 ， 超级油轮触雷爆炸 ！ _ 东方财富网",
+          "url": "https://finance.eastmoney.com/a/202610173899044468.html",
+          "source": "finance.eastmoney.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-10-17T09:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "霍尔木兹海峡商船遇袭推高油价 美以密商打击伊朗预案",
+          "url": "https://www.gzstv.com/a/28da304d28314afca4d01a2ecef586d6",
+          "source": "gzstv.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-10-17T08:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "兵韬志略｜美日  利剑  军演升级 ， 为何说联合威慑背后暗藏更大战略风险",
+          "url": "https://baijiahao.baidu.com/s?id=1879250375028918035",
+          "source": "baijiahao.baidu.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-10-17T05:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "兵韬志略｜美日  利剑  军演升级 ， 为何说联合威慑背后暗藏更大战略风险|美军|自卫队|联合军演",
+          "url": "https://www.163.com/dy/article/L9E5R1DG0514R9P4.html",
+          "source": "163.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-10-17T01:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "视频丨霍尔木兹海峡商船遇袭推高油价 美以密商打击伊朗预案",
+          "url": "https://finance.sina.com.cn/jjxw/2026-10-17/doc-inivnraw1400868.shtml",
+          "source": "finance.sina.com.cn",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-10-17T01:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "行政院災害防救業務訪評 強化離島防災應變韌性 | 生活",
+          "url": "https://www.cna.com.tw:443/news/ahel/202610160224.aspx",
+          "source": "cna.com.tw",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-10-16T09:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "从机器  导盲犬  到低空飞行器 ， 西湖  智元  用硬核产品服务民生点滴",
+          "url": "https://baijiahao.baidu.com/s?id=1879189191204278801",
+          "source": "baijiahao.baidu.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-10-16T07:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "解放軍四大海域同步軍演 ！ 黃海南部罕見封航47天 陸媒 ： 劍指台獨 - 兩岸",
+          "url": "https://www.chinatimes.com/realtimenews/20261016002333-260409",
+          "source": "chinatimes.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-10-16T04:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "解放军南北六海域同时  开火  实战演练彰显决心 _ 军事频道 _ 中华网",
+          "url": "https://military.china.com/news/13004177/20261016/49797912.html",
+          "source": "military.china.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-10-16T04:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "通往自由繁荣之路 - 博客",
+          "url": "https://blog.wenxuecity.com/myblog/84197/202610/10622.html",
+          "source": "blog.wenxuecity.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-10-16T02:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "20261015 （ 獨家 ） 共軍遼寧艦急速南下亮劍美日聯演 - 閃靈國際脈動",
+          "url": "https://city.udn.com/73664/7299263",
+          "source": "city.udn.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-10-15T16:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Ministry on guard for PLA exercises",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/16/2003866057",
+          "source": "taipeitimes.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-15T16:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "EDITORIAL : Beware Beijing expanding lawfare",
+          "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/16/2003866037",
+          "source": "taipeitimes.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-15T16:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "HEADLINES : Mindanao politician tagged in drug bust | October 16 , 2026",
+          "url": "https://www.manilatimes.net/2026/10/16/podcasts/headlines-mindanao-politician-tagged-in-drug-bust-october-16-2026/2446530",
+          "source": "manilatimes.net",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-15T16:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        }
+      ]
     },
     "economy": {
       "label": "Economy & Trade",
       "icon": "📈",
       "color": "#3dbd86",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "Futures Rise As Warsh Stays Mum , Tesla  Flying Car  Interrupts AI Liquidation",
+          "url": "https://www.zerohedge.com/markets/futures-rise-warsh-stays-mum-tesla-flying-car-interrupts-ai-liquidation",
+          "source": "zerohedge.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-16T13:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "US President Trump said Iran had asked for a halt to US attacks ; European bourses set for a firmer open after the recent tech sell off - Newsquawk EU Market Open",
+          "url": "http://www.zerohedge.com/markets/us-president-trump-said-iran-had-asked-halt-us-attacks-european-bourses-set-firmer-open",
+          "source": "zerohedge.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-16T07:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "US stocks rebound from recent tech rout - Newsquawk Daily Asia - Pac Market Open",
+          "url": "http://www.zerohedge.com/markets/us-stocks-rebound-recent-tech-rout-newsquawk-daily-asia-pac-market-open",
+          "source": "zerohedge.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-15T23:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        }
+      ]
     },
     "society": {
       "label": "Society & Culture",
       "icon": "👥",
       "color": "#d49040",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "Xi Jinping principles for settling Africa hotspot issues strike a positive chord",
+          "url": "https://sundayworld.co.za/africa/xi-jinpings-principles-for-settling-africas-hotspot-issues-strike-a-positive-chord/",
+          "source": "sundayworld.co.za",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-17T18:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "World : Xi principles on settling Africa hotspot issues r",
+          "url": "https://www.newvision.co.ug/category/world/xis-principles-on-settling-africas-hotspot-is-NV_242561_102026",
+          "source": "newvision.co.ug",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-17T17:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "14亿人口  是事实还是政治口号 ？ 【 明慧网 】",
+          "url": "https://www.minghui.org/mh/articles/2026/10/17/%E2%80%9C14%E4%BA%BF%E4%BA%BA%E5%8F%A3%E2%80%9D%E6%98%AF%E4%BA%8B%E5%AE%9E%E8%BF%98%E6%98%AF%E6%94%BF%E6%B2%BB%E5%8F%A3%E5%8F%B7--515528.html",
+          "source": "minghui.org",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-10-17T15:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "〈 專文 〉 中國跨境追稅20 % 逼富豪拆信託換國籍 ！ 習近平殺雞取卵引爆資本大出逃",
+          "url": "https://n.yam.com/Article/20261017290488",
+          "source": "n.yam.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-10-17T07:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "Xi principles on settling Africa hotspot issues resonate across continent -- Beijing Review",
+          "url": "http://www.bjreview.com.cn/World/202610/t20261016_800448936.html",
+          "source": "bjreview.com.cn",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-16T07:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "Cuneo , torna  Itinerari : la quinta edizione del collettivo Zaratan è dedicata al tema  Rivoluzione , oggi !   - Targatocn . it",
+          "url": "https://www.targatocn.it/2026/10/16/leggi-notizia/argomenti/attualita/articolo/cuneo-torna-itinerari-la-quinta-edizione-del-collettivo-zaratan-e-dedicata-al-tema-rivol.html",
+          "source": "targatocn.it",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-16T07:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "领度文化值不值得报名 ？ 报名前需要注意什么 ？ 这份报名参考请收好",
+          "url": "https://www.163.com/dy/article/L9C5GHGC0534R3N6.html",
+          "source": "163.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-10-16T05:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "Xi principles on settling Africa hotspot issues resonate across continent",
+          "url": "http://en.people.cn/n3/2026/1016/c90000-20509040.html",
+          "source": "en.people.cn",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-16T04:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "How Authoritarian States Are Building an International Market for Digital Surveillance",
+          "url": "https://tol.org/client/article/how-authoritarian-states-are-building-an-international-market-for-digital-surveillance.html",
+          "source": "tol.org",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-15T20:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "World Insights : Xi principles on settling Africa hotspot issues resonate across continent",
+          "url": "http://www.beijingbulletin.com/news/279376227/world-insights-xi-principles-on-settling-africa-hotspot-issues-resonate-across-continent",
+          "source": "beijingbulletin.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-15T15:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "World Insights : Xi principles on settling Africa hotspot issues resonate across continent",
+          "url": "http://www.shanghainews.net/news/279376227/world-insights-xi-principles-on-settling-africa-hotspot-issues-resonate-across-continent",
+          "source": "shanghainews.net",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-15T13:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "World Insights : Xi principles on settling Africa hotspot issues resonate across continent",
+          "url": "http://www.africaleader.com/news/279376227/world-insights-xi-principles-on-settling-africa-hotspot-issues-resonate-across-continent",
+          "source": "africaleader.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-15T13:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "World Insights : Xi principles on settling Africa hotspot issues resonate across continent",
+          "url": "http://www.nigeriasun.com/news/279376227/world-insights-xi-principles-on-settling-africa-hotspot-issues-resonate-across-continent",
+          "source": "nigeriasun.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-15T13:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "湖南省人民政府关于印发 《 湖南省就业促进和职业技能培训  十五五  规划 》 的通知 - 湖南省人民政府门户网站",
+          "url": "http://www.hunan.gov.cn/hnszf/xxgk/wjk/szfwj/202610/t20261015_34081838.html",
+          "source": "hunan.gov.cn",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-10-15T12:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "王赫 ： 中共 「 數據找人 」 參保是為割韭菜",
+          "url": "https://www.epochtimes.com/b5/26/10/15/n14870254.htm",
+          "source": "epochtimes.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-10-15T12:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        },
+        {
+          "title": "World Insights : Xi principles on settling Africa hotspot issues resonate across continent",
+          "url": "http://www.zimbabwestar.com/news/279376227/world-insights-xi-principles-on-settling-africa-hotspot-issues-resonate-across-continent",
+          "source": "zimbabwestar.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-15T11:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "society"
+        }
+      ]
     },
     "maritime_security": {
       "label": "Maritime Security",
       "icon": "⚓",
       "color": "#3ab8c5",
       "featured": false,
-      "articles": [
-        {
-          "title": "A Surfacing Strategy : Chinese Unconventional Oceanic Warfare | Center for International Maritime Security",
-          "url": "https://cimsec.org/a-surfacing-strategy-chinese-unconventional-oceanic-warfare/",
-          "source": "cimsec.org",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-16T11:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "maritime_security"
-        }
-      ]
+      "articles": []
     },
     "domestic_security": {
       "label": "Domestic Security",
@@ -104,7 +502,116 @@
       "icon": "🤝",
       "color": "#6b7de8",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "Time for New Delhi to assert itself with action",
+          "url": "https://www.hindustantimes.com/opinion/time-for-new-delhi-to-assert-itself-with-action-101792228003037.html",
+          "source": "hindustantimes.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-17T10:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
+          "title": "ŠAMANOVO DOUPĚ : Cesta k českému šoa - Neviditelný pes",
+          "url": "https://neviditelnypes.lidovky.cz/doupe/samanovo-doupe-cesta-k-ceskemu-soa.A261016_204035_p_doupe_nef",
+          "source": "neviditelnypes.lidovky.cz",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-17T00:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
+          "title": "华尔街见闻早餐FM - Radio | 2026年10月17日",
+          "url": "https://wallstreetcn.com/articles/3783821",
+          "source": "wallstreetcn.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-10-16T23:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
+          "title": "Futures Rise As Warsh Stays Mum , Tesla  Flying Car  Interrupts AI Liquidation",
+          "url": "https://www.zerohedge.com/markets/futures-rise-warsh-stays-mum-tesla-flying-car-interrupts-ai-liquidation",
+          "source": "zerohedge.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-16T13:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
+          "title": "Trump said Iran had asked for a halt to US attacks and negotiations are still ongoing ; TSLA +5 % after Musk unveiled a  flying  car - Newsquawk US Market Open",
+          "url": "http://www.zerohedge.com/markets/trump-said-iran-had-asked-halt-us-attacks-and-negotiations-are-still-ongoing-tsla-5-after",
+          "source": "zerohedge.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-16T11:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
+          "title": "Myanmar coup leader - turned - president wins back neighbours despite war | ASEAN News",
+          "url": "https://www.aljazeera.com/news/2026/10/16/as-war-rages-myanmars-coup-leader-turned-president-wins-back-neighbours",
+          "source": "aljazeera.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-16T04:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
+          "title": "Myanmar coup leader - turned - president wins back neighbours despite war - Grenada Chronicle – Daily Grenada And Caribbean News",
+          "url": "https://grenadachronicle.com/myanmars-coup-leader-turned-president-wins-back-neighbours-despite-war/",
+          "source": "grenadachronicle.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-16T04:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
+          "title": "Shifting Indiaâ€™s trade paths",
+          "url": "https://navhindtimes.in/opinion/shifting-indias-trade-paths/",
+          "source": "navhindtimes.in",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-15T21:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
+        {
+          "title": "China a devenit principalul partener comercial pentru 92 de economii , dar Moldova rămâne cu UE pe primul loc",
+          "url": "https://www.ziarulnational.md/china-a-devenit-principalul-partener-comercial-pentru-92-de-economii-dar-moldova-ramane-cu-ue-pe-primul-loc/",
+          "source": "ziarulnational.md",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-15T21:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        }
+      ]
     },
     "multilateral": {
       "label": "Multilateral & Int'l Orgs",
@@ -115,6 +622,402 @@
     }
   },
   "latest_rss": [
+    {
+      "title": "Deadly ‘Incident’ at Canadian Forces Base Wainwright Sparks Fire",
+      "url": "https://www.nytimes.com/2026/10/17/world/canada/fire-canadian-army-base-wainwright.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-18T07:16:38+00:00",
+      "summary": "Ambulances gathered outside a health center after a “serious incident” at a military base in the town of Wainwright, in Alberta, Canada, on Saturday.",
+      "image": "https://static01.nyt.com/images/2026/10/18/multimedia/18int-canada-alberta-fire-htgw/18int-canada-alberta-fire-htgw-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "WNBA Finals: Gabby Williams leads Valkyries to nervy Game 1 win over Dream",
+      "url": "https://www.aljazeera.com/sports/2026/10/18/wnba-finals-gabby-williams-leads-valkyries-to-nervy-game-1-win-over-dream?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-18T07:08:33+00:00",
+      "summary": "Williams scored 26 points as the Golden State Valkyries came back to take the lead at home against the Atlanta Dream.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Israel’s ties with Europe are fraying. Can its election change that?",
+      "url": "https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-18T07:05:00+00:00",
+      "summary": "European condemnation is mounting, but Israel’s election offers little prospect of a material change for Palestinians.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Populist Czech PM Babis goes empty-handed in Senate elections",
+      "url": "https://www.dw.com/en/populist-czech-pm-babis-goes-empty-handed-in-senate-elections/a-79690934?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "Deutsche Welle",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-18T07:03:00+00:00",
+      "summary": "Opposition parties still control the Czech Senate, in a major blow to Prime Minister Andrej Babis' and his governing coalition.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
+      "url": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-18T06:59:38+00:00",
+      "summary": "A tourist office in Lyon, France, that was set on fire during unrest on Saturday. Many rallies stayed peaceful as weeks of student-led protests evolved into a national display of discontent.",
+      "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-france-unrest-khmb/17int-france-unrest-khmb-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Daniel Dubois defeats Fabio Wardley to retain WBO heavyweight boxing title",
+      "url": "https://www.aljazeera.com/sports/2026/10/18/daniel-dubois-defeats-fabio-wardley-to-retain-wbo-heavyweight-boxing-title?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-18T06:34:02+00:00",
+      "summary": "Champion dominates fellow British boxer in London before facing a challenge from IBO champion Hrgovic.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "意大利多地反生活成本上涨示威演变为暴力冲突，警方动用催泪弹和高压水炮",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261018-%E6%84%8F%E5%A4%A7%E5%88%A9%E5%A4%9A%E5%9C%B0%E5%8F%8D%E7%94%9F%E6%B4%BB%E6%88%90%E6%9C%AC%E4%B8%8A%E6%B6%A8%E7%A4%BA%E5%A8%81%E6%BC%94%E5%8F%98%E4%B8%BA%E6%9A%B4%E5%8A%9B%E5%86%B2%E7%AA%81%EF%BC%8C%E8%AD%A6%E6%96%B9%E5%8A%A8%E7%94%A8%E5%82%AC%E6%B3%AA%E5%BC%B9%E5%92%8C%E9%AB%98%E5%8E%8B%E6%B0%B4%E7%82%AE",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-10-18T06:09:27+00:00",
+      "summary": "综合美联社、路透社报道，10月17日，意大利米兰和博洛尼亚发生了抗议活动，其中米兰市中心出现严重的警民冲突。",
+      "image": "https://s.rfi.fr/media/display/66e66c8c-caba-11f1-a23d-4dd8ac2cf3bf/w:1024/p:16x9/AP26290745935535.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Guatemalan former prosecutor shot dead at sports centre",
+      "url": "https://www.aljazeera.com/news/2026/10/18/guatemalan-former-prosecutor-shot-dead-at-sports-centre?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-18T05:53:33+00:00",
+      "summary": "Guatemalan police say they arrested two men in connection with the killing of Juan Francisco Solorzano Foppa.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "AI tool helps stranded protesters find their way home in the Indian capital",
+      "url": "https://www.aljazeera.com/news/2026/10/18/ai-tool-helps-stranded-protesters-find-their-way-home-in-the-indian-capital?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-18T05:37:36+00:00",
+      "summary": "A lifeline that connects people detained and dropped off at distant locations with volunteers who ensure a safe return.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Why Marco Rubio’s visit to Mumbai has ruffled feathers in India",
+      "url": "https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-18T05:16:49+00:00",
+      "summary": "US secretary of state is skipping New Delhi, and opposition leaders complain his arrangements are humiliating.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "法國抗議爆發暴力衝突、搶劫、建築物起火，逾千人被捕",
+      "url": "https://www.bbc.com/zhongwen/articles/cq8ez1wny72xo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-10-18T05:12:41+00:00",
+      "summary": "法國全國多座城市爆發騷亂，超過50萬人參加了反對生活成本上漲的抗議活動。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3812/live/6e8b04f0-cab2-11f1-a64c-550be9e3c66b.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "China moves to cement ties with Uzbekistan amid tussle with US for Central Asian influence",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3371285/china-moves-cement-ties-uzbekistan-amid-tussle-us-central-asian-influence?utm_source=rss_feed",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-18T05:12:38+00:00",
+      "summary": "Chinese Premier Li Qiang has called for deeper cooperation with Uzbekistan in areas such as minerals and artificial intelligence as the Beijing vies with Washington for influence in Central Asia.\nLi told President Shavkat Mirziyoyev on Saturday that Beijing was ready to strengthen strategic communication and expand mutually beneficial cooperation with Uzbekistan.\nHe urged the two countries to step up cooperation in energy, minerals, finance and connectivity, and deepen collaboration in fields...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/18/bf80c7e7-068a-433d-a462-632e9da66892_02aead0a.jpg?itok=t1i5Vp59&v=1792299980",
+      "via": "rss"
+    },
+    {
+      "title": "‘Serious incident’ causes deaths, injuries at Canada military base",
+      "url": "https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-18T04:59:29+00:00",
+      "summary": "Defence Minister David McGuinty says people were killed and injured after an incident caused a major fire in Alberta.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "St Petersburg under attack from Ukrainian drone swarm",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-18T04:51:01+00:00",
+      "summary": "Video posted on social media shows multiple explosions in St Petersburg, Russia after a suspected Ukrainian drone swarm.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "UK police rule out probe into Palestine Action post by PM adviser’s wife",
+      "url": "https://www.aljazeera.com/news/2026/10/18/uk-police-rule-out-probe-into-palestine-action-post-by-pm-advisers-wife?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-18T04:46:17+00:00",
+      "summary": "Met Police determine X post by Sarah Helm, seen to endorse Palestine Action, does &#039;not meet the criminal threshold&#039;.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Singing, Dancing and Getting Dumped by A.I. on Korean TV",
+      "url": "https://www.nytimes.com/2026/10/18/world/asia/korea-ai-dating-show.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-18T04:24:04+00:00",
+      "summary": "Three celebrities date artificial intelligence avatars on a reality show made in South Korea, where A.I. is hugely popular.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "At least 19 dead in stampede at Kolkata Hindu festival",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-18T04:21:46+00:00",
+      "summary": "A seven-year-old girl was among at least 19 people killed in a stampede during a Hindu festival in Kolkata, India.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Tunisia’s economic crisis deepens as the promise of a better life fades",
+      "url": "https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-18T04:14:42+00:00",
+      "summary": "Joblessness, failing services and rising costs deepen hardship across the country.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "In India, the Scion of a Political Dynasty Tries to Seize His Moment",
+      "url": "https://www.nytimes.com/2026/10/18/world/asia/india-gandhi-political-dynasty.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-18T04:01:17+00:00",
+      "summary": "Rahul Gandhi, leader of the Indian National Congress, attending a student rally in Chennai last weekend.",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/xxint-india-gandhi-01-mhvf/xxint-india-gandhi-01-mhvf-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "China’s youth draw upon Long March spirit to navigate modern uncertainties",
+      "url": "https://www.scmp.com/news/china/politics/article/3371269/chinas-youth-draw-upon-long-march-spirit-navigate-modern-uncertainties?utm_source=rss_feed",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-18T04:00:19+00:00",
+      "summary": "As China marks the 90th anniversary of the Red Army’s victory in the Long March, some young Chinese are looking to the historic journey for guidance as they face uncertainty in their lives and future.\nFor Lyu Leiyiyi, a 22-year-old student at the Communication University of China, the spirit of the Long March offers a sense of stability at a time when people and the environment around her are changing at a dizzying pace.\n“People in their 20s are going through a period of uncertainty,” Lyu said....",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/17/285a36fa-4ac0-454d-9176-4247fbed819d_3c5fb0ca.jpg?itok=vP_nQi5z&v=1792242030",
+      "via": "rss"
+    },
+    {
+      "title": "America’s $10tn AI infrastructure boom is starting to fray",
+      "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-18T04:00:18+00:00",
+      "summary": "A vast bet on the future of the technology is running into the unforgiving economics of the physical world",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7bd165b9-9b2e-4e8c-83f1-70e5b0dc9426.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "The Trump administration has entered its utter shambles era",
+      "url": "https://www.ft.com/content/cf888c97-f01e-425b-ab3a-37e696612e8a?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-18T04:00:18+00:00",
+      "summary": "A disastrous five-day stint for the president’s new press secretary is just the latest sign of chaos in the White House",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7b1861e1-add3-4b6a-ab0f-96128f327b15.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Russian ‘shadow fleet’ fakes locations to appear in two places at once",
+      "url": "https://www.ft.com/content/f9dd0c26-3de3-4ecc-8a08-7d08f0946d08?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-18T04:00:18+00:00",
+      "summary": "New method of deception appears co-ordinated, suggesting Moscow is tightening its control over the tankers",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F61dd7a7d-304b-4797-85db-aaa9101c8d5b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Latvia calls for visa ban on Russians",
+      "url": "https://www.ft.com/content/75a42e7d-1497-4760-bd75-1cbd083fc9a4?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-18T04:00:18+00:00",
+      "summary": "Prime Minister Andris Kulbergs links travellers to escalating hybrid threats from Moscow",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd0977b4d-3d2e-41ac-9259-80de40e74b89.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Global economy set for AI-driven surge, FT survey suggests",
+      "url": "https://www.ft.com/content/c6aeb3a1-1874-4947-8ffc-4d993301244a?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-18T04:00:09+00:00",
+      "summary": "Poll of 94 economists points to benefits reaching far beyond the US and China",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1ce38078-6e17-4800-9c00-307ea8b5cfda.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Anthropic turns to lawyers to help AI agents strike deals",
+      "url": "https://www.ft.com/content/f7c26ac0-f5f2-443a-86b2-39d62f7920a9?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-18T04:00:09+00:00",
+      "summary": "Tech companies are being forced to confront the rules of negotiation when machines act on humans’ behalf",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd0c5836a-e180-41a3-926e-d97eee0d614a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "The world’s fastest-growing cities are not where you think",
+      "url": "https://www.ft.com/content/5203e527-ebdd-45d2-9019-6c440b4c4e93?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-18T04:00:09+00:00",
+      "summary": "The continent’s urban centres are set to expand by 19mn people annually, or by nearly two Londons a year. But urbanisation is not following a familiar path",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7cd7477a-1fbd-47fe-b8d8-44bcd10a8217.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Europe must liberate Belgium from its huge Russian assets risk",
+      "url": "https://www.ft.com/content/c3d73770-4d91-4bd0-bf6d-7f9375e2b938?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-18T04:00:09+00:00",
+      "summary": "What happens if the US tries to take control of the hundreds of billions blocked in Euroclear?",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6db85e2e-d03f-48e3-b24f-feac89db7500.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Rubio wants ‘crackdown’ on settler violence after US journalist attack",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-18T03:44:25+00:00",
+      "summary": "Rubio wants ‘crackdown’ on settler violence after US journalist attack",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Indonesia Stock Market Faces MSCI Exile over Poor Governance",
+      "url": "https://www.asiasentinel.com/p/indonesia-stock-market-msci-exile-poor-governance",
+      "source": "Asia Sentinel",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-10-18T03:39:41+00:00",
+      "summary": "By: Ainur RohmahIndonesia&#8217;s stock market suffered a dramatic sell-off on Friday after global index provider Morgan Stanley Capital International (MSCI) proposed removing the country from the global indexes tracked by investors, essentially sending it into the isolated backwater status of a standalone market. The move would strip the country of its emerg&#8230;\n      \n          \n              Read more",
+      "image": "https://substackcdn.com/image/fetch/$s_!smro!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab747211-54ec-4bb4-9c53-7b595a5e6361_800x450.jpeg",
+      "via": "rss"
+    },
+    {
+      "title": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
+      "url": "https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-18T02:35:14+00:00",
+      "summary": "Ukraine’s president says restrictions are hampering efforts to intercept Russian attacks",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F56d38f6c-78dd-425d-947a-5999facd20d9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Search continues for 11 missing after boat sank off Mexico’s Baja coast",
+      "url": "https://www.aljazeera.com/news/2026/10/18/search-continues-for-11-missing-after-boat-sank-off-mexicos-baja-coast?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-18T02:33:14+00:00",
+      "summary": "Some of 16 survivors treated for suspected shark bites, US coastguard says.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Israeli Settlers Attack Palestinians and European Officials in West Bank",
+      "url": "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-18T02:32:51+00:00",
+      "summary": "Tear gas fired by Israeli soldiers fills an olive grove in the Israeli-occupied West Bank, on Friday.",
+      "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-westbank-attacks-gzwq/17int-westbank-attacks-gzwq-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Fears grow in DRC as former President Joseph Kabila joins rebellion",
+      "url": "https://www.aljazeera.com/news/2026/10/18/fears-grow-in-drc-as-former-president-joseph-kabila-joins-rebellion?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-18T02:21:48+00:00",
+      "summary": "Kabila’s move raises new questions about the war in eastern Congo and prospects for peace.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
+      "url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-18T01:54:18+00:00",
+      "summary": "The vessels, each carrying about two million barrels of crude oil, used an unauthorised route, the IRGC says.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "China Quest: As We Age",
+      "url": "https://news.cgtn.com/news/2026-10-18/China-Quest-As-We-Age-1RkOaSGTCw0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-18T01:37:06+00:00",
+      "summary": "Growing old is a journey every one of us will walk — but how do we live it with unshaken dignity? Faced with a senior population of over 320 million, including 35 million functionally impaired elders, China is forging its own path forward. In this episode of China Quest: As We Age, we take you straight to the frontlines of this far-reaching social transformation. From the grassroots rollout of long-term care schemes to the quiet rise of context-aware eldercare technology, witness the human stories, homegrown innovations and distinct possibilities that are redefining what \"aging well\" means for 1.4 billion people.",
+      "image": "https://video.cgtn.com/news/2026-10-18/China-Quest-As-We-Age-1RkOaSGTCw0/video/wu_1k568iu3m11nohhs86l109k1mnbp/wu_1k568iu3m11nohhs86l109k1mnbp-1280.jpg",
+      "via": "rss"
+    },
     {
       "title": "Buildings burn as French protests go into the night",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/buildings-burn-as-french-protests-go-into-the-night?traffic_source=rss",
@@ -182,18 +1085,18 @@
       "via": "rss"
     },
     {
-      "title": "「我申請了200份工作」——用AI「撒網」投履歷為何容易弄巧成拙？",
+      "title": "「我申請了200份工作」——用AI「撒網」求職為何易弄巧成拙？",
       "url": "https://www.bbc.com/zhongwen/articles/crz65gwv8gv5o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
       "language": "zh",
       "type": "broadcast",
       "published": "2026-10-18T00:32:02+00:00",
-      "summary": "研究發現越來越多畢業生利用人工智慧在求職申請中偽造個人資訊。但有人認為他們別無選擇。",
+      "summary": "研究發現越來越多畢業生利用人工智慧在求職申請中編造個人資訊。但有人認為他們別無選擇。",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e20e/live/3028ee00-c988-11f1-9a39-31b474234113.jpg",
       "via": "rss"
     },
     {
-      "title": "美國中國研究生涉嫌毒害越南同學：大學與受害者家屬怎麼說？",
+      "title": "在美中國研究生涉毒害越南同學：大學與家屬怎麼說？",
       "url": "https://www.bbc.com/zhongwen/articles/c6vg08d0glp7o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
       "language": "zh",
@@ -215,7 +1118,7 @@
       "via": "rss"
     },
     {
-      "title": "Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh",
+      "title": "Iran war live: Ships attacked off UAE, Yemen; drones downed near Riyadh",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
       "source": "Al Jazeera",
       "language": "en",
@@ -232,7 +1135,7 @@
       "language": "en",
       "type": "broadcast",
       "published": "2026-10-17T23:40:59+00:00",
-      "summary": "Trump-appointed Ambassador Mike Huckabee calls attack in occupied West Bank a &#039;despicable act of terror&#039;.",
+      "summary": "US Secretary of State Rubio separately urges Israel to ‘crack down’ on settler violence after attack on photographer.",
       "image": "",
       "via": "rss"
     },
@@ -292,28 +1195,6 @@
       "via": "rss"
     },
     {
-      "title": "Israeli Settlers Attack Palestinians and European Officials in West Bank",
-      "url": "https://www.nytimes.com/2026/10/17/world/middleeast/israeli-settlers-attack-palestinians-diplomats-west-bank.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-17T22:15:45+00:00",
-      "summary": "Tear gas fired by Israeli soldiers fills an olive grove in the Israeli-occupied West Bank, on Friday.",
-      "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-westbank-attacks-gzwq/17int-westbank-attacks-gzwq-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Unrest Mars Day of Protest in France, as Student Movement Turns National",
-      "url": "https://www.nytimes.com/2026/10/17/world/europe/france-protest-riots-marseille.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-17T22:06:44+00:00",
-      "summary": "A tourist office in Lyon, France, that was set on fire during unrest on Saturday. Many rallies stayed peaceful as weeks of student-led protests evolved into a national display of discontent.",
-      "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-france-unrest-khmb/17int-france-unrest-khmb-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
       "title": "Beyond EVs and perception, how China is gaining ground in Central Asia",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3371232/beyond-evs-and-perception-how-china-gaining-ground-central-asia?utm_source=rss_feed",
       "source": "SCMP",
@@ -364,7 +1245,7 @@
       "language": "en",
       "type": "broadcast",
       "published": "2026-10-17T21:02:26+00:00",
-      "summary": "Hundreds of thousands took to the streets for separate demonstrations, putting pressure on governments across the EU.",
+      "summary": "Hundreds of thousands take to the streets for separate demonstrations, putting pressure on governments across the EU.",
       "image": "",
       "via": "rss"
     },
@@ -413,28 +1294,6 @@
       "via": "rss"
     },
     {
-      "title": "Al Jazeera reporter harassed, struck on head amid France protests, looting",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reporter-harassed-struck-on-head-amid-france-protests-looting?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-17T20:20:25+00:00",
-      "summary": "Al Jazeera’s Rosie Rosie Birchard was harassed by protesters looting shops in Rennes, France.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Iranian TV airs video said to show tanker explosion in Hormuz",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-17T20:02:22+00:00",
-      "summary": "Iranian state TV aired footage claiming to  show an oil tanker exploding after striking a naval mine in Hormuz",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "Mexican Judge Sentences 3 Men to 159 Years Each in Surfer Killings",
       "url": "https://www.nytimes.com/2026/10/17/world/americas/mexican-judge-sentences-3-men-to-159-years-each-in-surfer-killings.html",
       "source": "New York Times",
@@ -443,17 +1302,6 @@
       "published": "2026-10-17T19:58:23+00:00",
       "summary": "The men were charged in the murders of two Australians and an American who were on a camping and surf vacation in Mexico.",
       "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-mexico-sentence-zqch/17int-mexico-sentence-zqch-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "At least 17 killed in stampede at religious gathering in India",
-      "url": "https://www.aljazeera.com/news/2026/10/17/at-least-17-killed-in-stampede-at-religious-gathering-in-india?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-17T19:48:54+00:00",
-      "summary": "Incident took place at festival in north Kolkata, in India&#039;s West Bengal state, amid big crowds and rainfall, police said.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -468,17 +1316,6 @@
       "via": "rss"
     },
     {
-      "title": "Albanian police fire rubber bullets as protests against Rama escalate",
-      "url": "https://www.aljazeera.com/news/2026/10/17/albanian-police-fire-rubber-bullets-as-protests-against-rama-escalate?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-17T19:26:13+00:00",
-      "summary": "Five days of clashes rock Tirana as students join a wider movement demanding Prime Minister Edi Rama&#039;s resignation.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "Ilhan Omar: The US Democrat targeted by Donald Trump",
       "url": "https://www.dw.com/en/ilhan-omar-the-us-democrat-targeted-by-donald-trump/a-79688445?maca=en-rss-en-world-4025-xml-mrss",
       "source": "Deutsche Welle",
@@ -486,28 +1323,6 @@
       "type": "broadcast",
       "published": "2026-10-17T19:17:00+00:00",
       "summary": "Donald Trump has described her as \"garbage\" and a \"criminal\" who does nothing but \"bitch.\" Congress member Ilhan Omar has long been the target of angry verbal attacks from the US president. But why her?",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-17T19:04:00+00:00",
-      "summary": "Hundreds of protesters rallied outside the office of Kyiv’s mayor Vitali Klitschko, demanding that he steps down.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Will the EU come to Ukraine’s rescue in war against Russia?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-17T19:03:49+00:00",
-      "summary": "US support at risk as Trump-Zelenskyy relations nosedive.",
       "image": "",
       "via": "rss"
     },
@@ -520,28 +1335,6 @@
       "published": "2026-10-17T18:57:34+00:00",
       "summary": "Student demonstrations over education converged with broader protests against rising living costs and a luxury development linked to Jared Kushner, President Trump’s son-in-law.",
       "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-albania-protests-wtk-fbtm/17int-albania-protests-wtk-fbtm-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Is the US Embassy in Jerusalem for Israel or America?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-17T18:41:30+00:00",
-      "summary": "What led to the deaths of the nine Americans killed in the occupied West Bank since 2022?",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
-      "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-17T18:26:59+00:00",
-      "summary": "Attacks hit several areas as UNICEF reports more than 340 children killed since &#039;ceasefire&#039; began a year ago.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -567,28 +1360,6 @@
       "via": "rss"
     },
     {
-      "title": "Israeli settlers attack European diplomats in the West Bank",
-      "url": "https://www.ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-17T17:58:01+00:00",
-      "summary": "Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1d79e691-53e8-48ff-a462-a666026301ea.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "India and West Indies denied a thrilling finale as rain hits final T20",
-      "url": "https://www.aljazeera.com/sports/2026/10/17/india-and-west-indies-denied-thrilling-finale-as-rain-hits-final-t20?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-17T17:42:01+00:00",
-      "summary": "India reached 118-5 after seven overs with Naman Dhir hitting 24 off six balls before rain forced an end to the game.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "The World’s Oldest Shipwreck? Maybe, but ‘We’re All Excited by Maybe.’",
       "url": "https://www.nytimes.com/2026/10/16/world/middleeast/oldest-shipwreck-amphora-turkey.html",
       "source": "New York Times",
@@ -600,80 +1371,14 @@
       "via": "rss"
     },
     {
-      "title": "Pope Leo returns to Vatican after lung cancer surgery",
-      "url": "https://www.aljazeera.com/news/2026/10/17/pope-leo-returns-to-vatican-after-lung-cancer-surgery?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-17T17:37:52+00:00",
-      "summary": "Doctors say they are seeing &#039;continued improvement&#039; after the US-born pope had a lump removed from his lung on Tuesday.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Trump faces bipartisan backlash over Russia sanctions waiver",
-      "url": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-17T17:24:07+00:00",
-      "summary": "Republicans and Democrats condemn Trump’s decision to suspend sanctions, saying it undermines support for Ukraine.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-17T17:18:50+00:00",
-      "summary": "After Israeli settlers beat and severely wounded Palestinian farmers, settler violence continues.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Al Jazeera reports from Paris as protests turn violent",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-17T16:56:40+00:00",
-      "summary": "In Paris, thousands are protesting teacher shortages, poor school facilities and cuts to public services.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Why are Latin American countries building closer ties with Israel?",
-      "url": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-17T16:54:44+00:00",
-      "summary": "A wave of new Latin American leaders reverses measures meant to isolate Israel after its genocidal war on Gaza.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "Uncertainty Over Pope’s Health Fuels Familiar Debate Over Vatican’s Candor",
       "url": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-vatican-transparency-cancer.html",
       "source": "New York Times",
       "language": "en",
       "type": "newspaper",
-      "published": "2026-10-17T16:52:47+00:00",
+      "published": "2026-10-17T16:52:48+00:00",
       "summary": "Pope Leo XIV at a torchlight procession last month in Lourdes, France. Vatican experts wondered if he already knew of his cancer diagnosis during that visit.",
       "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-pope-tea-leaves-mjtq/17int-pope-tea-leaves-mjtq-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-17T16:49:07+00:00",
-      "summary": "Egyptian President Abdel Fattah el-Sisi has vowed to take &#039;any measure&#039; to defend Saudi Arabia amid Houthi attacks.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -754,17 +1459,6 @@
       "via": "rss"
     },
     {
-      "title": "16 People Rescued in Pacific Ocean Off Mexico, U.S. Coast Guard Says",
-      "url": "https://www.nytimes.com/2026/10/16/world/americas/baja-california-mexico-rescue-coast-guard.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-17T15:15:38+00:00",
-      "summary": "The agency said a major rescue operation was underway near the coast of Baja California after it received reports of 27 people in the water.",
-      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16xp-rescue-lvwf/16xp-rescue-lvwf-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
       "title": "Why Britain should reject the lure of cheap – and  scary – Chinese AI",
       "url": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
       "source": "The Guardian",
@@ -787,6 +1481,17 @@
       "via": "rss"
     },
     {
+      "title": "Croatian PM meets Chinese FM, calls for deeper bilateral cooperation",
+      "url": "https://news.cgtn.com/news/2026-10-17/Croatian-PM-meets-Chinese-FM-calls-for-deeper-bilateral-cooperation-1Rk2jhmR6fK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-17T14:48:18+00:00",
+      "summary": "Croatian Prime Minister Andrej Plenkovic met with visiting Chinese Foreign Minister Wang Yi on Saturday, expressing Croatia's willingness to deepen cooperation with China in various fields and under the China-Central and Eastern European Countries (CEEC) cooperation framework.Wang, also a member of the Political Bureau of the Communist Party of China Central Committee, said China values its traditional friendship with Croatia and is willing to further elevate bilateral ties on the basis of their comprehensive cooperative partnership.Wang noted China and CEEC have a practical need to strengthen exchanges and advance cooperation. Such cooperation is fully open and transparent and helps advance European integration, he said, adding that China stands ready to deepen cooperation in various fields within the framework with countries in the region willing to participate.China appreciates Croatia's positive attitude and hopes to use the 15th anniversary of the China-CEEC cooperation mechanism ",
+      "image": "https://news.cgtn.com/news/2026-10-17/Croatian-PM-meets-Chinese-FM-calls-for-deeper-bilateral-cooperation-1Rk2jhmR6fK/img/a4912e9e2aca4c3db01cd3cae83fbdad/a4912e9e2aca4c3db01cd3cae83fbdad-250.png",
+      "via": "rss"
+    },
+    {
       "title": "美官员本周在曼谷就万事达卡和花旗集团的市场准入向中方施压",
       "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20261017-%E7%BE%8E%E5%AE%98%E5%91%98%E6%9C%AC%E5%91%A8%E5%9C%A8%E6%9B%BC%E8%B0%B7%E5%B0%B1%E4%B8%87%E4%BA%8B%E8%BE%BE%E5%8D%A1%E5%92%8C%E8%8A%B1%E6%97%97%E9%9B%86%E5%9B%A2%E7%9A%84%E5%B8%82%E5%9C%BA%E5%87%86%E5%85%A5%E5%90%91%E4%B8%AD%E6%96%B9%E6%96%BD%E5%8E%8B",
       "source": "法广中文",
@@ -795,6 +1500,28 @@
       "published": "2026-10-17T14:28:26+00:00",
       "summary": "据一位美国财政部官员透露，本周在曼谷举行的至少两次双边会晤中，美国官员曾就万事达卡公司和花旗集团的市场准入问题向中方官员施压。",
       "image": "https://s.rfi.fr/media/display/b342bec6-12ea-11ea-9c41-005056bf7c53/w:1024/p:16x9/26b534c640734ed2028cea01d18534d14a2cb851_0.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "China condemns Japanese politicians over Yasukuni Shrine offerings",
+      "url": "https://news.cgtn.com/news/2026-10-17/China-condemns-Japanese-politicians-over-Yasukuni-Shrine-offerings-1Rk1uGMt00E/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-17T14:21:53+00:00",
+      "summary": "China has strongly condemned Japanese politicians after Japanese Prime Minister Sanae Takaichi sent ritual offerings to the Yasukuni Shrine and some cabinet members and lawmakers visited it.The shrine is a symbol of Japanese militarism and enshrines 14 Class-A war criminals directly responsible for Japan's war of aggression, a spokesperson for the Chinese Embassy in Japan said on Saturday.No matter what excuses Japanese politicians offer, their actions cannot conceal their real intentions of whitewashing war criminals, covering up wartime atrocities, distorting historical facts and paving the way for accelerated remilitarization, the spokesperson said.Such acts desecrate historical justice, challenge the basic standards of civilization and defy the postwar international order, drawing firm opposition from the international community, the spokesperson added.This year marks the 80th anniversary of the opening of the International Military Tribunal for the Far East, or the Tokyo Trials. A",
+      "image": "https://news.cgtn.com/news/2026-10-17/China-condemns-Japanese-politicians-over-Yasukuni-Shrine-offerings-1Rk1uGMt00E/img/ad05d73b0868431c86cc43afa0cb7882/ad05d73b0868431c86cc43afa0cb7882-1920.png",
+      "via": "rss"
+    },
+    {
+      "title": "APEC 2026: 30 days to go until Shenzhen hosts world leaders",
+      "url": "https://news.cgtn.com/news/2026-10-17/APEC-2026-30-days-to-go-until-Shenzhen-hosts-world-leaders-1RjNBWgfQxG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-17T14:11:34+00:00",
+      "summary": "With about 30 days to go before Asia-Pacific Economic Cooperation (APEC) leaders meet in Shenzhen, China is entering the final stretch of its host year and the city steps up preparations. &nbsp;The 33rd APEC Economic Leaders' Meeting will be held in Shenzhen on November 18 and 19, with the APEC CEO Summit scheduled for November 17 and 18.&nbsp;On Wednesday, Shenzhen's APEC preparation group called for stronger coordination on conference services, security, healthcare, food safety, transportation, communications and volunteers.&nbsp;To keep the city moving, Shenzhen&nbsp;is launching a \"Green Travel, Smooth Journey for All\" plan. It includes adding more than 50 new bus-metro feeder routes, increasing bus services by 20%, and encouraging flexible work hours that week to ease commuting pressure.The 2026 APEC agenda has been building since February, when delegates from the 21 member economies met in Guangzhou for the first Senior Officials' Meeting.&nbsp;Chinese Foreign Minister Wang Yi se",
+      "image": "https://news.cgtn.com/news/2026-10-17/APEC-2026-30-days-to-go-until-Shenzhen-hosts-world-leaders-1RjNBWgfQxG/img/8a8d465d28a3445f83f46db2e1d4805b/8a8d465d28a3445f83f46db2e1d4805b-1920.png",
       "via": "rss"
     },
     {
@@ -831,14 +1558,14 @@
       "via": "rss"
     },
     {
-      "title": "Trump Signs Order Waiving New Russia Sanctions",
-      "url": "https://www.nytimes.com/2026/10/16/us/politics/trump-order-russia-sanctions.html",
-      "source": "New York Times",
+      "title": "China-Botswana ties 'shine like diamonds' as a new chapter opens",
+      "url": "https://news.cgtn.com/news/2026-10-17/China-Botswana-ties-shine-like-diamonds-as-a-new-chapter-opens-1RjDII6gw6I/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
       "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-17T13:30:38+00:00",
-      "summary": "The sanctions were part of a measure that was named after Senator Lindsey Graham, the South Carolina Republican who died in July.",
-      "image": "https://static01.nyt.com/images/2025/08/16/multimedia/16dc-russia-sanctions/16dc-russia-sanctions-mediumSquareAt3X-v2.jpg",
+      "type": "broadcast",
+      "published": "2026-10-17T13:19:07+00:00",
+      "summary": "For decades, diamonds have shone as the glittering emblem of Botswana. For China and Botswana, the precious stone offers a fitting metaphor for a friendship that has endured across decades.Chinese President Xi Jinping invoked that image during his meeting with Botswana's President Duma Gideon Boko in Beijing, saying the two countries' friendship should \"shine bright and endure like diamonds.\"As both sides look toward a new stage of cooperation and their shared journey toward modernization, the enduring value of their partnership lies in both the opportunities diamonds represent and the possibilities beyond.A stronger strategic partnershipDuring their meeting on Tuesday, Xi and Boko agreed to elevate bilateral ties to a comprehensive strategic cooperative partnership.Xi called for deeper economic and trade cooperation, urging both sides to seize opportunities under China's zero-tariff policy for African countries with diplomatic ties with China. He also highlighted potential cooperation",
+      "image": "https://news.cgtn.com/news/2026-10-17/China-Botswana-ties-shine-like-diamonds-as-a-new-chapter-opens-1RjDII6gw6I/img/90c8e4d34e9440abaf85b6c808729e55/90c8e4d34e9440abaf85b6c808729e55-750.png",
       "via": "rss"
     },
     {
@@ -858,7 +1585,7 @@
       "source": "New York Times",
       "language": "en",
       "type": "newspaper",
-      "published": "2026-10-17T13:00:51+00:00",
+      "published": "2026-10-17T13:00:52+00:00",
       "summary": "Toru Utsumi, 60, works as a management consultant, but on his days off, he has become a global internet star — despite some local disapproval.",
       "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-japan-salaryman-01-fgqk/17int-japan-salaryman-01-fgqk-mediumSquareAt3X.jpg",
       "via": "rss"
@@ -880,7 +1607,7 @@
       "source": "New York Times",
       "language": "en",
       "type": "newspaper",
-      "published": "2026-10-17T12:55:52+00:00",
+      "published": "2026-10-17T12:55:53+00:00",
       "summary": "Stranded in a port waterway for weeks, the 10-foot fish has attracted more than a million spectators, while officials try to guide her back to open sea.",
       "image": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-skorea-shark-01-qwgb/17int-skorea-shark-01-qwgb-mediumSquareAt3X.jpg",
       "via": "rss"
@@ -897,14 +1624,14 @@
       "via": "rss"
     },
     {
-      "title": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
-      "url": "https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6=1",
-      "source": "Financial Times",
+      "title": "Time's up for the leap second",
+      "url": "https://news.cgtn.com/news/2026-10-17/Time-s-up-for-the-leap-second-1RjMg2Bw4FO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
       "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-17T12:53:53+00:00",
-      "summary": "President says restrictions only apply in Ukraine and are hampering efforts to intercept Russian attacks",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F56d38f6c-78dd-425d-947a-5999facd20d9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "type": "broadcast",
+      "published": "2026-10-17T12:27:32+00:00",
+      "summary": "The world is about to stop adding leap seconds.&nbsp;Under the new system, clocks will be allowed to drift from the Earth's actual rotation by up to an hour before anyone has to step in. This means no more leap seconds – for centuries.Leap seconds have been added to Coordinated Universal Time (UTC) to keep it aligned with Earth's irregular rotation. But these adjustments can disrupt digital systems that rely on continuous, precise timekeeping. Since the practice began, 27 leap seconds have been inserted. In 2012, a leap second reportedly caused outages across more than 2,000 networks worldwide. In 2015, the US Intercontinental Exchange halted trading for more than 60 minutes.The risk of a negative leap second – removing a second rather than adding one – has also raised concerns, as computer systems have never had to implement one on a global scale.The reform comes after the 28th General Conference on Weights and Measures (CGPM), held in Versailles, France, adopted a resolution this mon",
+      "image": "https://news.cgtn.com/news/2026-10-17/Time-s-up-for-the-leap-second-1RjMg2Bw4FO/img/535eac866cfb45738d57e9d2f0aa95e1/535eac866cfb45738d57e9d2f0aa95e1-1920.png",
       "via": "rss"
     },
     {
@@ -963,6 +1690,17 @@
       "via": "rss"
     },
     {
+      "title": "The woman giving her best years to China's high-altitude border",
+      "url": "https://news.cgtn.com/news/2026-10-17/The-woman-giving-her-best-years-to-China-s-high-altitude-border-1RjO8eTZiow/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-17T11:46:25+00:00",
+      "summary": "Every week, Guzailinuer Abula leads a team of women on patrol through the Kunlun Mountains in Xinjiang Uygur Autonomous Region, northwest China. Their route crosses rocky slopes, icy rivers and narrow mountain paths, at altitudes of more than 3,000 meters.Abula has spent eight years at a remote border outpost in the Xinjiang Production and Construction Corps. In 2019, she came up with the idea for an all-female team. Ten women joined, and the group has since become part of the local border patrol.Winter temperatures can fall to minus 30 Celsius. The air is thin enough to leave you breathless. Abula has completed more than 400 patrols, covering nearly 20,000 kilometers.Her work goes beyond the border. A trained nurse, she carries medical supplies to treat local herders, makes sure residents can get essential medicines, helps older people with chores and supports families with children.Abula grew up on her grandfather's stories of the border – he was among the first generation of border ",
+      "image": "https://news.cgtn.com/news/2026-10-17/The-woman-giving-her-best-years-to-China-s-high-altitude-border-1RjO8eTZiow/img/dae7fa4148be4d1da9a09023935f4bb5/dae7fa4148be4d1da9a09023935f4bb5-750.png",
+      "via": "rss"
+    },
+    {
       "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
       "url": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-world-4025-xml-mrss",
       "source": "Deutsche Welle",
@@ -971,6 +1709,17 @@
       "published": "2026-10-17T11:34:00+00:00",
       "summary": "Ukrainian President Zelenskyy says Russia is trying to cut electricity and heating to civilians ahead of winter. He also called the US president's waiver of new sanctions on Moscow a boost for Vladimir Putin.",
       "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "How China's Ulanqab is working to power AI with greener energy",
+      "url": "https://news.cgtn.com/news/2026-10-17/How-China-s-Ulanqab-is-working-to-power-AI-with-greener-energy-1Rjlcwz9Ykg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-17T11:28:54+00:00",
+      "summary": "Chinese President Xi Jinping called for the efficient, green and safe development of computing infrastructure during an inspection trip on Friday to Ulanqab, a city in north China's Inner Mongolia Autonomous Region that is becoming an important base for the country's digital economy.Xi visited Chahar High-Tech Development Zone and was briefed on Inner Mongolia's progress in building a hub for the \"East Data, West Computing\" project and developing its green computing industry.The visit highlights a challenge confronting the global technology industry: how to expand the computing capacity needed for artificial intelligence while managing its growing demand for electricity and cooling.Ulanqab offers a window into China's approach.A key part of that approach is bringing computing demand and renewable energy supply closer together. The national \"East Data, West Computing\" project supports this effort by linking demand in eastern China with computing resources in western regions.Part of the ",
+      "image": "https://news.cgtn.com/news/2026-10-17/How-China-s-Ulanqab-is-working-to-power-AI-with-greener-energy-1Rjlcwz9Ykg/img/91f32f57f1374ea9b5bf29cb71acf882/91f32f57f1374ea9b5bf29cb71acf882-750.png",
       "via": "rss"
     },
     {
@@ -1029,17 +1778,6 @@
       "via": "rss"
     },
     {
-      "title": "Trump exempts Russia from further sanctions mandated by new law",
-      "url": "https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-17T09:53:31+00:00",
-      "summary": "US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5b84a378-cd62-487a-aba8-23ea3dfba6c2.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
       "title": "法国多地爆发抗议示威 青年与黄背心再聚焦民生问题",
       "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261017-%E6%B3%95%E5%9B%BD%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8F%91%E6%8A%97%E8%AE%AE%E7%A4%BA%E5%A8%81-%E9%9D%92%E5%B9%B4%E4%B8%8E%E9%BB%84%E8%83%8C%E5%BF%83%E5%86%8D%E8%81%9A%E7%84%A6%E6%B0%91%E7%94%9F%E9%97%AE%E9%A2%98",
       "source": "法广中文",
@@ -1048,6 +1786,17 @@
       "published": "2026-10-17T09:51:44+00:00",
       "summary": "法国多地周六举行抗议示威和封锁行动。前黄背心运动的参与者、高中生、大学生、气候活动人士以及农民走上街头，抗议生活成本持续高企，并要求改善教育条件、保障公共服务和提高工资。",
       "image": "https://s.rfi.fr/media/display/f7a216ba-c9ff-11f1-aa90-6313a763b466/w:1024/p:16x9/2026-10-17T072902Z-123631608-RC2U4OA5QFPI-RTRMADP-3-FRANCE-PROTEST.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "How Zheng Qinwen transformed her game and mindset in two months",
+      "url": "https://news.cgtn.com/news/2026-10-17/How-Zheng-Qinwen-transformed-her-game-and-mindset-in-two-months-1RjbdSFXKwg/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-17T09:51:01+00:00",
+      "summary": "In this episode of Sideline Story, we discuss Zheng Qinwen's remarkable comeback from a Toronto qualifying defeat to her historic China Open title just two months later. We also debate whether Alexander Zverev's year-end No. 1 ranking reflects a genuine breakthrough for the German or favorable circumstances. Furthermore, we explore whether Zverev, Jannik Sinner, and Carlos Alcaraz can be considered the new Big Three in men's tennis. Finally, we examine the contrast of fortunes for 24-time Grand Slam Champion Novak Djokovic who won the China Open in Beijing before suffering a shock early exit in Shanghai.&nbsp;",
+      "image": "https://video.cgtn.com/news/2026-10-17/How-Zheng-Qinwen-transformed-her-game-and-mindset-in-two-months-1RjbdSFXKwg/video/wu_1k53ivdm9148d1e63150ajpsog0a/wu_1k53ivdm9148d1e63150ajpsog0a-1920.jpg",
       "via": "rss"
     },
     {
@@ -1073,6 +1822,17 @@
       "via": "rss"
     },
     {
+      "title": "Discover China's latest tech at the Canton Fair",
+      "url": "https://news.cgtn.com/news/2026-10-17/Discover-China-s-latest-tech-at-the-Canton-Fair-1RjwLucHHSo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-17T08:50:51+00:00",
+      "summary": "Digitalization, smart technology and green development are the keywords of the 140th Canton Fair in Guangzhou, China's Guangdong Province. From AI-powered products to robots, China's latest high-tech innovations are on display.",
+      "image": "https://news.cgtn.com/news/2026-10-17/Discover-China-s-latest-tech-at-the-Canton-Fair-1RjwLucHHSo/img/22a94dbd48c543da990c3b66e29506b7/22a94dbd48c543da990c3b66e29506b7-750.png",
+      "via": "rss"
+    },
+    {
       "title": "France: Protesters clash with police in nationwide protests, amid rising social polarization",
       "url": "https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-world-4025-xml-mrss",
       "source": "Deutsche Welle",
@@ -1095,6 +1855,17 @@
       "via": "rss"
     },
     {
+      "title": "Why new energy storage needs international cooperation",
+      "url": "https://news.cgtn.com/news/2026-10-17/Why-new-energy-storage-needs-international-cooperation-1RjtHzVvTYA/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-17T07:59:30+00:00",
+      "summary": "New energy storage covers advanced storage technologies other than traditional pumped hydro. It captures intermittent power from wind and solar and feeds electricity back to the grid on demand. It fills gaps when renewables can't generate enough power.At the 2026 World Energy Storage Conference in Ningde, Fujian Province, CGTN's Liu Jiaxin talked to experts from South Africa, Bulgaria, Mexico, and Qatar. They have stressed that new energy storage require deeper international cooperation. They cited China's leadership in speed and scale, and called for skills transfer and better policy and regulation.&nbsp;",
+      "image": "https://video.cgtn.com/news/2026-10-17/Why-new-energy-storage-needs-international-cooperation-1RjtHzVvTYA/video/wu_1k546b97f1hmfq971fjn1tj85eha/wu_1k546b97f1hmfq971fjn1tj85eha-1280.png",
+      "via": "rss"
+    },
+    {
       "title": "He Was a Top Voice on Palestinian Liberation. Filmgoers Are Listening.",
       "url": "https://www.nytimes.com/2026/10/17/nyregion/edward-said-documentary-new-york-film-festival.html",
       "source": "New York Times",
@@ -1103,6 +1874,28 @@
       "published": "2026-10-17T07:00:07+00:00",
       "summary": "Maiken Baird, left, directed the documentary on Edward Said, and Sarah Mowaswes, center, was one of its producers. Mr. Said’s daughter, Najla Said, right, was also part of the filmmaking process.",
       "image": "https://static01.nyt.com/images/2026/10/25/nyregion/25met-said-doc-02-bhvg/17met-said-doc-02-bhvg-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "He Cai's story: Care and opportunity",
+      "url": "https://news.cgtn.com/news/2026-10-17/He-Cai-s-story-Care-and-opportunity-1RjsLOntpQY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-17T06:12:11+00:00",
+      "summary": "On Tianheng Island in Qingdao, He Cai is the island's only long-term care worker. What does a typical day look like for her, and what does this job mean to her? How can long-term care insurance help meet the care needs of older people with disabilities while creating job opportunities for local residents? Meet He Cai and discover how a policy is making a tangible difference in everyday life on a small island off the coast of eastern China.",
+      "image": "https://video.cgtn.com/news/2026-10-17/He-Cai-s-story-Care-and-opportunity-1RjsLOntpQY/video/wu_1k546ka241794gi11sgg1m3l17tqa/wu_1k546ka241794gi11sgg1m3l17tqa-1280.png",
+      "via": "rss"
+    },
+    {
+      "title": "China's outdoor sports industry reaches 3.17 trillion yuan",
+      "url": "https://news.cgtn.com/news/2026-10-17/China-s-outdoor-sports-industry-reaches-3-17-trillion-yuan-1RjebFQrlHW/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-17T06:11:20+00:00",
+      "summary": "China's outdoor sports industry has grown to approximately 3.17 trillion yuan (about $445 billion), with over 500 million participants, according to a report released at the 2026 China Outdoor Sports Industry Conference, which opened on Friday in Beijing.The conference, held in the capital's Changping District, brought together government officials, athletes and industry representatives to discuss the development of outdoor sports and technological innovation.Gao Zhidan, director of China's General Administration of Sport, and Beijing Mayor Yin Yong attended the opening ceremony. The China Outdoor Sports Industry Development Report highlighted the sector's expansion through the end of the 14th Five-Year Plan period spanning the years 2021-2025, driven by stronger policy support, improved facilities, more competitions and growing consumer demand.A major highlight was the launch of the China BeiDou Outdoor Sports Event Management System, which uses satellite navigation technology to impr",
+      "image": "https://news.cgtn.com/news/2026-10-17/China-s-outdoor-sports-industry-reaches-3-17-trillion-yuan-1RjebFQrlHW/img/1561871808d9454fbdb9f5b7b0257eb6/1561871808d9454fbdb9f5b7b0257eb6-1280.png",
       "via": "rss"
     },
     {
@@ -1139,91 +1932,14 @@
       "via": "rss"
     },
     {
-      "title": "Houthis encircle new target in conflict with Saudi-backed forces",
-      "url": "https://www.ft.com/content/73329157-1277-42f5-802e-fc339415b5ce?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-17T04:00:30+00:00",
-      "summary": "Iran-backed rebels surround Taiz, one of Yemen’s largest cities, as conflict with Riyadh and its local allies escalates",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0035d33a-d8fc-45b9-a5ed-998a3a19e452.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "The Man City theory of politics",
-      "url": "https://www.ft.com/content/ce75ac4a-3352-4986-939f-cfb17e482709?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-17T04:00:21+00:00",
-      "summary": "The tribalism of football fans parallels modern politics like nothing else",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F05be862f-a11a-4068-894f-90651606ecad.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "Why have screens replaced socialising?",
-      "url": "https://www.ft.com/content/989c757d-29ba-46fd-82de-427b810a8649?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-17T04:00:21+00:00",
-      "summary": "The economics of why we increasingly avoid the company of both other humans and books",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F106e21bc-d230-477c-9756-acf2774bd65b.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "The dress rehearsal for an AI reckoning",
-      "url": "https://www.ft.com/content/3f982af9-3eec-476f-9d29-39145ac485c4?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-17T04:00:21+00:00",
-      "summary": "Ructions point to what a true bursting of the bubble might do to financial markets",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F07b8ed16-d631-4674-b18a-2dc5e0d75b34.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "Are we sleepwalking into World War III?",
-      "url": "https://www.ft.com/content/3a56575e-ecfb-4fa9-af70-01aebd869729?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-17T04:00:11+00:00",
-      "summary": "As regional conflicts rage and revisionist powers challenge the established order, warnings of a new global conflagration are growing louder",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F67e70535-c64a-40b8-bf0d-5cd07fbf88ad.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "Chinese FM meets Israeli president",
-      "url": "https://news.cgtn.com/news/2026-10-17/Chinese-FM-meets-Israeli-president-1RibaPyuRHO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "title": "Jane Eyre finds herself on the Chinese musical stage",
+      "url": "https://news.cgtn.com/news/2026-10-17/Jane-Eyre-finds-herself-on-the-Chinese-musical-stage-1RiuM91EUQo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
       "source": "CGTN",
       "language": "en",
       "type": "broadcast",
-      "published": "2026-10-17T02:24:13+00:00",
-      "summary": "Chinese Foreign Minister Wang Yi met with Israeli President Isaac Herzog at the latter's request on the sidelines of the Seventh Summit of the Conference on Interaction and Confidence Building Measures in Asia in Baku, Azerbaijan, on Thursday.Herzog said the Jewish and Chinese peoples have a long history of exchanges. The two peoples helped each other during the World Anti-Fascist War, forging a friendship that has become a memorable chapter in history.Israel firmly adheres to the one-China policy and is committed to advancing friendly relations with China, he said. Israel is willing to take the 35th anniversary of the establishment of diplomatic relations between the two countries next year as an opportunity to expand exchanges and cooperation in areas such as science and technology, investment and people-to-people exchanges, he added.Herzog briefed Wang on Israel's views and position on the situation in the Middle East, saying that Israel seeks peace, not war, but faces threats and c",
-      "image": "https://news.cgtn.com/news/2026-10-17/Chinese-FM-meets-Israeli-president-1RibaPyuRHO/img/4cc0d3fbe78947a1b36e48b56e35e09a/4cc0d3fbe78947a1b36e48b56e35e09a-750.png",
-      "via": "rss"
-    },
-    {
-      "title": "Croatian president meets Chinese FM, pledges to strengthen cooperation",
-      "url": "https://news.cgtn.com/news/2026-10-17/Croatian-president-meets-Chinese-FM-pledges-to-strengthen-cooperation-1Rj1dxTpLC8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-17T02:18:04+00:00",
-      "summary": "Croatian President Zoran Milanovic met with visiting Chinese Foreign Minister Wang Yi in Zagreb on Friday, expressing Croatia's willingness to strengthen exchanges at all levels and advance mutually beneficial cooperation with China.During their meeting, Milanovic asked Wang, also a member of the Political Bureau of the Communist Party of China Central Committee, to convey his sincere greetings to Chinese President Xi Jinping. China has undergone tremendous changes over the past few decades and made remarkable achievements in economic and social development, Milanovic said.China's peaceful development poses no threat to any country and should be viewed objectively and rationally by all parties. Each country has its own system and principles, and all countries should respect each other's development paths and ways of life and strengthen mutual understanding and trust through dialogue and communication, Milanovic said.Stressing that Croatia and China enjoy longstanding friendly relations",
-      "image": "https://news.cgtn.com/news/2026-10-17/Croatian-president-meets-Chinese-FM-pledges-to-strengthen-cooperation-1Rj1dxTpLC8/img/a4bcef78901b4cb2b0baa1b328a9ddbd/a4bcef78901b4cb2b0baa1b328a9ddbd-750.png",
-      "via": "rss"
-    },
-    {
-      "title": "China to expand hydrogen use through pilots in five city clusters",
-      "url": "https://news.cgtn.com/news/2026-10-17/China-to-expand-hydrogen-use-through-pilots-in-five-city-clusters-1Rj5WUwPNo4/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-17T01:56:50+00:00",
-      "summary": "China has approved four-year pilot programs for comprehensive hydrogen energy applications in five city clusters, according to a government circular made public Friday.The programs will cover the Beijing-Tianjin-Hebei region, the Guangdong-Hong Kong-Macao Greater Bay Area, and three cross-regional groups linking northeast China, including eastern Inner Mongolia, with the Yangtze River Delta, Xinjiang with the Chengdu-Chongqing twin-city economic circle, and the Yellow River bend with the Central Plains.The circular, jointly released by the Ministry of Industry and Information Technology, the Ministry of Finance and the National Development and Reform Commission, calls on participating cities to accelerate the implementation of four lists of priority tasks covering hydrogen technology and equipment development, industrial hydrogen projects, fuel cell vehicle promotion, and hydrogen refueling station construction.Cities are also urged to strengthen industrial and supply chains, promote s",
-      "image": "https://news.cgtn.com/news/2026-10-17/China-to-expand-hydrogen-use-through-pilots-in-five-city-clusters-1Rj5WUwPNo4/img/8ef2511c7773401a9e261832f4f1ea4e/8ef2511c7773401a9e261832f4f1ea4e-750.png",
+      "published": "2026-10-17T03:23:01+00:00",
+      "summary": "In Charlotte Brontë's 19th-century masterpiece Jane Eyre, the simple yet powerful declaration \"I will be myself\" defined a woman's unwavering battle for self-determination. Today, nearly two centuries later, those same words ring out with new energy – this time set to music on the Chinese stage.Following its premiere in Shanghai this August, an original Chinese musical adaptation of Jane Eyre is offering contemporary audiences an reinterpretation of the timeless classic, bridging Victorian literature with 21st-century theatrical storytelling.Externalizing Jane's inner worldAdapting a novel for a dynamic theatrical production presents a unique challenge. For director Jin Shengquan, the key lay in capturing Jane's rich inner life and translating her psychological journey into striking visual and musical language.\"When reading the novel, what stands out most is Jane's attitude toward the world. She is a woman with a rich, full inner life,\" Jin, who also plays Edward Rochester, told CGTN. ",
+      "image": "https://video.cgtn.com/news/2026-10-17/Jane-Eyre-finds-herself-on-the-Chinese-musical-stage-1RiuM91EUQo/video/wu_1k52lld8flrb1pem19egup31jfba/wu_1k52lld8flrb1pem19egup31jfba-1280.jpg",
       "via": "rss"
     },
     {
@@ -1235,17 +1951,6 @@
       "published": "2026-10-17T01:30:09+00:00",
       "summary": "China and the Philippines recently traded accusations over the medical evacuation of a Philippine serviceman from a grounded naval vessel in the hotly disputed Second Thomas Shoal in the South China Sea. The incident has sparked renewed worries about potential armed skirmishes in a global artery of trade.\nBut Philippine President Ferdinand Marcos Jnr was also quick to emphasise the economic dimensions of a major conflict. After a decade of rapid economic growth, the Philippines is facing...",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/16/da843397-bbb0-46dd-820d-7a7f3ccfcdbe_32ebb8f9.jpg?itok=ZvihjKn3&v=1792144798",
-      "via": "rss"
-    },
-    {
-      "title": "China calls for stronger int'l vocational education cooperation",
-      "url": "https://news.cgtn.com/news/2026-10-17/China-calls-for-stronger-int-l-vocational-education-cooperation-1Rj3hu9TEze/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-17T01:10:51+00:00",
-      "summary": "Chinese Vice Premier Ding Xuexiang on Friday called for efforts to strengthen international vocational education cooperation and development, urging efforts to enhance policy communication and the alignment of rules, and promote the cross-border flow and efficient allocation of skills.Ding, also a member of the Standing Committee of the Political Bureau of the Communist Party of China Central Committee, delivered a speech while attending the 2026 World Vocational and Technical Education Development Conference, which opened in Tianjin on Friday.&nbsp;He said in his speech that vocational education plays an important role in economic and social development, adding that the new round of technological revolution and industrial transformation place higher demands on the training of skilled professionals.To boost international vocational education cooperation and development, Ding called for efforts to enhance policy communication and the alignment of rules, and promote the cross-border flow",
-      "image": "https://news.cgtn.com/news/2026-10-17/China-calls-for-stronger-int-l-vocational-education-cooperation-1Rj3hu9TEze/img/55eef94e38674f2fa6109d418964fae6/55eef94e38674f2fa6109d418964fae6-750.png",
       "via": "rss"
     },
     {
@@ -1359,17 +2064,6 @@
       "via": "rss"
     },
     {
-      "title": "匈牙利总理与乌克兰总统会面 双方愿改善关系",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261016-%E5%8C%88%E7%89%99%E5%88%A9%E6%80%BB%E7%90%86%E4%B8%8E%E4%B9%8C%E5%85%8B%E5%85%B0%E6%80%BB%E7%BB%9F%E4%BC%9A%E9%9D%A2-%E5%8F%8C%E6%96%B9%E6%84%BF%E6%94%B9%E5%96%84%E5%85%B3%E7%B3%BB",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-10-16T20:59:39+00:00",
-      "summary": "乌克兰总统泽连斯基16日受邀出席欧盟领袖峰会，并借机与匈牙利总理马格雅举行双边会谈。匈牙利总理公开表达了对乌克兰的支持。",
-      "image": "https://s.rfi.fr/media/display/7f6c7e42-c946-11f1-9c72-d1d2c32ebb87/w:1024/p:16x9/2026-10-16T091232Z-213157648-RC294OA3SGY3-RTRMADP-3-EU-SUMMIT.jpg",
-      "via": "rss"
-    },
-    {
       "title": "Israeli Settlers Launch a Coordinated Attack in the West Bank",
       "url": "https://foreignpolicy.com/2026/10/16/israel-settler-attacks-palestinians-west-bank-washington-post-levine/",
       "source": "Foreign Policy",
@@ -1466,17 +2160,6 @@
       "published": "2026-10-16T19:30:30+00:00",
       "summary": "上任才一周，特朗普就逼走了他的新任新闻秘书。一位美国高级官员周五向法新社证实说，新任白宫新闻秘书凯蒂·扎卡里亚（Katie Zacharia）已经离职。",
       "image": "https://s.rfi.fr/media/display/01365094-c850-11f1-8b69-6313a763b466/w:1024/p:16x9/AP26286621430956.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "The Rupturing Trump-Zelensky Relationship Stands to Hurt Ukraine and Its European Allies",
-      "url": "https://www.nytimes.com/2026/10/16/world/europe/trump-zelensky-ukraine-war.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-16T19:12:25+00:00",
-      "summary": "Where the two presidents’ war of words will end is anybody’s guess. But if it continues, it could threaten the crucial operational help that Ukraine still gets from the United States.",
-      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/16int-ukraine-assess01-photo-fvlq/16int-ukraine-assess01-photo-fvlq-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -1634,28 +2317,6 @@
       "via": "rss"
     },
     {
-      "title": "Single neurons act like tiny computers, China study finds",
-      "url": "https://news.cgtn.com/news/2026-10-16/Single-neurons-act-like-tiny-computers-China-study-finds-1Rii3XGnN4Y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-16T14:19:25+00:00",
-      "summary": "Scientists in China say a single brain cell can behave like a tiny computer, weighing evidence and testing guesses on the spot. The finding, from the Chinese Academy of Sciences' Center for Excellence in Brain Science and Intelligence Technology, could point the way toward a more flexible generation of artificial intelligence (AI).Today's AI models outmatch humans at language and image recognition, but only after training on thousands of times more data. Brains learn far faster, and researchers suspect the answer lies in how individual neurons handle information.Neurons link up through synapses, the equivalent of roads between stations, and learning strengthens those roads. But a neuron is not just a junction. It grows branch-like dendrites, and its longest, farthest-reaching branch, the apical dendrite, carries abstract rules the brain has inferred. The cell body, meanwhile, receives raw sensory signals from the ears or eyes. Both streams meet inside a single cell, letting it compare ",
-      "image": "https://news.cgtn.com/news/2026-10-16/Single-neurons-act-like-tiny-computers-China-study-finds-1Rii3XGnN4Y/img/7024211da85342e8b782bc7e67978b77/7024211da85342e8b782bc7e67978b77-1920.jpeg",
-      "via": "rss"
-    },
-    {
-      "title": "China urges EU cooperation to promote trade ties",
-      "url": "https://news.cgtn.com/news/2026-10-16/China-urges-EU-cooperation-to-promote-trade-ties-1RiaU9PF7GM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-16T14:17:48+00:00",
-      "summary": "China hopes the European Union (EU) will jointly promote balanced growth and sustainable development in bilateral trade and maintain the stable and smooth operation of global industrial and supply chains, Chinese Foreign Ministry spokesperson Mao Ning said on Friday.Mao made the remarks at a regular press briefing when asked to comment on the latest developments in China-EU trade ties.The second meeting of the China-EU trade and investment consultation mechanism has made positive progress recently, which shows that the two sides can properly handle differences through dialogue, Mao said.China hopes the EU side will honor its commitment to free trade and openness, abide by WTO rules and avoid introducing protectionist and discriminatory policies and measures, she said.",
-      "image": "https://news.cgtn.com/news/2026-10-16/China-urges-EU-cooperation-to-promote-trade-ties-1RiaU9PF7GM/img/95cec7c5e1434becb5b299deaa7fa109/95cec7c5e1434becb5b299deaa7fa109-750.png",
-      "via": "rss"
-    },
-    {
       "title": "Houthi attacks on strategic Saudi assets threaten Riyadh's regional leadership and economic ambitions",
       "url": "https://www.dw.com/en/houthi-attacks-on-strategic-saudi-assets-threaten-riyadh-s-regional-leadership-and-economic-ambitions/a-79680200?maca=en-rss-en-world-4025-xml-mrss",
       "source": "Deutsche Welle",
@@ -1711,39 +2372,6 @@
       "via": "rss"
     },
     {
-      "title": "A new railway corridor: How Nanning links Chinese and ASEAN markets",
-      "url": "https://news.cgtn.com/news/2026-10-16/A-new-railway-corridor-How-Nanning-links-Chinese-and-ASEAN-markets-1Rif5HQq3qo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-16T12:47:15+00:00",
-      "summary": "From Nanning in south China's&nbsp;Guangxi&nbsp;Zhuang Autonomous Region, goods move by rail across borders, connecting businesses with customers across ASEAN markets. Nanning International Railway Port is a key logistics hub on the New International Land-Sea Trade Corridor,&nbsp;linking southwest China with ASEAN trade routes.Better connections mean new opportunities, stronger local industries and closer regional ties. Follow CGTN reporter Wang Tao as he explores how goods move – and markets come together.",
-      "image": "https://news.cgtn.com/news/2026-10-16/A-new-railway-corridor-How-Nanning-links-Chinese-and-ASEAN-markets-1Rif5HQq3qo/img/61d136254e2a4e168709a79efe427823/61d136254e2a4e168709a79efe427823-1280.jpeg",
-      "via": "rss"
-    },
-    {
-      "title": "China mulls export curbs on AI, biomedicine and solar tech",
-      "url": "https://news.cgtn.com/news/2026-10-16/China-mulls-export-curbs-on-AI-biomedicine-and-solar-tech-1Ri9gvMUqUE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-16T12:29:26+00:00",
-      "summary": "Chinese authorities began public consultation on Friday over a revised export control list, with plans to add AI, biomedicine and photovoltaics technologies.The Ministry of Commerce and the Ministry of Science and Technology are proposing changes covering 40 technologies across three sectors, according to a notice from the Commerce Ministry.Exporters will also have to register these technologies before shipping them, the ministry said.Public consultation runs from October 16 to November 15, 2026. Details are on the Commerce Ministry's website.",
-      "image": "https://news.cgtn.com/news/2026-10-16/China-mulls-export-curbs-on-AI-biomedicine-and-solar-tech-1Ri9gvMUqUE/img/0333eb8540604ad0a6676c6954b28494/0333eb8540604ad0a6676c6954b28494-1920.png",
-      "via": "rss"
-    },
-    {
-      "title": "Chinese foreign minister meets with his Turkish counterpart",
-      "url": "https://news.cgtn.com/news/2026-10-16/Chinese-foreign-minister-meets-with-his-Turkish-counterpart-1RibshSqDrG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-16T12:25:38+00:00",
-      "summary": "Chinese Foreign Minister Wang Yi met with Turkish Foreign Minister Hakan Fidan on Thursday in Baku, capital of Azerbaijan, on the sidelines of the Seventh Summit of the Conference on Interaction and Confidence Building Measures in Asia.Wang, also a member of the Political Bureau of the Communist Party of China Central Committee, said China and Türkiye enjoy a traditional friendship, and deepening strategic cooperation between Beijing and Ankara serves the interests of both countries and their peoples and will also contribute to global economic recovery.China has always attached great importance to its relations with Türkiye and stands ready to work with Ankara to take the 55th anniversary of the establishment of diplomatic relations between the two countries as an opportunity to implement the important consensus reached by the two heads of state and advance China-Türkiye strategic cooperation to a new level, Wang said.Wang said China appreciates Türkiye's repeated emphasis on attaching",
-      "image": "https://news.cgtn.com/news/2026-10-16/Chinese-foreign-minister-meets-with-his-Turkish-counterpart-1RibshSqDrG/img/54f0da948d6e4e08a6983ecde4b0e607/54f0da948d6e4e08a6983ecde4b0e607-250.png",
-      "via": "rss"
-    },
-    {
       "title": "Uruguay Bucks Regional Migration Trend",
       "url": "https://foreignpolicy.com/2026/10/16/uruguay-migration-asylum-seekers-permanent-residency-cuba/",
       "source": "Foreign Policy",
@@ -1788,28 +2416,6 @@
       "via": "rss"
     },
     {
-      "title": "Half a quilt, nine decades of warmth",
-      "url": "https://news.cgtn.com/news/2026-10-16/Half-a-quilt-nine-decades-of-warmth-1RhwKYPjhXq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-16T11:26:38+00:00",
-      "summary": "More than 90 years ago, during the Red Army's Long March, a quilt was cut in two in Shazhou Village, central China's Hunan Province. Half of it was left behind, and its warmth has lived on ever since. Today, we're back in the village to find out what that story means to the people who live here now.",
-      "image": "https://news.cgtn.com/news/2026-10-16/Half-a-quilt-nine-decades-of-warmth-1RhwKYPjhXq/img/12fde06f7c274323afa014366843466a/12fde06f7c274323afa014366843466a-1920.jpeg",
-      "via": "rss"
-    },
-    {
-      "title": "Encountering Nyingchi: The Jiangnan of Xizang | Talk Xizang",
-      "url": "https://news.cgtn.com/news/2026-10-16/Encountering-Nyingchi-The-Jiangnan-of-Xizang-Talk-Xizang-1RhOTKPsCpa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-16T11:20:32+00:00",
-      "summary": "Uncover a side of Xizang you've never seen before. In the southeast lies Nyingchi, known as the Switzerland of the East. Here, forests cover hillsides and greenery lines the riverbanks, while snow-capped peaks rise above lush meadows. Follow me and my color cards to see just how green this plateau can be.",
-      "image": "https://video.cgtn.com/news/2026-10-16/Encountering-Nyingchi-The-Jiangnan-of-Xizang-Talk-Xizang-1RhOTKPsCpa/video/wu_1k51l4b3l1pnvqgi2vs1tbsnp0a/wu_1k51l4b3l1pnvqgi2vs1tbsnp0a-1280.jpg",
-      "via": "rss"
-    },
-    {
       "title": "China urges Israel to end West Bank settlement expansion and ease Gaza crisis",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3371186/chinas-wang-yi-urges-israel-end-west-bank-settlement-expansion-and-ease-gaza-crisis?utm_source=rss_feed",
       "source": "SCMP",
@@ -1843,83 +2449,6 @@
       "via": "rss"
     },
     {
-      "title": "China invites Trump press secretary Katie Zacharia to visit after ‘proper toilets’ slur",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3371184/china-invites-trump-press-secretary-katie-zacharia-visit-after-proper-toilets-slur?utm_source=rss_feed",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-16T10:53:29+00:00",
-      "summary": "Beijing has invited White House press secretary Katie Zacharia to visit the country more often after she said in an interview that China “doesn’t even have proper toilets”.\nThe newly appointed spokeswoman for the Trump administration made the controversial remarks in an interview on Thursday with conservative commentator Jack Posobiec, when talking about the perception around 2016 that “the gold days, the glory days of the US were over and China was on the horizon”.\n“I remember this very...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/16/5304dbf9-6251-4c94-8f65-ffc780b1bcb2_5f17a5fd.jpg?itok=XIyf36OR&v=1792147914",
-      "via": "rss"
-    },
-    {
-      "title": "China urges Japan to abandon nuclear weapons ambitions",
-      "url": "https://news.cgtn.com/news/2026-10-16/China-urges-Japan-to-abandon-nuclear-weapons-ambitions-1Ri01AxruMM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-16T10:07:50+00:00",
-      "summary": "China has criticized Japanese Prime Minister Sanae Takaichi for remarks suggesting Japan could consider allowing nuclear weapons into the country.&nbsp;Speaking on Wednesday, Takaichi said there was room to revisit a 2010 statement by then-Foreign Minister Katsuya Okada on the possibility of allowing US forces to bring nuclear weapons into Japan under exceptional circumstances.&nbsp;Chinese Foreign Ministry spokesperson Mao Ning said on Friday that the remarks reveal the Japanese government's growing nuclear ambitions and risk undermining regional and global peace and stability.",
-      "image": "https://news.cgtn.com/news/2026-10-16/China-urges-Japan-to-abandon-nuclear-weapons-ambitions-1Ri01AxruMM/img/5f79b813568a4f8ba177c05f2a2164db/5f79b813568a4f8ba177c05f2a2164db-1280.png",
-      "via": "rss"
-    },
-    {
-      "title": "Foreign diplomats explore Ningxia's specialty industries",
-      "url": "https://news.cgtn.com/news/2026-10-16/Foreign-diplomats-explore-Ningxia-s-specialty-industries-1RhVzlSvQL6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-16T10:05:20+00:00",
-      "summary": "Ambassadors and other diplomats from about 30 countries have visited northwest China's Ningxia Hui Autonomous Region. There they got a close look at how specialty industries could benefit China's rural revitalization.",
-      "image": "https://video.cgtn.com/news/2026-10-16/Foreign-diplomats-explore-Ningxia-s-specialty-industries-1RhVzlSvQL6/video/wu_1k51qgnsd1o70us6ffh1vtj1i1ib/wu_1k51qgnsd1o70us6ffh1vtj1i1ib-1280.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Foreign ministers of Djibouti, Republic of Congo to visit China",
-      "url": "https://news.cgtn.com/news/2026-10-16/Foreign-ministers-of-Djibouti-Republic-of-Congo-to-visit-China-1Ri2FvJGZuE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-16T10:01:55+00:00",
-      "summary": "Minister of Foreign Affairs and International Cooperation of Djibouti Abdoulkader Houssein Omar will pay an official visit to China from October 19 to 25, a Chinese Foreign Ministry spokesperson announced on Friday.Minister of Foreign Affairs, La Francophonie and Congolese Abroad of the Republic of the Congo Constant-Serge Bounda will pay an official visit to China from October 19 to 25, the spokesperson added.According to the spokesperson, the two foreign ministers will visit at the invitation of Chinese Foreign Minister Wang Yi, who is also a member of the Political Bureau of the Communist Party of China Central Committee.",
-      "image": "https://news.cgtn.com/news/2026-10-16/Foreign-ministers-of-Djibouti-Republic-of-Congo-to-visit-China-1Ri2FvJGZuE/img/c39a7fdaf0ad40758bd127be9bf3d57c/c39a7fdaf0ad40758bd127be9bf3d57c-750.png",
-      "via": "rss"
-    },
-    {
-      "title": "China leans in to hi-tech systems to counter emerging AI-fuelled terror threats",
-      "url": "https://www.scmp.com/news/china/military/article/3371127/china-leans-hi-tech-systems-counter-emerging-ai-fuelled-terror-threats?utm_source=rss_feed",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-16T09:56:50+00:00",
-      "summary": "China revealed AI-powered drone interceptors and other uncrewed systems at an international counterterrorism forum in Beijing this week, as security experts warned that new technologies could enable new forms of terrorism.\nThe equipment was on display at the Great Wall-2026 International Forum on Counterterrorism, which ran from Tuesday to Thursday and was attended by more than 320 defence experts and military delegates from 62 countries.\nDiscussions focused on how advances in artificial...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/16/ba587775-c6bc-423d-83c3-c904a6b6050c_65a0b808.jpg?itok=BxHHRkGQ&v=1792134618",
-      "via": "rss"
-    },
-    {
-      "title": "Explore the stunning landscapes of NE China's Jilin Province",
-      "url": "https://news.cgtn.com/news/2026-10-16/Explore-the-stunning-landscapes-of-NE-China-s-Jilin-Province-1RgHGIkx6CY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-16T09:55:12+00:00",
-      "summary": "Located in northeast China, Jilin Province is known for its rich natural landscapes. Thanks to continued ecological conservation and restoration efforts, more than 45 percent of its land is now covered by forests. The province is also home to more than 170 species of nationally protected wild animals and plants. Its diverse ecosystems and scenic landscapes draw visitors from across China, offering them a chance to experience nature up close.Autumn scenery of Hongshi National Forest Park, Huadian, Jilin Province, China, October 13, 2026. /CGTNAutumn scenery of Hongshi National Forest Park, Huadian, Jilin Province, China, October 13, 2026. /CGTNAutumn scenery of Hongshi National Forest Park, Huadian, Jilin Province, China, October 13, 2026. /CGTNAutumn scenery of Hongshi National Forest Park, Huadian, Jilin Province, China, October 13, 2026. /CGTN",
-      "image": "https://news.cgtn.com/news/2026-10-16/Explore-the-stunning-landscapes-of-NE-China-s-Jilin-Province-1RgHGIkx6CY/img/106898249e7d4352a5d84481dafe7874/106898249e7d4352a5d84481dafe7874-1280.jpeg",
-      "via": "rss"
-    },
-    {
-      "title": "New TV Drama to Mark PLA's 100th Anniversary in 2027",
-      "url": "https://news.cgtn.com/news/2026-10-16/New-TV-Drama-to-Mark-PLA-s-100th-Anniversary-in-2027-1RhYl1ygbdK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-16T09:18:25+00:00",
-      "summary": "As China prepares to mark the 100th anniversary of the founding of the People’s Liberation Army (PLA) in 2027, a new television drama, Bring You Home, will tell a story of military history, family ties and the legacy of veterans.The drama follows Wang Xuan, an employee responsible for veterans' affairs, who unexpectedly uncovers the little-known past of his grandfather, Wang Zhanfei, a veteran who fought in the War to Resist U.S. Aggression and Aid Korea more than 70 years ago.Preparation for the series began in 2023. The creative team conducted extensive research in several Chinese cities, including Chengdu, Shenyang, Dandong and Cangzhou. They interviewed veterans, their family members and personnel involved in implementing veterans' policies, gathering first-hand accounts to inform the story.The series is directed by Zhang Li, known for acclaimed historical dramas such as Ming Dynasty in 1566, with Cheng Yi leading the cast.On October 12, a launch meeting for the cast training progr",
-      "image": "https://news.cgtn.com/news/2026-10-16/New-TV-Drama-to-Mark-PLA-s-100th-Anniversary-in-2027-1RhYl1ygbdK/img/098dfd51bb2148ecbdeb27a99c7a248c/098dfd51bb2148ecbdeb27a99c7a248c-750.png",
-      "via": "rss"
-    },
-    {
       "title": "美沙冬是毒還是藥？從香港經驗看台灣選戰戒毒爭議",
       "url": "https://www.bbc.com/zhongwen/watch/cmwyq699de35o/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
@@ -1942,17 +2471,6 @@
       "via": "rss"
     },
     {
-      "title": "Shared love of pickleball draws young Americans and Chinese together",
-      "url": "https://news.cgtn.com/news/2026-10-16/Shared-love-of-pickleball-draws-young-Americans-and-Chinese-together-1RhGZh1Hh8Q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-16T08:36:07+00:00",
-      "summary": "A group of about 30 American college students are in China this week for a people-to-people exchange program built around pickleball. Beyond friendly matches with their Chinese peers, they're also exploring some of the country's historic landmarks, technology hubs and urban renewal projects. The visit comes as China has pledged to invite 100,000 young Americans to China for exchanges and study over the next five years.The program is jointly organized by China Center for International People-to-People Exchange (CCIPE), the Arts Chinese Students and Scholars Association (ART CSSA), and other relevant organizations. The International Youth Partnership Program, an initiative of the Foundation for the Development of Science and Technology in China, is a key component of the event and is jointly advanced by the Foundation and ART CSSA.CGTN follows their journey to see how a shared love of sport is bringing young people from the two countries closer together.",
-      "image": "https://video.cgtn.com/news/2026-10-16/Shared-love-of-pickleball-draws-young-Americans-and-Chinese-together-1RhGZh1Hh8Q/video/wu_1k51eenbd1sa2cgc1uo81i7g1iira/wu_1k51eenbd1sa2cgc1uo81i7g1iira-1920.png",
-      "via": "rss"
-    },
-    {
       "title": "哈里與梅根返英後首次亮相，為何如此像一場正式王室活動？",
       "url": "https://www.bbc.com/zhongwen/articles/ck5yn7plnlllo/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
@@ -1961,17 +2479,6 @@
       "published": "2026-10-16T08:14:28+00:00",
       "summary": "薩塞克斯公爵伉儷已經好幾年沒有在英國本土舉辦過類似諾丁漢當天那樣的活動了。",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c435/live/7729bf90-c8d5-11f1-874f-2bba45330ab3.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "A Medical School's Long March",
-      "url": "https://news.cgtn.com/news/2026-10-16/A-Medical-School-s-Long-March--1RhTfqKCRDa/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-16T07:47:36+00:00",
-      "summary": "In 1934, more than 130 teachers and students from the Chinese Workers' and Peasants' Red Army Military Medical School embarked on the Long March. With limited supplies and equipment carried on just a few horses, they continued their studies while treating the wounded under extraordinarily difficult conditions. They came to be known as the \"School on Horseback.\" By the time they reached Yan'an, just over 40 remained. Their remarkable journey is a testament to courage, sacrifice and an unwavering commitment to saving lives.",
-      "image": "https://video.cgtn.com/news/2026-10-16/A-Medical-School-s-Long-March--1RhTfqKCRDa/video/wu_1k51o9tcpjj1vogaen91a1v9hb/wu_1k51o9tcpjj1vogaen91a1v9hb-1280.jpg",
       "via": "rss"
     },
     {
@@ -1997,17 +2504,6 @@
       "via": "rss"
     },
     {
-      "title": "Long March: Why it was a defining turning point in CPC history",
-      "url": "https://news.cgtn.com/news/2026-10-16/Long-March-Why-it-was-a-defining-turning-point-in-CPC-history-1RhJQ7XXF7O/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-16T06:42:56+00:00",
-      "summary": "Editor's note: Zhang Lei is an associate professor at the Joint Logistics College of PLA National Defense University. The article reflects the author's opinions and not necessarily the views of CGTN.In modern Chinese and world history, the Long March stands out as a monumental event. Spanning two years and covering vast swathes of China, this strategic military shift not only rescued the young Communist Party of China (CPC) from an existential crisis but also profoundly influenced the historical trajectory of both China and the wider world, cementing its status as a major turning point in the Party's century-long history.The Long March of the 1930s was not a matter of subjective strategic preference; rather, it was an inevitable historical imperative – a decision forced upon the young CPC under extreme peril to preserve its revolutionary strength and the Red Army.Following the defeat of the revolution in 1927, CPC members were never cowed by the enemy's reign of terror. Pressing forwar",
-      "image": "https://news.cgtn.com/news/2026-10-16/Long-March-Why-it-was-a-defining-turning-point-in-CPC-history-1RhJQ7XXF7O/img/663d98021ccc48559b7f8cec16e92538/663d98021ccc48559b7f8cec16e92538-750.png",
-      "via": "rss"
-    },
-    {
       "title": "法國總統大選前，學生抗議活動是否被人為操縱？",
       "url": "https://www.bbc.com/zhongwen/articles/crz65gxl2jxlo/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
@@ -2016,17 +2512,6 @@
       "published": "2026-10-16T06:21:31+00:00",
       "summary": "法國總理暗示學生的憤怒情緒正被武器化，因為工會和其他抗議者也準備走上街頭。法國是否瀕臨崩潰？",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/00d9/live/2e460170-c8bd-11f1-a64c-550be9e3c66b.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "The Yasukuni Fall Rites controversy",
-      "url": "https://news.cgtn.com/news/2026-10-16/The-Yasukuni-Fall-Rites-controversy-1RhIyCM9zhu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-16T05:26:08+00:00",
-      "summary": "On October 17, the&nbsp;Yasukuni Shrine in Tokyo,&nbsp;Japan, will host its Annual Fall Rites. Every year at this time, the shrine to Japan's war dead becomes a focus of controversy. But why do the arguments surrounding it persist to this day? Ahead of the Fall Rites, we meet survivors of World War II and firsthand witnesses to atrocities committed during the war, as well as researchers and ordinary Japanese people who continue to question and reflect on that period of history. Tune in for the documentary Beyond Yasukuni.",
-      "image": "https://video.cgtn.com/news/2026-10-16/The-Yasukuni-Fall-Rites-controversy-1RhIyCM9zhu/video/wu_1k51frkad9756qtej81j0lau3a/wu_1k51frkad9756qtej81j0lau3a-1280.jpg",
       "via": "rss"
     },
     {
@@ -2041,17 +2526,6 @@
       "via": "rss"
     },
     {
-      "title": "China's geospatial industry output tops 900 bln yuan in 2025",
-      "url": "https://news.cgtn.com/news/2026-10-16/China-s-geospatial-industry-output-tops-900-bln-yuan-in-2025-1RhwMWDdhxS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-16T04:44:41+00:00",
-      "summary": "China's geospatial information industry generated a total output value of more than 900 billion yuan (about $134 billion) in 2025, up 5.9% year on year, according to the latest official data released on Thursday by the China Association for Geospatial Industry and Sciences (CAGIS).In the year, the industry's total output reached 900.5 billion yuan, and the number of enterprises operating in the sector stood at about 269,000, up 11.1% over the previous year.The figures have articulated a shift from rapid expansion toward high-quality development, with a complete industrial chain now in place covering data collection, intelligent processing, scenario application and comprehensive services.Meanwhile, the industry's market vitality continued to grow, with small and medium-sized enterprises driving innovation. A total of 447 geospatial companies have been rated as \"little giant\" enterprises specializing in niche sectors, accounting for 2.5% of all such firms nationwide.\"Against the backdrop",
-      "image": "https://news.cgtn.com/news/2026-10-16/China-s-geospatial-industry-output-tops-900-bln-yuan-in-2025-1RhwMWDdhxS/img/2e48113470c342c69b487094ee478e64/2e48113470c342c69b487094ee478e64-750.png",
-      "via": "rss"
-    },
-    {
       "title": "以民主换柴油，特朗普的交易令所有人蒙羞",
       "url": "https://cn.nytimes.com/opinion/20261016/trump-russia-oil-putin/?utm_source=RSS",
       "source": "纽约时报中文",
@@ -2063,17 +2537,6 @@
       "via": "rss"
     },
     {
-      "title": "How AI is redefining precision farming in China",
-      "url": "https://news.cgtn.com/news/2026-10-16/How-AI-is-redefining-precision-farming-in-China-1RhsBvUDm12/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-16T04:14:41+00:00",
-      "summary": "\"Innovation Today, Food Security Tomorrow\" is the theme for the 46th World Food Day, which takes place on Friday. As artificial intelligence (AI) moves from laboratories to fields, China's agriculture sector is undergoing a shift from experience-driven to data-driven farming.AI is accelerating advances in seed breeding. The \"Shennong Guxin\" intelligent breeding model developed by China Agricultural University integrates genotypic data with agricultural knowledge graphs, drawing on tens of millions of data entries. The model has shortened breeding cycles by more than 30%, reducing the time needed to develop new varieties from the conventional five to eight years to two to three years. Two new lettuce varieties developed using the model, Yanqi No. 1 and Yanqi No. 2, have been successfully trialed in Huairou District, Beijing, where they have shown strong stress resistance and good quality.AI is also making field management more precise. This year, Longquan City in east China's Zhejiang P",
-      "image": "https://news.cgtn.com/news/2026-10-16/How-AI-is-redefining-precision-farming-in-China-1RhsBvUDm12/img/13a18c2222564792924198b97dc3a457/13a18c2222564792924198b97dc3a457-750.png",
-      "via": "rss"
-    },
-    {
       "title": "Myanmar Establishes New Committee to Advance Normalization With ASEAN",
       "url": "https://thediplomat.com/2026/10/myanmar-establishes-new-committee-to-advance-normalization-with-asean/",
       "source": "The Diplomat",
@@ -2082,6 +2545,17 @@
       "published": "2026-10-16T03:49:00+00:00",
       "summary": "The creation of the body, which comes ahead of next month's ASEAN Summit in Manila, is intended to “regain the country’s original role and rights” in the bloc.",
       "image": "https://images.thediplomat.com/v1/td-list-l-2/2022/11/thediplomat_2022-11-16-000214.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Giant machines harvest a sea of cotton in Xinjiang",
+      "url": "https://news.cgtn.com/news/2026-10-16/Giant-machines-harvest-a-sea-of-cotton-in-Xinjiang-1Rhw8hUZ3Ms/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-16T02:55:34+00:00",
+      "summary": "Autumn blankets the vast cotton fields&nbsp;in northwest China's Xinjiang Uygur Autonomous Region in white. Powerful machines roll across the fields, harvesting cotton with remarkable efficiency. In 2025, Xinjiang produced 6.165 million tonnes of cotton, accounting for about 23% of the world's total output. Satellite-guided planting, water-saving irrigation and mechanized harvesting are transforming the way this essential crop is grown.",
+      "image": "https://news.cgtn.com/news/2026-10-16/Giant-machines-harvest-a-sea-of-cotton-in-Xinjiang-1Rhw8hUZ3Ms/img/1c90cbda7cd7425a89ad5cfe0b30f80d/1c90cbda7cd7425a89ad5cfe0b30f80d-750.png",
       "via": "rss"
     },
     {
@@ -2107,6 +2581,17 @@
       "via": "rss"
     },
     {
+      "title": "Wang Yi: China-Türkiye cooperation benefits global economic recovery",
+      "url": "https://news.cgtn.com/news/2026-10-16/Wang-Yi-China-T-rkiye-cooperation-benefits-global-economic-recovery-1RhvnTsPh96/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-16T02:37:10+00:00",
+      "summary": "Deepening China-Türkiye&nbsp;strategic cooperation will not only benefit the people of both nations but also boost the global economic recovery, Chinese Foreign Minister Wang Yi said on Thursday while meeting with Turkish Foreign Minister Hakan Fidan on the sidelines of the 7th Summit of the Conference on Interaction and Confidence Building Measures in Asia (CICA) in Baku.During the meeting, Wang, also a member of the Political Bureau of the Communist Party of China Central Committee,&nbsp;emphasized that China places great importance on its relationship with Türkiye and is willing to elevate bilateral strategic cooperation to new heights.He stated that China supports Türkiye in hosting the 31st UN Climate Change Conference (COP31), praised Türkiye's proactive efforts in addressing climate change and expressed readiness to deepen cooperation in this field.Wang also called for closer synergy between the China-proposed Belt and Road Initiative and Türkiye's Middle Corridor plan. He stres",
+      "image": "https://news.cgtn.com/news/2026-10-16/Wang-Yi-China-T-rkiye-cooperation-benefits-global-economic-recovery-1RhvnTsPh96/img/da20ee8d670e4925851ebec0b3ba25ff/da20ee8d670e4925851ebec0b3ba25ff-250.jpeg",
+      "via": "rss"
+    },
+    {
       "title": "揭秘俄罗斯鼠疫研究所：系统庞大隐秘，安全防护存疑",
       "url": "https://cn.nytimes.com/science/20261016/russia-plague-laboratory-mystery/?utm_source=RSS",
       "source": "纽约时报中文",
@@ -2115,6 +2600,17 @@
       "published": "2026-10-16T02:21:56+00:00",
       "summary": "一名在俄罗斯鼠疫研究实验室工作的28岁研究员因不明感染死亡。这些实验室散布在前苏联加盟共和国各地，鲜有外国人参观，而且一直笼罩在神秘的面纱之下。                    Irkutsk Antiplague Research Institute, via Agence France-Presse — Getty Images                    伊尔库茨克抗鼠疫研究所发布的一张照片，显示2019年专家们在俄罗斯克拉斯诺亚尔斯克的一间实验室里工作。",
       "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "China's clean energy equipment exports gain momentum",
+      "url": "https://news.cgtn.com/news/2026-10-16/China-s-clean-energy-equipment-exports-gain-momentum-1RhtFnoAAxO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-16T02:21:17+00:00",
+      "summary": "China's clean energy equipment industry has made significant progress in technological innovation, industrial scale and international market expansion this year, providing strong support for the global energy transition, according to the China Machinery Industry Federation (CMIF).China's total installed power generation capacity reached 4.103 billion kilowatts by the end of August, up 11.1% year on year, reflecting continued growth in the country's energy infrastructure.In the first half of this year, output of nuclear power, hydropower and wind power generating units increased 92%, 51.9% and 11.5% year on year, respectively, the CMIF said.On October 13, Dongfang Electric Machinery, based in Deyang, Sichuan Province, dispatched a batch of gas, hydropower and wind power equipment for energy projects in several Chinese provinces.The equipment features domestically developed key materials, core manufacturing processes and advanced hydraulic and electromagnetic designs, helping overcome te",
+      "image": "https://news.cgtn.com/news/2026-10-16/China-s-clean-energy-equipment-exports-gain-momentum-1RhtFnoAAxO/img/7695383d68644b2589f4402d357ee674/7695383d68644b2589f4402d357ee674-1920.jpeg",
       "via": "rss"
     },
     {
@@ -2140,6 +2636,17 @@
       "via": "rss"
     },
     {
+      "title": "Wang Yi urges Israel to open Gaza routes, halt West Bank settlements",
+      "url": "https://news.cgtn.com/news/2026-10-16/Wang-Yi-urges-Israel-to-open-Gaza-routes-halt-West-Bank-settlements-1RhttNEZoYw/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-16T01:53:31+00:00",
+      "summary": "Chinese Foreign Minister Wang Yi on Thursday called for the full opening of access routes into Gaza to prevent a worsening humanitarian disaster and urged Israel to halt and reverse settlement activities in the West Bank.Wang, a member of the Political Bureau of the Communist Party of China Central Committee, made the remarks during a meeting with Israeli President Isaac Herzog in Baku on the sidelines of the Seventh Summit of the Conference on Interaction and Confidence Building Measures in Asia (CICA).China and Israel have maintained stable relations and achieved positive results in practical cooperation over the past three decades, Wang said. He expressed China's willingness to use the 35th anniversary of diplomatic relations next year as an opportunity to deepen cooperation and strengthen public support for bilateral ties.He stressed that the Palestinian question is the greatest historical injustice of the 21st century and that the two-state solution is the right path to resolving ",
+      "image": "https://news.cgtn.com/news/2026-10-16/Wang-Yi-urges-Israel-to-open-Gaza-routes-halt-West-Bank-settlements-1RhttNEZoYw/img/0cec87284bb54e428a56d72cb23990d1/0cec87284bb54e428a56d72cb23990d1-250.png",
+      "via": "rss"
+    },
+    {
       "title": "中国车企成巴黎车展焦点，加速布局欧洲市场",
       "url": "https://cn.nytimes.com/business/20261016/chinese-evs-europe-paris-motor-show/?utm_source=RSS",
       "source": "纽约时报中文",
@@ -2159,6 +2666,39 @@
       "published": "2026-10-16T01:19:09+00:00",
       "summary": "By: Salman Rafi SheikhArmed transport in Taliban-controlled Kabul in 2021. Wikimedia photoThe Taliban conquered Afghanistan by defeating an insurgency&#8217;s enemies, but five years later, their own methods of governing may be creating the conditions for another one.On July 17, anti-Taliban fighters briefly seized the district of Yaftali Sufla in northeaster&#8230;\n      \n          \n              Read more",
       "image": "https://substackcdn.com/image/fetch/$s_!HheV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2443ff37-d8e1-4109-be16-bd21f378eced_876x584.png",
+      "via": "rss"
+    },
+    {
+      "title": "China deploys five teams for latest batch of environmental inspections",
+      "url": "https://news.cgtn.com/news/2026-10-16/China-deploys-five-teams-for-latest-batch-of-environmental-inspections-1RhqbuPhtFS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-16T01:13:39+00:00",
+      "summary": "Five central ecological and environmental protection inspection teams have completed their deployment for the seventh batch of the third round of inspections, the Ministry of Ecology and Environment said on Thursday.The latest batch includes two regular inspection teams assigned to inspect government ministries and three special inspection teams focusing on pollution in caves, sinkholes and valleys.The two regular teams will conduct one-month inspections of the Ministry of Housing and Urban-Rural Development and the Ministry of Agriculture and Rural Affairs.A special team will carry out inspections in Hubei, Hunan and Guangxi, with a second team operating in Chongqing and Sichuan, and the third based in Guizhou and Yunnan. Their inspections are expected to last about two weeks.The ministry said the inspections aim to strengthen environmental protection accountability, accelerate the country's green transformation, substantially improve environmental quality and achieve major progress i",
+      "image": "https://news.cgtn.com/news/2026-10-16/China-deploys-five-teams-for-latest-batch-of-environmental-inspections-1RhqbuPhtFS/img/020b0af6e0ae41349a11b08545a23312/020b0af6e0ae41349a11b08545a23312-750.png",
+      "via": "rss"
+    },
+    {
+      "title": "Men, Madmen or Gods? Heroism Defined | Breaking Through, Episode 3",
+      "url": "https://news.cgtn.com/news/2026-10-16/Men-Madmen-or-Gods-Heroism-Defined-Breaking-Through-Episode-3-1RgERL2Ixm8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-16T01:01:21+00:00",
+      "summary": "A raging river. An iron chain bridge. The enemy waiting on the far side.In May 1935, the Red Army faced a seemingly insurmountable challenge at the Dadu River in Sichuan Province. But there was no time to hesitate, and no certainty of survival.Ninety years later, a new generation is facing unprecedented challenges, this time in China's emerging commercial space industry.Is there a connection between the soldiers racing across a bridge and the engineers striving to return rockets safely to Earth? Different centuries. Different stakes. But the same question: How far would you go to achieve the impossible? Tune in to CGTN's Long March documentary Breaking Through&nbsp;to find out.",
+      "image": "https://video.cgtn.com/news/2026-10-16/Men-Madmen-or-Gods-Heroism-Defined-Breaking-Through-Episode-3-1RgERL2Ixm8/video/wu_1k4vqqb16104bbj2o0druu15j9ait/wu_1k4vqqb16104bbj2o0druu15j9ait-1280.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "A rainbow of colors sweeps across Jilin's mountains",
+      "url": "https://news.cgtn.com/news/2026-10-16/A-rainbow-of-colors-sweeps-across-Jilin-s-mountains-1RhpnwyskXC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-16T00:37:11+00:00",
+      "summary": "For just a few weeks each year, Jilin's forests explode in red, gold and orange.Known as the Five-Color Mountains, this autumn spectacle unfolds alongside the Songhua River and crystal-clear mountain lakes. Would you come see them?",
+      "image": "https://news.cgtn.com/news/2026-10-16/A-rainbow-of-colors-sweeps-across-Jilin-s-mountains-1RhpnwyskXC/img/8f54669bd15d4f63bf352d6481d17f92/8f54669bd15d4f63bf352d6481d17f92-750.png",
       "via": "rss"
     },
     {
@@ -2280,39 +2820,6 @@
       "published": "2026-10-15T20:25:59+00:00",
       "summary": "Executive Summary:\n\n\n\n\nEver more Central Asians are learning Chinese rather than Russian or English, convinced that Chinese is the foreign language of the future and that knowing it will help them find work with the growing number of Chinese firms and institutions in their countries.\n\n\n\nMost Central Asians studying Chinese are doing so in Chinese-funded institutions, but a growing number are getting such instruction in local universities or from tutors, an indication that this Beijing effort at promoting its soft power in Central Asia is taking off.\n\n\n\nAt present, the numbers doing so are still relatively small compared to those studying Russian, the language of upward mobility in Soviet times, or English more recently; but they are growing rapidly and helping Beijing to cement its influence there.\n\n\n\n\n\n\n\n\nA growing number of Central Asians are learning Chinese rather than Russian or English. Many see Chinese as the language of the future, and knowing it will help them find work with t",
       "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Ukraine Resumes Strikes on Russian Oil Refineries",
-      "url": "https://foreignpolicy.com/2026/10/15/ukraine-strikes-russia-oil-refineries-zelensky-trump-starlink-energy-cease-fire/",
-      "source": "Foreign Policy",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-10-15T20:11:59+00:00",
-      "summary": "Zelensky directly defies Trump.",
-      "image": "https://foreignpolicy.com/wp-content/uploads/2026/10/oil-refinery-russia-ukraine-attack-2026-09-21T152439Z_834062788_RC2QMNAQ063V_RTRMADP_3_UKRAINE-CRISIS-RUSSIA-REFINERY-MOSCOW.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Nepal Should Not Shoulder the Himalayan Climate Crisis Alone",
-      "url": "https://thediplomat.com/2026/10/nepal-should-not-shoulder-the-himalayan-climate-crisis-alone/",
-      "source": "The Diplomat",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-10-15T19:36:00+00:00",
-      "summary": "“No matter how much we reform our internal engineering, a frontline nation simply cannot manage the shocks of a global systemic failure alone.”",
-      "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/09/thediplomat_2026-09-04-232128.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "France drops opposition to UK being included in ‘Made in Europe’ legislation",
-      "url": "https://www.theguardian.com/world/2026/oct/15/france-drops-opposition-to-uk-being-included-in-made-in-europe-legislation",
-      "source": "The Guardian",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-15T19:28:34+00:00",
-      "summary": "British government must however align with the European Union’s position over tariffs on Chinese EVsFrance has dropped its opposition to the UK being included in the EU’s “Made in Europe” legislation as long as the British government aligns with the bloc’s position over tariffs on Chinese EVs.In a breakthrough for Andy Burnham, France on Thursday came round to backing Germany, which has always supported the UK’s calls to be designated European for the purposes of the Industrial Accelerator Act. The legislation, which is in its draft stage, is designed to protect domestic manufacturing from cheap Chinese competition. Continue reading...",
-      "image": "https://i.guim.co.uk/img/media/95c162d550278a8e3728fb4c5441b4ad520118c3/287_0_4803_3842/master/4803.jpg?width=140&quality=85&auto=format&fit=max&s=d123bd738d859717a43ded984423a350",
       "via": "rss"
     }
   ]
