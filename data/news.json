@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T19:11:23.802157+00:00",
+  "last_updated": "2026-10-20T23:48:04.185259+00:00",
   "source_counts": {
     "en": 36,
     "zh": 24
@@ -10,119 +10,46 @@
       "icon": "🤖",
       "color": "#7d6be8",
       "featured": true,
-      "articles": [
-        {
-          "title": "China establishes National Data Group in Xiongan ; new central SOE to develop data resources , support AI growth",
-          "url": "https://www.globaltimes.cn/page/202610/1372661.shtml",
-          "source": "globaltimes.cn",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-20T17:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "ai_tech"
-        }
-      ]
+      "articles": []
     },
     "foreign_policy": {
       "label": "Foreign Policy & Diplomacy",
       "icon": "🌐",
       "color": "#4f8de8",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "BRISL to host seminar for undergraduates on Belt and Road Initiative in Colombo today",
+          "url": "https://www.ft.lk/business/BRISL-to-host-seminar-for-undergraduates-on-Belt-and-Road-Initiative-in-Colombo-today/34-798831",
+          "source": "ft.lk",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-19T04:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "What China Global Initiatives Offer the World – Sri Lanka Guardian",
+          "url": "https://slguardian.org/what-chinas-global-initiatives-offer-the-world/",
+          "source": "slguardian.org",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-16T02:00:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        }
+      ]
     },
     "politics": {
       "label": "Politics & Governance",
       "icon": "🏛️",
       "color": "#9b6de8",
       "featured": false,
-      "articles": [
-        {
-          "title": "Zhao Leji Holds Talks with Chairman of the National Assembly of Viet Nam Tran Thanh Man and Co - Chairs Second Session of the Joint Committee Between the Legislative Bodies",
-          "url": "https://sl.china-embassy.gov.cn/eng/zgyw/202610/t20261020_12043557.htm",
-          "source": "sl.china-embassy.gov.cn",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-20T07:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "武陵源两会｜政协张家界市武陵源区第八届委员会第一次会议开幕 _ 张家界 _ 湖南频道",
-          "url": "https://hn.rednet.cn/content/646054/53/16386263.html",
-          "source": "hn.rednet.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-10-20T04:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "服务大局显担当 依法履职见成效 _ 绵阳新闻网",
-          "url": "http://www.myrb.net/html/2026/news/10/459518.html",
-          "source": "myrb.net",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-10-20T04:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "市政协九届一次会议开幕 _ 绵阳新闻网",
-          "url": "http://www.myrb.net/html/2026/news/10/459513.html",
-          "source": "myrb.net",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-10-20T04:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "光辉万象 朱德群艺术回顾展  在中国美术学院美术馆开幕|油画|林风眠|吴大羽|赵无极",
-          "url": "https://www.163.com/dy/article/L9L5U0PF05169GG3.html",
-          "source": "163.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-10-19T17:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "第四屆中國非物質文化遺產保護年會在朝陽盛大啟幕",
-          "url": "https://www.hkcd.com/hkcdweb/content/2026/10/17/content_8780411.html",
-          "source": "hkcd.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-10-17T08:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        },
-        {
-          "title": "《 名城视窗 》· 103 · 千工万匠共  城  长 杭州工会的百年淬炼与时代答卷",
-          "url": "https://hznews.hangzhou.com.cn/chengshi/content/2026-10/16/content_9340709.htm",
-          "source": "hznews.hangzhou.com.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-10-16T04:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        }
-      ]
+      "articles": []
     },
     "military_security": {
       "label": "Military & Security",
@@ -131,180 +58,180 @@
       "featured": false,
       "articles": [
         {
-          "title": "Presidenti amerikan Trump gatishmëri për takim trepalësh",
-          "url": "https://newsmaxbalkans.al/bote/amerika/76565/presidenti-amerikan-trump-gatishmeri-per-takim-trepalesh/news",
-          "source": "newsmaxbalkans.al",
+          "title": "military exercises around taiwan ....",
+          "url": "https://yourdemocracy.net/drupal/node/61502",
+          "source": "yourdemocracy.net",
           "language": "en",
           "type": "wire",
-          "published": "2026-10-20T10:00:00+00:00",
+          "published": "2026-10-20T22:45:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "military_security"
         },
         {
-          "title": "В МИД РФ назвали нереалистичными идеи о  коротком пути к ядерному нулю",
-          "url": "https://profile.ru/news/politics/v-mid-rf-nazvali-nerealistichnymi-idei-o-korotkom-puti-k-yadernomu-nulju-1913819/",
-          "source": "profile.ru",
+          "title": "US , Japan Holding Major Military Exercises Near Taiwan",
+          "url": "https://consortiumnews.com/2026/10/20/us-japan-holding-major-military-exercises-near-taiwan/",
+          "source": "consortiumnews.com",
           "language": "en",
           "type": "wire",
-          "published": "2026-10-17T16:30:00+00:00",
+          "published": "2026-10-20T21:00:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "military_security"
         },
         {
-          "title": "Trump paralajmëron se Kina mund të arrijë SHBA në armët bërthamore , zbulon bisedimet me Rusinë dhe Pekinin",
-          "url": "https://newsmaxbalkans.al/bote/amerika/75993/trump-paralajmeron-se-kina-mund-te-arrije-shba-ne-armet-berthamore-zbulon-bisedimet-me-rusine-dhe-pekinin/news",
-          "source": "newsmaxbalkans.al",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-17T07:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "military_security"
-        },
-        {
-          "title": "中国裁军大使未点名 暗指日本囤积钚材料鼓吹自主拥核 | 国际",
-          "url": "https://www.orientaldaily.com.my/news/international/2026/10/17/855863",
-          "source": "orientaldaily.com.my",
+          "title": "早安世界 》 日本國家資格證照開放填 「 台灣 」 旅日牙醫 ： 身分認同終於被承認 | 生活",
+          "url": "https://www.cna.com.tw:443/news/ahel/202610205001.aspx",
+          "source": "cna.com.tw",
           "language": "zh",
           "type": "wire",
-          "published": "2026-10-17T06:30:00+00:00",
+          "published": "2026-10-20T01:00:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "military_security"
         },
         {
-          "title": "中国裁军大使 ： 核武器用不得 核战争打不得 - 新华网",
-          "url": "https://www.news.cn/world/20261017/024d73cb8ea94f899acfef3077376c07/c.html",
-          "source": "news.cn",
+          "title": "Japonya ve ABDnin Keen Sword tatbikatında Tip 25 füzesi ilk kez test edilecek",
+          "url": "https://www.haberler.com/guncel/japonya-ve-abd-nin-keen-sword-tatbikatinda-tip-25-20345869-haberi/",
+          "source": "haberler.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-19T14:45:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Japan and the US kick off joint drills around islands as regional tensions rise – Winnipeg Free Press",
+          "url": "https://www.winnipegfreepress.com/world/2026/10/19/japan-and-the-us-kick-off-joint-drills-around-islands-as-regional-tensions-rise",
+          "source": "winnipegfreepress.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-19T13:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "美日利劍聯合軍演登場 美軍首在與那國島部署反艦飛彈 ｜ 公視新聞網 PNN",
+          "url": "https://news.pts.org.tw/article/832043",
+          "source": "news.pts.org.tw",
           "language": "zh",
           "type": "wire",
-          "published": "2026-10-17T02:30:00+00:00",
+          "published": "2026-10-19T13:15:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "military_security"
         },
         {
-          "title": "Ядерне роззброєння Росії та Китаю Трамп оголосив про нові переговори",
-          "url": "https://focus.ua/uk/politics/771514-yaderne-rozzbroyennya-rosiji-ta-kitayu-tramp-ogolosiv-pro-novi-peregovori",
-          "source": "focus.ua",
+          "title": "Japan deploys long - range missiles for joint US military drill",
+          "url": "https://www.freemalaysiatoday.com/category/world/2026/10/19/japan-deploys-long-range-missiles-for-joint-us-military-drill",
+          "source": "freemalaysiatoday.com",
           "language": "en",
           "type": "wire",
-          "published": "2026-10-17T00:15:00+00:00",
+          "published": "2026-10-19T11:30:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "military_security"
         },
         {
-          "title": "Трамп веде переговори з РФ і Китаєм щодо нової ядерної угоди",
-          "url": "https://www.obozrevatel.com/ukr/section-politics-news/news-ssha-khochut-uklasty-novu-yadernu-uhodu-z-rosiyeyu-ta-kytayem-tramp-17-10-2026.html",
-          "source": "obozrevatel.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-16T23:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "military_security"
-        },
-        {
-          "title": "Вашингтон ищет ядерный компромисс с Москвой и Пекином - Трамп",
-          "url": "https://korrespondent.net/world/4920872-vashynhton-yschet-yadernyi-kompromyss-s-moskvoi-y-pekynom-tramp",
-          "source": "korrespondent.net",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-16T19:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "military_security"
-        },
-        {
-          "title": "ترامب : نجري محادثات مع روسيا والصين بشأن نزع السلاح النووي",
-          "url": "https://www.omandaily.om/article/1212802",
-          "source": "omandaily.om",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-16T18:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "military_security"
-        },
-        {
-          "title": "Вашингтон шукає ядерний компроміс із Москвою та Пекіном - Трамп",
-          "url": "https://ua.korrespondent.net/world/4920872-vashynhton-shukaie-yadernyi-kompromis-iz-moskvoui-ta-pekinom-tramp",
-          "source": "ua.korrespondent.net",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-16T18:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "military_security"
-        },
-        {
-          "title": "川普称正与中俄讨论无核化 中国5年内核能力将超美",
-          "url": "https://www.wenxuecity.com/news/2026/10/16/126806436.html",
-          "source": "wenxuecity.com",
+          "title": "美日  利剑  军演升级 ， 为何说联合威慑背后暗藏更大战略风险 _ 军事频道 _ 中华网",
+          "url": "https://military.china.com/important/64/20261019/49801448.html",
+          "source": "military.china.com",
           "language": "zh",
           "type": "wire",
-          "published": "2026-10-16T15:30:00+00:00",
+          "published": "2026-10-19T06:45:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "military_security"
         },
         {
-          "title": "ترامب : نجري محادثات مع روسيا والصين بشأن نزع السلاح النووي | العالم",
-          "url": "https://www.ammonnews.net/article/1037183",
-          "source": "ammonnews.net",
-          "language": "en",
+          "title": "日美將舉行大規模聯合軍演 在日引發廣泛擔憂與反對 - 國際",
+          "url": "https://www.wenweipo.com/a/202610/19/AP6ad558c9e4b01d54a287b4ee.html",
+          "source": "wenweipo.com",
+          "language": "zh",
           "type": "wire",
-          "published": "2026-10-16T10:00:00+00:00",
+          "published": "2026-10-19T04:15:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "military_security"
         },
         {
-          "title": "Armes nucléaires : Trump craint que la Chine rattrape les États - Unis dici cinq ans",
-          "url": "https://lanouvelletribune.info/2026/10/armes-nucleaires-trump-craint-que-la-chine-rattrape-les-etats-unis-dici-cinq-ans/",
-          "source": "lanouvelletribune.info",
-          "language": "en",
+          "title": "兵韬志略｜美日  利剑  军演升级 ， 为何说联合威慑背后暗藏更大战略风险",
+          "url": "https://baijiahao.baidu.com/s?id=1879250375028918035",
+          "source": "baijiahao.baidu.com",
+          "language": "zh",
           "type": "wire",
-          "published": "2026-10-16T09:30:00+00:00",
+          "published": "2026-10-17T05:00:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "military_security"
         },
         {
-          "title": "За что в КР могут поощрить наградным оружием ? Постановление кабмина » Gazeta . kg новости Кыргызстана и Бишкека сегодня",
-          "url": "https://gazeta.kg/society/227386-za-chto-v-kr-mogut-pooschrit-nagradnym-oruzhiem-postanovlenie-kabmina.html",
-          "source": "gazeta.kg",
-          "language": "en",
+          "title": "兵韬志略｜美日  利剑  军演升级 ， 为何说联合威慑背后暗藏更大战略风险|美军|自卫队|联合军演",
+          "url": "https://www.163.com/dy/article/L9E5R1DG0514R9P4.html",
+          "source": "163.com",
+          "language": "zh",
           "type": "wire",
-          "published": "2026-10-16T06:45:00+00:00",
+          "published": "2026-10-17T01:00:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
           "category": "military_security"
         },
         {
-          "title": "USA rokujú s Ruskom a Čínou o jadrovom odzbrojení",
-          "url": "https://www.topky.sk/cl/11/9531689/Trump-prekvapil-vyhlasenim--USA-rokuju-s-Ruskom-a-Cinou-o-jadrovom-odzbrojeni",
-          "source": "topky.sk",
+          "title": "解放軍四大海域同步軍演 ！ 黃海南部罕見封航47天 陸媒 ： 劍指台獨 - 兩岸",
+          "url": "https://www.chinatimes.com/realtimenews/20261016002333-260409",
+          "source": "chinatimes.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-10-16T04:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "解放军南北六海域同时  开火  实战演练彰显决心 _ 军事频道 _ 中华网",
+          "url": "https://military.china.com/news/13004177/20261016/49797912.html",
+          "source": "military.china.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-10-16T04:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "Ministry on guard for PLA exercises",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/16/2003866057",
+          "source": "taipeitimes.com",
           "language": "en",
           "type": "wire",
-          "published": "2026-10-16T06:00:00+00:00",
+          "published": "2026-10-15T16:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        },
+        {
+          "title": "EDITORIAL : Beware Beijing expanding lawfare",
+          "url": "https://www.taipeitimes.com/News/editorials/archives/2026/10/16/2003866037",
+          "source": "taipeitimes.com",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-10-15T16:15:00+00:00",
           "summary": "",
           "image": "",
           "via": "gdelt",
@@ -317,476 +244,28 @@
       "icon": "📈",
       "color": "#3dbd86",
       "featured": false,
-      "articles": [
-        {
-          "title": "恒大许家印案一审宣判 ： 无期徒刑与158 . 2亿罚金丨 【 思维深潜 】",
-          "url": "https://finance.sina.com.cn/tech/roll/2026-10-20/doc-inivwpzi5783895.shtml",
-          "source": "finance.sina.com.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-10-20T13:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "抄底万达之后 ， 私募大佬又对恒大下手了",
-          "url": "https://www.163.com/dy/article/L9MUM27U05198035.html",
-          "source": "163.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-10-20T10:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "抄底万达之后 ， 私募大佬又对恒大下手了",
-          "url": "https://finance.ifeng.com/c/8xNL1i2pDST",
-          "source": "finance.ifeng.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-10-20T06:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "华尔街见闻早餐FM - Radio | 2026年10月20日",
-          "url": "https://wallstreetcn.com/articles/3783954",
-          "source": "wallstreetcn.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-10-20T00:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "财经早报丨A股将迎至少360亿活水 长线资金最新持仓曝光 ( 名单 ) 丨2026年10月20日",
-          "url": "https://finance.sina.com.cn/stock/y/2026-10-20/doc-inivvnpv5886100.shtml",
-          "source": "finance.sina.com.cn",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-10-20T00:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "The dark forces driving discontent across the developed world",
-          "url": "https://www.abc.net.au/news/2026-10-20/rising-political-cost-of-growing-inequality/107284494",
-          "source": "abc.net.au",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-19T20:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "International Trade Update for October 19 , 2026",
-          "url": "https://natlawreview.com/article/tariff-ied-week-international-trade-october-19-2026",
-          "source": "natlawreview.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-19T20:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "Weekly Sanctions Update : October 5 , 2026",
-          "url": "https://www.mondaq.com:443/unitedstates/money-laundering/1856702/weekly-sanctions-update-october-5-2026",
-          "source": "mondaq.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-19T16:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "Trump waived key Russian sanctions ; US equity futures set to open firmer - Newsquawk US Market Open",
-          "url": "http://www.zerohedge.com/markets/trump-waived-key-russian-sanctions-us-equity-futures-set-open-firmer-newsquawk-us-market",
-          "source": "zerohedge.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-19T11:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "China Growth Accelerates to 4 . 5 % as AI - Driven Exports Offset Weak Domestic Demand – Sri Lanka Guardian",
-          "url": "https://slguardian.org/chinas-growth-accelerates-to-4-5-as-ai-driven-exports-offset-weak-domestic-demand/",
-          "source": "slguardian.org",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-19T10:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "Sanctions Update : October 5 , 2026",
-          "url": "https://www.mondaq.com:443/unitedstates/export-controls-trade-investment-sanctions/1856408/sanctions-update-october-5-2026",
-          "source": "mondaq.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-19T06:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "造谣李嘉诚去世 ， 背后是一门20年的  老生意 - 虎嗅网",
-          "url": "https://www.huxiu.com/article/4898488.html",
-          "source": "huxiu.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-10-19T05:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "科技股回购潮 ！ 美股周五闪崩 ， 中信振臂高呼 ： 市场调整接近尾声",
-          "url": "https://www.163.com/dy/article/L9JCNDIG05566UTE.html",
-          "source": "163.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-10-19T01:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "Global sharemarket outlook : Strong earnings face risk from higher interest rates",
-          "url": "https://www.nzherald.co.nz/business/global-sharemarket-outlook-strong-earnings-face-risk-from-higher-interest-rates/premium/MRNFM2WAJJGI5MS6AVREPUILVA/",
-          "source": "nzherald.co.nz",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-18T18:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "起拍价约2 . 44亿 ! 富力 、 希尔顿合作酒店将拍卖 ， 此前富力已拍卖多家五星级酒店 _ 东方财富网",
-          "url": "https://finance.eastmoney.com/a/202610183899164657.html",
-          "source": "finance.eastmoney.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-10-18T14:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "起拍价约2 . 44亿 ! 富力 、 希尔顿合作酒店将拍卖 ， 此前富力已拍卖多家五星级酒店",
-          "url": "https://www.163.com/dy/article/L9I0KA7R0511U82T.html",
-          "source": "163.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-10-18T12:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "实地探访  卫星城市  看投资神话破灭 - 博客",
-          "url": "https://blog.wenxuecity.com/myblog/81940/202610/12199.html",
-          "source": "blog.wenxuecity.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-10-18T10:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "Futures Rise As Warsh Stays Mum , Tesla  Flying Car  Interrupts AI Liquidation",
-          "url": "https://www.zerohedge.com/markets/futures-rise-warsh-stays-mum-tesla-flying-car-interrupts-ai-liquidation",
-          "source": "zerohedge.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-16T13:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "US President Trump said Iran had asked for a halt to US attacks ; European bourses set for a firmer open after the recent tech sell off - Newsquawk EU Market Open",
-          "url": "http://www.zerohedge.com/markets/us-president-trump-said-iran-had-asked-halt-us-attacks-european-bourses-set-firmer-open",
-          "source": "zerohedge.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-16T07:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "US stocks rebound from recent tech rout - Newsquawk Daily Asia - Pac Market Open",
-          "url": "http://www.zerohedge.com/markets/us-stocks-rebound-recent-tech-rout-newsquawk-daily-asia-pac-market-open",
-          "source": "zerohedge.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-15T23:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "现在知道为何各大房企敢集体涨价了 ， 原来全球资本早已嗅到大变局",
-          "url": "https://www.163.com/dy/article/L9B62VS30556FCMF.html",
-          "source": "163.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-10-15T20:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        },
-        {
-          "title": "Силата на инвестициите 2026 очерта новата карта на капитала",
-          "url": "https://money.bg/business/silata-na-investitsiite-2026-ocherta-novata-karta-na-kapitala.html",
-          "source": "money.bg",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-15T13:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "economy"
-        }
-      ]
+      "articles": []
     },
     "society": {
       "label": "Society & Culture",
       "icon": "👥",
       "color": "#d49040",
       "featured": false,
-      "articles": [
-        {
-          "title": "8 Things That David Wilkerson Saw About The Future Of America – And Most Of Them Have Already Happened",
-          "url": "https://www.investmentwatchblog.com/8-things-that-david-wilkerson-saw-about-the-future-of-america-and-most-of-them-have-already-happened/",
-          "source": "investmentwatchblog.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-20T03:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "CHINA :  My Sister Has Been in a Chinese Prison for Eight Years Because I Exercised My Freedom of Speech",
-          "url": "https://www.ipsnews.net/2026/10/china-my-sister-has-been-in-a-chinese-prison-for-eight-years-because-i-exercised-my-freedom-of-speech/",
-          "source": "ipsnews.net",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-19T07:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        },
-        {
-          "title": "只论好坏 ， 慎判对错  政治正确  的陷阱 - 博客",
-          "url": "https://blog.wenxuecity.com/myblog/84093/202610/10584.html",
-          "source": "blog.wenxuecity.com",
-          "language": "zh",
-          "type": "wire",
-          "published": "2026-10-16T00:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "society"
-        }
-      ]
+      "articles": []
     },
     "maritime_security": {
       "label": "Maritime Security",
       "icon": "⚓",
       "color": "#3ab8c5",
       "featured": false,
-      "articles": [
-        {
-          "title": "A Surfacing Strategy : Chinese Unconventional Oceanic Warfare | Center for International Maritime Security",
-          "url": "https://cimsec.org/a-surfacing-strategy-chinese-unconventional-oceanic-warfare/",
-          "source": "cimsec.org",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-16T11:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "maritime_security"
-        }
-      ]
+      "articles": []
     },
     "domestic_security": {
       "label": "Domestic Security",
       "icon": "🔒",
       "color": "#e07070",
       "featured": false,
-      "articles": [
-        {
-          "title": "Pakistan : Widening Threat Of BRG In Balochistan - Analysis",
-          "url": "https://www.eurasiareview.com/20102026-pakistan-widening-threat-of-brg-in-balochistan-analysis/",
-          "source": "eurasiareview.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-20T01:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "Baloch Insurgency Intensifies as BRG Escalates Attacks",
-          "url": "https://slguardian.org/baloch-insurgency-intensifies-as-brg-escalates-attacks/",
-          "source": "slguardian.org",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-20T00:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "Drum - Tidbit",
-          "url": "https://www.postcourier.com.pg/drum201026/",
-          "source": "postcourier.com.pg",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-19T19:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "ELTA glaustai : dronas į šalį pateko iš Lenkijos pusės",
-          "url": "https://www.delfi.lt/naujienos/lietuvoje/elta-glaustai-dronas-i-sali-pateko-is-lenkijos-puses-starlink-incidentas-traktuojamas-kaip-sabotazas-120321422",
-          "source": "delfi.lt",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-19T16:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "Drum - Tidbit",
-          "url": "https://www.postcourier.com.pg/drum191026/",
-          "source": "postcourier.com.pg",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-18T19:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "10 Grim Separation Walls From Around The World",
-          "url": "https://listverse.com/2014/09/27/10-grim-separation-walls-from-around-the-world/",
-          "source": "listverse.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-18T06:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "White shirts , fast - track passes : Inside an alleged Immigration racket",
-          "url": "https://www.malaysiakini.com/news/887281-white-shirts-fast-track-passes-inside-an-alleged-immigration-racket",
-          "source": "malaysiakini.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-17T01:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "Morocco Security and Crime Explained 2026",
-          "url": "https://www.riotimesonline.com/morocco-security-crime-explained-2026/",
-          "source": "riotimesonline.com",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-16T15:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "LE NOTIZIE DEL GIORNO DEL 15 OTTOBRE - Schiaffi , insulti e violenza sessuale ad anziane in Rsa : interdetti 3 OSS . Save the Children : 1 bambino su 4 sotto i 5 anni , nel mondo , soffre di grave povertà alimentare LE ULTIMISSIME",
-          "url": "https://www.casertafocus.net/home/index.php?option=com_content&view=article&id=78453:dsfdfyuyiouipoe&catid=39&Itemid=259",
-          "source": "casertafocus.net",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-16T00:00:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "How Authoritarian States Are Building an International Market for Digital Surveillance",
-          "url": "https://tol.org/client/article/how-authoritarian-states-are-building-an-international-market-for-digital-surveillance.html",
-          "source": "tol.org",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-15T20:15:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        },
-        {
-          "title": "Washington : Trump stoppt Livestream einer Hinrichtung",
-          "url": "https://www.bbv-net.de/ueberregionales/keine-liveuebertragung-einer-hinrichtung-trump-sagt-geplanten-livestream-in-texas-ab-15-oktober-2026-w1246014-6000624223/",
-          "source": "bbv-net.de",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-10-15T15:30:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "domestic_security"
-        }
-      ]
+      "articles": []
     },
     "bilateral_relations": {
       "label": "Bilateral Relations",
@@ -986,14 +465,630 @@
   },
   "latest_rss": [
     {
+      "title": "As Alberta Rejects Canada Separatism, Carney Gets Much of the Credit",
+      "url": "https://www.nytimes.com/2026/10/20/world/canada/carney-alberta-referendum-trump.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-20T23:30:08+00:00",
+      "summary": "Prime Minister Mark Carney of Canada, center, with supporters of Alberta’s staying in Canada in Red Deer, Alberta, last Friday.",
+      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-canada-carney-assess-kcbf/20int-canada-carney-assess-kcbf-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "NATO to send additional patrol planes to Black Sea after drone attacks",
+      "url": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-20T23:19:52+00:00",
+      "summary": "The alliance announces the deployment after a series of deadly drone attacks in the region.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "中国商务部对美国表示“坚决反对”，敦促美方纠正做法",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261020-%E4%B8%AD%E5%9B%BD%E5%95%86%E5%8A%A1%E9%83%A8%E5%AF%B9%E7%BE%8E%E5%9B%BD%E8%A1%A8%E7%A4%BA-%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9-%EF%BC%8C%E6%95%A6%E4%BF%83%E7%BE%8E%E6%96%B9%E7%BA%A0%E6%AD%A3%E5%81%9A%E6%B3%95",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-10-20T23:16:59+00:00",
+      "summary": "就美国制裁5个中国实体及禁止美国联邦文职机关使用DeepSeek开发的AI工具问题，中国商务部周二晚表示“坚决反对”，敦促美方纠正做法。",
+      "image": "https://s.rfi.fr/media/display/c8c2d684-be4e-11f1-8436-dd51fcab6130/w:1024/p:16x9/2026-09-23T080006Z-67862463-RC2UNLAIW1R3-RTRMADP-3-OECD-ECONOMY.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "香港獨立書店專訪：做書店是為開心，我們還要做下去嗎？",
+      "url": "https://theinitium.com/20261021-hongkong-independent-bookstores-feature/",
+      "source": "端传媒",
+      "language": "zh",
+      "type": "journal",
+      "published": "2026-10-20T23:00:00+00:00",
+      "summary": "&#x7de8;&#x6309;&#xff1a;&#x4eca;&#x5e74;&#xff0c;&#x662f;&#x9999;&#x6e2f;&#x7368;&#x7acb;&#x66f8;&#x5e97;&#x591a;&#x4e8b;&#x7684;&#x4e00;&#x5e74;&#x3002;&#x98a8;&#x98a8;&#x706b;&#x706b;&#x904e;&#x5f8c;&#xff0c;&#x6211;&#x5011;&#x627e;&#x5230;&#x4e09;&#x9593;&#x7368;&#x7acb;&#x66f8;&#x5e97;&#x8ac7;&#x8ac7;&#x4ed6;&#x5011;&#x56de;&#x6b78;&#x65e5;&#x5e38;&#x71df;&#x904b;&#x4e2d;&#x7684;&#x5404;&#x7a2e;&#xff1a;&#x66f8;&#x696d;&#x5f62;&#x52e2;&#x5982;&#x4f55;&#x9aa8;&#x724c;&#x5f0f;&#x6539;&#x8b8a;&#xff1f;&#x4ea4;&#x6d41;&#x6d3b;&#x52d5;&#x6e1b;&#x5c11;&#x7684;&#x5f71;&#x97ff;&#x662f;&#x4ec0;&#x9ebc;&#xff1f;&#x66f4;&#x91cd;&#x8981;&#x7684;&#x662f;&#xff0c;&#x5982;&#x679c;&#x6709;&#x66f8;&#x4e0d;&#x80fd;&#x8ce3;&#xff0c;&#x6709;&#x6d3b;&#x52d5;&#x4e0d;&#x80fd;&#x8fa6;&#xff0c;&#x4ed6;&#x5011;&#x9084;&#x8981;&#x505a;&#x66f8;&#x5e97;&#x55ce;&#xff1f;&#x7aef;&#x50b3;&#x5a92;&#x63a8;&#x51fa;&#x300c;&#x7368;&#x7acb;&#x66f8;&#x5e97;&#x773c;&#x524d;&#x8def;&#x300d;&#x7cfb;&#x5217;&#x5831;&#x5c0e;&#xff0c;",
+      "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/bookstore-3.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "數說科技：中國 55% 的 AI 算力用在做短劇？",
+      "url": "https://theinitium.com/20261021-tech-in-numbers-china-ai-microdrama-anxiety/",
+      "source": "端传媒",
+      "language": "zh",
+      "type": "journal",
+      "published": "2026-10-20T22:58:00+00:00",
+      "summary": "&#x7de8;&#x6309;&#xff1a;&#x300c;&#x6578;&#x8aaa;&#x79d1;&#x6280;&#x300d;&#x662f;&#x7aef;&#x50b3;&#x5a92;&#x7684;&#x8a3b;&#x518a;&#x514d;&#x8cbb;&#x6b04;&#x76ee;&#xff0c;&#x6bcf;&#x9031;&#x4e09;&#x66f4;&#x65b0;&#x3002;&#x5f9e;&#x4e00;&#x500b;&#x6578;&#x5b57;&#x51fa;&#x767c;&#xff0c;&#x7528;1500&#x5b57;&#x89e3;&#x6790;&#x79d1;&#x6280;&#x8a71;&#x984c;&#xff0c;&#x8ffd;&#x8e64;&#x503c;&#x5f97;&#x95dc;&#x6ce8;&#x7684; AI &#x8da8;&#x52e2;&#x3002;&#x9080;&#x8acb;&#x4f60;&#x5728;&#x8cc7;&#x8a0a;&#x904e;&#x8f09;&#x7684;&#x6642;&#x4ee3;&#xff0c;&#x6bcf;&#x9031;&#x82b1;&#x4e09;&#x5206;&#x9418;&#x7406;&#x89e3;&#x79d1;&#x6280;&#x4e16;&#x754c;&#x3002;&#x6b61;&#x8fce;&#x81f3;&#x300c;&#x5e33;&#x6236;&#x4e2d;&#x5fc3;&#x300d;&#x7684;&#x300c;&#x96fb;&#x5b50;&#x90f5;&#x4ef6;&#x7ba1;&#x7406;&#x300d;&#xff0c;&#x8a02;&#x95b2;&#x96fb;&#x5b50;&#x4fe1;&#x3002;55%&#xff1a;&#x7db2;&#x50b3;&#x4e2d;&#x570b; AI &#x7b97;&#x529b;&#x7528;&#x65bc;&#x88fd;&#x4f5c;&#x77ed;&#x5287;&#x7684;&#x6bd4;&#x4f8b;&#xff0c;&#x6578;&#x64da;&",
+      "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/GettyImages-2286386816.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "The Gambia to pay reparations to ex-dictator’s victims from sale of US mansion",
+      "url": "https://www.aljazeera.com/news/2026/10/20/the-gambia-to-pay-reparations-to-ex-dictators-victims-from-sale-of-us-mansion?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-20T22:51:35+00:00",
+      "summary": "The Gambia confirmed it received $2.5m from the sale of a US mansion belonging to former president Jammeh.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "China Criticizes U.S. Ban on DeepSeek A.I. in Government Systems",
+      "url": "https://www.nytimes.com/2026/10/20/world/asia/china-deepseek-us-ban.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-20T22:24:29+00:00",
+      "summary": "The response came after Homeland Security ordered the removal and exclusion of products developed by the Chinese company.",
+      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-DeepseekAI-China-cjqh/20int-DeepseekAI-China-cjqh-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
       "title": "Robert Kabera, Rwandan Government Critic, Beheaded in Uganda",
       "url": "https://www.nytimes.com/2026/10/20/world/africa/rwandan-beheaded-uganda-kabera.html",
       "source": "New York Times",
       "language": "en",
       "type": "newspaper",
-      "published": "2026-10-20T18:15:01+00:00",
+      "published": "2026-10-20T22:22:08+00:00",
       "summary": "The former soldier had been living in exile since 2020, and said in a video posted this month on TikTok that he feared for his life.",
       "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal",
+      "url": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-20T22:20:13+00:00",
+      "summary": "The US president&#039;s remarks come amid a deepening feud with Ukraine&#039;s President Volodymyr Zelenskyy.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Art Basel Paris Preview Draws Interest Despite Protests",
+      "url": "https://www.nytimes.com/2026/10/20/arts/art-basel-paris-france-protests.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-20T22:15:23+00:00",
+      "summary": "The Avant-Première preview of the Art Basel Paris fair attracted major collectors despite an escalation of anti-government protests, riots and looting across French cities.",
+      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20cul-art-basel-paris-jmfw/20cul-art-basel-paris-jmfw-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "SpaceX and Tesla boards are exploring potential merger",
+      "url": "https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-20T21:56:34+00:00",
+      "summary": "Elon Musk says combining his two public companies would be a ‘good idea’ as the world approaches an AI singularity",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff0feead5-489d-4a5e-80cc-d6c1b8d9968e.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "US troops in South Korea must be ready for missions beyond peninsula, commander says",
+      "url": "https://www.scmp.com/news/us/article/3371562/us-troops-south-korea-must-be-ready-missions-beyond-peninsula-commander-says",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-20T21:52:49+00:00",
+      "summary": "The commander of the US Eighth Army in South Korea said his troops must be ready for deployment outside the Korean peninsula if ordered, arguing that it would be “irresponsible” to focus “myopically” on threats there.\nLieutenant General Joe Hilbert said that while his command’s focus was on fulfilling US commitments under its mutual defence treaty with Seoul, the Eighth Army’s location did not limit the missions it could undertake.\nIt would be “irresponsible to focus myopically” on threats on...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/21/ac72cf51-8c95-4100-97ab-93e084379589_afb63639.jpg?itok=ifBnIPhA&v=1792533158",
+      "via": "rss"
+    },
+    {
+      "title": "Finnish president hails progress in talks about ending Russia’s war in Ukraine",
+      "url": "https://www.ft.com/content/a068036c-a752-4267-9a2f-a95190ef619f?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-20T21:30:25+00:00",
+      "summary": "Volodymyr Zelenskyy participates in discussions in Oslo that also involve Donald Trump’s envoy",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9e837b99-d5e1-4d71-a510-9fcf8659b47a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Trump commits more than $400m ahead of high-stakes midterm elections",
+      "url": "https://www.aljazeera.com/news/2026/10/20/trump-commits-more-than-400m-ahead-of-high-stakes-midterm-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-20T21:27:38+00:00",
+      "summary": "The president&#039;s Republican Party seeks to maintain its hold over both chambers of Congress, despite declining polls.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "PSG score late to sink Barcelona 4-2 in Champions League blockbuster",
+      "url": "https://www.aljazeera.com/sports/2026/10/20/psg-sink-barcelona-4-2-for-third-champions-league-win-in-a-row?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-20T21:24:06+00:00",
+      "summary": "Late strikes by Vitinha and Fabian Ruiz grab victory for PSG as they aim to win the UCL for third season running.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Student Protesters in France Have a Strange New Slogan. What Does It Mean?",
+      "url": "https://www.nytimes.com/2026/10/20/world/europe/france-student-protests-slogan.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-20T21:21:15+00:00",
+      "summary": "“Bismillah, c’est les ténèbres” has appeared on signs at recent demonstrations. It doesn’t make much sense (it means, “In the name of God, it’s the darkness”) but is seen as shorthand for a generational divide.",
+      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20intfrance1-cmbp/20intfrance1-cmbp-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "US food importer sues Trump over 50 percent tariffs on Canadian goods",
+      "url": "https://www.aljazeera.com/economy/2026/10/20/us-food-importer-sues-trump-over-50-percent-tariffs-on-canadian-goods?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-20T21:19:12+00:00",
+      "summary": "The lawsuit argues Trump bypassed Congress and misused a Depression-era law to impose tariffs on Canadian imports.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "巴黎部分地段连续第二晚实施宵禁，利摩日市政厅案：一名嫌疑人被逮捕",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261020-%E5%B7%B4%E9%BB%8E%E9%83%A8%E5%88%86%E5%9C%B0%E6%AE%B5%E8%BF%9E%E7%BB%AD%E7%AC%AC%E4%BA%8C%E6%99%9A%E5%AE%9E%E6%96%BD%E5%AE%B5%E7%A6%81%EF%BC%8C%E5%88%A9%E6%91%A9%E6%97%A5%E5%B8%82%E6%94%BF%E5%8E%85%E6%A1%88-%E4%B8%80%E5%90%8D%E5%AB%8C%E7%96%91%E4%BA%BA%E8%A2%AB%E9%80%AE%E6%8D%95",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-10-20T21:15:42+00:00",
+      "summary": "继上周末法国多地发生充满暴力和破坏的游行示威后，巴黎部分街区周二从晚上11点至周三早晨6点继续实施宵禁措施。就几乎被焚毁的利摩日市政厅一案，周二，法国安全力量逮捕了一名34岁的嫌疑人。",
+      "image": "https://s.rfi.fr/media/display/1cdcc8ac-cc8b-11f1-92bc-d1d2c32ebb87/w:1024/p:16x9/000-D3UU32L.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "欧盟正式发布改版后的《北极战略》",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261020-%E6%AC%A7%E7%9B%9F%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%E6%94%B9%E7%89%88%E5%90%8E%E7%9A%84-%E5%8C%97%E6%9E%81%E6%88%98%E7%95%A5",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-10-20T21:15:08+00:00",
+      "summary": "欧盟周二（10月20日）正式发布改版后的《北极战略》（Arctic Strategy），全面将“安全与防御”置于政策的核心位置。并与美国、英国和加拿大等“志同道合”的伙伴密切合作，共同遏制中俄日益扩张的影响力。",
+      "image": "https://s.rfi.fr/media/display/04a988c4-cc68-11f1-9fce-6313a763b466/w:1024/p:16x9/2026-09-21T202531Z-113697990-RC2780A8GS1Q-RTRMADP-3-EU-ENVIRONMENT-ARCTIC-OIL.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Nigeria Announces First Case of Ebola in Current Outbreak",
+      "url": "https://www.nytimes.com/2026/10/20/world/africa/nigeria-ebola-outbreak.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-20T21:02:50+00:00",
+      "summary": "Testing for Ebola in the Democratic Republic of Congo, where thousands of people have died in this year’s outbreak.",
+      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/00int-nigeria-ebola-1-bklc/00int-nigeria-ebola-1-bklc-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Zelensky Seeks U.S. Support, but Is Trump Interested?",
+      "url": "https://foreignpolicy.com/2026/10/20/zelensky-ukraine-witkoff-kushner-talks-oslo-russia-trump-starlink/",
+      "source": "Foreign Policy",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-10-20T21:00:58+00:00",
+      "summary": "The White House appears increasingly focused on bolstering ties with Russia.",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/10/UkraineRussia-GettyImages-2300612833.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Why do the US midterms matter for Trump and Congress?",
+      "url": "https://www.aljazeera.com/news/2026/10/20/why-do-the-us-midterms-matter-for-trump-and-congress?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-20T21:00:42+00:00",
+      "summary": "Republicans and Democrats jockey for control of Congress, which will set course for Trump&#039;s final two years in office.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "特朗普选择继续对泽连斯基施加压力，泽连斯基欢迎美方恢复情报共享",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261020-%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%89%E6%8B%A9%E7%BB%A7%E7%BB%AD%E5%AF%B9%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%96%BD%E5%8A%A0%E5%8E%8B%E5%8A%9B%EF%BC%8C%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E5%88%99%E6%AC%A2%E8%BF%8E%E7%BE%8E%E6%96%B9%E6%81%A2%E5%A4%8D%E6%83%85%E6%8A%A5%E5%85%B1%E4%BA%AB",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-10-20T20:54:08+00:00",
+      "summary": "周二，特朗普进一步加强对乌克兰的强硬态度，选择继续对泽连斯基施加远大于普京的压力。泽连斯基周二在奥斯陆举行的新闻发布会上，对美国情报共享“如今行之有效”表示欢迎。",
+      "image": "https://s.rfi.fr/media/display/9022bf42-c619-11f1-b7da-29a2e29ae696/w:1024/p:16x9/AP26266055693956.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "PSG and Barcelona fans divided over politics in football amid Paris riots",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/psg-and-barcelona-fans-divided-over-politics-in-football-amid-paris-riots?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-20T20:49:00+00:00",
+      "summary": "As PSG face Barcelona in a Champions League clash, fans weigh in on whether football should be a political platform.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "万斯称乌克兰是美国“伙伴”但利益有分歧",
+      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261020-%E4%B8%87%E6%96%AF%E7%A7%B0%E4%B9%8C%E5%85%8B%E5%85%B0%E6%98%AF%E7%BE%8E%E5%9B%BD-%E4%BC%99%E4%BC%B4-%E4%BD%86%E5%88%A9%E7%9B%8A%E6%9C%89%E5%88%86%E6%AD%A7",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-10-20T20:47:23+00:00",
+      "summary": "美国副总统万斯（J.D. Vance）表示，乌克兰是美国在部分领域的“伙伴”，但双方利益并非时刻一致，并重申乌克兰应停止攻击俄罗斯能源设施，理由是相关行动可能推高美国民众的能源成本。他同时明确反对乌克兰加入北约组织（NATO），显示华盛顿与基辅在对俄政策、战争结束方式及安全保障等问题上仍存在明显分歧。",
+      "image": "https://s.rfi.fr/media/display/39250994-6bb9-11f1-845a-005056a90284/w:1024/p:16x9/AP26169609253047.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Boeing wins approval for Max 10 jet in boost for turnaround efforts",
+      "url": "https://www.ft.com/content/0e99c2bc-873c-4d2d-b5c9-a0876faeb9ed?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-20T20:43:44+00:00",
+      "summary": "Long-awaited certification will help US group compete with Airbus as airlines seek larger and more efficient aircraft",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fa9899239-e1c9-4647-b346-289b6208b7d4.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Why Zelensky Took the Gloves Off This Time With Trump",
+      "url": "https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-20T20:39:58+00:00",
+      "summary": "Staying quiet is riskier than speaking up, Ukrainian officials say, as President Trump goes further than ever in prioritizing Russia’s interests.",
+      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-ukraine-trump-01-mzqw/20int-ukraine-trump-01-mzqw-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Trump: Ilhan Omar could be deported, slams Somalia as a ‘s—house’",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/trump-ilhan-omar-could-be-deported-slams-somalia-as-a-s?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-20T20:32:29+00:00",
+      "summary": "Donald Trump called Congresswoman Ilhan Omar “sick” and “dishonest” a week after federal agents raided her home.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Netflix gives downbeat outlook as streaming hits dry up",
+      "url": "https://www.ft.com/content/1b5d97dc-535a-42d9-ac0e-2c00e91c0aed?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-20T20:32:24+00:00",
+      "summary": "Entertainment giant shakes up creative leadership as viewership growth stalls and current quarter profits set to disappoint",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd8ed9e79-2a4c-4ff6-b5a0-08de4e1ee7f2.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Is Putin’s Waiting Game Working?",
+      "url": "https://www.nytimes.com/2026/10/20/world/putin-trump-ukraine-war.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-20T20:29:55+00:00",
+      "summary": "Trump’s push for deals and Europe’s political fractures seem to be giving the Russian president the opening he’s been waiting for.",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21int-theworld-top-lcpt/21int-theworld-top-lcpt-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Alberta Voters Reject Leaving Canada in Referendum on Separatism",
+      "url": "https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-20T20:26:35+00:00",
+      "summary": "Supporters of the Forever Canadian movement, who want Alberta to remain in Canada, in Edmonton, Alberta, on Monday.",
+      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-canada-alberta-vote-sub/20int-canada-alberta-vote-hp-zljc-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Why the war on Iran could backfire on US regime-change goals",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_war-on-iran-could-strengthen-nationalism-201026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-20T20:23:52+00:00",
+      "summary": "Mortazavi: The war on Iran could strengthen Iranian nationalism rather than trigger regime change.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "UK police rearrest two men on suspicion of assisting Iran’s intelligence",
+      "url": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-20T20:17:53+00:00",
+      "summary": "Duo was first arrested for suspected link to incident at US-run airbase used for striking Iran during this year&#039;s war.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Trump Makes Midterm Pitch to Farmers",
+      "url": "https://foreignpolicy.com/2026/10/20/trump-farmer-bailout-midterms-diesel-prices-iran-war/",
+      "source": "Foreign Policy",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-10-20T20:16:15+00:00",
+      "summary": "An $8 billion aid package aims to take the edge off the strain of the Iran war and trade chaos.",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/10/GettyImages-2298636396-2.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "France riots leave thousands of businesses damaged",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-riots-leave-thousands-of-businesses-damaged?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-20T20:16:01+00:00",
+      "summary": "Weekend riots in France left more than 3,000 businesses damaged with owners facing devastating losses",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "特朗普为什么说是移民政策造成法国骚乱？",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261020-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E6%98%AF%E7%A7%BB%E6%B0%91%E6%94%BF%E7%AD%96%E9%80%A0%E6%88%90%E6%B3%95%E5%9B%BD%E9%AA%9A%E4%B9%B1",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-10-20T20:07:41+00:00",
+      "summary": "欧洲各地近期因生活成本高涨及其他经济问题引发的抗争愈演愈烈，巴黎、米兰等大城纷传暴力事件 。但在法国上周六骚乱后，美国正副总统在第一时间表态，将法国问题根源说成是移民问题，只字不提美国和以色列发动对伊朗的战争造成石油大幅涨价才是欧洲物价飙升的重要原因。",
+      "image": "https://s.rfi.fr/media/display/94678592-cb96-11f1-a3f7-6313a763b466/w:1024/p:16x9/AP26267449248594.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "EU revises Arctic strategy as pressure from Russia, US grows",
+      "url": "https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-20T20:05:39+00:00",
+      "summary": "The new strategy shifts the bloc&#039;s focus from long-term climate concerns to urgent security measures.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "The British Police Rearrest Two in Connection With Alleged Terror Plot",
+      "url": "https://www.nytimes.com/2026/10/20/world/europe/raf-fairfield-arrests-iran.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-20T20:05:06+00:00",
+      "summary": "A B‑1B Lancer bomber at the R.A.F. Fairford air base in Fairford, Gloucestershire, England, last month.",
+      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-uk-arrest-1-lqjc/20int-uk-arrest-1-lqjc-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Yerevan Wants to Swap Territories with Azerbaijan to Resolve Exclave Problem",
+      "url": "https://jamestown.org/yerevan-wants-to-swap-territories-with-azerbaijan-to-resolve-exclave-problem/",
+      "source": "Jamestown Foundation",
+      "language": "en",
+      "type": "thinktank",
+      "published": "2026-10-20T20:01:00+00:00",
+      "summary": "Executive Summary:\n\n\n\n\nThe fate of exclaves—territories the Soviets made part of Armenia and Azerbaijan but that are surrounded by land belonging to the other—is slowing the signing of a peace deal between them, with Yerevan now backing a swap while Baku is less supportive.\n\n\n\nCalls for such swaps have been a regular feature of relations between the two countries since the early 1990s, when they were about larger territories, calls Azerbaijan originally supported while Armenia opposed. Baku’s military preponderance has reversed this.\n\n\n\nSuch a swap is now gaining more attention because of its successful use in Central Asia and because no other means besides further military action seems available to achieve a final settlement the two countries and most outside powers want.\n\n\n\n\n\n\n\n\nThe future of four small remaining exclaves created based on ethnicity by the Soviets—three Azerbaijani ones inside Armenian borders and one larger Armenian one inside Azerbaijan—is again slowing down progres",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Is money ruining US elections?",
+      "url": "https://www.aljazeera.com/video/lets-focus/2026/10/20/is-money-ruining-us-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-20T19:59:46+00:00",
+      "summary": "Who pays for US elections and what do they get? Josh Rushing asks Lawrence Lessig and Bradley Smith.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "EU-Backed Infrastructure Strengthens Azerbaijan–Central Asia Connectivity",
+      "url": "https://jamestown.org/eu-backed-infrastructure-strengthens-azerbaijan-central-asia-connectivity/",
+      "source": "Jamestown Foundation",
+      "language": "en",
+      "type": "thinktank",
+      "published": "2026-10-20T19:59:21+00:00",
+      "summary": "Executive Summary:\n\n\n\n\nAt an EU–Uzbekistan conference in Tashkent on September 30, officials signaled that the Trans-Caspian Transport Corridor is shifting from political commitments to implementation, backed by growing European bank financing in Uzbekistan.\n\n\n\nIn Kazakhstan, German logistics firm Rhenus Group and local partners agreed to advance a planned container terminal at Aktau, and Rhenus plans 14 terminals along the Trans-Caspian International Transport Route, where cargo volumes rose 58 percent year on year.\n\n\n\nThe European Union proposed a connectivity partnership with Azerbaijan and announced up to 200 million euros ($225 million) in South Caucasus grants, with possible projects including the Nakhchivan railway and Port of Baku.\n\n\n\n\n\n\n\n\nOn September 30, the European Union and Uzbekistan convened the Second National Conference on the Trans-Caspian Transport Corridor in Tashkent, bringing together government officials, international financial institutions, development partners",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Putin Makes Nuclear Threats Over Kaliningrad",
+      "url": "https://jamestown.org/putin-makes-nuclear-threats-over-kaliningrad/",
+      "source": "Jamestown Foundation",
+      "language": "en",
+      "type": "thinktank",
+      "published": "2026-10-20T19:58:28+00:00",
+      "summary": "Executive Summary:\n\n\n\n\nThe Kremlin threatened to use nuclear weapons against the North Atlantic Treaty Organization (NATO) if the Alliance attempts to cut off its Kaliningrad exclave from mainland Russia following several military exercises near the oblast’s borders. NATO Secretary General Mark Rutte called on Russia to cease nuclear threats and emphasized NATO’s purely defensive nature in response.\n\n\n\nKaliningrad’s regional identity and pro-European orientation, relative to the rest of Russia, have increasingly clashed with Moscow’s policies as the Russian economy deteriorates. The Kremlin eliminated regional political parties in 2001 and transformed the exclave into a heavily militarized outpost facing NATO.\n\n\n\nPutin’s nuclear threats over Kaliningrad appear aimed at portraying Russia as under siege while obscuring the Kremlin’s role in tensions with NATO, including its war against Ukraine and hybrid war against the European Union. Despite Moscow’s claims, NATO military action agains",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "PSG fans divided over protests in France as Barcelona game goes ahead",
+      "url": "https://www.aljazeera.com/sports/2026/10/20/psg-fans-divided-over-protests-in-france-as-barcelona-game-goes-ahead?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-20T19:55:37+00:00",
+      "summary": "Champions League football game takes place amid backdrop of unrest over education issues and the cost of living.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Netanyahu says he discussed ‘eliminating’ Iran’s regime with Trump",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/netanyahu-says-he-discussed-eliminating-irans-regime-with-trump?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-20T19:51:09+00:00",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu says he discussed the need to topple Iran’s regime with US President Trump.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "178 Years After Banning Slavery, France Scraps ‘Code Noir’ Rules That Governed It",
+      "url": "https://www.nytimes.com/2026/10/20/france-senate-code-noir-slavery.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-20T19:33:59+00:00",
+      "summary": "Max Mathiasin, a centrist lawmaker who has championed the push to repeal the “Code Noir,” speaking in Paris in May during a debate on the subject.",
+      "image": "https://static01.nyt.com/images/2026/10/20/world/20int-france-codenoir-vvvvvx/20int-france-codenoir-vvvvvx-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Reading Pyongyang Through the Cracks of the International System",
+      "url": "https://warontherocks.com/reading-pyongyang-through-the-cracks-of-the-international-system/",
+      "source": "War on the Rocks",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-10-20T19:30:05+00:00",
+      "summary": "In 2023, three North Korea analysts identified what they believe most people studying the country get wrong, and how analysts can avoid those traps. Three years later, we asked them to revisit their arguments and offer fresh insights into what North Korean propaganda reveals about Pyongyang&#8217;s priorities.Image: The KremlinIn your 2023&#160;article, you said the key to analyzing North Korean propaganda is identifying what is new and figuring out the reasons for any changes. What changes have you all observed in North Korean propaganda since 2023, and what are the potential reasons for those shifts?&#160;One of the biggest changes since 2023\nThe post Reading Pyongyang Through the Cracks of the International System appeared first on War on the Rocks.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Photos: Qatar holds biennial Milipol homeland security exhibition",
+      "url": "https://www.aljazeera.com/gallery/2026/10/20/photos-qatar-holds-biennial-milipol-homeland-security-exhibition?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-20T19:29:39+00:00",
+      "summary": "Qatar and France sign a three-year action plan for security cooperation on the sidelines of the Milipol exhibition.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Nigeria records its first Ebola case, in capital Abuja",
+      "url": "https://www.dw.com/en/nigeria-records-its-first-ebola-case-in-capital-abuja/a-79717377?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "Deutsche Welle",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-20T19:08:00+00:00",
+      "summary": "Nigeria has reported its first known case of Ebola during Africa's latest outbreak originating in the DRC. Health Minister Muhammad Ali Pate said the patient was a woman who had recently flown to Abuja from Uganda.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "The political ads that don’t look like ads",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/the-political-ads-that-dont-look-like-ads?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-20T19:05:53+00:00",
+      "summary": "Political campaigns and lobby groups in the US are paying content creators as little as $25 to influence the midterms.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
+      "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-20T19:00:35+00:00",
+      "summary": "The series of recent steps by the president that seem to favor Vladimir Putin reflect his intensifying desire to normalize the relationship with Moscow even if it means further undercutting Ukraine.",
+      "image": "https://static01.nyt.com/images/2026/10/19/multimedia/1dc-prexy-gfmw/1dc-prexy-gfmw-mediumSquareAt3X-v2.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "UK to deploy fighter jets to defend Saudi Arabia",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_uk-to-deploy-fighter-jets-to-defend-saudi-arabia_1-201026?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-20T18:55:52+00:00",
+      "summary": "British Typhoon jets will carry out defensive missions to protect Saudi Arabia from escalating Houthi attacks.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Oxfam analysis finds Peru’s richest captured 42 percent of all new wealth",
+      "url": "https://www.aljazeera.com/news/2026/10/20/oxfam-analysis-finds-perus-richest-captured-42-percent-of-all-new-wealth?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-20T18:53:51+00:00",
+      "summary": "Only 1.4 percent of all new wealth created between 2019 and 2025 went to the poorest 50 percent, report finds.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Can a humanitarian crisis in Gaza be averted?",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/20/can-a-humanitarian-crisis-in-gaza-be-averted?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-20T18:45:23+00:00",
+      "summary": "The World Food Programme says it is forced to cut aid for thousands in the enclave.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Lula challenges Bolsonaro to release personal records before election",
+      "url": "https://www.aljazeera.com/news/2026/10/20/lula-challenges-bolsonaro-to-release-personal-records-before-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-20T18:43:41+00:00",
+      "summary": "Brazil&#039;s left-wing president says he will release bank, tax, and phone records if right-wing rival will do the same.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "UAE official emerges as late contender to lead UN",
+      "url": "https://www.ft.com/content/765cb887-05da-4971-9f28-bcf5430f09ac?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-20T18:32:31+00:00",
+      "summary": "Supporters of Lana Nusseibeh sound out UN missions for backing as official candidates struggle to break deadlock",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fba70235e-81ea-4a48-9d3d-31a0e9c099a1.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Lebanon faces uncertainty as UNIFIL mandate nears end",
+      "url": "https://www.dw.com/en/lebanon-faces-uncertainty-as-unifil-mandate-nears-end/a-79714491?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "Deutsche Welle",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-10-20T18:19:00+00:00",
+      "summary": "As UN peacekeeping forces prepare to withdraw from Lebanon, Israel remains present and Hezbollah is still armed. A new EU support mission aims to strengthen Lebanon's army, but will not replace UN peacekeepers.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Who are the Black Bloc?",
+      "url": "https://www.ft.com/content/f97755f2-8b07-47bf-9c14-7963a701c9c3?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-20T18:15:43+00:00",
+      "summary": "French government says agitators from the far left helped transform peaceful protests into riots",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd5363b4c-5c7e-466a-bed6-3da27bd8abf8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -1008,14 +1103,14 @@
       "via": "rss"
     },
     {
-      "title": "Alberta Voters Reject Leaving Canada in Referendum on Separatism",
-      "url": "https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html",
-      "source": "New York Times",
+      "title": "Sudan drone strike kills around 150 in Abyei market",
+      "url": "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "Deutsche Welle",
       "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-20T18:12:25+00:00",
-      "summary": "Supporters of the Forever Canadian movement, who want Alberta to remain in Canada, in Edmonton, Alberta, on Monday.",
-      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-canada-alberta-vote-sub/20int-canada-alberta-vote-hp-zljc-mediumSquareAt3X.jpg",
+      "type": "broadcast",
+      "published": "2026-10-20T18:09:00+00:00",
+      "summary": "A drone strike hit a market in the Abyei border region disputed by Sudan and South Sudan and killed dozens. The drone caused a large fire when it hit a fuel depot. South Sudanese officials blamed Sudan's military.",
+      "image": "",
       "via": "rss"
     },
     {
@@ -1041,46 +1136,13 @@
       "via": "rss"
     },
     {
-      "title": "Trump pledges to spend $400mn on Republican Party campaigns",
-      "url": "https://www.ft.com/content/c335e978-1ceb-4254-8c71-793a41e6d0b3?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-20T17:57:37+00:00",
-      "summary": "US president’s announcement comes as candidates struggle with poor polls in race for control of Congress",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fab218640-39de-4f98-b46a-36e9365dcc57.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "Why Zelensky Took the Gloves Off This Time With Trump",
-      "url": "https://www.nytimes.com/2026/10/20/world/europe/ukraine-war-zelensky-trump.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-20T17:40:11+00:00",
-      "summary": "Staying quiet is riskier than speaking up, Ukrainian officials say, as President Trump goes further than ever in prioritizing Russia’s interests.",
-      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-ukraine-trump-01-mzqw/20int-ukraine-trump-01-mzqw-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "178 Years After Banning Slavery, France Scraps ‘Code Noir’ Rules That Governed It",
-      "url": "https://www.nytimes.com/2026/10/20/france-senate-code-noir-slavery.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-20T17:36:29+00:00",
-      "summary": "Max Mathiasin, a centrist lawmaker who has championed the push to repeal the “Code Noir,” speaking in Paris in May during a debate on the subject.",
-      "image": "https://static01.nyt.com/images/2026/10/20/world/20int-france-codenoir-vvvvvx/20int-france-codenoir-vvvvvx-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Kenya confirms ninth Ebola case amid concerns about regional spread",
+      "title": "Nigeria confirms first Ebola case amid concerns about continental spread",
       "url": "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case?traffic_source=rss",
       "source": "Al Jazeera",
       "language": "en",
       "type": "broadcast",
       "published": "2026-10-20T17:31:26+00:00",
-      "summary": "A 24-year-old man, who was already being held in quarantine, is the latest to test positive.",
+      "summary": "Nigeria&#039;s Health Ministry says a woman who arrived on a flight from Uganda tested positive.",
       "image": "",
       "via": "rss"
     },
@@ -1129,61 +1191,6 @@
       "via": "rss"
     },
     {
-      "title": "How does language affect how we think?",
-      "url": "https://www.aljazeera.com/video/doha-debates/2026/10/20/how-does-language-affect-how-we-think?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-20T17:09:48+00:00",
-      "summary": "Does language shape the way we think?",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Student Protesters in France Have a Strange New Slogan. What Does It Mean?",
-      "url": "https://www.nytimes.com/2026/10/20/world/europe/france-student-protests-slogan.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-20T17:01:31+00:00",
-      "summary": "“Bismillah, c’est les ténèbres” has appeared on signs at recent demonstrations. It doesn’t make much sense (it means, “In the name of God, it’s the darkness”) but is seen as shorthand for a generational divide.",
-      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20intfrance1-cmbp/20intfrance1-cmbp-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "JERUSALEM DAILY: Half a million Palestinians lose food aid",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/jerusalem-daily-half-a-million-palestinians-lose-food-aid?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-20T16:59:55+00:00",
-      "summary": "Israeli strikes kill Palestinians in Gaza as funding shortages threaten food aid for half a million people",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Ben-Gvir mocks Gaza destruction in AI-generated video",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/ben-gvir-mocks-gaza-destruction-in-ai-generated-video?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-20T16:51:02+00:00",
-      "summary": "Israeli National Security Minister Itamar Ben-Gvir has posted an AI-generated video mocking the devastation in Gaza.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Turkiye moves to ratify Mecca defence pact with Pakistan, Saudi Arabia",
-      "url": "https://www.aljazeera.com/news/2026/10/20/turkiye-moves-to-ratify-mecca-joint-defence-agreement?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-20T16:34:20+00:00",
-      "summary": "Trilateral deal between Saudi Arabia, Turkiye and Pakistan lays out provisions for joint defence.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "台菲加强海上合作 台湾退役巡逻舰赠菲服役",
       "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261020-%E5%8F%B0%E8%8F%B2%E5%8A%A0%E5%BC%BA%E6%B5%B7%E4%B8%8A%E5%90%88%E4%BD%9C-%E5%8F%B0%E6%B9%BE%E9%80%80%E5%BD%B9%E5%B7%A1%E9%80%BB%E8%88%B0%E8%B5%A0%E8%8F%B2%E6%9C%8D%E5%BD%B9",
       "source": "法广中文",
@@ -1192,17 +1199,6 @@
       "published": "2026-10-20T16:34:06+00:00",
       "summary": "据日经亚洲及中央社报道，面对来自中国的海上压力日增，数十年关系疏远的台湾与菲律宾正逐步加强海上安全合作。台湾海巡署计划于2027年10月访问菲律宾，如果成行，将成为1974年以来首次相关访问。同时，台湾海巡署退役巡逻救难舰“金门舰”经非营利基金会捐赠后，近日已正式加入菲律宾海岸防卫队。",
       "image": "https://s.rfi.fr/media/display/48580ccc-cca3-11f1-9d64-2d1c143cdef3/w:1024/p:16x9/f1454139188436.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Macron lines up more Gulf diesel as France battles soaring fuel prices",
-      "url": "https://www.aljazeera.com/economy/2026/10/20/macron-lines-up-more-gulf-diesel-as-france-battles-soaring-fuel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-20T16:33:43+00:00",
-      "summary": "The UAE and Bahrain deals increase French commitments to 295,000 tonnes a month, just over 10 percent of consumption.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -1217,17 +1213,6 @@
       "via": "rss"
     },
     {
-      "title": "Is Cyprus becoming Israel’s backyard?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_is-cyprus-becoming-israels-backyard-201026?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-20T16:23:12+00:00",
-      "summary": "Israeli capital, water technology, and real estate are making Cyprus a strategic and economic extension of Israel.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "“安保三文书”修订拟下月推进 两党就审视“非核三原则”等存分歧",
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261020-%E5%AE%89%E4%BF%9D%E4%B8%89%E6%96%87%E4%B9%A6-%E4%BF%AE%E8%AE%A2%E6%8B%9F%E4%B8%8B%E6%9C%88%E6%8E%A8%E8%BF%9B-%E4%B8%A4%E5%85%9A%E5%B0%B1%E5%AE%A1%E8%A7%86-%E9%9D%9E%E6%A0%B8%E4%B8%89%E5%8E%9F%E5%88%99-%E7%AD%89%E5%AD%98%E5%88%86%E6%AD%A7",
       "source": "法广中文",
@@ -1236,28 +1221,6 @@
       "published": "2026-10-20T16:23:10+00:00",
       "summary": "据共同社报导，执政的自民党与日本维新会已确定方针，将于11月启动工作层磋商，旨在修订包括《国家安全保障战略》在内的“安保三文书”，相关修订工作计划于年内完成。多位相关人士周二透露了这一消息。两党在核政策基本方针“非核三原则”的重新审视以及是否引进核动力潜艇等问题上存在分歧。双方计划在听取政府关于探讨进展的汇报的同时，寻求统一意见。",
       "image": "https://s.rfi.fr/media/display/a580538c-2d3c-11ee-907a-005056bfb2b6/w:1024/p:16x9/Le%20rapport%20annuel%202023%20du%20minist%C3%A8re%20japonais%20de%20la%20D%C3%A9fense.JPG",
-      "via": "rss"
-    },
-    {
-      "title": "Qatar says only negotiations can resolve regional tensions",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/qatar-says-only-negotiations-can-resolve-regional-tensions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-20T16:21:01+00:00",
-      "summary": "Qatar says diplomatic efforts are ongoing to de-escalate regional tensions and reopen the Strait of Hormuz.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Ferry catches fire near Indonesian port, all passengers rescued",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/ferry-catches-fire-near-indonesian-port-all-passengers-rescued?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-20T16:13:16+00:00",
-      "summary": "A fire broke out aboard the KMP Batumandi as the ferry approached Merak Port in western Indonesia on Tuesday",
-      "image": "",
       "via": "rss"
     },
     {
@@ -1277,86 +1240,9 @@
       "source": "New York Times",
       "language": "en",
       "type": "newspaper",
-      "published": "2026-10-20T16:06:12+00:00",
+      "published": "2026-10-20T16:06:13+00:00",
       "summary": "The targeted restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the chaos face expedited trials.",
       "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-france-riots-cpkz/20int-france-riots-cpkz-mediumSquareAt3X-v2.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Trump official claims record-breaking 300,000 visas were revoked",
-      "url": "https://www.aljazeera.com/news/2026/10/20/trump-official-claims-record-breaking-300000-visas-were-revoked?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-20T16:02:47+00:00",
-      "summary": "The revocations targeted US visa holders who had allegedly broken the law, a spokesperson said.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
-      "url": "https://www.aljazeera.com/news/2026/10/20/lavrov-backs-tehran-but-does-russia-also-gain-from-the-us-iran-crisis?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-20T16:01:01+00:00",
-      "summary": "Moscow pledges support to its sanctioned ally, but analysts say the war Iran wants to end has filled Russia’s coffers.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "PSG vs Barcelona LIVE: Champions League",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/10/20/psg-vs-barcelona-live-champions-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-20T16:00:00+00:00",
-      "summary": "Follow updates from the league-stage clash, including the build-up, analysis and live text commentary of the game.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "‘You have to sacrifice’: Trump voters stay loyal as US midterms approach",
-      "url": "https://www.aljazeera.com/news/2026/10/20/you-have-to-sacrifice-trump-voters-stay-loyal-as-us-midterms-approach?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-20T15:57:47+00:00",
-      "summary": "Rising economic pain confronting US voters has not translated into a loss of faith among Trump’s most loyal supporters.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Alberta voters reject separation from Canada",
-      "url": "https://www.ft.com/content/8afb4e0b-302b-445c-8dde-4c5b091b808e?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-20T15:51:21+00:00",
-      "summary": "Referendum in oil-rich western province had threatened new turmoil for Mark Carney amid stand-off with Donald Trump",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4b6fa484-71f2-4d00-a92c-e2ff36cb0608.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "US pending home sales fall to record low as mortgage rates surge",
-      "url": "https://www.ft.com/content/42ed6778-d350-48a6-ba3d-99efca3cd276?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-20T15:47:56+00:00",
-      "summary": "Sales contracts dropped 7.3% in September as rising borrowing costs deepened housing market slowdown",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6fb37010-3564-49b2-8479-614f10562ac8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "‘Not getting involved’: US Vice President refuses to endorse Netanyahu",
-      "url": "https://www.aljazeera.com/news/2026/10/20/not-getting-involved-us-vice-president-refuses-to-endorse-netanyahu?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-20T15:46:30+00:00",
-      "summary": "JD Vance&#039;s comments follow Donald Trump&#039;s backing of Israeli prime minister ahead of October 27 elections.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -1382,17 +1268,6 @@
       "via": "rss"
     },
     {
-      "title": "Eastern Libya parliament approves 2019 maritime deal with Turkiye",
-      "url": "https://www.aljazeera.com/news/2026/10/20/eastern-libya-parliament-approves-maritime-deal-with-turkey-lifts-2020-boy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-20T15:19:17+00:00",
-      "summary": "The vote recognises Ankara&#039;s maritime deal with Tripoli, ending Haftar&#039;s 2020 boycott.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "Brazil's Lula, Flavio Bolsonaro tied ahead of runoff vote",
       "url": "https://www.dw.com/en/brazil-s-lula-flavio-bolsonaro-tied-ahead-of-runoff-vote/a-79715182?maca=en-rss-en-world-4025-xml-mrss",
       "source": "Deutsche Welle",
@@ -1401,17 +1276,6 @@
       "published": "2026-10-20T15:12:00+00:00",
       "summary": "With just under a week to go before the decisive presidential runoff election, polls show left-wing incumbent Luiz Inacio Lula da Silva and his right-wing challenger Flavio Bolsonaro are virtually tied.",
       "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Witkoff meets Zelenskyy before travelling to Russia",
-      "url": "https://www.ft.com/content/a068036c-a752-4267-9a2f-a95190ef619f?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-20T15:11:57+00:00",
-      "summary": "Trump envoy attempts to restart peace talks between Ukraine and Russia and is expected to ask for release of a US hostage",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9e837b99-d5e1-4d71-a510-9fcf8659b47a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -1426,24 +1290,13 @@
       "via": "rss"
     },
     {
-      "title": "Who are the women powering India's youth-led protests?",
-      "url": "https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-protests/a-79709824?maca=en-rss-en-world-4025-xml-mrss",
+      "title": "Who are the women powering India's youth-led 'Cockroach' protests?",
+      "url": "https://www.dw.com/en/who-are-the-women-powering-india-s-youth-led-cockroach-protests/a-79709824?maca=en-rss-en-world-4025-xml-mrss",
       "source": "Deutsche Welle",
       "language": "en",
       "type": "broadcast",
       "published": "2026-10-20T15:04:00+00:00",
       "summary": "Facing online harassment and police detentions, women are taking to the streets of Indian cities in large numbers for the youth-led \"Cockroach\" protests. Amid a large-scale crackdown, they refuse to be seen as victims.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Yemen’s Taiz faces deadly siege, as Shabwah death toll rises",
-      "url": "https://www.aljazeera.com/news/2026/10/20/yemens-taiz-faces-deadly-siege-as-shabwah-death-toll-rises?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-20T15:02:34+00:00",
-      "summary": "Government forces launch major offensives across multiple Yemeni front lines as a tightening blockade threatens Taiz.",
       "image": "",
       "via": "rss"
     },
@@ -1481,28 +1334,6 @@
       "via": "rss"
     },
     {
-      "title": "Alberta rejects separation referendum: What’s next for Canadian province?",
-      "url": "https://www.aljazeera.com/news/2026/10/20/alberta-rejects-separation-referendum-whats-next-for-canadian-province?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-20T14:42:47+00:00",
-      "summary": "Calls for independence intensified last year, with some 300,000 petitioning officials for a referendum.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Pakistan army chief in Tehran: Can diplomacy prevent new US-Iran fighting?",
-      "url": "https://www.aljazeera.com/news/2026/10/20/pakistan-army-chief-in-tehran-can-diplomacy-prevent-new-us-iran-fighting?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-20T14:39:50+00:00",
-      "summary": "With new talk of escalation, Islamabad is trying to revive negotiations without alienating Tehran, Riyadh or Washington.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "What if No One Wins the Israeli Election?",
       "url": "https://foreignpolicy.com/2026/10/20/israel-election-netanyahu-eisenkot-trump-palestinians-gaza/",
       "source": "Foreign Policy",
@@ -1536,28 +1367,6 @@
       "via": "rss"
     },
     {
-      "title": "Satirical AI video of Paris protests mirrors real-life tourist experiences",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/satirical-ai-video-of-paris-protests-mirrors-real-life-tourist-experiences?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-20T14:24:41+00:00",
-      "summary": "An AI-generated video by Dutch filmmaker Wytse Koetse portrays tourists sightseeing amid protests in Paris.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "'Tinubu Must Go!': Nigeria's northern protests test limits of political dissent",
-      "url": "https://www.dw.com/en/tinubu-must-go-nigeria-s-northern-protests-test-limits-of-political-dissent/a-79713785?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "Deutsche Welle",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-20T14:20:00+00:00",
-      "summary": "The arrest of several men wearing anti-government T-shirts and the disruption of a political meeting have renewed debate over free expression and protest rights in Nigeria.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "中国经济第三季度增长数字好看但暗藏风险",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20261020-%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E5%A2%9E%E9%95%BF%E6%95%B0%E5%AD%97%E5%A5%BD%E7%9C%8B%E4%BD%86%E6%9A%97%E8%97%8F%E9%A3%8E%E9%99%A9",
       "source": "法广中文",
@@ -1569,17 +1378,6 @@
       "via": "rss"
     },
     {
-      "title": "Celebrating Fela Kuti’s legacy and the global rise of Afrobeats",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/celebrating-fela-kutis-legacy-and-the-global-rise-of-afrobeats?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-20T14:13:12+00:00",
-      "summary": "Fela Kuti was a Nigerian musician known as the King of Afrobeat. His legacy is celebrated every October at Felabration.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "Bougainville Needs a Credible Timetable for PNG’s Independence Vote. Australia Can Help.",
       "url": "https://thediplomat.com/2026/10/bougainville-needs-a-credible-timetable-for-pngs-independence-vote-australia-can-help/",
       "source": "The Diplomat",
@@ -1588,17 +1386,6 @@
       "published": "2026-10-20T14:06:00+00:00",
       "summary": "Canberra should stay out of what Port Moresby decides on Bougainville, but it can push for a concrete timeline for the decision.",
       "image": "https://images.thediplomat.com/v1/td-list-l-2/2025/07/thediplomat_2025-07-22-134007.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Three months of PM Andy Burnham: Can he sustain the ‘hope vibe’?",
-      "url": "https://www.aljazeera.com/news/2026/10/20/three-months-of-pm-andy-burnham-can-he-sustain-the-hope-vibe?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-20T14:00:49+00:00",
-      "summary": "The UK&#039;s new prime minister has made big promises and is a popular leader, but there is still talk of an early election.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -1624,17 +1411,6 @@
       "via": "rss"
     },
     {
-      "title": "Indonesians protest over land-clearing fires",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/indonesians-protest-over-land-clearing-fires?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-20T13:23:44+00:00",
-      "summary": "Students and activists protested across Indonesia over forest fires linked to land clearing for palm oil plantations.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "加拿大阿省公投决定「留在加拿大」 分析：更有底气跟美国谈判",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%8C%97%E7%BE%8E%E6%9D%A5%E9%B8%BF/20261020-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%98%BF%E7%9C%81%E5%85%AC%E6%8A%95%E5%86%B3%E5%AE%9A-%E7%95%99%E5%9C%A8%E5%8A%A0%E6%8B%BF%E5%A4%A7-%E5%88%86%E6%9E%90-%E6%9B%B4%E6%9C%89%E5%BA%95%E6%B0%94%E8%B7%9F%E7%BE%8E%E5%9B%BD%E8%B0%88%E5%88%A4",
       "source": "法广中文",
@@ -1643,17 +1419,6 @@
       "published": "2026-10-20T13:23:03+00:00",
       "summary": "美国总统特朗普每次对加拿大喊出激烈言论，都会适得其反，令加拿大人更团结对抗美国的无理要求，最终损害美国的利益。不论是关税战，还有今天举行的阿尔伯塔省投票率最高的公投，当地人以大比数选择继续作为加拿大其中一个省，放弃独立主张。这个结果，令总理卡尼得到更多的筹码，跟美国进行长期的贸易谈判。",
       "image": "https://s.rfi.fr/media/display/45854dc6-cc5c-11f1-8aa2-4dd8ac2cf3bf/w:1024/p:16x9/AP26293188129843.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "US envoy Barrack defends decision to join Israel in war on Iran",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/20-10-iran-us-envoy-barrack-trump-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-20T13:20:33+00:00",
-      "summary": "US envoy Tom Barrack says President Trump did not follow Israel in going to war against Iran.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -1709,6 +1474,17 @@
       "published": "2026-10-20T13:00:00+00:00",
       "summary": "War-driven disruption is reshaping travel, but a recent industry summit points to AI, biometrics and digital IDs to ease pressures.",
       "image": "https://cdn.sanity.io/images/5dcouzig/production/ab70e708549d8c1b01c7515dc7cd42eb6c5930be-3892x5838.jpg?rect=0,1791,3892,2043&w=1200&h=630&fm=webp&q=85&fit=crop",
+      "via": "rss"
+    },
+    {
+      "title": "Balancing power is no job for kitchen scales",
+      "url": "https://www.lowyinstitute.org/the-interpreter/balancing-power-is-no-job-for-kitchen-scales",
+      "source": "Lowy Institute",
+      "language": "en",
+      "type": "thinktank",
+      "published": "2026-10-20T13:00:00+00:00",
+      "summary": "Grand historical analogies feel reassuring, but they are no substitute for trustworthy leadership.",
+      "image": "https://cdn.sanity.io/images/5dcouzig/production/9932e35f3842b1bb68a8f12dc5b7336004c2680b-5434x3623.jpg?rect=0,386,5434,2853&w=1200&h=630&fm=webp&q=85&fit=crop",
       "via": "rss"
     },
     {
@@ -1888,17 +1664,6 @@
       "via": "rss"
     },
     {
-      "title": "Older Americans brace for higher healthcare costs",
-      "url": "https://www.ft.com/content/b101071b-0b47-4cf2-a35f-9ebb04539df2?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-20T10:10:01+00:00",
-      "summary": "Burden of inflation on seniors is set to worsen as US health insurers raise prices",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F385fb8d2-6866-4226-a9c6-c49cabd20edd.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
       "title": "The Conciliator",
       "url": "https://foreignpolicy.com/2026/10/20/sen-shaheen-democrats-us-midterms-trump-foreign-policy-russia-sanctions/",
       "source": "Foreign Policy",
@@ -1918,17 +1683,6 @@
       "published": "2026-10-20T10:00:11+00:00",
       "summary": "China’s military has published what appears to be the first official photograph of a Y-20B heavy transport aircraft in PLA Air Force livery fitted with aerial refuelling pods, suggesting that the multi-role tanker-transport (MRTT) configuration has entered service.\nAn image published by the PLA Daily newspaper on October 14 shows the four-engine aircraft painted in standard military grey, with refuelling pods beneath its wings and its rear cargo ramp open as a truck carrying equipment is behind...",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/20/2f93627c-86d9-49e7-9861-160e85a375e9_892f2a48.jpg?itok=FA23SO05&v=1792482998",
-      "via": "rss"
-    },
-    {
-      "title": "The hidden water crisis beneath the American west",
-      "url": "https://www.ft.com/content/ff5859fb-dfa6-4fe5-a5cf-824a98ad32d4?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-20T10:00:03+00:00",
-      "summary": "As the area dries, cities and farmers draw on groundwater, the leading source of water loss across the Colorado River Basin",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffc0ad6fc-e75a-462b-a733-a7a2b383767d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -1998,17 +1752,6 @@
       "via": "rss"
     },
     {
-      "title": "Houthi Strikes Kill Dozens in Yemeni Desert Military Camp, Officials Say",
-      "url": "https://www.nytimes.com/2026/10/19/world/middleeast/houthis-strike-yemen-military-camp.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-20T08:53:27+00:00",
-      "summary": "A still from a social media video verified by The New York Times as from Al Alam camp in Shabwa Province, Yemen, after officials said Houthi strikes killed dozens of Yemeni soldiers on Monday.",
-      "image": "https://static01.nyt.com/images/2026/10/19/world/Yemen-strike/Yemen-strike-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
       "title": "黑客恶用源自中国开源 AI 网络安全工具  日企业泄漏信息1.8亿条",
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261020-%E9%BB%91%E5%AE%A2%E6%81%B6%E7%94%A8%E6%BA%90%E8%87%AA%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90-ai-%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E5%B7%A5%E5%85%B7-%E6%97%A5%E4%BC%81%E4%B8%9A%E6%B3%84%E6%BC%8F%E4%BF%A1%E6%81%AF1-8%E4%BA%BF%E6%9D%A1",
       "source": "法广中文",
@@ -2075,17 +1818,6 @@
       "via": "rss"
     },
     {
-      "title": "Trump’s Push for Deals With Russia Powers His Frustration With Ukraine",
-      "url": "https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-20T07:19:14+00:00",
-      "summary": "The series of recent steps by the president that seem to favor Vladimir Putin reflect his intensifying desire to normalize the relationship with Moscow even if it means further undercutting Ukraine.",
-      "image": "https://static01.nyt.com/images/2026/10/19/multimedia/1dc-prexy-gfmw/1dc-prexy-gfmw-mediumSquareAt3X-v2.jpg",
-      "via": "rss"
-    },
-    {
       "title": "The Proliferation of Illicit Drones in Southeast Asia",
       "url": "https://thediplomat.com/2026/10/the-proliferation-of-illicit-drones-in-southeast-asia/",
       "source": "The Diplomat",
@@ -2097,17 +1829,6 @@
       "via": "rss"
     },
     {
-      "title": "South Korean data centre builder tumbles 32% on trading debut",
-      "url": "https://www.ft.com/content/cddafc0a-1ae6-467b-84b8-34c172002b6a?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-20T07:03:21+00:00",
-      "summary": "Shares in Elice sink in Seoul, adding to rising concern about AI valuations",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7d3db0a6-7db6-45ef-bc81-f8152c7f9550.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
       "title": "Student sent back to China over Japanese rising sun flag incident in Russia",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3371475/student-sent-back-china-over-japanese-rising-sun-flag-incident-russia",
       "source": "SCMP",
@@ -2116,17 +1837,6 @@
       "published": "2026-10-20T07:00:58+00:00",
       "summary": "A Chinese student who draped himself in the Japanese rising sun flag in a Russian university classroom has been expelled and asked to leave the country, according to state-run newspaper Global Times.\nThe flag was used by the Japanese military during its imperial expansion and is still used by Japan’s Maritime Self-Defence Force. It remains a symbol of Japanese militarism and aggression in China and other parts of Asia.\nMoscow State University made the decision after the student was criticised by...",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/20/46c90247-4378-4684-96f2-c53606294187_1d87bd61.jpg?itok=_oKx4Qsm&v=1792479657",
-      "via": "rss"
-    },
-    {
-      "title": "The Failures of Emmanuel Macron",
-      "url": "https://www.nytimes.com/2026/10/19/world/macron-france-riots-le-pen-gold.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-20T06:50:26+00:00",
-      "summary": "The student protests that snowballed into violent riots made it clear that almost 10 years of his presidency have not fixed France’s problems.",
-      "image": "https://static01.nyt.com/images/2026/10/20/multimedia/20int-theworld-france-macron-01-zwgt-promo/20int-theworld-france-macron-01-zwgt-promo-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -2182,6 +1892,17 @@
       "published": "2026-10-20T04:00:19+00:00",
       "summary": "Volumes of credit default swaps linked to big tech groups soar as investors seek protection against boom unravelling",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb47eea27-0782-486c-b08e-df12cd5389b4.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "The unlikely winners from Trump’s Iran war",
+      "url": "https://www.ft.com/content/cfa976d5-e320-4ee8-8c86-84733471a4a1?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-10-20T04:00:19+00:00",
+      "summary": "Countries from Canada to Argentina have seen surge in investment and production as buyers rush to replace supply lost to Hormuz disruption",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff12d7b6f-3b99-4045-b6f7-b104abdc1684.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -2449,17 +2170,6 @@
       "via": "rss"
     },
     {
-      "title": "中国电动汽车之父”-万钢 究竟是谁？他在德国奥迪公司学习了一切，并上书北京 引发了中国电动汽车浪潮",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261019-%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E4%B9%8B%E7%88%B6-%E4%B8%87%E9%92%A2-%E7%A9%B6%E7%AB%9F%E6%98%AF%E8%B0%81-%E4%BB%96%E5%9C%A8%E5%BE%B7%E5%9B%BD%E5%A5%A5%E8%BF%AA%E5%85%AC%E5%8F%B8%E5%AD%A6%E4%B9%A0%E4%BA%86%E4%B8%80%E5%88%87%EF%BC%8C%E5%B9%B6%E4%B8%8A%E4%B9%A6%E5%8C%97%E4%BA%AC-%E5%BC%95%E5%8F%91%E4%BA%86%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E6%B5%AA%E6%BD%AE",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-10-19T22:47:11+00:00",
-      "summary": "中国汽车工业的崛起很大程度上要归功于万钢制定的战略。从2000年代初开始，这位工程师就说服北京对电动汽车进行大规模投资。",
-      "image": "https://s.rfi.fr/media/display/12a5dca8-2994-11ef-8596-005056bf30b7/w:1024/p:16x9/000_34WJ7KZ.jpg",
-      "via": "rss"
-    },
-    {
       "title": "Myanmar Coup Administration Releases Photos of Detained Leader Aung San Suu Kyi",
       "url": "https://thediplomat.com/2026/10/myanmar-coup-administration-releases-photos-of-detained-leader-aung-san-suu-kyi/",
       "source": "The Diplomat",
@@ -2482,17 +2192,6 @@
       "via": "rss"
     },
     {
-      "title": "The French Teen Maimed During School Unrest by Tear Gas Grenade",
-      "url": "https://www.nytimes.com/2026/10/19/world/europe/france-protests-violence-police-response.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-19T22:20:21+00:00",
-      "summary": "The police’s treatment of the student last month sheds light on how a wave of school unrest evolved into national protests that spilled into widespread riots on Saturday.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "US-China negotiators race to nail down concrete deals as Shenzhen Apec looms",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3371413/us-china-negotiators-race-nail-down-concrete-deals-shenzhen-apec-looms",
       "source": "SCMP",
@@ -2504,35 +2203,13 @@
       "via": "rss"
     },
     {
-      "title": "Cult Leader Convicted of Mass Murder by Court in Kenya",
-      "url": "https://www.nytimes.com/2026/10/19/world/africa/kenya-cult-deaths-paul-mackenzie-court-ruling.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-19T21:57:02+00:00",
-      "summary": "Paul Nthenge Mackenzie, a doomsday cult leader, at the Shanzu Law Courts in Mombasa, Kenya, in January. He was accused of mass murder after telling followers to starve themselves.",
-      "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19int-kenya-cult-ruling-02-wfgl/19int-kenya-cult-ruling-02-wfgl-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Italy Faces Parallel Protests in the North and South",
-      "url": "https://www.nytimes.com/2026/10/19/world/europe/italy-protests-riots.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-19T21:55:10+00:00",
-      "summary": "Protests by young people in northern cities ended in riots as farmers and truckers in the south, angered by high gas prices, stopped commercial traffic.",
-      "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19int-ITALY-PROTESTS-01-zwcf/19int-ITALY-PROTESTS-01-zwcf-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
       "title": "US orders DeepSeek removed from federal systems, citing national security risks",
       "url": "https://www.scmp.com/news/us/article/3371431/us-orders-deepseek-removed-federal-systems-citing-national-security-risks",
       "source": "SCMP",
       "language": "en",
       "type": "newspaper",
       "published": "2026-10-19T21:49:10+00:00",
-      "summary": "Citing national security concerns, the US government has ordered federal civilian agencies to remove DeepSeek products and any third-party services developed using the Chinese artificial intelligence model from their information systems.\nIn a notice made public on Monday, the Department of Homeland Security (DHS) also barred agencies from acquiring DeepSeek products and services, including those developed by affiliated entities.\nThe notice said that using the company’s products “may result in...",
+      "summary": "Citing national security concerns, the US government has ordered federal civilian agencies to remove DeepSeek products and any third-party services developed using the Chinese artificial intelligence model from their information systems.\nIn a notice made public on Monday, the Department of Homeland Security also barred agencies from acquiring DeepSeek products and services, including those developed by affiliated entities.\nThe notice said that using the company’s products “may result in the...",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/20/6513b765-5b61-4b3d-af79-d10ac317498c_7646083a.jpg?itok=pmq3zR4P&v=1792446539",
       "via": "rss"
     },
@@ -2581,17 +2258,6 @@
       "via": "rss"
     },
     {
-      "title": "德国政府宣布与英伟达（NVIDIA）建立合作伙伴关系",
-      "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20261019-%E5%BE%B7%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E4%B8%8E%E8%8B%B1%E4%BC%9F%E8%BE%BE-nvidia-%E5%BB%BA%E7%AB%8B%E5%90%88%E4%BD%9C%E4%BC%99%E4%BC%B4%E5%85%B3%E7%B3%BB",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-10-19T20:36:13+00:00",
-      "summary": "德国政府10月19日宣布与美国人工智能（AI）晶片巨擘英伟达（NVIDIA）的合作伙伴关系，以加速AI在工业应用领域的发展。",
-      "image": "https://s.rfi.fr/media/display/6250404e-9cde-11f1-bb21-005056bfb2b6/w:1024/p:16x9/2026-08-20T172544Z-2114380371-RC2QRLA53G3J-RTRMADP-3-USA-CHINA-NVIDIA.jpg",
-      "via": "rss"
-    },
-    {
       "title": "Trump says he’s open to meeting Xi and Putin in China for nuclear talks",
       "url": "https://www.scmp.com/news/us/article/3371428/trump-says-hes-open-xi-putin-meeting-china-nuclear-talks",
       "source": "SCMP",
@@ -2600,17 +2266,6 @@
       "published": "2026-10-19T20:20:55+00:00",
       "summary": "US President Donald Trump said on Monday he was open to a three-way meeting with Chinese President Xi Jinping and Russian President Vladimir Putin during his visit to China next month, with nuclear weapons on the agenda.\n“We would have it to talk about nuclear weapons and denuclearisation,” Trump told reporters outside the White House before travelling to Kansas. “If President Xi wants to have it, I’d have it.”\nTrump said the proposed meeting was his suggestion and linked it to his November...",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/20/9e18c8dc-5a4d-4899-8066-1e5f3bc8d206_441e2de7.jpg?itok=DAra-5N_&v=1792474428",
-      "via": "rss"
-    },
-    {
-      "title": "埃博拉疫情在非洲大陆继续扩散",
-      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20261019-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E5%9F%83%E5%8D%9A%E6%8B%89%E7%96%AB%E6%83%85%E5%9C%A8%E9%9D%9E%E6%B4%B2%E5%A4%A7%E9%99%86%E7%BB%A7%E7%BB%AD%E6%89%A9%E6%95%A3",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-10-19T20:14:53+00:00",
-      "summary": "在非洲大陆，由本迪布焦病毒（Ebola Bundibugyo）引发的第17轮埃博拉疫情仍在扩散。这是本台法广非洲组（RFI Afrique）在刚刚过去的周末两天里的法文报道关注焦点之一。在位于刚果民主共和国（RD Congo）西北部、与中非共和国(RCA)接壤地区，继南乌班吉省（Province du Sud-Ubangi）于一个月前发现首位确诊患者之后，邻近的北乌班吉省（Nord-Ubangi）现在成为该国第8个被本轮疫情波及的省份。当地至少已有2宗新的确诊病例，其中一人染病身亡。在东非国家肯尼亚(le Kenya)境内，内罗毕卫生当局于2026年10月18日星期天通报了该国第8宗埃博拉确诊病例，另有约130人遭隔离。这是法兰西24小时新闻频道（France 24）的一则最新法文消息。",
-      "image": "https://s.rfi.fr/media/display/5c597ede-cbf6-11f1-b0a1-d1d2c32ebb87/w:1024/p:16x9/2026-10-19-l-FMM-Image-Afrique-RD-Congo-carte-des-provinces-archive-RFI.jpg",
       "via": "rss"
     },
     {
@@ -2633,17 +2288,6 @@
       "published": "2026-10-19T20:01:42+00:00",
       "summary": "Executive Summary:\n\n\n\n\nSeoul’s inaugural Korea–Central Asia Summit moved relations from bilateral channels to a regular regional framework, with the Seoul Declaration setting four cooperation priorities for the next 30 years.\n\n\n\nDriven by its need for critical minerals, Seoul used this framework to secure 116 business memoranda, tailored deals with each Central Asian state, and new cooperation mechanisms for industry, climate, and energy.\n\n\n\nAlong the Middle Corridor, the K-Silk Road Cooperation Initiative could become a regional strategy linking Central Asian resources with Korean technology, investment, and European markets, requiring closer ties with Azerbaijan, Georgia, and Türkiye.\n\n\n\n\n\n\n\n\nOn September 16–17, Seoul hosted the inaugural Korea–Central Asia Summit under the slogan “Walking Together Toward the Future: Partnership for Trust and Prosperity.” It brought together South Korean President Lee Jae Myung and the leaders of Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and ",
       "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "美国：民主党传选后施压撤换赫格塞斯 国防预算成谈判筹码",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261019-%E7%BE%8E%E5%9B%BD-%E6%B0%91%E4%B8%BB%E5%85%9A%E4%BC%A0%E9%80%89%E5%90%8E%E6%96%BD%E5%8E%8B%E6%92%A4%E6%8D%A2%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%96%AF-%E5%9B%BD%E9%98%B2%E9%A2%84%E7%AE%97%E6%88%90%E8%B0%88%E5%88%A4%E7%AD%B9%E7%A0%81",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-10-19T20:01:22+00:00",
-      "summary": "美国国防部长赫格塞斯（Pete Hegseth）成为期中选举前夕的政治焦点。",
-      "image": "https://s.rfi.fr/media/display/002decfa-916b-11f1-ad5e-005056bf30b7/w:1024/p:16x9/2026-07-21T221241Z-920984345-RC2LIMA3G9K0-RTRMADP-3-USA-BUDGET-CONGRESS.jpg",
       "via": "rss"
     },
     {
@@ -2680,17 +2324,6 @@
       "via": "rss"
     },
     {
-      "title": "在俄导弹袭乌的轰炸中 俄中美“联盟”显形了?",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261019-%E5%9C%A8%E4%BF%84%E5%AF%BC%E5%BC%B9%E8%A2%AD%E4%B9%8C%E7%9A%84%E8%BD%B0%E7%82%B8%E4%B8%AD-%E4%BF%84%E4%B8%AD%E7%BE%8E-%E8%81%94%E7%9B%9F-%E6%98%BE%E5%BD%A2%E4%BA%86",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-10-19T19:44:00+00:00",
-      "summary": "周一19日凌晨俄罗斯发射多波导弹袭击基辅，至少造成1人死亡、8人受伤。乌克兰总统泽连斯基就此表示：虽然俄罗斯以弹道导弹攻击基辅及周边地区的能源设施，但乌方事前并未收到盟国的预警。所谓的盟国指的当然是美国",
-      "image": "https://s.rfi.fr/media/display/eff99858-cb9d-11f1-820a-d1d2c32ebb87/w:1024/p:16x9/2026-10-17T212606Z-264142626-RC275OAU4746-RTRMADP-3-USA-TRUMP-KENTUCKY.jpg",
-      "via": "rss"
-    },
-    {
       "title": "Honduras targets Chinese shops, state builder as President Asfura sits on Taiwan pledge",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3371425/honduras-targets-chinese-shops-and-state-builder-president-sits-taiwan-pledge",
       "source": "SCMP",
@@ -2699,17 +2332,6 @@
       "published": "2026-10-19T19:43:05+00:00",
       "summary": "Honduran migration officials have summoned or placed under review 41 Chinese nationals after inspecting shops in the capital and a hospital being built by a state-owned contractor from China in the south of the country.\nTeams from the National Migration Institute, working with police and intelligence officers, interviewed 86 Chinese citizens at 54 shops in Comayaguela, Tegucigalpa’s twin city and main commercial district, and told 25 of them to report for further document checks.\nMigration...",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/20/97cc06d4-9f54-4ae0-98c0-6ddb6b51f83c_f783d947.jpg?itok=XkmMXxtG&v=1792438976",
-      "via": "rss"
-    },
-    {
-      "title": "法国暴力事件：政府宣布首批措施，在巴黎、里昂、里尔和尼斯实施“局部”宵禁",
-      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261019-%E6%B3%95%E5%9B%BD%E6%9A%B4%E5%8A%9B%E4%BA%8B%E4%BB%B6-%E6%94%BF%E5%BA%9C%E5%AE%A3%E5%B8%83%E9%A6%96%E6%89%B9%E6%8E%AA%E6%96%BD%EF%BC%8C%E5%9C%A8%E5%B7%B4%E9%BB%8E-%E9%87%8C%E6%98%82-%E9%87%8C%E5%B0%94%E5%92%8C%E5%B0%BC%E6%96%AF%E5%AE%9E%E6%96%BD-%E5%B1%80%E9%83%A8-%E5%AE%B5%E7%A6%81",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-10-19T19:42:46+00:00",
-      "summary": "周一下午，法国政府宣布了应对全国多座城市周末骚乱的首批措施，首先在巴黎、里昂、里尔和尼斯实施“部分”和“局部”宵禁。",
-      "image": "https://s.rfi.fr/media/display/64ffbad0-cbf1-11f1-87c3-2d1c143cdef3/w:1024/p:16x9/000-D3KX4NT.jpg",
       "via": "rss"
     },
     {
@@ -2732,17 +2354,6 @@
       "published": "2026-10-19T18:45:00+00:00",
       "summary": "A Bulgarian court has issued arrest warrants for two young German nationals suspected of setting fire to Starlink antennas. The case is reminiscent of another in Poland, which Warsaw says was orchestrated by Russia.",
       "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Fire at Starlink Center in Lithuania Was Sabotage, Officials Say",
-      "url": "https://www.nytimes.com/2026/10/19/world/europe/lithuania-starlink-sabotage-ukraine-russia.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-19T18:33:39+00:00",
-      "summary": "Ukrainian soldiers set up a Starlink satellite internet system near Pokrovsk, in eastern Ukraine, last year.",
-      "image": "https://static01.nyt.com/images/2026/10/19/multimedia/19int-lithuania-starlink-jpcg/19int-lithuania-starlink-jpcg-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -3021,17 +2632,6 @@
       "via": "rss"
     },
     {
-      "title": "Myanmar refugees find hope in Thailand's work program",
-      "url": "https://www.dw.com/en/myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "Deutsche Welle",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-19T12:31:00+00:00",
-      "summary": "A year ago, Thailand granted long-staying refugees from Myanmar the right to work legally. Refugees and rights groups welcome the move but say the program's first year has exposed significant shortcomings.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "Ecological Imbalance Is Driving Bear Encounters in Mongolia",
       "url": "https://thediplomat.com/2026/10/ecological-imbalance-is-driving-bear-encounters-in-mongolia/",
       "source": "The Diplomat",
@@ -3062,127 +2662,6 @@
       "published": "2026-10-19T12:19:19+00:00",
       "summary": "China's foreign trade maintained strong momentum in the first nine months of 2026, with total imports and exports rising 18.8% year on year. Exports of integrated circuits, electric vehicles and lithium batteries recorded strong growth, while imports grew even faster. What's driving the momentum?",
       "image": "https://news.cgtn.com/news/2026-10-19/China-s-foreign-trade-surges-18-8-in-first-three-quarters-1Rn6RotgbGo/img/b51babf7a8bb44eab8055d1926035540/b51babf7a8bb44eab8055d1926035540-1920.png",
-      "via": "rss"
-    },
-    {
-      "title": "2026 Jingdezhen Forum links heritage dialogue with youth creativity",
-      "url": "https://news.cgtn.com/news/2026-10-19/2026-Jingdezhen-Forum-links-heritage-dialogue-with-youth-creativity-1Rn2c6Y3NGE/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-19T12:07:42+00:00",
-      "summary": "The 2026 Jingdezhen Forum, themed Dialogue between World Heritage and Civilizations, is in full swing in Taoxichuan, the iconic cultural district of Jingdezhen, a city in east China's Jiangxi Province, renowned worldwide as the porcelain capital of China.The high-level main forum brings together global scholars, diplomats and heritage practitioners to discuss the preservation, inheritance and cross-cultural communication of China's millennia-old ceramic heritage. It serves as a key platform for exchanging global insights on world heritage protection and cross-civilization dialogue.Parallel to the main session, a vibrant Gen-Z Forum invites young creators from China and abroad to share fresh, grassroots ideas for promoting ceramic culture worldwide. The youth-focused session injects modern perspectives and innovative thinking into traditional heritage communication.Located in a historic area renovated from abandoned porcelain factories, Taoxichuan blends elite academic dialogue with dow",
-      "image": "https://news.cgtn.com/news/2026-10-19/2026-Jingdezhen-Forum-links-heritage-dialogue-with-youth-creativity-1Rn2c6Y3NGE/img/c10685c4b2a842698b8416ffe8db930f/c10685c4b2a842698b8416ffe8db930f-1280.jpeg",
-      "via": "rss"
-    },
-    {
-      "title": "When Technology Meets the Silver Age",
-      "url": "https://news.cgtn.com/news/2026-10-19/When-Technology-Meets-the-Silver-Age-1Rn4CsoR41q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-19T12:03:13+00:00",
-      "summary": "What if technology could help us live better as we grow older? From health monitoring and everyday assistance to digital companionship, new possibilities are emerging at the intersection of technology and aging. While this journey is still in its early stages, innovation continues to move forward. Join us in a Beijing community to discover how technology is quietly finding its way into seniors' daily lives.&nbsp;",
-      "image": "https://video.cgtn.com/news/2026-10-19/When-Technology-Meets-the-Silver-Age-1Rn4CsoR41q/video/wu_1k59ovj2d1idjq5j1md8ealseoa/wu_1k59ovj2d1idjq5j1md8ealseoa-1280.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Taiwan coastguard wards off 16 mainland ships as Beijing turns up the pressure",
-      "url": "https://www.scmp.com/news/china/military/article/3371397/taiwan-coastguard-wards-16-mainland-ships-beijing-turns-pressure",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-19T12:00:10+00:00",
-      "summary": "Taiwan’s coastguard said it warded off 16 mainland Chinese vessels in one day after they sailed into the island’s self-defined restricted waters in a coordinated, multi-pronged operation that experts say points to a shift in Beijing’s maritime pressure tactics.\nThe vessels – 12 coastguard and research ships, as well as four fishing boats – operated simultaneously on Sunday in waters east of Hualien, south of Pingtung, southwest of Kaohsiung and around the Taiwan-controlled Dongsha Islands,...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/19/18f3184f-c75b-4ea7-938d-1ddf13820490_a12983c8.jpg?itok=8onHbey-&v=1792409228",
-      "via": "rss"
-    },
-    {
-      "title": "補看週末：法國暴亂為何難以控制？",
-      "url": "https://theinitium.com/20261019-weekly/",
-      "source": "端传媒",
-      "language": "zh",
-      "type": "journal",
-      "published": "2026-10-19T11:45:00+00:00",
-      "summary": "&#x9019;&#x4e00;&#x9031;&#xff0c;&#x6cd5;&#x570b;&#x8857;&#x982d;&#x706b;&#x5149;&#x56db;&#x8d77;&#xff0c;&#x7f8e;&#x70cf;&#x4e4b;&#x9593;&#x9694;&#x7a7a;&#x4e92;&#x63a7;&#x3002;&#x5728;&#x83ef;&#x5e9c;&#xff0c;&#x767d;&#x5bae;&#x767c;&#x8a00;&#x4eba;&#x4e0a;&#x4efb;&#x4e94;&#x5929;&#x5c31;&#x88ab;&#x8acb;&#x8d70;&#xff0c;&#x6253;&#x7834;&#x7279;&#x6717;&#x666e;&#x5718;&#x968a;&#x7684;&#x300c;&#x6700;&#x77ed;&#x4efb;&#x671f;&#x300d;&#x7d00;&#x9304;&#x3002;&#x7121;&#x9700;&#x64d4;&#x5fc3;&#x6c92;&#x6642;&#x9593;&#x8ddf;&#x4e0a;&#x65b0;&#x805e;&#x2014;&#x2014;&#x6bcf;&#x9022;&#x6771;&#x4e9e;&#x6642;&#x9593;&#x9031;&#x4e00;&#x3001;&#x9031;&#x4e94;&#xff0c;&#x5b9a;&#x6642;&#x958b;&#x555f;&#x7aef;&#x5468;&#x5831;&#xff0c;&#x6211;&#x5011;&#x5e36;&#x4f60;&#x5feb;&#x901f;&#x638c;&#x63e1;&#x8fd1;&#x671f;&#x7684;&#x65b0;&#x805e;&#x95dc;&#x9375;&#x6642;&#x523b;&#x3002;&#x6bcf;&#x4efd;&#x5468;&#x5831;&#x7576;&#x4e2d;&#xff0c;&#x7aef;&#x50b3;&#x5a92;&#x5716;&#x7247;&#x7de8;&#x8f2f;&#x70ba;&#x6211;&#x5011;",
-      "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/10/AP26289143316287.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Chinese ambassador denies threatening Philippines after saying a war may prove easy to win",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3371399/chinese-ambassador-denies-threatening-philippines-after-saying-war-may-prove-easy-win",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-10-19T11:43:05+00:00",
-      "summary": "Beijing’s ambassador to the Philippines Jing Quan has denied making threats after he was summoned over his recent comments that China could “easily win” a war between the two countries.\nPhilippine Foreign Secretary Theresa Lazaro met Jing on Monday to express “serious concern and strong objections” over his “provocative and unacceptable” language.\nLazaro added that he had aggravated an already sensitive situation and undermined efforts to build mutual understanding between the two countries,...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/10/19/a536a466-f39f-4949-b692-024952e8d601_5be56abc.jpg?itok=hctoX6yU&v=1792409356",
-      "via": "rss"
-    },
-    {
-      "title": "China Is a Peer Competitor in a Dangerous Space Race",
-      "url": "https://foreignpolicy.com/2026/10/19/china-space-musk-race-satellites-moon/",
-      "source": "Foreign Policy",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-10-19T11:00:19+00:00",
-      "summary": "Washington needs to take the realities of Chinese advances seriously.",
-      "image": "https://foreignpolicy.com/wp-content/uploads/2026/10/CHINA-SPACE-SATELLITES-GettyImages-2158114555.png",
-      "via": "rss"
-    },
-    {
-      "title": "China's financial regulators announce new policies",
-      "url": "https://news.cgtn.com/news/2026-10-19/China-s-financial-regulators-announce-new-policies-1Rn36rjvRq8/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-19T11:00:09+00:00",
-      "summary": "China will introduce a liquidity support facility to help non-bank financial institutions cope with large-scale redemptions, People's Bank of China Governor Pan Gongsheng said on Monday.The measures were unveiled at the opening ceremony of the annual Financial Street Forum 2026 in Beijing, where several of China's top financial regulators shared their policy priorities.Pan also outlined a broader package of financial measures, including improving the benchmark for loan pricing and facilitating overseas financial institutions' trading of the yuan in China's foreign exchange market.Meanwhile, Ding Xiangqun, head of the National Financial Regulatory Administration, said that China will continue to advance institutional opening-up in the financial sector and welcome more foreign financial institutions and long-term capital.Ding added that China will also respond to the needs of foreign institutions, improve regulatory frameworks and foster a fair, transparent and stable policy environment.",
-      "image": "https://news.cgtn.com/news/2026-10-19/China-s-financial-regulators-announce-new-policies-1Rn36rjvRq8/img/f1ee7d76c8ab4aaab6c206b913a3967c/f1ee7d76c8ab4aaab6c206b913a3967c-1920.png",
-      "via": "rss"
-    },
-    {
-      "title": "From delivery driver to global fame: A Korean writer's journey",
-      "url": "https://www.dw.com/en/from-delivery-driver-to-global-fame-a-korean-writer-s-journey/a-79672757?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "Deutsche Welle",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-19T10:55:00+00:00",
-      "summary": "You Yeong-Gwang's The Rainfall Market tells the story of a mysterious, hidden shop that only opens when it rains. For a debut novel by an unknown author, it was a massive success.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "The Iran War Has Changed the World Forever",
-      "url": "https://foreignpolicy.com/2026/10/19/iran-war-effects-world-gulf-china-israel/",
-      "source": "Foreign Policy",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-10-19T10:00:09+00:00",
-      "summary": "Some dramatic long-term consequences are just beginning to come into view.",
-      "image": "https://foreignpolicy.com/wp-content/uploads/2026/10/1-iran-war-global-order-GettyImages-2278559028.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "CGTN launches immersive multilingual experience on the Long March",
-      "url": "https://news.cgtn.com/news/2026-10-19/CGTN-launches-immersive-multilingual-experience-on-the-Long-March-1RmZwnqlA4w/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-10-19T09:53:19+00:00",
-      "summary": "CGTN on Monday officially launched a multilingual immersive interactive experience to mark the 90th anniversary of the Red Army's Long March victory, bringing this historic military expedition to global audiences in six languages: Chinese, English, Spanish, French, Arabic and Russian.Through some compelling stories, the interactive experience explores the public support, soldiers' perseverance and strategic turning points that shaped the Long March, shedding light on how the Communist Party of China (CPC) has weathered repeated trials, continued to advance and grown into the world's largest political party.The story began in October 1934. After the failure of the fifth counter-encirclement and suppression campaign against Kuomintang forces, more than 86,000 troops of the Central Red Army led by the CPC was forced to leave the Central Revolutionary Base Area in east China and embarked on the historic journey. Over the next two years, they crossed 14 provinces, climbed nearly 40 major mo",
-      "image": "https://news.cgtn.com/news/2026-10-19/CGTN-launches-immersive-multilingual-experience-on-the-Long-March-1RmZwnqlA4w/img/4c424e66ff0e48fbba0d83d91e7a6d81/4c424e66ff0e48fbba0d83d91e7a6d81-1280.png",
-      "via": "rss"
-    },
-    {
-      "title": "《孤獨的美食家》：一個人吃飯，為什麼能紅遍全亞洲？",
-      "url": "https://www.bbc.com/zhongwen/watch/c6x2wvlxqjr8o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-10-19T09:37:41+00:00",
-      "summary": "開播至今14年，《孤獨的美食家》從日本深夜劇成長為風靡亞洲的電視作品。觀眾跟隨主角井之頭五郎穿梭街巷尋找美食和故事。主演松重豐希望讓更多海外觀眾透過美食認識日本文化。",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dd2c/live/34aedd30-c939-11f1-bc2e-018d645d8d21.jpg",
       "via": "rss"
     }
   ]
