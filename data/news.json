@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T01:30:40.973283+00:00",
+  "last_updated": "2026-11-05T10:26:43.852109+00:00",
   "source_counts": {
     "en": 36,
     "zh": 24
@@ -17,7 +17,32 @@
       "icon": "🌐",
       "color": "#4f8de8",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "Зеленський прибув до Берліна на зустріч з Мерцом перед переговорами в Абу - Дабі",
+          "url": "https://unn.ua/news/zelenskyi-prybuv-do-berlina-na-zustrich-z-mertsom-pered-perehovoramy-v-abu-dabi",
+          "source": "unn.ua",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-11-03T11:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        },
+        {
+          "title": "INTERVIU Care e miza ca România să aibă un om la vârful unei organizații de zeci de state , deși în unele nu avem nici ambasade . Dacian Cioloș explică de ce nu se consideră nici „ omul Franței , nici „ al Europei",
+          "url": "https://hotnews.ro/interviu-care-e-miza-ca-romania-sa-aiba-un-om-la-varful-unei-organizatii-de-zeci-de-state-desi-in-unele-nu-avem-nici-ambasade-dacian-ciolos-explica-de-ce-nu-se-considera-nici-omul-frantei-2389949",
+          "source": "hotnews.ro",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-11-03T11:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "foreign_policy"
+        }
+      ]
     },
     "politics": {
       "label": "Politics & Governance",
@@ -38,7 +63,32 @@
       "icon": "📈",
       "color": "#3dbd86",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "接连抄底巨头企业 ， 亚洲小黑石  太盟是什么来头 ？ _ 东方财富网",
+          "url": "https://finance.eastmoney.com/a/202611033920382036.html",
+          "source": "finance.eastmoney.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-11-03T11:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        },
+        {
+          "title": "着力促进形成新的经济发展模式",
+          "url": "https://www.qstheory.cn/20261102/d18a27b1c429466a80c3204665a3c672/c.html",
+          "source": "qstheory.cn",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-11-03T02:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "economy"
+        }
+      ]
     },
     "society": {
       "label": "Society & Culture",
@@ -115,18 +165,865 @@
   },
   "latest_rss": [
     {
+      "title": "China proves a cut above with world-first precision laser experiment in space",
+      "url": "https://www.scmp.com/news/china/science/article/3373411/china-proves-cut-above-world-first-precision-laser-experiment-space",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-05T09:59:10+00:00",
+      "summary": "China’s space scientists have become the first to carry out precision laser cutting in orbit, slicing a piece of “large-scale equipment” with a robotic arm fixed to the outside the Tiangong space station.\nThe official Science and Technology Daily reported on Wednesday that millimetre-scale cuts were made by a laser maintenance device operated remotely from “hundreds of kilometres away”.\nPrecision laser cutting involves focusing a beam of light to slice or melt material with extreme accuracy, a...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/05/2aa58120-1e4b-4193-b342-0f52a4f30fe0_6197a42b.jpg?itok=O3Vzm4ns&v=1793872736",
+      "via": "rss"
+    },
+    {
+      "title": "South Korea tests Arctic shipping route amid Russia-West row",
+      "url": "https://www.dw.com/en/south-korea-tests-arctic-shipping-route-amid-russia-west-row/a-79853907?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "Deutsche Welle",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T09:45:00+00:00",
+      "summary": "For South Korean ships, navigating off north coast of Russia dramatically reduces travel time to Europe, but the pro-Ukraine coalition might see it as undermining their efforts to isolate Moscow.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "It’s Gaza, stupid",
+      "url": "https://www.aljazeera.com/opinions/2026/11/5/its-gaza-stupid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T09:44:33+00:00",
+      "summary": "The midterms sent a warning to both parties: Voters enraged by Gaza are rejecting politicians who back Israel’s wars.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Robert D. Kaplan on the China Whisperers Who Shaped How the U.S. Views Its Main Rival",
+      "url": "https://www.thewirechina.com/2026/11/05/robert-d-kaplan-on-the-china-whisperers-who-shaped-how-the-u-s-views-its-main-rival/",
+      "source": "The Wire China",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-11-05T09:30:00+00:00",
+      "summary": "The writer and historian talks about his new book on the key men and women that have influenced America’s approach to China over the last century, and the dangers of ‘groupthink’ among China hands.\nThe post Robert D. Kaplan on the China Whisperers Who Shaped How the U.S. Views Its Main Rival appeared first on The Wire China.",
+      "image": "https://www.thewirechina.com/wp-content/uploads/2026/10/Robert-Kaplan-Featured-300x255.png",
+      "via": "rss"
+    },
+    {
+      "title": "特朗普跛脚 密切跟踪全球政经变化",
+      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%9B%BC%E8%B0%B7%E4%B8%93%E6%A0%8F/20261105-%E7%89%B9%E6%9C%97%E6%99%AE%E8%B7%9B%E8%84%9A-%E5%AF%86%E5%88%87%E8%B7%9F%E8%B8%AA%E5%85%A8%E7%90%83%E6%94%BF%E7%BB%8F%E5%8F%98%E5%8C%96",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-05T09:29:18+00:00",
+      "summary": "美国中期选举在全球引发舆论关注热潮。一时间关于关税、货币汇率、资本流通、伊朗战争，包括美国对华战略等话题甚嚣尘上。一致的担忧指向了美国后中期选举时代，华盛顿政坛变局将如何震荡全球政治与经济格局？",
+      "image": "https://s.rfi.fr/media/display/6790d498-d85b-11f1-b5b0-695cb59fade5/w:1024/p:16x9/AP26304672401544.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "澳门首宗国安案 前立法会议员区锦新涉颠覆政权等罪周五宣判",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261105-%E6%BE%B3%E9%97%A8%E9%A6%96%E5%AE%97%E5%9B%BD%E5%AE%89%E6%A1%88-%E5%89%8D%E7%AB%8B%E6%B3%95%E4%BC%9A%E8%AE%AE%E5%91%98%E5%8C%BA%E9%94%A6%E6%96%B0%E6%B6%89%E9%A2%A0%E8%A6%86%E6%94%BF%E6%9D%83%E7%AD%89%E7%BD%AA%E5%91%A8%E4%BA%94%E5%AE%A3%E5%88%A4",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-05T09:26:46+00:00",
+      "summary": "澳门初级法院周四发布新闻稿称，嫌犯区锦新被控触犯“颠覆国家政权罪”、“与澳门特别行政区以外的组织、团体或个人建立联系作出危害国家安全的行为罪”及“违反保密罪”的首宗国安案件早前已完成庭审，该案定于明日（11月6日）上午十时进行公开宣判。",
+      "image": "https://s.rfi.fr/media/display/16db314e-d8f9-11f1-b7c5-d18c5759e759/w:1024/p:16x9/Capture-3793.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "加拿大宣布中国副总理何立峰下周访加　料推动经贸合作落地",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261105-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AE%A3%E5%B8%83%E4%B8%AD%E5%9B%BD%E5%89%AF%E6%80%BB%E7%90%86%E4%BD%95%E7%AB%8B%E5%B3%B0%E4%B8%8B%E5%91%A8%E8%AE%BF%E5%8A%A0-%E6%96%99%E6%8E%A8%E5%8A%A8%E7%BB%8F%E8%B4%B8%E5%90%88%E4%BD%9C%E8%90%BD%E5%9C%B0",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-05T09:25:02+00:00",
+      "summary": "加拿大政府周三宣布，中国国务院副总理何立峰将于11月8至9日访问加拿大。他是加中关系解冻以来，最高层级访加的经贸官员。相信会讨论如何落实一连串加中贸易与经济合作。",
+      "image": "https://s.rfi.fr/media/display/bf24272e-d8fa-11f1-bc97-695cb59fade5/w:1024/p:16x9/AP25298381000680.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Here’s Who Is Meeting Israel’s President to Recommend a Prime Minister",
+      "url": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-herzog-prime-minister.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-05T09:13:51+00:00",
+      "summary": "President Isaac Herzog of Israel with members of the Central Elections Committee in Jerusalem on Wednesday.",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-israel-party-vote-photo-hjzq/05int-israel-party-vote-photo-hjzq-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan",
+      "url": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T09:13:35+00:00",
+      "summary": "Injuries reported on both sides as Russia and Ukraine trade overnight drone strikes on energy and logistics sites.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Dublin-Rome flight lands in France amid bomb threat",
+      "url": "https://www.dw.com/en/dublin-rome-flight-lands-in-france-amid-bomb-threat/a-79861216?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "Deutsche Welle",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T09:10:00+00:00",
+      "summary": "An Airbus A320 bound for Rome has made an emergency landing in Evreux, France. The prime minister's office said it was diverted after receiving a bomb threat. It's the latest of several similar cases in recent days.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Chinese and North Korean officials step up diplomatic drive in wake of Kim Jong-un visit",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3373385/chinese-and-north-korean-officials-step-diplomatic-drive-wake-kim-jong-un-visit",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-05T09:01:01+00:00",
+      "summary": "Senior Chinese and North Korean officials met on Thursday in the wake of Kim Jong-un’s recent cross-border visit and a renewed drive by the two sides to deepen their relationship.\nChina’s top diplomat Wang Yi struck an upbeat tone on the relationship between the two countries when he hosted a visiting delegation led by Kim Song-nam, the international affairs chief of the Workers’ Party of Korea, in Beijing.\n“China is ready to work with the DPRK [Democratic People’s Republic of Korea] to...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/05/0c928545-7749-4a65-b4c2-884afee19149_bac3aa39.jpg?itok=_bgjN-Wy&v=1793868826",
+      "via": "rss"
+    },
+    {
+      "title": "The Golden Dome Proposal is Destabilizing and Dangerous",
+      "url": "https://warontherocks.com/cogs-of-war/the-golden-dome-proposal-is-destabilizing-and-dangerous/",
+      "source": "War on the Rocks",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-11-05T09:00:03+00:00",
+      "summary": "Editor&#8217;s Note: This is the second article in a two-part series exploring the Golden Dome for America proposal. Please also read the first, &#8220;Golden Dome Is Technologically and Financially Infeasible.&#8221;Golden Dome is an ambitious proposal for a comprehensive, layered defense, with ground, sea, and space-based elements. It is supposed to protect the United States, its allies, and deployed forces from attacks by ballistic missiles, cruise missiles, hypersonic boost-glide vehicles, aircraft, and drones launched by any adversary, including peer adversaries. The Golden Dome executive order also mandates further development of capabilities to defeat an adversary&#8217;s missiles before they are launched.A key\nThe post The Golden Dome Proposal is Destabilizing and Dangerous appeared first on War on the Rocks.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "马兴瑞涉嫌受贿案提起公诉 被指以职权为他人谋利等",
+      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261105-%E9%A9%AC%E5%85%B4%E7%91%9E%E6%B6%89%E5%AB%8C%E5%8F%97%E8%B4%BF%E6%A1%88%E6%8F%90%E8%B5%B7%E5%85%AC%E8%AF%89-%E8%A2%AB%E6%8C%87%E4%BB%A5%E8%81%8C%E6%9D%83%E4%B8%BA%E4%BB%96%E4%BA%BA%E8%B0%8B%E5%88%A9%E7%AD%89",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-05T08:54:25+00:00",
+      "summary": "据官媒报导，中共中央政治局原委员、中央农村工作领导小组原副组长马兴瑞涉嫌受贿案，由国家监察委员会调查终结，移送检察机关审查起诉。中国最高人民检察院依法以涉嫌受贿罪对马兴瑞作出逮捕决定，并指定由湖北省宜昌市人民检察院审查起诉。近日，宜昌市人民检察院已向宜昌市中级人民法院提起公诉。",
+      "image": "https://s.rfi.fr/media/display/0a5d4678-d8f4-11f1-b4f5-a575454bc579/w:1024/p:16x9/Capture-3792.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "黄之锋闻判刑皱眉  两人权组织责港府手法残酷 感愤慨",
+      "url": "https://www.rfi.fr/cn/%E4%BA%BA%E6%9D%83/20261105-%E9%BB%84%E4%B9%8B%E9%94%8B%E9%97%BB%E5%88%A4%E5%88%91%E7%9A%B1%E7%9C%89-%E4%B8%A4%E4%BA%BA%E6%9D%83%E7%BB%84%E7%BB%87%E8%B4%A3%E6%B8%AF%E5%BA%9C%E6%89%8B%E6%B3%95%E6%AE%8B%E9%85%B7-%E6%84%9F%E6%84%A4%E6%85%A8",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-05T08:41:21+00:00",
+      "summary": "曾是香港年轻社运人士领军人物的黄之锋，因被控《港区国安法》勾结外国势力罪而被判刑十年，他闻判时皱眉，现时未知他会否上诉。国际特赦组织和香港人权资讯中心均指责港府在黄之锋即将出狱前将他定罪，手法残酷，有意将他无了期监禁；两个组织再次呼吁释放黄之锋，并呼吁各国继续施压，促使港府释放仅因行使人权而被囚禁的人。",
+      "image": "https://s.rfi.fr/media/display/cba8596a-d8fb-11f1-b2ee-a575454bc579/w:1024/p:16x9/5-11B-%E9%BB%84%E4%B9%8B%E9%94%8B%E5%8B%BE%E5%A4%96%E6%A1%88%E5%88%A4%E5%88%91-%E8%AD%A6%E6%96%B9%E4%B8%A5%E5%AF%86%E5%B8%83%E9%98%B2-%E8%B7%AF%E9%9D%A2%E5%92%8C%E5%A4%A9%E6%A1%A5%E5%9D%87%E6%9C%89%E8%AD%A6%E5%91%98%E6%8A%8A%E5%AE%88-%E5%9B%BE%E5%B7%A6-%E4%BD%86%E6%97%A0%E9%98%BB%E6%95%A2%E6%96%BC%E5%8F%91%E8%A8%80%E7%9A%84%E6%97%81%E5%90%AC%E5%B8%82%E6%B0%91-%E5%9B%BE%E5%8F%B3-%E5%A4%A7%E6%8A%92%E5%BF%A7%E6%80%80-%E6%B1%9F%E5%A5%B3%E5%A3%AB%E7%9A%84T%E6%81%A4%E5%AD%97%E7%9C%BC%E6%9B%B4%E6%9C%89%E9%BC%93%E5%8A%B1%E5%B8%82%E6%B0%91%E4%B9%8B%E6%84%8F-%E9%BA%A6%E7%87%95%E5%BA%AD%E6%91%84.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Wembanyama pours in career-high 52 points as Spurs edge Mavericks 112-111",
+      "url": "https://www.aljazeera.com/sports/2026/11/5/wembanyama-pours-in-career-high-52-points-as-spurs-edge-mavericks-112-111?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T08:39:40+00:00",
+      "summary": "Victor Wembanyama had 24 rebounds and 52 points as the San Antonio Spurs recorded their sixth straight win in the NBA.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "黄之锋被控串谋勾结外国势力 法官裁定属「罪行重大」 重判10年料服刑至40岁",
+      "url": "https://www.rfi.fr/cn/%E4%BA%BA%E6%9D%83/20261105-%E9%BB%84%E4%B9%8B%E9%94%8B%E8%A2%AB%E6%8E%A7%E4%B8%B2%E8%B0%8B%E5%8B%BE%E7%BB%93%E5%A4%96%E5%9B%BD%E5%8A%BF%E5%8A%9B-%E6%B3%95%E5%AE%98%E8%A3%81%E5%AE%9A%E5%B1%9E-%E7%BD%AA%E8%A1%8C%E9%87%8D%E5%A4%A7-%E9%87%8D%E5%88%A410%E5%B9%B4%E6%96%99%E6%9C%8D%E5%88%91%E8%87%B340%E5%B2%81",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-05T08:34:53+00:00",
+      "summary": "正在服刑的前香港众志秘书长黄之锋，在狱中被港府加控「串谋勾结外国势力」罪。国安法指定法官指，黄之锋和罗冠聪是案中主脑，二人在国家安全的关键时期合谋勾结外国势力，要求实施制裁，并曾促成外国实施制裁和不利措施，增加中港政府的困难，并在《港区国安法》在港实施后，继续「国际战线」，被裁定属「罪行重大」，重判黄之锋监禁10年，预料他要服刑至2036年11月才可获释。",
+      "image": "https://s.rfi.fr/media/display/ba9c156c-d8fb-11f1-9e6f-d18c5759e759/w:1024/p:16x9/5-11A-%E9%BB%84%E4%B9%8B%E9%94%8B%E8%B7%9D%E7%A6%BB%E5%88%91%E6%BB%A1%E8%8E%B7%E9%87%8A%E5%8F%AA%E6%9C%89%E4%B8%A4%E4%B8%AA%E6%9C%88-%E5%86%8D%E5%9B%A0%E4%B8%B2%E8%B0%8B%E5%8B%BE%E7%BB%93%E5%A4%96%E5%9B%BD%E7%BD%AA%E8%80%8C%E8%A2%AB%E9%87%8D%E5%88%A4%E7%9B%91%E7%A6%8110%E5%B9%B4-%E5%8A%A0%E5%88%91%E8%87%B32036%E5%B9%B4%E5%BA%95-%E9%BA%A6%E7%87%95%E5%BA%AD%E6%8F%90%E4%BE%9B.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Who Repairs the Internet in Wartime?",
+      "url": "https://warontherocks.com/who-repairs-the-internet-in-wartime/",
+      "source": "War on the Rocks",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-11-05T08:30:04+00:00",
+      "summary": "In spring 2026, Britain, Norway, and the United States tracked and disrupted a covert Arctic exercise off the coast of Norway involving Russian deep-sea submersibles simulating the deployment of a weapon designed to disable the two 1,400-kilometer submarine cables linking the islands of Svalbard to mainland Norway. Svalbard hosts a satellite ground station serving Europe, the United States, and Japan. This encounter revealed that NATO allies can detect a covert subsea operation and, if caught in time, disrupt it.Had it been a real attack, the first question would have been where and how quickly internet and sensitive government traffic could\nThe post Who Repairs the Internet in Wartime? appeared first on War on the Rocks.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "前央視節目主講人程萬軍在台尋求庇護未果 被送返泰國",
+      "url": "https://www.bbc.com/zhongwen/articles/ck1l36yzrq75o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-05T08:26:48+00:00",
+      "summary": "程萬軍隨後在網上發布影片，指控台灣執法人員在遣返過程中使用暴力。移民署則稱，他在登機時激烈抗拒並有自傷行為，執法人員為維護飛航安全採取必要措施。BBC中文無法獨立核實雙方的說法。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3261/live/8be2d1f0-d8ee-11f1-8a7f-8f03d11e3e4f.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "The New Zealand Election That Could ‘Flip the Table’",
+      "url": "https://www.nytimes.com/2026/11/05/world/australia/new-zealand-election-polls.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-05T08:11:46+00:00",
+      "summary": "Support for the major parties — led by two men called Chris — is cratering, thanks to dissatisfaction with the economy. Minor parties stand to benefit from a desire among voters for change.",
+      "image": "https://static01.nyt.com/images/2026/11/01/multimedia/00int-nz-election-top-jzwb/00int-nz-election-top-jzwb-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T08:07:22+00:00",
+      "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff8f/live/68eb4bf0-d8e4-11f1-a701-fddedf244c16.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
+      "url": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case",
+      "source": "The Guardian",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-05T07:56:21+00:00",
+      "summary": "Wong, 30, in prison since 2020, is only activist in Hong Kong prosecuted twice under national security lawExclusive: Joshua Wong laments city’s fate from inside maximum security prisonThe Hong Kong activist Joshua Wong has been sentenced to 10 years in prison after earlier pleading guilty to “foreign collusion”, his second conviction under a national security law critics say has been used to silence political opposition in the city.Wong, who rose to prominence as the teenage face of Hong Kong’s 2014 pro-democracy demonstrations, submitted his guilty plea in September. He had been accused of working with the exiled Hong Kong activist Nathan Law to urge foreign powers to impose sanctions, blockades or other hostile measures against China. Continue reading...",
+      "image": "https://i.guim.co.uk/img/media/d9bf9f9b9523e26c98269088295afe0101408a09/745_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=284bff972880f241577f2f12b909e083",
+      "via": "rss"
+    },
+    {
+      "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
+      "url": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T07:50:44+00:00",
+      "summary": "Wong, in prison since 2020, was found guilty of colluding with foreign entities in violation of national security law.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "South Korea plans to expand anti-piracy operations closer to Hormuz Strait",
+      "url": "https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T07:44:47+00:00",
+      "summary": "Seoul proposes extending its Cheonghae unit’s patrols to waters near Oman’s Duqm amid US pressure over Iran war.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "黃之鋒勾結罪國安案：重判10年，料出獄已屆40歲",
+      "url": "https://www.bbc.com/zhongwen/articles/cm5ynepe9578o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-05T07:43:09+00:00",
+      "summary": "香港民主派活動人士黃之鋒原有望於數月內獲釋，但最新的10年判刑使他要繼續服刑到2036年，出獄時或已年屆40歲。法律學者分析，案件反映《香港國安法》或可被「反覆動用」，令特定政治犯持續留在獄中。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9d27/live/882ecf10-d848-11f1-b870-55415e6a9944.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Ten years of the Paris Agreement: Has the world kept its climate promises?",
+      "url": "https://www.aljazeera.com/news/2026/11/5/ten-years-of-the-paris-agreement-has-the-world-kept-its-climate-promises?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T07:41:25+00:00",
+      "summary": "Nearly 200 countries pledged to limit warming to 1.5C. We look at who has delivered and who has fallen short.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "China’s fifth plenum resolution",
+      "url": "https://www.scmp.com/plus/news/china/politics/article/3373366/chinas-fifth-plenum-resolution",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-05T07:29:33+00:00",
+      "summary": "This article contains excerpts from the official English translation of the original Chinese document released by Xinhua.",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/05/a2350e68-b928-48ff-a424-4ba928e13f16_aa857fd8.jpg?itok=APos_U5q&v=1793863198",
+      "via": "rss"
+    },
+    {
+      "title": "Germany’s Merz expects Trump to keep ignoring Congress",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/germanys-merz-expects-trump-to-keep-ignoring-congress?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T07:25:56+00:00",
+      "summary": "German Chancellor Friedrich Merz expects US President Donald Trump to keep bypassing Congress despite midterm losses.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Champions League: Liverpool suffer 3-2 loss at Fenerbahce, Como thump Lens",
+      "url": "https://www.aljazeera.com/sports/2026/11/5/champions-league-liverpool-suffer-3-2-loss-at-fenerbahce-como-thump-lens?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T07:21:01+00:00",
+      "summary": "Como equal Champions League record with stunning 9-1 win at Lens as Haaland rescues Manchester City at Leipzig.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Oil tumbles below $100 on post-election peace hopes",
+      "url": "https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-05T07:20:20+00:00",
+      "summary": "US vice-president JD Vance blames Republicans’ midterm defeat on anger over Iran war",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F548c0191-f5be-4fde-b72f-f320e6860a02.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Guinness World Record broken as 53 red cards shown in Brazil under-20 match",
+      "url": "https://www.aljazeera.com/sports/2026/11/5/guinness-world-record-broken-as-53-red-cards-shown-in-brazil-under-20-match?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T07:20:18+00:00",
+      "summary": "Mass brawl at Uberlandia vs Mamore results in 43 cards for players, eight for coaching staff and two for board members.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "What the Democrats' midterms win means for the US economy and Trump",
+      "url": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "Deutsche Welle",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T07:03:00+00:00",
+      "summary": "From high oil prices and data centers to tariffs and mounting debt, economic concerns played a key role in the crushing defeat of President Donald Trump's Republicans. So can the Democrats now make a difference?",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Joshua Wong, Hong Kong Democracy Activist, Is Sentenced to 10 Years in Prison",
+      "url": "https://www.nytimes.com/2026/11/04/world/asia/joshua-wong-hong-kong-sentenced.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-05T06:56:25+00:00",
+      "summary": "Pro-democracy activist Joshua Wong arriving at prison after a hearing for 47 opposition activists charged with violating the national security law in Hong Kong in 2021.",
+      "image": "https://static01.nyt.com/images/2026/10/02/multimedia/00int-hongkong-joshua-hlwt/00int-hongkong-joshua-hlwt-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Ex-Politburo member Ma Xingrui’s corruption charges extend to end of last century",
+      "url": "https://www.scmp.com/news/china/politics/article/3373345/ex-politburo-member-ma-xingruis-corruption-charges-extend-end-last-century",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-05T06:50:02+00:00",
+      "summary": "Former Politburo member and Xinjiang Communist Party chief Ma Xingrui has been indicted on bribery charges dating back to the late 1990s, Chinese state media reported on Thursday.\nAs one of the 24 members of one of the party’s innermost circles, the 67-year-old Ma is among the most senior Chinese officials investigated in the country’s sweeping anti-corruption campaign.\nHe is also the fourth Politburo member to have faced corruption charges since President Xi Jinping came to power in late...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/05/1b8b34a7-a2b4-41c5-9c73-3b35a07ef7c8_91404ae3.jpg?itok=ohIk7qf5&v=1793855219",
+      "via": "rss"
+    },
+    {
+      "title": "New Zealand braces for knife-edge election: What you need to know",
+      "url": "https://www.aljazeera.com/news/2026/11/5/new-zealand-braces-for-knife-edge-election-what-you-need-to-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T06:34:50+00:00",
+      "summary": "Smaller parties hold the key, with major contenders expected to fall short of the majority needed to govern alone.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "‘I worry people will forget Hong Kong’: Joshua Wong laments city’s fate from inside maximum security prison",
+      "url": "https://www.theguardian.com/world/2026/nov/05/joshua-wong-hong-kong-prison-letters-sentenced-10-years",
+      "source": "The Guardian",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-05T06:11:48+00:00",
+      "summary": "Exclusive: pro-democracy activist’s prison letters reveal fascination with AI, brushes with Triads and an appetite for booksHong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case From inside Hong Kong’s oldest maximum security prison, where he swaps books with Triad gang members and studies law, Joshua Wong writes letters like a man desperate to stay connected to the outside world.Excerpts from his private prison writings reveal the pro-democracy activist asking friends to take screenshots of social media accounts and put questions to AI chatbots on his behalf. Continue reading...",
+      "image": "https://i.guim.co.uk/img/media/fc1f54c6a870faccf059592688013d162165eba8/148_0_4326_3461/master/4326.jpg?width=140&quality=85&auto=format&fit=max&s=03b1e5ddc9b5a96bee7d0d96cac2edb4",
+      "via": "rss"
+    },
+    {
+      "title": "Has India’s democracy failed its Muslims? Jailed scholar triggers debate",
+      "url": "https://www.aljazeera.com/news/2026/11/5/has-indias-democracy-failed-its-muslims-jailed-scholar-triggers-debate?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T06:10:51+00:00",
+      "summary": "Sharjeel Imam questioned foundational ideas of India&#039;s nationalism in interview with The Quint, inspiring heated debate.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Ex-armed police chief Wang Ning ousted from China’s top advisory body",
+      "url": "https://www.scmp.com/news/china/military/article/3373352/ex-armed-police-chief-wang-ning-ousted-chinas-top-advisory-body",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-05T06:10:19+00:00",
+      "summary": "A former commander of China’s paramilitary force has been stripped of his senior political advisory roles, becoming the third consecutive head of the People’s Armed Police to fall from grace over the past 15 years.\nGeneral Wang Ning, 71, was formally removed as a standing committee member of the Chinese People’s Political Consultative Conference (CPPCC) and vice-chairman of its foreign affairs committee on Wednesday.\nThe top political advisory body revoked his membership during its closing...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/05/5cb681e5-f2e2-44d7-9077-fbdd098bd5a6_4ccf375e.jpg?itok=ifC3M47M&v=1793858424",
+      "via": "rss"
+    },
+    {
+      "title": "Israel’s opposition slams ‘toxic Netanyahu’ after Democrats win US Congress",
+      "url": "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T05:39:31+00:00",
+      "summary": "Netanyahu&#039;s rivals say US midterm results show Israel &#039;cannot afford&#039; to have the prime minister remain in office.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "A Trump Reckoning",
+      "url": "https://www.nytimes.com/2026/11/04/world/us-midterms-trump-israel.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-05T05:14:54+00:00",
+      "summary": "The results from the U.S. midterm elections could be the beginning of the end of the Trump era.",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-theworld-midterms-sweep-01-wltc-promo/05int-theworld-midterms-sweep-01-wltc-promo-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "他們在等西西弗斯：黃之鋒身後，那些寫信和探監的前戰友",
+      "url": "https://www.bbc.com/zhongwen/articles/c6zxz94yzngpo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-05T05:03:14+00:00",
+      "summary": "香港民主派活動人士黃之鋒被控違反中國《香港國安法》下的「串謀勾結外國勢力危害國家安全」罪，被判囚10年。BBC中文訪問了三位一直探望並寄信予黃之鋒的前戰友，了解他在獄中的變化。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cced/live/1253dc00-c613-11f1-9a39-31b474234113.png",
+      "via": "rss"
+    },
+    {
+      "title": "First, France Had Riots and Protests. Now It’s Bracing for a General Strike.",
+      "url": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-05T05:01:14+00:00",
+      "summary": "Installing wooden panels to protect the storefront windows of a shop in Paris on Wednesday, the eve of a nationwide day of strikes.",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05france-protests-01-fbmk/05france-protests-01-fbmk-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Voters Are Turning Out in Droves to Cut Autocrats Down to Size",
+      "url": "https://www.nytimes.com/2026/11/05/world/europe/voters-are-turning-out-in-droves-to-cut-autocrats-down-to-size.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-05T05:01:06+00:00",
+      "summary": "Voting in Detroit on Tuesday. Turnout was a factor in turning the midterms’ expected blue wave into a blue tsunami.",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-election-turnout-analysis-zwkq/05int-election-turnout-analysis-zwkq-mediumSquareAt3X-v2.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
+      "url": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
+      "source": "The Guardian",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-05T05:00:55+00:00",
+      "summary": "Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification The UK is “dangerously” dependent on China for critical raw materials needed for the military, renewable energy infrastructure and AI, a parliamentary investigation has found.MPs on the business select committee called for an urgent centralised policy and the creation of a “critical minerals finance facility” to help fund rare earth and other critical mineral mines, and deploy grants, equity and debt to accelerate a diversification programme. Continue reading...",
+      "image": "https://i.guim.co.uk/img/media/cb4db687d218902c0710319b5c22a27ce31c84f2/446_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=0f3485761702bce981808ccca6ab31bd",
+      "via": "rss"
+    },
+    {
+      "title": "Democrats look to reshape America after historic midterm victories",
+      "url": "https://www.ft.com/content/9a4a7357-f783-462f-b5d3-9852daf0f328?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-05T05:00:25+00:00",
+      "summary": "Party promises dramatic change in the wake of its ‘blue wave’",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F504a869c-343b-4ea2-912c-3f05a335f42c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Morning in America, twilight in the markets",
+      "url": "https://www.ft.com/content/d21e2a87-191b-447d-b81b-edcf7bc2f007",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-05T05:00:16+00:00",
+      "summary": "Astonishing midterm election results will not repeal the turn of business and financial cycles",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F64f2405f-a768-4f42-a609-416310d38d1d.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "The next US presidential race has begun",
+      "url": "https://www.ft.com/content/a7fe8e95-bd9a-4cd7-a308-f156073cd074?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-05T05:00:07+00:00",
+      "summary": "The Republicans and Democrats positioning themselves for a run at the Oval Office in 2028",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdb7fbe9b-53c9-4ca6-8125-b7fd29ad5eb7.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Republicans paid the price for Trump’s failed policies — they must rethink",
+      "url": "https://www.ft.com/content/800da770-639b-406c-a46a-a30552aa1128",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-05T05:00:07+00:00",
+      "summary": "The president promised — but did not deliver — more manufacturing jobs and higher employment rates for native-born Americans",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F40f42397-10b5-4733-93b2-79675be8452c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Zelenskyy hopes Democratic Congress will bring more US help for Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T04:49:56+00:00",
+      "summary": "EU officials also urge new US Congress to step up pressure on Russia to end the four-and-a-half-year war.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "特朗普的新身份：跛脚鸭总统",
+      "url": "https://cn.nytimes.com/usa/20261105/trump-new-role-lame-duck/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "language": "zh",
+      "type": "newspaper",
+      "published": "2026-11-05T04:46:19+00:00",
+      "summary": "特朗普称愿与民主党人合作，同时强调自己拥有否决权。民主党人誓言调查政府滥权行为及总统亲信涉嫌腐败等问题，这种政治压力可能让美国在未来两年中充满不可预测性。                    Doug Mills/The New York Times                    在共和党于中期选举中遭遇惨败后，特朗普总统是否会采取务实的谈判姿态与民主党达成协议，目前尚不得而知。",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Mamdani: ‘it’s morning again in America’ after blue wave",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mamdani-its-morning-again-in-america-after-blue-wave?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T04:30:18+00:00",
+      "summary": "New York City Mayor Zohran Mamdani urged fellow Democrats to ‘fulfill promises’ after sweeping wins.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "特朗普如何将“一手好牌打得稀烂”",
+      "url": "https://cn.nytimes.com/opinion/20261105/trump-midterms-republicans/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "language": "zh",
+      "type": "newspaper",
+      "published": "2026-11-05T04:20:09+00:00",
+      "summary": "特朗普在2024年大获全胜，2025年仍保持着不错的支持率。但在今年，由于虚荣、不稳定和愚蠢的交织，他将胜利的果实变成了失败的苦酒。                    Javier Jaén",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Brazilian airport torn apart by violent storm",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/brazilian-airport-torn-apart-by-violent-storm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T04:12:11+00:00",
+      "summary": "Dramatic footage captured the moment a powerful tornado struck Chapecó Airport in Santa Catarina, Brazil",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Paraguay bank collapses with half of population’s savings",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T04:11:45+00:00",
+      "summary": "Protests have erupted across Paraguay after Ueno Bank was shut down in the middle of the night over a solvency crisis.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Hong Kong activist Joshua Wong sentenced to ten years in jail",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hong-kong-activist-joshua-wong-sentenced-to-ten-years-in-jail?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T04:04:57+00:00",
+      "summary": "Hong Kong activist Joshua Wong, who became the global face of Hong Kong’s pro-democracy movement has been sentenced.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Trump lost the midterms – not his grip on foreign policy",
+      "url": "https://www.lowyinstitute.org/the-interpreter/trump-lost-the-midterms-not-his-grip-on-foreign-policy",
+      "source": "Lowy Institute",
+      "language": "en",
+      "type": "thinktank",
+      "published": "2026-11-05T04:00:00+00:00",
+      "summary": "A repudiation at the ballot box hasn't resolved the uncertainty it brings Republicans.",
+      "image": "https://cdn.sanity.io/images/5dcouzig/production/fa357640d898823dcc937ae2b64ecec36b2ff7a7-2048x1638.jpg?rect=0,282,2048,1075&w=1200&h=630&fm=webp&q=85&fit=crop",
+      "via": "rss"
+    },
+    {
+      "title": "民主黨重掌美國國會：能做什麼、不能做什麼？",
+      "url": "https://www.bbc.com/zhongwen/articles/cm8xzky58xw7o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-05T03:51:08+00:00",
+      "summary": "民主黨可以憑藉多數席次讓法案在國會過關，但特朗普仍握有否決權。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f863/live/48cc8c40-d889-11f1-8203-5d774478c31c.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "World record 53 red cards shown in Brazil football match",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/world-record-53-red-cards-shown-in-brazil-football-match?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T03:48:19+00:00",
+      "summary": "Referees have red-carded 53 players and staff after a massive brawl in an under-20s football match in Brazil.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Syria, Saudi Arabia sign defence cooperation deal, agree $403m in loans",
+      "url": "https://www.aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T03:46:13+00:00",
+      "summary": "Defence cooperation deal signed as Syria&#039;s President al-Sharaa visits Riyadh for the second time in less than a month.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "十年後再聚：獄中黃之鋒和一代學民的成長",
+      "url": "https://theinitium.com/20261105-hongkong-joshua-wong-chi-fung-nsl-sentence-feature/",
+      "source": "端传媒",
+      "language": "zh",
+      "type": "journal",
+      "published": "2026-11-05T03:41:19+00:00",
+      "summary": "&#x5728;&#x9999;&#x6e2f;&#x9ad8;&#x7b49;&#x6cd5;&#x9662;&#xff0c;30&#x6b72;&#x7684;&#x9ec3;&#x4e4b;&#x92d2;&#x56e0;&#x88ab;&#x63a7;&#x4e32;&#x8b00;&#x52fe;&#x7d50;&#x5916;&#x570b;&#x52e2;&#x529b;&#x7f6a;&#xff0c;&#x4eca;&#x5929;&#xff08;11&#x6708;5&#x65e5;&#xff09;&#x88ab;&#x5224;&#x56da;10&#x5e74;&#xff0c;&#x5176;&#x4e2d;2&#x500b;&#x6708;2&#x65e5;&#x5211;&#x671f;&#xff0c;&#x8207;&#x5176;&#x300c;&#x985b;&#x8986;&#x570b;&#x5bb6;&#x653f;&#x6b0a;&#x7f6a;&#x300d;&#x5211;&#x671f;&#x540c;&#x671f;&#x57f7;&#x884c;&#x3002;&#x9ec3;&#x4e4b;&#x92d2;&#x805e;&#x5224;&#x6642;&#x8868;&#x60c5;&#x5e73;&#x975c;&#xff0c;&#x53ca;&#x5f8c;&#x4f4e;&#x982d;&#x8a18;&#x7b46;&#x8a18;&#xff0c;&#x4e0d;&#x6642;&#x76ba;&#x7709;&#x3002;&#x4ed6;&#x5728;&#x6563;&#x5ead;&#x6642;&#x5411;&#x516c;&#x773e;&#x63ee;&#x624b;&#x81f4;&#x610f;&#xff0c;&#x7a31;&#x300c;&#x591a;&#x8b1d;&#x4f60;&#x54cb;&#xff01;&#x300d;&#x6709;&#x4eba;&#x885d;&#x4e0a;&#x524d;&#x5617;&#x8a66;&#x64c1;&#x62b1;&#x4ed6;&#x4f46;&#x88ab;&#x963b;&#x6514;&#xff0c;&#x552f",
+      "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/----------2020a.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "判詞速讀：黃之鋒涉勾結外國勢力罪判囚10年，官指與羅冠聰同屬主腦",
+      "url": "https://theinitium.com/20261105-hongkong-joshua-wong-chi-fung-nsl-sentence-news/",
+      "source": "端传媒",
+      "language": "zh",
+      "type": "journal",
+      "published": "2026-11-05T03:38:00+00:00",
+      "summary": "&#x672c;&#x6587;&#x6700;&#x5f8c;&#x66f4;&#x65b0;&#x6642;&#x9593;&#x70ba;&#x6771;&#x516b;&#x5340;&#x4e0b;&#x5348;2&#x6642;30&#x5206;&#x3002;&#x524d;&#x9999;&#x6e2f;&#x773e;&#x5fd7;&#x79d8;&#x66f8;&#x9577;&#x9ec3;&#x4e4b;&#x92d2;&#x88ab;&#x63a7;&#x570b;&#x5b89;&#x6cd5;&#x4e0b;&#x4e32;&#x8b00;&#x52fe;&#x7d50;&#x5916;&#x570b;&#x52e2;&#x529b;&#x7f6a;&#xff0c;&#x4ed6;&#x4eca;&#x5929;&#xff08;11&#x6708;5&#x65e5;&#xff09;&#x88ab;&#x5224;&#x56da;10 &#x5e74;&#xff0c;&#x5176;&#x4e2d;2&#x500b;&#x6708;2&#x65e5;&#x5211;&#x671f;&#xff0c;&#x8207;&#x5176;&#x300c;&#x985b;&#x8986;&#x570b;&#x5bb6;&#x653f;&#x6b0a;&#x7f6a;&#x300d;&#x5211;&#x671f;&#x540c;&#x671f;&#x57f7;&#x884c;&#x3002;&#x9ec3;&#x4e4b;&#x92d2;&#x805e;&#x5224;&#x6642;&#x8868;&#x60c5;&#x5e73;&#x975c;&#xff0c;&#x53ca;&#x5f8c;&#x4f4e;&#x982d;&#x8a18;&#x7b46;&#x8a18;&#xff0c;&#x4e0d;&#x6642;&#x76ba;&#x7709;&#x3002;&#x4ed6;&#x5728;&#x6563;&#x5ead;&#x6642;&#x5411;&#x516c;&#x773e;&#x63ee;&#x624b;&#x81f4;&#x610f;&#xff0c;&#x7a31;&#x300c;&#x591a;&#x8b1d;&#x4f",
+      "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/_CT_4067-1.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "影像：Hi Gif, I hope you are fine",
+      "url": "https://theinitium.com/20261105-photo-hongkong-hkscholarism-and-joshua-wong-chi-fung/",
+      "source": "端传媒",
+      "language": "zh",
+      "type": "journal",
+      "published": "2026-11-05T03:37:20+00:00",
+      "summary": "2026&#x5e74;9&#x6708;&#x521d;&#xff0c;&#x9ec3;&#x4e4b;&#x92d2;&#x52fe;&#x7d50;&#x5916;&#x570b;&#x52e2;&#x529b;&#x6848;&#x5b9a;&#x7f6a;&#x7576;&#x5929;&#xff0c;&#x79fb;&#x5c45;&#x82f1;&#x570b;&#x7684;&#x651d;&#x5f71;&#x8a18;&#x8005; Peter Wong &#x7d42;&#x65bc;&#x6253;&#x958b;&#x96fb;&#x8166;&#x786c;&#x76e4;&#x5167;&#xff0c;&#x62cd;&#x651d;&#x5b78;&#x6c11;&#x601d;&#x6f6e;&#x7684;&#x820a;&#x7167;&#x7247;&#x3002;&#x8207;&#x9ec3;&#x4e4b;&#x92d2;&#x540c;&#x5e74;&#x3001;30&#x6b72;&#x7684;Peter&#x662f;&#x651d;&#x5f71;&#x5e2b;&#xff0c;&#x4e5f;&#x66fe;&#x662f;&#x5b78;&#x6c11;&#x601d;&#x6f6e;&#x6210;&#x54e1;&#xff0c;&#x4ed6;&#x5728;14&#x5e74;&#x524d;&#x8a18;&#x9304;&#x4e86;&#x5b78;&#x6c11;&#x521d;&#x59cb;&#x8a95;&#x751f;&#x7684;&#x9762;&#x8c8c;&#x3002;&#x90a3;&#x662f;&#x4ed6;&#x651d;&#x5f71;&#x7684;&#x8d77;&#x9ede;&#xff0c;&#x4e5f;&#x662f;&#x9ec3;&#x4e4b;&#x92d2;&#x4e00;&#x4ee3;&#x4e2d;&#x5b78;&#x751f;&#xff0c;&#x6295;&#x8eab;&#x9999;&#x6e2f;&#x793e;&#x6703;&#x904b;&#x52d5;&#x7684;&#x8d77;&#x9ede;&#x300",
+      "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/PWI_4846.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "What’s delaying the US Senate election results in Mississippi and Alaska?",
+      "url": "https://www.aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T03:13:08+00:00",
+      "summary": "Ranked-choice voting may decide Alaska&#039;s Senate outcome, while Mississippi&#039;s race hangs on a knife&#039;s edge.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "美国选民为何拒绝特朗普的共和党",
+      "url": "https://cn.nytimes.com/usa/20261105/midterms-mood/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "language": "zh",
+      "type": "newspaper",
+      "published": "2026-11-05T02:56:23+00:00",
+      "summary": "选民明确表达了对现状的不满以及寻求改变的愿望。一些较为传统的共和党人表示，如今的共和党已经让他们感到陌生。堪萨斯州一位选民直言不讳：“共和党已经迷失了方向。”",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Former Israeli generals help Palestinian olive farmers",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/former-israeli-generals-help-palestinian-olive-farmers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T02:52:30+00:00",
+      "summary": "A group of former Israeli military generals offered their help to Palestinian olive farmers in the occupied West Bank.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Foreign military attachés pay tribute to Long March martyrs",
+      "url": "https://news.cgtn.com/news/2026-11-05/Foreign-military-attach-s-pay-tribute-to-Long-March-martyrs-1RO0jTdEJws/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T02:51:53+00:00",
+      "summary": "Nearly 90 foreign military attachés from more than 50 countries visited Zunyi in southwest China's Guizhou Province. On Tuesday, the military attachés laid a flower basket in tribute to the fallen heroes at the Zunyi Red Army Martyrs Cemetery.The visit, at the invitation of China's Ministry of National Defense, is part of a six-day program in Guizhou and Sichuan provinces, during which the delegation explores revolutionary sites, visits military and civilian institutions, and learns about local economic and social development.",
+      "image": "https://news.cgtn.com/news/2026-11-05/Foreign-military-attach-s-pay-tribute-to-Long-March-martyrs-1RO0jTdEJws/img/78320a32c5854f86bdb4a9961a5954e7/78320a32c5854f86bdb4a9961a5954e7-1280.jpeg",
+      "via": "rss"
+    },
+    {
+      "title": "90 seconds to see the full construction of a large cruise ship",
+      "url": "https://news.cgtn.com/news/2026-11-05/90-seconds-to-see-the-full-construction-of-a-large-cruise-ship-1ROIOKdIovK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T02:50:15+00:00",
+      "summary": "Ever wondered how a large cruise ship is built? Check out this 90-second video for the whole construction process of Adora Flora City, China's second domestically built large cruise ship. After four years of construction, the ship will be officially delivered on Nov. 6 in Shanghai.Adora Flora City features 2,130 cabins, which can accommodate up to 5,232 passengers at full capacity. The ship's delivery marks&nbsp;China's ability to continuously build and deliver luxury cruise ships. On Nov. 22, it will begin the first of its commercial voyages, which will focus on southern China and the Southeast Asian market.",
+      "image": "https://video.cgtn.com/news/2026-11-05/90-seconds-to-see-the-full-construction-of-a-large-cruise-ship-1ROIOKdIovK/video/wu_1k6knvdkt1le9eh014hg1gqk1ca36ia/wu_1k6knvdkt1le9eh014hg1gqk1ca36ia-750.png",
+      "via": "rss"
+    },
+    {
+      "title": "共和党惨败之夜：美国中期选举结果八大要点",
+      "url": "https://cn.nytimes.com/usa/20261105/election-takeaways-democrats-win/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "language": "zh",
+      "type": "newspaper",
+      "published": "2026-11-05T02:48:18+00:00",
+      "summary": "民主党在中期选举中取得压倒性胜利，不仅重夺两院控制权，还在一些深红选区取得突破。马斯克的巨额资金未能扭转局势。公众明确授权对总统权力进行制衡。                    Haiyun Jiang/The New York Times                    周二在奥斯汀举行的詹姆斯·塔拉里科的开票派对。他赢得了得克萨斯州参议员席位，民主党在这场选举中取得压倒性胜利。",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Vote counting underway in critical South Africa elections",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/vote-counting-underway-in-critical-south-africa-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T02:43:04+00:00",
+      "summary": "Votes are being counted across South Africa after a record 29.2 million people registered to vote.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Chinese scientists envision the first road on the moon",
+      "url": "https://news.cgtn.com/news/2026-11-05/Chinese-scientists-envision-the-first-road-on-the-moon-1RNpTXecYrC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T02:40:50+00:00",
+      "summary": "Chinese scientists are working to design roads on the moon.One concept, put forward by a team from Beihang University, envisions a road built from crushed stone that is excavated in situ or sintered on the moon — quite similar to gravel roads on Earth.\"Modern roads began as gravel surfaces, so I think the moon's first road could start the same way,\" Li Feng, a professor at Beihang University's School of Transportation Science and Engineering, told CGTN.The moon's environment differs from Earth's — with temperature differences of up to 300 degrees Celsius and a different gravity environment — but the team believes the moon's first roads should meet the same standards: level, solid, durable, economical and feasible.Li says their goal was to make the technology feasible within 5 to 10 years.\"I think one advantage of our concept is that it's technically more mature, because you don't need to bake large bricks — you only need small crushed stones, either sintered or excavated in situ,\" Li a",
+      "image": "https://news.cgtn.com/news/2026-11-05/Chinese-scientists-envision-the-first-road-on-the-moon-1RNpTXecYrC/img/6ead9c92a71043b59394451bd984dc11/6ead9c92a71043b59394451bd984dc11-750.png",
+      "via": "rss"
+    },
+    {
+      "title": "「這是一場災難」：中期選舉慘敗，共和黨內怒火指向特朗普",
+      "url": "https://www.bbc.com/zhongwen/articles/cw5ynld35e3ro/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-05T02:36:32+00:00",
+      "summary": "一些共和黨人告訴BBC，特朗普只顧自己的政治遺產，漠視選民關注的問題，令共和黨付出了代價。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5315/live/41e364b0-d854-11f1-94f3-cf7d1e52bb8c.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "El Salvador’s Bukele touts military intervention in Haiti",
+      "url": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T02:10:07+00:00",
+      "summary": "Haitian police have found a vehicle used by four missing Salvadoran technicians as Salvadoran troops deploy to Haiti.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Election deniers lose races for governor in key US swing states",
+      "url": "https://www.aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T02:06:07+00:00",
+      "summary": "State leaders can hold significant sway over election administration, with implications for the 2028 presidential race.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Israel’s Herzog accepts vote results, opens talks on forming a government",
+      "url": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T01:53:30+00:00",
+      "summary": "Move deals blow to Netanyahu&#039;s efforts to discredit the elections, in which he and his allies lost their majority.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "美國期中選舉速覽：民主黨「藍色浪潮」大勝，締造多項歷史｜Whatsnew",
+      "url": "https://theinitium.com/20261102-whatsnew-2026-us-midterm-election-results/",
+      "source": "端传媒",
+      "language": "zh",
+      "type": "journal",
+      "published": "2026-11-05T01:40:00+00:00",
+      "summary": "11&#x6708;2&#x65e5;&#x665a;&#xff0c;&#x7f8e;&#x570b;&#x671f;&#x4e2d;&#x9078;&#x8209;&#x524d;&#x5915;&#xff0c;&#x7d10;&#x7d04;&#x77e5;&#x540d;&#x516c;&#x5171;&#x5287;&#x5834;&#xff08;Public Theater&#xff09;&#x6b63;&#x4e0a;&#x6f14;&#x4e00;&#x9f63;&#x767c;&#x751f;&#x5728;11&#x6708;3&#x65e5;&#x6295;&#x7968;&#x65e5;&#x665a;&#x4e0a;&#x7684;&#x8a71;&#x5287;&#x300a;We&apos;ll See&#x300b;&#x3002;&#x5287;&#x4e2d;&#xff0c;&#x4e00;&#x7fa4;&#x597d;&#x53cb;&#x8a66;&#x5716;&#x5728;&#x665a;&#x9910;&#x684c;&#x4e0a;&#x907f;&#x8ac7;&#x653f;&#x6cbb;&#xff0c;&#x537b;&#x7d42;&#x7a76;&#x7121;&#x6cd5;&#x8ff4;&#x907f;&#x6230;&#x722d;&#x3001;&#x7e3d;&#x7d71;&#x7279;&#x6717;&#x666e;&#x8207;&#x65e5;&#x76ca;&#x6495;&#x88c2;&#x7684;&#x7f8e;&#x570b;&#x793e;&#x6703;&#x3002;&#x5728;&#x7d10;&#x7d04;&#x751f;&#x6d3b;&#x4e86;40&#x591a;&#x5e74;&#x7684;Jack&#x770b;&#x5b8c;&#x6232;&#x5f8c;&#x8868;&#x793a;&#xff0c;&#x9019;&#x5c31;&#x662f;&#x4ed6;&#x5982;&#x4eca;&#x771f;&#x5be6;&#x7684;&#x751f;&#x6d3b;&#x3002;&#x4ed6;&#x5df2;&#x7d93;",
+      "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/RC2RGOAU1U5B.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "US midterm results herald upheaval in Middle East policy",
+      "url": "https://www.ft.com/content/3dee82bf-3bbe-4075-8bfd-4001ddb689ae?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-05T01:33:29+00:00",
+      "summary": "American voters — including vice-president JD Vance — want an end to Trump’s Iran war and Washington’s proximity to Israel",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0f17344e-5547-40fb-a0e7-35ad6a65ed22.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Trading Avocadoes for Political Influence",
+      "url": "https://www.asiasentinel.com/p/trading-avocadoes-for-political-influence-china",
+      "source": "Asia Sentinel",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-11-05T01:12:11+00:00",
+      "summary": "By: Xiaochen Su In May, Kenya sent its first shipment of fresh avocados and avocado oil to China under the new zero-import tariff policy. Kenyan producers hailed a new era for Kenya as Africa&#8217;s leading agricultural exporter, capable of chipping away at China&#8217;s steady trade imbalance with the continent. There is certainly a business case to be made. Afte&#8230;\n      \n          \n              Read more",
+      "image": "https://substackcdn.com/image/fetch/$s_!vEs8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40cb6960-ed28-4bdf-82c5-ec8b65828612_899x506.jpeg",
+      "via": "rss"
+    },
+    {
       "title": "Star mathematician Ma Xiao leaves the US for China – and a career pivot to AI",
       "url": "https://www.scmp.com/news/china/science/article/3373211/star-mathematician-ma-xiao-leaves-us-china-and-career-pivot-ai",
       "source": "SCMP",
       "language": "en",
       "type": "newspaper",
       "published": "2026-11-05T01:00:08+00:00",
-      "summary": "Two years ago, Chinese mathematician Ma Xiao helped crack a century-old puzzle known as the Hilbert’s sixth problem.\nThe problem – which has baffled generations of mathematical physicists – centres on an elusive bridge connecting the chaotic frenzy of microscopic atoms with the predictable laws of fluid motion.\nThe breakthrough, published in the Annals of Mathematics, helped propel Ma’s collaborator Deng Yu to the 2026 Fields Medal – the discipline’s highest honour – and secured Ma a coveted...",
+      "summary": "Two years ago, Chinese mathematician Ma Xiao helped crack a century-old puzzle known as Hilbert’s sixth problem.\nThe problem – which has baffled generations of mathematical physicists – centres on an elusive bridge connecting the chaotic frenzy of microscopic atoms with the predictable laws of fluid motion.\nThe breakthrough, published in the Annals of Mathematics, helped propel Ma’s collaborator Deng Yu to the 2026 Fields Medal – the discipline’s highest honour – and secured Ma a coveted faculty...",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/04/231fcc57-e396-4ad5-a2bd-ef3377293dcd_24a8406e.jpg?itok=TqPMQfxY&v=1793764696",
       "via": "rss"
     },
     {
-      "title": "Democratic wave keeps US wealth taxes on the agenda despite California setback",
+      "title": "China issues plan to advance comprehensive resource conservation",
+      "url": "https://news.cgtn.com/news/2026-11-05/China-issues-plan-to-advance-comprehensive-resource-conservation-1ROAo78YTCM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-05T00:53:06+00:00",
+      "summary": "China has issued an action plan to promote resource conservation and efficient use of resources, safeguard national resource security and accelerate the green transition of its economy and society, the National Development and Reform Commission (NDRC) said Wednesday.According to the plan, China aims to reduce energy consumption per unit of gross domestic product (GDP) by around 10%, water consumption per unit of GDP by 10%, and construction land use per unit of GDP by 15%, by 2030 from 2025 levels. The plan was jointly issued by the NDRC, the Ministry of Industry and Information Technology and three other government departments.It also calls for continued reductions in grain loss rates across all stages of the grain industry chain and an increase in the annual recycling volume of major recyclable resources to 510 million tonnes by 2030.It sets out key tasks in seven areas, covering energy conservation and efficiency improvement, water conservation, grain conservation and food waste red",
+      "image": "https://news.cgtn.com/news/2026-11-05/China-issues-plan-to-advance-comprehensive-resource-conservation-1ROAo78YTCM/img/9ed1a75975cb4c359accd5c20b4f0bbe/9ed1a75975cb4c359accd5c20b4f0bbe-1920.png",
+      "via": "rss"
+    },
+    {
+      "title": "Democratic wave keeps US wealth taxes alive despite California loss",
       "url": "https://www.ft.com/content/c701ac0d-0ef4-426f-a629-e38ed29d5260?syn-25a6b1a6=1",
       "source": "Financial Times",
       "language": "en",
@@ -148,25 +1045,14 @@
       "via": "rss"
     },
     {
-      "title": "Africa’s richest man launches mega oil tank farm in Namibia",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/africas-richest-man-launches-mega-oil-tank-farm-in-namibia?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "European left-wing figures highlight CPC's commitment to self-reform",
+      "url": "https://news.cgtn.com/news/2026-11-05/European-left-wing-figures-highlight-CPC-s-commitment-to-self-reform-1ROw9KZjFja/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
       "language": "en",
       "type": "broadcast",
-      "published": "2026-11-05T00:39:18+00:00",
-      "summary": "Nigerian billionaire Aliko Dangote launched a fuel storage facility in Namibia to future-proof Southern Africa&#039;s supply.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Ohio’s voters tell Republicans: don’t take us for granted",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/ohios-voters-tell-republicans-dont-take-us-for-granted?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-05T00:36:25+00:00",
-      "summary": "Democrats flipped a Senate seat and recaptured the governor’s mansion in Ohio.",
-      "image": "",
+      "published": "2026-11-05T00:44:00+00:00",
+      "summary": "European left-wing political figures have highlighted the importance of the Communist Party of China's (CPC) commitment to self-reform, saying its experience in maintaining Party discipline and putting people first offers valuable lessons for left-wing parties in Europe.\"People-centric development doesn't happen spontaneously. It needs a strong party that's disciplined,\" said Kaivon Kjems, international secretary of the Communist Party of Denmark.&nbsp;He noted that self-reform enables a party to identify and address challenges within society, navigate competing interests and remain responsive to people's concerns.Kjems said European left-wing parties could learn from the CPC's experience, stressing that meaningful efforts to address people's concerns require serious commitment to self-reform and strong party building. He added that the CPC's people-oriented approach offers concrete lessons in tackling the problems people face in their daily lives.Adam Barbato Shoufani, general secreta",
+      "image": "https://video.cgtn.com/news/2026-11-05/European-left-wing-figures-highlight-CPC-s-commitment-to-self-reform-1ROw9KZjFja/video/wu_1k6jcl0l1p4c19hafh319m51q7056e/wu_1k6jcl0l1p4c19hafh319m51q7056e-1280.jpg",
       "via": "rss"
     },
     {
@@ -181,39 +1067,6 @@
       "via": "rss"
     },
     {
-      "title": "Democrats won Congress. But can they deliver on their promises?",
-      "url": "https://www.aljazeera.com/news/2026/11/5/democrats-won-congress-but-can-they-deliver-on-their-promises?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-05T00:25:43+00:00",
-      "summary": "Despite their midterm election victories, Democrats face major obstacles to reining in Trump on Iran, tariffs and more.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Historic firsts redraw US political map in 2026 midterm elections",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/historic-firsts-redraw-us-political-map-in-2026-midterm-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-05T00:24:20+00:00",
-      "summary": "The 2026 US midterms delivered a wave of historic firsts for women, Black, Muslim,  gay and Native American politicians.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Iran war live: Trump says war caused election wipeout but he ‘had to do it’",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/5/iran-war-live-trump-admits-war-caused-election-loss-but-had-to-do-it?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-05T00:00:00+00:00",
-      "summary": "President Trump admits Iran war &#039;largely&#039; caused Republicans&#039; US election wipeout, but says he &#039;had to do it&#039;.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "APEC 2026: Let’s get back to the future on trade",
       "url": "https://www.lowyinstitute.org/the-interpreter/apec-2026-let-s-get-back-to-the-future-on-trade",
       "source": "Lowy Institute",
@@ -225,58 +1078,14 @@
       "via": "rss"
     },
     {
-      "title": "Who gets to vote in the US?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/who-gets-to-vote-in-the-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-04T23:50:34+00:00",
-      "summary": "Tati Abu King lost his voting rights after felony convictions.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Ethiopia expels 6 Sudan diplomats, orders closure of consulate, reports say",
-      "url": "https://www.aljazeera.com/news/2026/11/4/sudan-ethiopia-order-tit-for-tat-diplomatic-expulsions?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-04T23:43:26+00:00",
-      "summary": "Move comes after Sudan lodged official complaints against Ethiopia, accusing Addis Ababa of supporting the RSF group.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "What Trump’s Midterm Defeat Means for Iran and Oil Prices",
       "url": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
       "source": "New York Times",
       "language": "en",
       "type": "newspaper",
-      "published": "2026-11-04T23:36:59+00:00",
+      "published": "2026-11-04T23:37:00+00:00",
       "summary": "President Trump walking offstage after a rally in Salina, Kan., on Sunday. The election results mean the Democrats will take control of the House and Senate.",
       "image": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-global-midterm-reax-zbjv/04int-global-midterm-reax-zbjv-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Giant banner of Trump, Vance and Netanyahu burnt at Tehran rally",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/giant-banner-of-trump-vance-and-netanyahu-burnt-at-tehran-rally?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-04T23:34:47+00:00",
-      "summary": "A giant banner depicting US President Donald Trump and Israel’s Prime Minister Benjamin Netanyahu was burnt in Tehran",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Trump blames Iran war for midterms losses",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/trump-blames-iran-war-for-midterms-losses?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-04T23:30:01+00:00",
-      "summary": "President Donald Trump said the war in Iran likely contributed to Republican setbacks in the midterm elections",
-      "image": "",
       "via": "rss"
     },
     {
@@ -346,17 +1155,6 @@
       "via": "rss"
     },
     {
-      "title": "Democratic Socialists of America see record wins in US midterm elections",
-      "url": "https://www.aljazeera.com/news/2026/11/4/democratic-socialists-of-america-see-record-wins-in-us-midterm-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-04T22:45:24+00:00",
-      "summary": "The left-wing movement has won support for its views on issues like the war in Gaza and universal healthcare.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "‘The money didn’t work’: Big Tech’s $600mn midterm campaign falls flat",
       "url": "https://www.ft.com/content/3e65138f-068f-465f-a1ae-a9c61ea1afc4?syn-25a6b1a6=1",
       "source": "Financial Times",
@@ -365,17 +1163,6 @@
       "published": "2026-11-04T22:38:45+00:00",
       "summary": "Elon Musk rebuked as anger at AI and Silicon Valley fuels support for Democrats",
       "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F139b2095-718c-436b-b192-57adf7b94e9e.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "Sudan factories struggle to restart after devastating wartime losses",
-      "url": "https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-04T22:31:09+00:00",
-      "summary": "War has left Sudanese workers jobless and consumers facing higher prices as factories struggle to reopen.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -407,19 +1194,8 @@
       "language": "en",
       "type": "newspaper",
       "published": "2026-11-04T22:08:06+00:00",
-      "summary": "US and Chinese defence officials met in Washington for the first meeting of a Crisis Communications and Prevention Working Group established under an agreement announced in September when leaders of the two nations met.\nThe two sides agreed on the importance of “advancing practical communication measures” to reduce risks between the US and China, according to a Pentagon readout of the meeting released Tuesday. Delegates also discussed “additional channels” to promote “effective” crisis...",
+      "summary": "US and Chinese defence officials met in Washington for the first meeting of a Crisis Communications and Prevention Working Group established under an agreement announced in September when leaders of the two nations met.\nThe two sides agreed on the importance of “advancing practical communication measures” to reduce risks between the US and China, according to a Pentagon read-out of the meeting released on Tuesday. The delegates also discussed “additional channels” to promote “effective” crisis...",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/05/f90d39f3-fae5-481f-8f42-580d5edda064_c4416d4c.jpg?itok=mJ1bzePs&v=1793830075",
-      "via": "rss"
-    },
-    {
-      "title": "Palestinians, Israelis react after Democrats sweep US midterms",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/palestinians-israelis-react-after-democrats-sweep-us-midterms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-04T22:06:24+00:00",
-      "summary": "Palestinians and Israelis are divided in their opinion following the win by Democrats in the US midterm elections.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -467,17 +1243,6 @@
       "via": "rss"
     },
     {
-      "title": "Vance blames Iran war for crushing Republican midterms defeat",
-      "url": "https://www.ft.com/content/6bc8be51-5bd8-468c-bd3c-82bbc2866ba1?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-04T21:34:58+00:00",
-      "summary": "Oil prices tumble as Democrats’ landslide victory piles pressure on Donald Trump to end Middle East conflict",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F96e8c9c1-8b1b-4d3d-8bd6-79ee6345b1e9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
       "title": "Moscow Expresses Warnings on Kaliningrad Defense Against NATO",
       "url": "https://jamestown.org/moscow-expresses-warnings-on-kaliningrad-defense-against-nato/",
       "source": "Jamestown Foundation",
@@ -486,17 +1251,6 @@
       "published": "2026-11-04T21:34:55+00:00",
       "summary": "Executive Summary:\n\n\n\n\nRussia’s senior political and diplomatic leadership has given explicit warnings about Moscow’s readiness to defend Kaliningrad by “all available means,” implicitly including nuclear weapons. These statements suggest a deliberate strategy of nuclear ambiguity.\n\n\n\nThe Kremlin portrays these statements as defensive responses to alleged North Atlantic Treaty Organization (NATO) threats. Their frequency and intensity raise questions about Moscow’s strategic calculations concerning its westernmost territory.\n\n\n\nThe Kremlin portrays Kaliningrad as an indispensable symbol of Russian sovereignty and military power, but its geographic isolation and conventional vulnerabilities complicate its defense.\n\n\n\n\n\n\n\n\nThe fall of 2026 has witnessed a series of explicit warnings from Russia’s senior political and diplomatic leadership about Moscow’s readiness to defend Kaliningrad by “all available means,” implicitly including nuclear weapons. In early September, Deputy Foreign Minis",
       "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "US stocks post best day since August after Democrats sweep midterms",
-      "url": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-04T21:33:37+00:00",
-      "summary": "Hyperscalers surge and chipmakers fall as investors bet on winners and losers from expected backlash against the AI boom",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F95727e3e-c10e-46d8-9783-d35ab3fad80f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -544,28 +1298,6 @@
       "via": "rss"
     },
     {
-      "title": "Social media reacts to Democrats’ takeover of US Congress",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-04T21:21:58+00:00",
-      "summary": "Social media is awash with reactions to Democrats’ sweeping midterm gains.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO",
-      "url": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-04T21:13:56+00:00",
-      "summary": "Israeli restrictions on travel and medical evacuations prevent children in Gaza from being treated abroad.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "美國中期選舉結果對中國和世界各國意味着什麼？",
       "url": "https://www.bbc.com/zhongwen/articles/ckreyrxvg3xyo/trad?at_medium=RSS&at_campaign=rss",
       "source": "BBC中文",
@@ -574,17 +1306,6 @@
       "published": "2026-11-04T21:02:11+00:00",
       "summary": "民主黨在美國中期選舉中取得勝利，將在特朗普總統餘下的任期內掌控國會，標誌着美國政治格局出現重大變化。從烏克蘭和中東的衝突，到美國與中國的貿易關係，BBC記者分析這次選舉結果對世界其他地區意味着什麼。",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/634f/live/515ba0a0-d887-11f1-ad49-25abedf165e8.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "US midterm election results live: Trump blames Iran war after losses",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-04T21:00:00+00:00",
-      "summary": "A Democratic romp has rocked the US political landscape, but several closely contested races remain too close to call.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -632,17 +1353,6 @@
       "via": "rss"
     },
     {
-      "title": "Democrat leaders hail midterm election success",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_democrat-leaders-hail-midterm-election-success-041126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-04T20:50:31+00:00",
-      "summary": "The top Democrats in the two chambers of US Congress have been hailing their party’s resounding victory in the midterms.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "德国《商报》：反对特朗普主义的人民起义",
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261104-%E5%BE%B7%E5%9B%BD-%E5%95%86%E6%8A%A5-%E5%8F%8D%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BB%E4%B9%89%E7%9A%84%E4%BA%BA%E6%B0%91%E8%B5%B7%E4%B9%89",
       "source": "法广中文",
@@ -665,17 +1375,6 @@
       "via": "rss"
     },
     {
-      "title": "Ukraine raises death toll from Russian strike on Zaporizhia to 40 people",
-      "url": "https://www.aljazeera.com/news/2026/11/4/ukraine-raises-death-toll-from-russian-strike-on-zaporizhia-to-40-people?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-04T20:31:56+00:00",
-      "summary": "Dozens may still be under the rubble in Komyshuvakha. Rescue efforts ongoing despite interruptions by Russian drones.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "Winners, losers, the EU: Five takeaways from the US midterms",
       "url": "https://www.dw.com/en/winners-losers-the-eu-five-takeaways-from-the-us-midterms/a-79858901?maca=en-rss-en-world-4025-xml-mrss",
       "source": "Deutsche Welle",
@@ -683,28 +1382,6 @@
       "type": "broadcast",
       "published": "2026-11-04T20:27:00+00:00",
       "summary": "Donald Trump's Republicans suffered a crushing defeat in Tuesday's midterm elections, with the Democrats wresting control of Congress. What does this mean for US politics and the world?",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "A Trump Reckoning",
-      "url": "https://www.nytimes.com/2026/11/04/world/us-midterms-trump-israel.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-04T20:26:57+00:00",
-      "summary": "The results from the U.S. midterm elections could be the beginning of the end of the Trump era.",
-      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-theworld-midterms-sweep-01-wltc-promo/05int-theworld-midterms-sweep-01-wltc-promo-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Will the US resume its attacks on Iran?",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/11/4/will-the-us-resume-its-attacks-on-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-04T20:25:50+00:00",
-      "summary": "Tehran says it&#039;s ready with a maximum deterrence plan.",
       "image": "",
       "via": "rss"
     },
@@ -717,17 +1394,6 @@
       "published": "2026-11-04T20:20:47+00:00",
       "summary": "從選民的不滿情緒，到總統本人支持度低迷，本文分析為何傳統共和黨票倉的美國選民轉而支持民主黨。",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/af16/live/b7f5b9f0-d84a-11f1-b870-55415e6a9944.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Oil tumbles below $100 on post-election peace hopes",
-      "url": "https://www.ft.com/content/b526f876-810a-4e74-8b8d-4ffca04b29c7?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-04T20:18:53+00:00",
-      "summary": "US vice-president JD Vance blames Republicans’ midterm defeat on anger over Iran war",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F548c0191-f5be-4fde-b72f-f320e6860a02.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -753,17 +1419,6 @@
       "via": "rss"
     },
     {
-      "title": "Iranians celebrate Democrat victory in US midterms",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/iranians-celebrate-democrat-victory-in-us-midterms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-04T19:59:14+00:00",
-      "summary": "US President Donald Trump acknowledged the Republicans’ crushing defeat was partly due to the war on Iran.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "欧盟议员要求评估比亚迪的国安风险，比亚迪承诺无法从中国远程访问车辆内部数据",
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261104-%E6%AC%A7%E7%9B%9F%E8%AE%AE%E5%91%98%E8%A6%81%E6%B1%82%E8%AF%84%E4%BC%B0%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%9A%84%E5%9B%BD%E5%AE%89%E9%A3%8E%E9%99%A9%EF%BC%8C%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%89%BF%E8%AF%BA%E6%97%A0%E6%B3%95%E4%BB%8E%E4%B8%AD%E5%9B%BD%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AE%E8%BD%A6%E8%BE%86%E5%86%85%E9%83%A8%E6%95%B0%E6%8D%AE",
       "source": "法广中文",
@@ -775,28 +1430,6 @@
       "via": "rss"
     },
     {
-      "title": "Democratic progressive wing notches win in California Central Valley",
-      "url": "https://www.aljazeera.com/news/2026/11/4/democratic-progressive-wing-notches-win-in-california-central-valley?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-04T19:50:37+00:00",
-      "summary": "Campaign focused on cost of living issues and backlash over ICE raids pays dividends for progressive Randy Villegas.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Hakeem Jeffries promises ‘affordability’ focus after Democratic midterm win",
-      "url": "https://www.aljazeera.com/news/2026/11/4/hakeem-jeffries-promises-affordability-focus-after-democratic-midterm-win?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-04T19:30:41+00:00",
-      "summary": "Democratic leader says party expects at least 255 House seats and promises to deliver on affordability.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "36 years later: Hungary opens Communist-era secret service files",
       "url": "https://www.dw.com/en/36-years-later-hungary-opens-communist-era-secret-service-files/a-79858016?maca=en-rss-en-world-4025-xml-mrss",
       "source": "Deutsche Welle",
@@ -804,39 +1437,6 @@
       "type": "broadcast",
       "published": "2026-11-04T19:30:00+00:00",
       "summary": "Decades after the end of Soviet rule, Hungary is releasing all its secret service files. The disclosure is sparking fresh debate about informants, guilt and responsibility.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "WHO approves trials for two new Ebola vaccines",
-      "url": "https://www.aljazeera.com/news/2026/11/4/who-approves-trials-for-two-new-ebola-vaccines?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-04T19:22:09+00:00",
-      "summary": "Two new vaccines were designed for the Bundibugyo virus that has killed more than 5,300 in the DR Congo.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "US midterms 2026: What key races remain undecided?",
-      "url": "https://www.aljazeera.com/news/2026/11/4/us-midterms-2026-what-key-races-remain-undecided?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-04T19:18:47+00:00",
-      "summary": "Ballots continue to be counted in states like Alaska, Mississippi, Kansas and California for toss-up races.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "How US midterm results could reshape Trump’s foreign policy",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/aje-onl-nf_how-us-midterm-could-reshape-trumps-foreign-policy-041126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-04T19:15:50+00:00",
-      "summary": "US midterm results could reshape Trump’s political landscape and increase congressional scrutiny of his foreign policy.",
       "image": "",
       "via": "rss"
     },
@@ -885,6 +1485,17 @@
       "via": "rss"
     },
     {
+      "title": "“一夜爆红”能否拯救她妈妈的中餐馆？",
+      "url": "https://cn.nytimes.com/world/20261105/chinese-restaurant-edinburgh-viral-social-media/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "language": "zh",
+      "type": "newspaper",
+      "published": "2026-11-04T18:55:39+00:00",
+      "summary": "数百万人浏览了丽莎关于她母亲在爱丁堡经营的中餐馆生意惨淡的视频，丽莎希望为母亲做点什么，设法挽救这家餐馆。网络成名带来了源源不断的新客人，也造成了新的问题。                    Robert Ormerod for The New York Times",
+      "image": "",
+      "via": "rss"
+    },
+    {
       "title": "Kazakhstan Eyes Ambitious 2035 Goal for 2 Nuclear Power Plants",
       "url": "https://thediplomat.com/2026/11/kazakhstan-eyes-ambitious-2035-goal-for-2-nuclear-power-plants/",
       "source": "The Diplomat",
@@ -893,17 +1504,6 @@
       "published": "2026-11-04T18:53:00+00:00",
       "summary": "A deal with China hasn’t been settled yet but still, Astana hopes to complete both its first and second nuclear power plants within a decade.",
       "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/05/thediplomat_2026-05-01-210853.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "The biggest winners and losers of the 2026 US midterms",
-      "url": "https://www.aljazeera.com/news/2026/11/4/the-biggest-winners-and-losers-of-the-2026-us-midterms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-04T18:52:25+00:00",
-      "summary": "Historic firsts, surprise victories and expensive defeats as Democrats take control of Congress.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -926,17 +1526,6 @@
       "published": "2026-11-04T18:41:21+00:00",
       "summary": "But as winter approaches, their focus is on meeting basic needs.",
       "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/ukraine-us-election-reaction-GettyImages-2302739783.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "‘Cartwheels’ in Canada after Trump punished in US midterm elections",
-      "url": "https://www.ft.com/content/026cf61a-3e15-4d0e-bdb5-050fe005b725?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-04T18:34:21+00:00",
-      "summary": "Voters’ repudiation of Republican agenda seen as a ‘victory’ for neighbour targeted by president’s trade war",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd94eb181-8eee-4651-96f2-ba660668807f.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -970,17 +1559,6 @@
       "published": "2026-11-04T18:30:43+00:00",
       "summary": "The number of armed conflicts has increased in recent years, and researchers have warned that many wars are lasting longer and have become more difficult to end. We asked five experts if the 21st-century trend of more intractable wars is continuing, and if so, why.Read more below.Dafna H. Rand Senior Fellow at Brookings Former U.S. Assistant Secretary of State Wars are not ending definitively in the 21st century, and the United States is likely to see the same pattern in Iran. Whereas peace settlements or victory by one side was once the culmination of war, today the more likely scenarios\nThe post Why Are Wars Increasingly Difficult to End? appeared first on War on the Rocks.",
       "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Republicans turn on each other after disastrous midterms",
-      "url": "https://www.ft.com/content/83a46027-3cde-41fa-8c55-405f40c6fa82?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-04T18:29:39+00:00",
-      "summary": "Party figures lash out at Donald Trump, his candidates and his staff over Iran war, cost of living and corruption allegations",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7c115987-3b8e-46d9-8b6c-5497a72d1cb2.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -1039,6 +1617,17 @@
       "via": "rss"
     },
     {
+      "title": "黄之锋因“勾结外国势力”被判10年监禁",
+      "url": "https://cn.nytimes.com/china/20261105/joshua-wong-hong-kong-sentenced/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "language": "zh",
+      "type": "newspaper",
+      "published": "2026-11-04T17:20:42+00:00",
+      "summary": "法官裁定黄之锋“罪行重大”。黄之锋是香港民主抗议活动的关键人物之一，此前已因另一起国家安全案件中被定罪，服刑近六年。法律专家称新判决旨在削弱黄之锋的影响力。                    Lam Yik Fei for The New York Times                    2021年，在香港一场针对47名被控违反国家安全法的反对派人士的聆讯结束后，民主活动人士黄之锋抵达监狱。",
+      "image": "",
+      "via": "rss"
+    },
+    {
       "title": "王毅与菲外长通话促加强对少数政客约束 菲防长：若针对的是我，我只听总统的",
       "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261104-%E7%8E%8B%E6%AF%85%E4%B8%8E%E8%8F%B2%E5%A4%96%E9%95%BF%E9%80%9A%E8%AF%9D%E4%BF%83%E5%8A%A0%E5%BC%BA%E5%AF%B9%E5%B0%91%E6%95%B0%E6%94%BF%E5%AE%A2%E7%BA%A6%E6%9D%9F-%E8%8F%B2%E9%98%B2%E9%95%BF-%E8%8B%A5%E9%92%88%E5%AF%B9%E7%9A%84%E6%98%AF%E6%88%91%EF%BC%8C%E6%88%91%E5%8F%AA%E5%90%AC%E6%80%BB%E7%BB%9F%E7%9A%84",
       "source": "法广中文",
@@ -1066,7 +1655,7 @@
       "source": "New York Times",
       "language": "en",
       "type": "newspaper",
-      "published": "2026-11-04T16:26:32+00:00",
+      "published": "2026-11-04T16:26:33+00:00",
       "summary": "Portraits of former Iranian supreme leaders and the current supreme leader, Ayatollah Mojtaba Khamenei, in Tehran this month.",
       "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00int-iran-nuclear-01-kgpq/00int-iran-nuclear-01-kgpq-mediumSquareAt3X.jpg",
       "via": "rss"
@@ -1160,17 +1749,6 @@
       "via": "rss"
     },
     {
-      "title": "Democrats debate how far to take their fight against Trump",
-      "url": "https://www.ft.com/content/1b492f63-85b4-472c-9bbd-f741a1dfdb0b?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-04T15:43:36+00:00",
-      "summary": "Even with control of both the Senate and the House, Democratic legislation could still be obstructed by presidential veto",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc2733a97-d6e4-474e-975a-a12210741a05.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
       "title": "中期选举失利 约翰逊将不寻求在新一届国会中竞选众院少数党领袖",
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261104-%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%A4%B1%E5%88%A9-%E7%BA%A6%E7%BF%B0%E9%80%8A%E5%B0%86%E4%B8%8D%E5%86%8D%E5%AF%BB%E6%B1%82%E8%BF%9E%E4%BB%BB%E4%BC%97%E8%AE%AE%E9%99%A2%E5%85%B1%E5%92%8C%E5%85%9A%E9%A2%86%E8%A2%96",
       "source": "法广中文",
@@ -1179,6 +1757,17 @@
       "published": "2026-11-04T15:26:53+00:00",
       "summary": "在共和党于周二的中期选举中遭遇失利后，美国国会众议院议长约翰逊（Mike Johnson）将卸任众议院共和党会议领袖一职。这也为他三年前那段出人意料且极其迅速的崛起之路画上了句号。据两名知情人士透露，来自路易斯安那州的约翰逊在周三上午的一次内部通话中宣布了这一决定。此前，共和党在中期选举中至少失去了21个席位，导致民主党在时隔四年后重新掌握了美国众议院的控制权。",
       "image": "https://s.rfi.fr/media/display/b156f032-3e3b-11f0-9fdd-005056bf30b7/w:1024/p:16x9/AP25140557259163.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Mainland slams DPP for sacrificing Taiwan region's interests",
+      "url": "https://news.cgtn.com/news/2026-11-04/Mainland-slams-DPP-for-sacrificing-Taiwan-region-s-interests-1RNVrriYFuU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-04T15:23:21+00:00",
+      "summary": "A Chinese mainland spokesperson on Wednesday criticized Taiwan's Democratic Progressive Party (DPP) authorities for aligning with US policies, particularly in the semiconductor industry, for political gain, saying the move disregards the interests of local industries and public welfare.Zhu Fenglian, spokesperson for the State Council Taiwan Affairs Office, made the remarks in response to a question about recent statements by Taiwan authorities that they were considering tightening controls on high-tech products, including advanced chips, with measures that could restrict exports to destinations, including the Chinese mainland.Zhu said such moves obstruct businesses' normal operations.The mainland is committed to advancing self-reliance and strength in science and technology, Zhu said, adding that attempts to contain and blockade its development have never been and will never be able to halt progress.She also called on businesses across the Taiwan Strait to strengthen cooperation in rel",
+      "image": "https://news.cgtn.com/news/2026-11-04/Mainland-slams-DPP-for-sacrificing-Taiwan-region-s-interests-1RNVrriYFuU/img/37f2241f708943d2875ad3890288413d/37f2241f708943d2875ad3890288413d-750.png",
       "via": "rss"
     },
     {
@@ -1204,14 +1793,14 @@
       "via": "rss"
     },
     {
-      "title": "What the Democrats' midterms win means for the US economy and Trump",
-      "url": "https://www.dw.com/en/what-the-democrats-midterms-win-means-for-the-us-economy-and-trump/a-79853716?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "Deutsche Welle",
+      "title": "China's services trade maintains growth amid push for new drivers",
+      "url": "https://news.cgtn.com/news/2026-11-04/China-s-services-trade-maintains-growth-amid-push-for-new-drivers-1RNTCQ8VhmM/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
       "language": "en",
       "type": "broadcast",
-      "published": "2026-11-04T15:09:00+00:00",
-      "summary": "From high oil prices and data centers to tariffs and mounting debt, economic concerns played a key role in the crushing defeat of President Donald Trump's Republicans. So can the Democrats now make a difference?",
-      "image": "",
+      "published": "2026-11-04T15:08:12+00:00",
+      "summary": "China's trade in services maintained brisk growth in the first nine months of 2026 as the country moved to foster new drivers of foreign trade and promote high-standard opening up.Services imports and exports totaled 5.77 trillion yuan (about $858.89 billion) from January to September, up 8.5% year on year, according to the Ministry of Commerce. Exports rose 14.8% while imports grew 4.8%, leaving a services trade deficit of 1.23 trillion yuan.This performance was buoyed by a surge in transport services, which led all categories with a 33.9% jump. Knowledge-intensive services, which accounted for 43.9% of total services trade, also expanded steadily by 7.4%.These figures underscore a broader shift in China's trade structure as the country moves toward consumption and innovation.Experts say the development of services trade is key to building new competitive advantages in international trade, fostering a more open economy, and supporting high-quality development.Beijing is stepping up su",
+      "image": "https://news.cgtn.com/news/2026-11-04/China-s-services-trade-maintains-growth-amid-push-for-new-drivers-1RNTCQ8VhmM/img/64647f0425ae47fa9247b424302b170b/64647f0425ae47fa9247b424302b170b-750.png",
       "via": "rss"
     },
     {
@@ -1270,6 +1859,28 @@
       "via": "rss"
     },
     {
+      "title": "Analysis: The best and worst of the internet are closer than they look",
+      "url": "https://news.cgtn.com/news/2026-11-04/Analysis-The-best-and-worst-of-the-internet-are-closer-than-they-look-1RNJyzcvrCU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-04T14:42:03+00:00",
+      "summary": "The internet's best case and worst case are not separated by a generation or a continent. They are separated by a connection, an investment or a safety guardrail – often by a single missing condition.At this year's World Internet Conference Wuzhen Summit, the best case was concrete. Alibaba's Joseph Tsai argued that only open source can make AI inclusive, citing a Ugandan nonprofit that used the company's Qwen model to cover 68 African languages. Liu Dayiheng, who leads the model, added that open weights keep prices competitive, preventing a few firms from monopolizing access.BrainCo offered the human version of the same story: neural-controlled prosthetics have helped more than 10,000 disabled people, including 2,046 in Zhejiang who received free limbs in 2025.The worst case was equally concrete. UN Under-Secretary-General Li Junhua said about 2.2 billion people are still offline, for whom the promise of AI and digital transformation remains far off and prospects are vanishingly small",
+      "image": "https://news.cgtn.com/news/2026-11-04/Analysis-The-best-and-worst-of-the-internet-are-closer-than-they-look-1RNJyzcvrCU/img/971af8d6b5fe4ff4afbdbb83d53fc255/971af8d6b5fe4ff4afbdbb83d53fc255-1280.jpeg",
+      "via": "rss"
+    },
+    {
+      "title": "China's open-source AI push gains momentum at WIC Wuzhen Summit",
+      "url": "https://news.cgtn.com/news/2026-11-04/China-s-open-source-AI-push-gains-momentum-at-WIC-Wuzhen-Summit-1RNPO3DGdRS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-04T14:38:03+00:00",
+      "summary": "At the physical workspace of ModelScope, China's largest AI open-source community, a single developer can do the work of a team.Li Guanghui is among the 249 solo entrepreneurs at this workspace in Hangzhou, the capital city of east China's Zhejiang Province, 95% of whom are working on AI projects. With AI assistance, he built a hotel-booking mini-program entirely on his own, completing in eight months a project that would typically take a team of five to 10 people a year to finish.Li's experience reflects a broader trend being discussed at the ongoing 2026 World Internet Conference (WIC) Wuzhen Summit in Zhejiang's ancient water town of Wuzhen, highlighting how China's open-source push is gaining momentum.Open source has become a defining feature of China's AI development. China's national-level AI open-source communities have attracted over 11 million users, while Chinese open-source large models have been downloaded more than 10 billion times globally.\"ModelScope now serves more than",
+      "image": "https://news.cgtn.com/news/2026-11-04/China-s-open-source-AI-push-gains-momentum-at-WIC-Wuzhen-Summit-1RNPO3DGdRS/img/19c9d2e4158143cdb06a6943b20b110d/19c9d2e4158143cdb06a6943b20b110d-1920.png",
+      "via": "rss"
+    },
+    {
       "title": "非政府呼吁世卫组织修订饮用水中硝酸盐等含量标准",
       "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E4%BF%9D%E5%A4%A9%E5%9C%B0/20261104-%E9%9D%9E%E6%94%BF%E5%BA%9C%E5%91%BC%E5%90%81%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87%E4%BF%AE%E8%AE%A2%E9%A5%AE%E7%94%A8%E6%B0%B4%E4%B8%AD%E7%A1%9D%E9%85%B8%E7%9B%90%E5%90%AB%E9%87%8F%E6%A0%87%E5%87%86",
       "source": "法广中文",
@@ -1311,17 +1922,6 @@
       "published": "2026-11-04T14:18:01+00:00",
       "summary": "Trump suffered a major rebuke, but it’s going to be a brutal two years.",
       "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/GettyImages-2301823439.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "泰国高官：法院将决定是否遣返五名自2014年起被拘的维吾尔人",
-      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261104-%E6%B3%B0%E5%9B%BD%E9%AB%98%E5%AE%98-%E6%B3%95%E9%99%A2%E5%B0%86%E5%86%B3%E5%AE%9A%E6%98%AF%E5%90%A6%E9%81%A3%E8%BF%94%E4%BA%94%E5%90%8D%E8%87%AA2014%E5%B9%B4%E8%B5%B7%E8%A2%AB%E6%8B%98%E7%9A%84%E7%BB%B4%E5%90%BE%E5%B0%94%E4%BA%BA",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-11-04T14:13:58+00:00",
-      "summary": "泰国国家安全院秘书长猜颇叻（Chaipruak Doungprapat）周三表示，自2014年起在泰国被拘留的五名维吾尔族人，目前正面临中国的逮捕令；他补充说，法院将决定他们是否会被遣返回中国。",
-      "image": "https://s.rfi.fr/media/display/667abcd4-d8a0-11ef-b352-005056bfb2b6/w:1024/p:16x9/AP25011077847770-1.jpg",
       "via": "rss"
     },
     {
@@ -1424,17 +2024,6 @@
       "via": "rss"
     },
     {
-      "title": "美国中期选举民主党大胜 重塑特朗普最后两年任期格局",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20261104-%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E6%B0%91%E4%B8%BB%E5%85%9A%E5%A4%A7%E8%83%9C-%E9%87%8D%E5%A1%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%80%E5%90%8E%E4%B8%A4%E5%B9%B4%E4%BB%BB%E6%9C%9F%E6%A0%BC%E5%B1%80",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-11-04T12:58:40+00:00",
-      "summary": "美国中期选举周二投票后，已知的开票结果显示，民主党一举夺回联邦参、众两院控制权。美国民众通过选票对华盛顿的共和党执政给予了决定性的否定，开启了国会抵制总统特朗普的新时代。",
-      "image": "https://s.rfi.fr/media/display/51cda54c-d84b-11f1-9b0c-1beafce15fea/w:1024/p:16x9/2026-11-02T193013Z-1854508152-RC2VFOA7WZ8A-RTRMADP-3-USA-TRUMP-LINCOLNMEMORIAL.jpg",
-      "via": "rss"
-    },
-    {
       "title": "Indonesia deploys troops to Jakarta after wiretapping allegations",
       "url": "https://www.dw.com/en/indonesia-deploys-troops-to-jakarta-after-wiretapping-allegations/a-79853779?maca=en-rss-en-world-4025-xml-mrss",
       "source": "Deutsche Welle",
@@ -1457,17 +2046,6 @@
       "via": "rss"
     },
     {
-      "title": "全国政协常委王宁免职、撤销委员资格 曾任武警司令员",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261104-%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%B8%B8%E5%A7%94%E7%8E%8B%E5%AE%81%E5%85%8D%E8%81%8C-%E6%92%A4%E9%94%80%E5%A7%94%E5%91%98%E8%B5%84%E6%A0%BC-%E6%9B%BE%E4%BB%BB%E6%AD%A6%E8%AD%A6%E5%8F%B8%E4%BB%A4%E5%91%98",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-11-04T12:45:07+00:00",
-      "summary": "当地时间4日下午，政协第十四届全国委员会常务委员会第十九次会议在北京闭幕。官媒通报提及，经表决，会议通过关于免去王宁第十四届全国政协常委、外事委员会副主任职务并撤销其委员资格的决定。综合消息显示，王宁是武警上将、武警部队前司令员。",
-      "image": "https://s.rfi.fr/media/display/50dfd6d0-d84d-11f1-986e-695cb59fade5/w:1024/p:16x9/Capture-3790.jpg",
-      "via": "rss"
-    },
-    {
       "title": "The Beginning of the End of Trumpism",
       "url": "https://foreignpolicy.com/2026/11/04/democrats-midterms-senate-house-united-states-trump-global-backlash/",
       "source": "Foreign Policy",
@@ -1479,36 +2057,14 @@
       "via": "rss"
     },
     {
-      "title": "How the Trump era crashed",
-      "url": "https://www.ft.com/content/637bfe05-69f9-4650-b043-731c1ebb4be6?syn-25a6b1a6=1",
-      "source": "Financial Times",
+      "title": "ROK students learn about Japan's abandoned chemical weapons in China",
+      "url": "https://news.cgtn.com/news/2026-11-04/ROK-students-learn-about-Japan-s-abandoned-chemical-weapons-in-China-1RNnJwj9SIo/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
       "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-04T12:22:14+00:00",
-      "summary": "The US president forgot the economic bit of populism",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F283dfecd-2e5e-4f55-9045-b31a41b3488c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "5G：德国内政部拟在移动通信网络中禁用中国网络技术",
-      "url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20261104-5g-%E5%BE%B7%E5%9B%BD%E5%86%85%E6%94%BF%E9%83%A8%E6%8B%9F%E5%9C%A8%E7%A7%BB%E5%8A%A8%E9%80%9A%E4%BF%A1%E7%BD%91%E7%BB%9C%E4%B8%AD%E7%A6%81%E7%94%A8%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E6%8A%80%E6%9C%AF",
-      "source": "法广中文",
-      "language": "zh",
       "type": "broadcast",
-      "published": "2026-11-04T12:17:37+00:00",
-      "summary": "据德国《商报》报导，德国内政部正准备在该国移动通信网络中实施一项范围广泛的禁令，禁止使用中国网络技术。一位发言人向该报表示，这一“安全政策的时代转折”要求对关键基础设施所涉及的依赖关系和风险进行“全面且具有前瞻性的重新评估”。",
-      "image": "https://s.rfi.fr/media/display/a41bb418-ce2a-11f1-b9fd-7967b15eed96/w:1024/p:16x9/AP20043422643854.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "应对中国经济胁迫 欧盟委员会拟提出“地缘经济威慑协定”",
-      "url": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20261104-%E9%92%88%E5%AF%B9%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E8%83%81%E8%BF%AB-%E6%AC%A7%E7%9B%9F%E5%A7%94%E5%91%98%E4%BC%9A%E6%8B%9F%E6%8F%90%E5%87%BA-%E5%9C%B0%E7%BC%98%E7%BB%8F%E6%B5%8E%E5%A8%81%E6%85%91%E5%8D%8F%E5%AE%9A",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-11-04T11:46:58+00:00",
-      "summary": "据一份由报告人新闻网（Rapporteur）所获悉的2027年工作计划草案显示，欧盟委员会将提出一项“威慑协定”，旨在限制中国对欧盟施加经济胁迫的能力。",
-      "image": "https://s.rfi.fr/media/display/13ae5d1e-b1aa-11f1-8e58-e59e88953996/w:1024/p:16x9/2026-09-16T082730Z-1163837898-RC27KNA0ZS8Y-RTRMADP-3-EU-STATEOFUNION.jpg",
+      "published": "2026-11-04T11:33:54+00:00",
+      "summary": "Recently, a group of South Korean students visited an exhibition hall in Dunhua, northeast China's Jilin Province, that documents China's efforts to destroy abandoned Japanese chemical weapons. The visit left a strong impression on the students, who expressed hope for deeper exchanges between Chinese and South Korean youth, and called for collective action to uphold peace and ensure the horrors of war are never repeated. (Video courtesy: Jilin Provincial International Communication Center)",
+      "image": "https://news.cgtn.com/news/2026-11-04/ROK-students-learn-about-Japan-s-abandoned-chemical-weapons-in-China-1RNnJwj9SIo/img/54d8a54bc1fc4581aacc08232477a342/54d8a54bc1fc4581aacc08232477a342-750.png",
       "via": "rss"
     },
     {
@@ -1523,25 +2079,47 @@
       "via": "rss"
     },
     {
+      "title": "From shopping carts to vast market: The CIIE in everyday life",
+      "url": "https://news.cgtn.com/news/2026-11-04/From-shopping-carts-to-vast-market-The-CIIE-in-everyday-life-1RNtNsV6cCY/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-04T11:30:40+00:00",
+      "summary": "On the fourth floor of a mall on Nanjing East Road, Shanghai's busiest pedestrian shopping street, sits a small bazaar stocked with products from more than 20 countries and regions.&nbsp;There is a free tasting counter at the entrance – Iranian saffron, Italian canned tuna, coffee from Timor-Leste –&nbsp;and shoppers are invited to try before buying. A bottle of Irish tonic water goes for 9.9 yuan (about $1.49). A retiree who used to work at a design institute comes most weeks, buys a New Zealand yogurt and sits for a while. A shopper surnamed Ma restocks Australian canola oil whenever the bottle at home runs out.Nearly all of it first appeared at the China International Import Expo (CIIE), which was held across the city at the National Exhibition and Convention Center, a vast complex shaped like a four-leaf clover.&nbsp;Nine editions in, the world's first import-themed national expo is measured less in square meters than in what lands on Shanghai dinner tables. Products that debuted i",
+      "image": "https://news.cgtn.com/news/2026-11-04/From-shopping-carts-to-vast-market-The-CIIE-in-everyday-life-1RNtNsV6cCY/img/2bb13614cd2e47769be9fd4952c70339/2bb13614cd2e47769be9fd4952c70339-750.png",
+      "via": "rss"
+    },
+    {
+      "title": "Canton Fair shows China's trade runs on a brand-new model",
+      "url": "https://news.cgtn.com/news/2026-11-04/Canton-Fair-shows-China-s-trade-runs-on-a-brand-new-model-1RNoDN2mPGU/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-04T11:07:37+00:00",
+      "summary": "Three weeks of deals, demos and dazzling new gadgets are wrapping up in China's Guangzhou.&nbsp;The 140th Canton Fair, officially the China Import and Export Fair, closes its doors on November 4 after bringing 32,000 exhibitors to south China's Guangdong Province.This year, the massive trade expo was all about the future: robots that can walk your dog, AI that helps you move and green tech that can power the world.&nbsp;Robots and wearablesThe robotics zone was a major draw. At the booth of Hangzhou Taixi Intelligent Technology booth, overseas buyers lined up to try out a wearable exoskeleton designed to support the lower back and legs.&nbsp;Weighing about 2 kilograms, the device detects the user's movements and provides walking assistance. Founder Liang Linchao said it is the company's first flagship product to integrate its human-centered physical AI technology.&nbsp;Technological innovation is exploding across Chinese industries.&nbsp;At this year's fair, 64% of exhibitors integrate",
+      "image": "https://news.cgtn.com/news/2026-11-04/Canton-Fair-shows-China-s-trade-runs-on-a-brand-new-model-1RNoDN2mPGU/img/222eb791002a428598df768499a8bdb9/222eb791002a428598df768499a8bdb9-750.png",
+      "via": "rss"
+    },
+    {
       "title": "Wawira Njiru, Kenya's school feeder and German Africa Prize recipient",
       "url": "https://www.dw.com/en/wawira-njiru-kenya-s-school-feeder-and-german-africa-prize-recipient/a-79646537?maca=en-rss-en-world-4025-xml-mrss",
       "source": "Deutsche Welle",
       "language": "en",
       "type": "broadcast",
       "published": "2026-11-04T10:53:00+00:00",
-      "summary": "From a small fundraiser to a major enterprise, Wawira Njiru's Kenyan school feeding scheme has been more successful than she ever thought possible. She's now being awarded the German Africa Prize.",
+      "summary": "Standing ovations in Berlin: Kenyan social entrepreneur Wawira Njiru received the German Africa Award for her school feeding programme, which now provides meals to 730,000 children every day.",
       "image": "",
       "via": "rss"
     },
     {
-      "title": "美國民主黨歷史性勝利 深入共和黨票倉攻城掠地",
-      "url": "https://www.bbc.com/zhongwen/articles/c6kgq8l48q2po/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "language": "zh",
+      "title": "CPOPwave 2026 explores global reach of Chinese pop culture",
+      "url": "https://news.cgtn.com/news/2026-11-04/CPOPwave-2026-explores-global-reach-of-Chinese-pop-culture-1RNEEDsSoXC/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
       "type": "broadcast",
-      "published": "2026-11-04T10:52:01+00:00",
-      "summary": "兩場一年前還被認為將勢均力敵的美國參議院選舉，最終都成為民主黨輕鬆取勝的選戰。",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/20bf/live/a2cc78f0-d83d-11f1-b441-2b33b063138f.jpg",
+      "published": "2026-11-04T10:42:55+00:00",
+      "summary": "The CPOPwave 2026&nbsp;global dialogue on China's popular culture and creative industries has opened in Wuzhen, Zhejiang Province, as part of the 2026 World Internet Conference Wuzhen Summit.Representatives of leading creative brands and content in gaming, animation, film and television, along with industry experts and scholars, gathered to discuss key trends and challenges facing the pop-culture industry, including content creation and production models, global operations, AI applications and copyright compliance. Drawing on successful examples from the past year, participants also explored ways to bring more Chinese original content to international audiences and foster cross-cultural connections through creativity in the digital age.A report on Chinese pop-culture brands and creative content in international markets was released, highlighting successful case studies and sharing insights into how Chinese original works are brought to global audiences.The CPOPwave Immersive Character ",
+      "image": "https://news.cgtn.com/news/2026-11-04/CPOPwave-2026-explores-global-reach-of-Chinese-pop-culture-1RNEEDsSoXC/img/a29bbd685dc346c698e848d983b66502/a29bbd685dc346c698e848d983b66502-1280.jpeg",
       "via": "rss"
     },
     {
@@ -1611,17 +2189,6 @@
       "via": "rss"
     },
     {
-      "title": "华盛顿压力下 甲骨文取消与腾讯价值约70亿美元芯片租赁协议",
-      "url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20261104-%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%8E%8B%E5%8A%9B%E4%B8%8B-%E7%94%B2%E9%AA%A8%E6%96%87%E5%8F%96%E6%B6%88%E4%B8%8E%E8%85%BE%E8%AE%AF%E4%BB%B7%E5%80%BC%E7%BA%A670%E4%BA%BF%E7%BE%8E%E5%85%83%E7%9A%84%E8%8A%AF%E7%89%87%E7%A7%9F%E8%B5%81%E5%8D%8F%E8%AE%AE",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-11-04T09:36:42+00:00",
-      "summary": "据英国《金融时报》报导，在特朗普政府的压力下，甲骨文公司取消了与腾讯签订的价值数十亿美元的芯片租赁合同，这表明为中国人工智能公司提供服务的美国云提供商所受压力日益加剧。由亿万富翁、特朗普支持者埃里森（Larry Ellison）领导的甲骨文与腾讯签署了一份为期五年的租约，以提供在东南亚众多数据中心使用多达10万枚先进人工智能芯片的权限。该合同价值估计为70亿美元，是腾讯最大的海外租赁交易。由于华盛顿和北京的限制，腾讯依照该合同本能够获得无法在中国使用的芯片权限。",
-      "image": "https://s.rfi.fr/media/display/f23137ec-d832-11f1-a561-1beafce15fea/w:1024/p:16x9/Capture-3789.jpg",
-      "via": "rss"
-    },
-    {
       "title": "Trump suffers midterms trouncing weeks before Xi meeting",
       "url": "https://www.scmp.com/plus/news/us/us-elections/article/3373259/trump-suffers-midterms-trouncing-weeks-xi-meeting",
       "source": "SCMP",
@@ -1633,6 +2200,50 @@
       "via": "rss"
     },
     {
+      "title": "China in contact with relevant parties on China-Russia-US summit",
+      "url": "https://news.cgtn.com/news/2026-11-04/China-in-contact-with-relevant-parties-on-China-Russia-US-summit-1RNt8ygMj4Y/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-04T09:23:02+00:00",
+      "summary": "China has been in communication with relevant parties regarding a trilateral meeting among the heads of state of China, Russia and the United States, Foreign Ministry spokesperson Mao Ning said on Wednesday.Mao made the remarks at a regular press briefing when asked whether a China-Russia-US summit was being arranged on the sidelines of the APEC meetings in Shenzhen, south China's Guangdong Province.China will host the 33rd APEC Economic Leaders' Meeting in the southern Chinese city November 18-19.",
+      "image": "https://news.cgtn.com/news/2026-11-04/China-in-contact-with-relevant-parties-on-China-Russia-US-summit-1RNt8ygMj4Y/img/ae60131b607f4260821872de51f518cd/ae60131b607f4260821872de51f518cd-250.png",
+      "via": "rss"
+    },
+    {
+      "title": "What if machines could feel? Meet the tech making it possible",
+      "url": "https://news.cgtn.com/news/2026-11-04/What-if-machines-could-feel-Meet-the-tech-making-it-possible-1RNizJG1M6k/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-04T09:16:08+00:00",
+      "summary": "Humans have five senses. Machines can already see and hear. But what about touch? UK-based deep-tech company TG0 is pioneering AI for Sensing technology to give machines a sense of touch, allowing them to better sense and interact with the physical world.Founded in 2015 by Dr Guo Liucheng and Kong Ming, TG0 has developed its own AI-powered sensing technology. By integrating sensing capabilities into materials and using AI algorithms to interpret signals, it enables surfaces to detect touch, pressure, and movement.The technology can be applied to a wide range of materials, from plastic and rubber to fabric, wood, and glass. From a touch-sensitive guitar that makes music, to a smart car seat that senses body posture and pressure distribution, and a robotic hand that can feel and respond to physical contact, TG0 is opening up new possibilities for human-machine interaction.Curious how it works? Let’s take a closer look.",
+      "image": "https://news.cgtn.com/news/2026-11-04/What-if-machines-could-feel-Meet-the-tech-making-it-possible-1RNizJG1M6k/img/9496ebbd656742b3898ff2a5f0e02d92/9496ebbd656742b3898ff2a5f0e02d92-1280.jpeg",
+      "via": "rss"
+    },
+    {
+      "title": "Graphics: A breakdown of exhibitors at the 9th CIIE",
+      "url": "https://news.cgtn.com/news/2026-11-04/Graphics-A-breakdown-of-exhibitors-at-the-9th-CIIE-1RNyoCLon60/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-04T09:06:52+00:00",
+      "summary": "The 9th China International Import Expo (CIIE), held in Shanghai from November 5 to 10, attracts more than 4,500 exhibitors, including over 4,100 from overseas representing 162 countries, regions and international organizations.Exhibitors span seven major sectors from food and agricultural products to intelligent industry, medical equipment and services. A closer look at their profiles reveals a diverse mix of businesses on the floor, including manufacturers, importers and exporters, distributors and service providers.",
+      "image": "https://news.cgtn.com/news/2026-11-04/Graphics-A-breakdown-of-exhibitors-at-the-9th-CIIE-1RNyoCLon60/img/ffab69a845034302b3f70bfe7c65020f/ffab69a845034302b3f70bfe7c65020f-1280.jpeg",
+      "via": "rss"
+    },
+    {
+      "title": "Graphics: CIIE's growth in scale and global reach over 9 editions",
+      "url": "https://news.cgtn.com/news/2026-11-04/Graphics-CIIE-s-growth-in-scale-and-global-reach-over-9-editions-1RNyhLyhws0/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-04T09:04:32+00:00",
+      "summary": "The 9th China International Import Expo (CIIE) will be held from November 5 to 10 at the National Exhibition and Convention Center in Shanghai.The value of intended deals jumped from $57.83 billion in 2018 to $83.49 billion in 2025.The number of the Fortune Global 500 companies and industry-leading enterprises participating in the expo grew from some 70 in 2018 to 290 in 2025.",
+      "image": "https://news.cgtn.com/news/2026-11-04/Graphics-CIIE-s-growth-in-scale-and-global-reach-over-9-editions-1RNyhLyhws0/img/eb35ec7b1fce4a49a37d99c4ba6cdb6f/eb35ec7b1fce4a49a37d99c4ba6cdb6f-1280.jpeg",
+      "via": "rss"
+    },
+    {
       "title": "What US midterm elections mean for Ukraine, Iran and elsewhere",
       "url": "https://www.dw.com/en/what-us-midterm-elections-mean-for-ukraine-iran-and-elsewhere/a-79836423?maca=en-rss-en-world-4025-xml-mrss",
       "source": "Deutsche Welle",
@@ -1641,6 +2252,17 @@
       "published": "2026-11-04T08:52:00+00:00",
       "summary": "Donald Trump's Republicans will no longer control the US Congress after the Democrats flipped both chambers in the midterm elections. The outcome could impact conflicts in Europe and the Middle East.",
       "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Tranquil scenes captured at Dianchi Lake in SW China's Yunnan",
+      "url": "https://news.cgtn.com/news/2026-11-04/Tranquil-scenes-captured-at-Dianchi-Lake-in-SW-China-s-Yunnan-1RNvYTwMuXu/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-04T08:44:56+00:00",
+      "summary": "Recently, a photographer captured a breathtaking view of Dianchi Lake in Kunming, southwest China's Yunnan Province.As dusk settled, moonlight spilled over the crystal-clear water. Birds perch on branches under the moonlight, unfolding a scene of pristine beauty and serenity.Since October, flocks of migratory birds have arrived at the wetland to spend the winter. Years of conservation efforts have turned the wetland into a haven for these wintering birds to rest and forage.",
+      "image": "https://news.cgtn.com/news/2026-11-04/Tranquil-scenes-captured-at-Dianchi-Lake-in-SW-China-s-Yunnan-1RNvYTwMuXu/img/0a09212b118848c4aec160bf75a7cf52/0a09212b118848c4aec160bf75a7cf52-1280.png",
       "via": "rss"
     },
     {
@@ -1688,6 +2310,17 @@
       "via": "rss"
     },
     {
+      "title": "Global stories and voices: Hainan film festival set for December",
+      "url": "https://news.cgtn.com/news/2026-11-04/Global-stories-and-voices-Hainan-film-festival-set-for-December-1RNuFpo6H0A/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
+      "source": "CGTN",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-04T08:22:06+00:00",
+      "summary": "Global filmmakers are expected to set their sights on China's Hainan Province. The 8th Hainan Island International Film Festival (HIIFF) runs in Sanya from December 6 to 12. Organizers have received 4,632 submissions for this year's Golden Coconut Awards, coming from 133 countries and regions. Bringing together stories and cinematic approaches from across the globe, the festival gives audiences a window into world cinema.Top international talent stands out among this year's lineup. Swedish director Ruben Ostlund takes on the role of jury president for the Golden Coconut Awards. He is a two-time Palme d’Or winner at Cannes, honored for The Square and Triangle of Sadness. His work carries heavy weight on the international art-film circuit, recognized for sharp observations of modern life and a singular storytelling voice. Thirteen film practitioners from Sweden, Spain, the United States and other places will sit on the jury alongside him. A retrospective of Ostlund's films will run durin",
+      "image": "https://news.cgtn.com/news/2026-11-04/Global-stories-and-voices-Hainan-film-festival-set-for-December-1RNuFpo6H0A/img/b82233faa50649379f026433bfa79351/b82233faa50649379f026433bfa79351-1280.png",
+      "via": "rss"
+    },
+    {
       "title": "Choke of the century? Chengdu collapse sets up thrilling Chinese Super League climax",
       "url": "https://www.theguardian.com/football/2026/nov/04/choke-of-the-century-chengdu-collapse-sets-up-thrilling-chinese-super-league-climax",
       "source": "The Guardian",
@@ -1710,17 +2343,6 @@
       "via": "rss"
     },
     {
-      "title": "Bomb Threats Disrupt Several Flights Across Europe",
-      "url": "https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-04T07:29:45+00:00",
-      "summary": "In a photo obtained from social media, an SAS aircraft landing at Warsaw Chopin Airport in Warsaw, Poland, after receiving a bomb threat, on Tuesday.",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-europe-bomb-threats-wqfj/03int-europe-bomb-threats-wqfj-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
       "title": "‘Fake democracy’ or a plus for Beijing? Chinese internet users on the US midterms",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3373236/fake-democracy-or-plus-beijing-chinese-internet-users-us-midterms",
       "source": "SCMP",
@@ -1740,578 +2362,6 @@
       "published": "2026-11-04T07:06:49+00:00",
       "summary": "查爾斯三世在英聯邦政府首腦會議（CHOGM）發表這篇演說前，外界曾呼籲英國政府就英國在這項貿易中的歷史角色正式道歉。",
       "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3cf3/live/42789f10-d7c0-11f1-b441-2b33b063138f.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "US midterm shift could squeeze China on AI, but bring clarity to bilateral talks",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3373232/democratic-led-us-congress-turn-heat-beijing-over-ai-taiwan-analyst",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-04T06:49:33+00:00",
-      "summary": "Follow the SCMP’s live coverage here\nBeijing has vowed to continue working with Washington towards a “constructive relationship of strategic stability” following the Democrats’ sweeping victory in the US midterm elections on Wednesday.\nBut analysts said a Democratic-controlled US Congress would ramp up pressure on Beijing over Taiwan, artificial intelligence (AI) and export controls, though it might also eliminate uncertainties in negotiations.\nWhen asked by reporters about the results on...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/04/792347b9-15b1-4140-9088-5f5a44f57527_e6e2c1de.jpg?itok=WyrPs29F&v=1793774971",
-      "via": "rss"
-    },
-    {
-      "title": "Why Are Indonesians Dying in Ukraine?",
-      "url": "https://foreignpolicy.com/2026/11/04/southeast-asia-indonesia-russia-ukraine-war-recruitment/",
-      "source": "Foreign Policy",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-11-04T06:00:45+00:00",
-      "summary": "Russian recruitment tactics on social media are similar to those used by scam center criminals.",
-      "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/russia-soldier-GettyImages-1241284689.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "‘I wasn’t on the ballot’: Trump deflects blame as Democrats on track to control Congress",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3373226/i-wasnt-ballot-trump-deflects-blame-democrats-track-control-congress",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-04T05:48:42+00:00",
-      "summary": "Follow the SCMP’s live coverage here\nIn what appears to be an early attempt to distance himself from the Democrats’ historic gains, US President Donald Trump has sought to shift attention away from his party’s performance in the midterm elections, taking to social media to remind voters that he “wasn’t on the ballot”.\n“I wasn’t on the Ballot and if I was, we would have won IN A LANDSLIDE! Thank you for your attention to this matter,” Trump wrote as early results showed Democratic gains in places...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/04/f9a95298-d2e6-4d72-aef5-fd90a15345bc_5e171322.jpg?itok=vGuHc7rO&v=1793771122",
-      "via": "rss"
-    },
-    {
-      "title": "2026年美國中期選舉結果實時更新",
-      "url": "https://www.bbc.com/zhongwen/articles/c5rmyrm0n8k8o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-11-04T05:47:56+00:00",
-      "summary": "美國國會由眾議院和參議院組成。眾議院全部435個議席都會改選，眾議員任期固定為兩年。與此同時，參議院100個議席中，有35席亦會進行改選。參議員任期為六年。",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0722/live/5cb72e20-be3c-11f1-a64c-550be9e3c66b.png",
-      "via": "rss"
-    },
-    {
-      "title": "Will US midterms and lame duck Trump force a rethink in Washington, Beijing and beyond?",
-      "url": "https://www.scmp.com/news/us/politics/article/3373224/us-voters-unleash-blue-wave-handing-congress-democrats-and-rebuking-trump",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-04T05:33:25+00:00",
-      "summary": "Americans and the rest of the world woke up on Wednesday to a seismic shift in the US political landscape as Democrats trounced Republicans, US President Donald Trump’s weapons of fear and intimidation suddenly appeared dull and possibly, just possibly, the US could start repairing its badly battered global image.\nWhile the final electoral count could take days, the trend was crystal clear. A blue tsunami had washed over the noisy, powerful land, with Democrats set to hold 55 or 56 Senate seats...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/05/b9a1b6a0-dee2-4bf6-88c5-604f0ce8bc60_459ef104.jpg?itok=_JnJk9mW&v=1793815625",
-      "via": "rss"
-    },
-    {
-      "title": "美國中期選舉民調：選民最關心經濟與民主現況",
-      "url": "https://www.bbc.com/zhongwen/articles/c6kg5xn3rk9po/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-11-04T04:33:55+00:00",
-      "summary": "選舉日的大型民調顯示，美國選民最不滿的是經濟狀況，接近三分之二人認為特朗普的政策讓美國經濟狀況惡化。",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cf83/live/f3608b00-d7e1-11f1-89b6-117585343da2.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "捕蛇但不杀蛇：曼谷头号捕蛇人的难题",
-      "url": "https://cn.nytimes.com/asia-pacific/20261104/snake-catcher-bangkok-thailand/?utm_source=RSS",
-      "source": "纽约时报中文",
-      "language": "zh",
-      "type": "newspaper",
-      "published": "2026-11-04T04:33:15+00:00",
-      "summary": "曼谷的消防和救援人员每年约捕获3万条蛇，消防员抓蛇的时间远多于灭火。消防员宾约每个班次要抓捕20多条蛇，但他不会杀死它们。喂养和放归数量庞大的蛇成了一个难题。                    Lauren DeCicca for The New York Times",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "越来越多伊朗人呼吁发展核武器对抗美国",
-      "url": "https://cn.nytimes.com/world/20261104/iran-nuclear-weapons-war/?utm_source=RSS",
-      "source": "纽约时报中文",
-      "language": "zh",
-      "type": "newspaper",
-      "published": "2026-11-04T03:53:40+00:00",
-      "summary": "这一诉求过去被视为强硬派中的边缘立场，如今正逐渐进入主流公共讨论。而在民众要求发展核武器的呼声日益高涨之际，伊朗领导人正开展外交努力，以避免与美国重新开战。                    Atta Kenare/Agence France-Presse — Getty Images                    德黑兰街头的伊朗历任前最高领袖和现任最高领袖阿亚图拉穆杰塔巴·哈梅内伊的画像，摄于本月。",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
-      "url": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-04T03:46:10+00:00",
-      "summary": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\".",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03fb/live/ecd52fb0-d800-11f1-b851-6586c863d7ea.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Frequently labelled as communists, who are the Democratic Socialists of America?",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3373209/frequently-labelled-communists-who-are-democratic-socialists-america",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-04T03:41:25+00:00",
-      "summary": "Follow the SCMP’s live coverage here\nFor years, the Democratic Socialists of America (DSA) had little influence over the machinery of the Democratic Party. That is beginning to change.\nThe organisation has more than doubled its membership since 2024, reaching roughly 120,000, while growing numbers of DSA-backed candidates are positioning to expand its presence in Congress from two members to as many as seven.\nThe breakthrough came in New York, where Zohran Mamdani’s victory in the 2025 mayoral...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/04/7ff5a28b-45fc-40d1-ae14-484cdcaff508_da832cdb.jpg?itok=wg9PHkhy&v=1793763314",
-      "via": "rss"
-    },
-    {
-      "title": "《蘋果日報》前社長張劍虹提早獲釋，向官媒稱「好懊悔」",
-      "url": "https://www.bbc.com/zhongwen/articles/c6eq3ez3qvnxo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-11-04T03:05:22+00:00",
-      "summary": "除了張劍虹，據報至少還有3名因《香港國安法》入獄的人士，亦已提早獲釋。外界關注，壹傳媒創辦人黎智英能否同獲假釋機會。",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2981/live/e120ce70-d75d-11f1-8f6b-d71817972456.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Vietnam’s other trade deals could claim Washington’s wins",
-      "url": "https://www.lowyinstitute.org/the-interpreter/vietnam-s-other-trade-deals-could-claim-washington-s-wins",
-      "source": "Lowy Institute",
-      "language": "en",
-      "type": "thinktank",
-      "published": "2026-11-04T03:00:00+00:00",
-      "summary": "Clauses in Vietnam’s EFTA and CPTPP deals could spread Washington’s gains to European, Australian and Japanese firms.",
-      "image": "https://cdn.sanity.io/images/5dcouzig/production/0f02275c8e79a87f29e92e51d8c80b666b6d7972-4800x3200.jpg?rect=0,340,4800,2520&w=1200&h=630&fm=webp&q=85&fit=crop",
-      "via": "rss"
-    },
-    {
-      "title": "Record El Nino expected to affect China's winter climate",
-      "url": "https://news.cgtn.com/news/2026-11-04/Record-El-Nino-expected-to-affect-China-s-winter-climate-1RM4r7p9TB6/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-04T02:29:45+00:00",
-      "summary": "The strongest El Nino event on record is expected to have a significant impact on China's climate this winter and next spring, a climate official said Tuesday.The event reached record strength in October and is expected to peak in late autumn or early winter, Gao Rong, deputy director of the National Climate Center, said at a press conference in Beijing.For the winter of 2026-2027, temperatures across China are forecast to be generally above normal. However, cold waves are expected to occur slightly more frequently than usual, with sharp temperature fluctuations. Northern China faces a heightened risk of sudden temperature drops and heavy snowfall, while the south could experience periods of low temperatures, rain, snow and freezing conditions, Gao said.Precipitation nationwide is also expected to be above normal. Much of northern China could see frequent heavy snowfall, while southern regions are forecast to receive significantly more precipitation than usual, according to Gao.",
-      "image": "https://news.cgtn.com/news/2026-11-04/Record-El-Nino-expected-to-affect-China-s-winter-climate-1RM4r7p9TB6/img/9d427bf6d2af4c81b46d271bb8ecec53/9d427bf6d2af4c81b46d271bb8ecec53-1280.png",
-      "via": "rss"
-    },
-    {
-      "title": "Tech adventure in Shenzhen: A visit to the city of tomorrow",
-      "url": "https://news.cgtn.com/news/2026-11-04/Tech-adventure-in-Shenzhen-A-visit-to-the-city-of-tomorrow-1RMedWtb3ag/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-04T02:13:53+00:00",
-      "summary": "Imagine your morning coffee delivered by drone straight to the park and autonomous buses gliding through streets lined with skyscrapers – this is south China's Shenzhen. From AI-powered instant translation glasses to the world's largest 24/7 smart bookstore and the first fully electric public transport system, the city is drawing a blueprint for future living.&nbsp;Join Camila Yuan, a Shenzhen-based Cantonese content creator, and CGTN's Zang Shijie as they explore the host city of APEC 2026.",
-      "image": "https://news.cgtn.com/news/2026-11-04/Tech-adventure-in-Shenzhen-A-visit-to-the-city-of-tomorrow-1RMedWtb3ag/img/753d1128781145098b63bd4f10851479/753d1128781145098b63bd4f10851479-1280.jpeg",
-      "via": "rss"
-    },
-    {
-      "title": "币安称黑客为63亿美元窃案筹备数月",
-      "url": "https://cn.nytimes.com/business/20261104/binance-hack-report/?utm_source=RSS",
-      "source": "纽约时报中文",
-      "language": "zh",
-      "type": "newspaper",
-      "published": "2026-11-04T02:02:51+00:00",
-      "summary": "币安关于此次攻击的初步报告显示，黑客自今年6月就开始筹备行动，随后利用虚假面试引诱一名币安员工，将被篡改的软件植入对方电脑，再利用人工智能工具侵入钱包系统。                    Gabby Jones/Bloomberg                    黑客利用一台电脑和一个内部人工智能工具控制了币安钱包团队两名工程师的电脑。",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Chinese scientists discover thickening ground ice in parts of warming Tibet",
-      "url": "https://www.scmp.com/news/china/science/article/3373097/chinese-scientists-discover-thickening-ground-ice-parts-warming-tibet",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-04T02:00:12+00:00",
-      "summary": "The Tibetan Plateau, home to the world’s largest expanse of alpine permafrost, is warming at about twice the global average but, counter-intuitively,researchers have found that ice in parts of the Tibet autonomous region is actually thickening.\nA team from Peking University found that shallow ground ice has unexpectedly increased over the past 20 years, affecting more than a third of the plateau’s permafrost, a phenomenon driven largely by natural climate factors.\nThe authors noted that the...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/03/c0f6a8aa-4fc1-4ae9-82c3-290865610440_1d1e4c4a.jpg?itok=qP2tKJ13&v=1793688346",
-      "via": "rss"
-    },
-    {
-      "title": "聚焦美国中期选举：结果出炉后值得关注的六大问题",
-      "url": "https://cn.nytimes.com/usa/20261104/midterm-elections-trump-democrats-republicans-key-themes/?utm_source=RSS",
-      "source": "纽约时报中文",
-      "language": "zh",
-      "type": "newspaper",
-      "published": "2026-11-04T01:40:04+00:00",
-      "summary": "这场选举将成为对特朗普第二任期议程的全国性公投。民主党在众议院净增三个席位即可获得控制权，参议院的难度则大得多。选举结果将深刻影响美国政治格局。                    Erin Schaff/The New York Times                    周日，安克雷奇的选民们。民主党计划在该州参议院竞选中推举一名搅局的候选人，此举激怒了共和党人。",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Will US midterm results lead to disruption in Washington’s ties with China?",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3373194/will-us-midterm-results-lead-disruption-washingtons-ties-china",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-04T01:35:14+00:00",
-      "summary": "Follow the SCMP’s live coverage here\nThe United States’ midterm elections are unlikely to deliver a “disruptive” shock to relations between Beijing and Washington despite potential volatility over the issue of Taiwan, according to a prominent mainland Chinese expert in US studies.\nChen Dongxiao, president of the Shanghai Institutes for International Studies, said any shift in the make-up of the US Congress would mainly complicate President Donald Trump’s domestic agenda.\nThe impact on foreign...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/04/29f4f09d-90c1-4baf-949f-36a9e6e5e76d_b18d3917.jpg?itok=cojUmIyl&v=1793755379",
-      "via": "rss"
-    },
-    {
-      "title": "China to work with parties for fruitful APEC Economic Leaders' Meeting",
-      "url": "https://news.cgtn.com/news/2026-11-04/China-to-work-with-parties-for-fruitful-APEC-Economic-Leaders-Meeting-1RMU95nG5La/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-04T01:12:41+00:00",
-      "summary": "China is willing to work with all parties to do a good job in the final stage of the 2026 APEC \"China Year\" and contribute to the fruitful results at the upcoming Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting, Chinese Foreign Minister Wang Yi said on Tuesday.The upcoming leaders' meeting is an important one concerning the future development of the Asia-Pacific region, Wang said when co-chairing the 37th APEC Ministerial Meeting via video conference with Minister of Commerce Wang Wentao.China will host the 33rd APEC Economic Leaders' Meeting in south China's Shenzhen on November 18-19, which will mark the country's third hosting of the event following Shanghai in 2001 and Beijing in 2014. The theme of this year's summit is \"Building an Asia-Pacific Community to Prosper Together,\" while China has identified openness, innovation and cooperation as the three priority areas for this year's APEC cooperation.More than 300 meetings and events have been successfully held du",
-      "image": "https://news.cgtn.com/news/2026-11-04/China-to-work-with-parties-for-fruitful-APEC-Economic-Leaders-Meeting-1RMU95nG5La/img/3b1bb5db3f5544578508abf38bea4d7c/3b1bb5db3f5544578508abf38bea4d7c-250.png",
-      "via": "rss"
-    },
-    {
-      "title": "AI Governance: It’s Time for UN Environmental Leadership",
-      "url": "https://www.asiasentinel.com/p/ai-governance-time-for-united-nations-environmental-programme",
-      "source": "Asia Sentinel",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-11-04T01:08:55+00:00",
-      "summary": "By: Pham Phan LongPublic attention has become focused on the potential threats to humanity from artificial intelligence, from misuse and loss of control to risks to security and human rights. Far less attention has been paid to AI&#8217;s growing physical footprint in the form of the massive amounts of electricity, water, land and minerals needed for AI infra&#8230;\n      \n          \n              Read more",
-      "image": "https://substackcdn.com/image/fetch/$s_!Xu-v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3152e1e3-7008-4265-96b7-d1229bad0ae5_1200x800.jpeg",
-      "via": "rss"
-    },
-    {
-      "title": "The G20 under Trump: The impact of a leaner agenda",
-      "url": "https://www.lowyinstitute.org/the-interpreter/the-g20-under-trump-the-impact-of-a-leaner-agenda",
-      "source": "Lowy Institute",
-      "language": "en",
-      "type": "thinktank",
-      "published": "2026-11-04T01:00:00+00:00",
-      "summary": "Almost a year into US leadership, objections from China and disagreement with South Africa are among various barriers to outcomes.",
-      "image": "https://cdn.sanity.io/images/5dcouzig/production/5d973244c8b5d3984da9f96d9cf47282d9f1c28f-2048x966.jpg?rect=104,0,1840,966&w=1200&h=630&fm=webp&q=85&fit=crop",
-      "via": "rss"
-    },
-    {
-      "title": "Anthrax Outbreak in Africa’s Oldest National Park Is Killing Hippos",
-      "url": "https://www.nytimes.com/2026/11/03/world/africa/congo-anthrax-hippos-virunga-park.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-04T00:48:09+00:00",
-      "summary": "Virunga National Park is recognized by UNESCO as a World Heritage Site for its exceptional wildlife and biodiversity. This is the second outbreak of anthrax in the park since last year.",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-drc-hippo-anthrax-kmtf/03int-drc-hippo-anthrax-kmtf-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "印尼有毒煙霾正令鄰國陷入政治難題",
-      "url": "https://www.bbc.com/zhongwen/articles/c91461p7mvv4o/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-11-04T00:23:42+00:00",
-      "summary": "新加坡和馬來西亞政府正夾在焦慮不安的民眾與脾氣暴躁的鄰國之間。",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/302a/live/febcfd60-d293-11f1-9453-5fe901b3e69e.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "美智庫解析「技術民族主義」下的中俄軍工合作細節與限度",
-      "url": "https://www.bbc.com/zhongwen/articles/c977pge1jkmdo/trad?at_medium=RSS&at_campaign=rss",
-      "source": "BBC中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-11-04T00:23:34+00:00",
-      "summary": "深圳APEC前夕，中俄「無上限」合有任何挑戰嗎？北京對烏克蘭停火興趣如何？在APEC中美俄三方領袖會面能有所突破？",
-      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a107/live/7865a970-f296-11f0-a422-4ba8a094a8fa.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "China training Solomon Islands police to use water cannons under security pact",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3373153/china-training-solomon-islands-police-use-water-cannons-under-security-pact",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-04T00:00:19+00:00",
-      "summary": "China is helping to train Solomon Islands police to use water cannons as part of an ongoing security partnership that is viewed with scepticism by the West.\nThe Chinese embassy said on Tuesday that six officers from the Royal Solomon Islands Police Force took part in a week-long training exercise, without giving dates.\nThe programme helped familiarise officers with the use of crowd control vehicles and different scenarios in which they may be used, the embassy said.\nThe programme cultivated a...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/03/eddf3bd7-1458-493b-8393-c78604c72793_089eae0c.jpg?itok=DnPZiNVp&v=1793702858",
-      "via": "rss"
-    },
-    {
-      "title": "Helicopters Collide Over Everest Trail, Killing 1 and Injuring 3 Others",
-      "url": "https://www.nytimes.com/2026/11/03/world/asia/helicopter-crash-everest-nepal.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-03T23:19:17+00:00",
-      "summary": "The crash, in a popular tourist area during the autumn climbing season, highlighted the safety challenges posed by growing numbers of aircraft in the Himalayas.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Iran Strikes and Israel Aid Cuts Shake Up Election Day",
-      "url": "https://foreignpolicy.com/2026/11/03/us-iran-strikes-midterms-israel-aid-ukraine-russia-agoa-australia/",
-      "source": "Foreign Policy",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-11-03T23:02:31+00:00",
-      "summary": "Two last-minute foreign-policy developments could impact U.S. voters’ midterm decisions.",
-      "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/ElectionSign_GettyImages-2302915265.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "What’s happened to the global rules-based order?",
-      "url": "https://www.lowyinstitute.org/the-interpreter/what-s-happened-to-the-global-rules-based-order",
-      "source": "Lowy Institute",
-      "language": "en",
-      "type": "thinktank",
-      "published": "2026-11-03T23:00:00+00:00",
-      "summary": "Trump’s tariffs bruise trade, but self-interest keeps economic cooperation largely intact.",
-      "image": "https://cdn.sanity.io/images/5dcouzig/production/6a90d1d01e5e9342d31ce95ab6f2a7d9c1231d8c-3136x2063.jpg?rect=0,209,3136,1646&w=1200&h=630&fm=webp&q=85&fit=crop",
-      "via": "rss"
-    },
-    {
-      "title": "Shein的巴黎敗局：中國快時尚與歐洲百年商場的流量豪賭",
-      "url": "https://theinitium.com/20261104-international-shein-bhv-paris/",
-      "source": "端传媒",
-      "language": "zh",
-      "type": "journal",
-      "published": "2026-11-03T23:00:00+00:00",
-      "summary": "&#x7de8;&#x8005;&#x6309;&#xff1a;&#x5275;&#x7acb;&#x65bc;&#x4e2d;&#x570b;&#x7684;&#x5feb;&#x6642;&#x5c1a;&#x96fb;&#x5546;Shein&#xff08;&#x5e0c;&#x97f3;&#xff09;&#xff0c;2024&#x5e74;&#x5168;&#x7403;&#x71df;&#x6536;&#x7d04;387&#x5104;&#x7f8e;&#x5143;&#xff0c;&#x662f;&#x7576;&#x6642;&#x6cd5;&#x570b;&#x4eba;&#x82b1;&#x9322;&#x6700;&#x591a;&#x7684;&#x6642;&#x5c1a;&#x54c1;&#x724c;&#xff0c;&#x64c1;&#x6709;2500&#x842c;&#x6cd5;&#x570b;&#x9867;&#x5ba2;&#xff1b;&#x5b83;&#x9760;&#x7b97;&#x6cd5;&#x3001;&#x8d85;&#x4f4e;&#x50f9;&#x548c;TikTok&#xff0c;&#x5f81;&#x670d;&#x4e86;&#x6b50;&#x6d32;&#x7684;&#x5e74;&#x8f15;&#x4eba;&#x3002;2025&#x5e74;11&#x6708;&#xff0c;&#x5b83;&#x628a;&#x5168;&#x7403;&#x7b2c;&#x4e00;&#x5bb6;&#x5e38;&#x8a2d;&#x5be6;&#x9ad4;&#x5e97;&#xff0c;&#x958b;&#x9032;&#x5df4;&#x9ece;&#x5e02;&#x653f;&#x5ef3;&#x5c0d;&#x9762;&#x64c1;&#x6709;170&#x5e74;&#x66c6;&#x53f2;&#x7684;BHV&#x767e;&#x8ca8;&#x3002;&#x50c5;&#x50c5;&#x4e03;&#x500b;&#x6708;&#x5f8c;&#xff0c;&#x5408;&#x4f5c;&#x6536;&#x5834;&#xff1a;&#x7d0",
-      "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/RC25PHACMRKG.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "數說科技：當「正向思考」的 AI 接管網路",
-      "url": "https://theinitium.com/20261104-tech-in-numbers-ai-makes-internet-more-positive/",
-      "source": "端传媒",
-      "language": "zh",
-      "type": "journal",
-      "published": "2026-11-03T22:58:00+00:00",
-      "summary": "&#x7de8;&#x6309;&#xff1a;&#x300c;&#x6578;&#x8aaa;&#x79d1;&#x6280;&#x300d;&#x662f;&#x7aef;&#x50b3;&#x5a92;&#x7684;&#x8a3b;&#x518a;&#x514d;&#x8cbb;&#x6b04;&#x76ee;&#xff0c;&#x6bcf;&#x9031;&#x4e09;&#x66f4;&#x65b0;&#x3002;&#x5f9e;&#x4e00;&#x500b;&#x6578;&#x5b57;&#x51fa;&#x767c;&#xff0c;&#x7528;1500&#x5b57;&#x89e3;&#x6790;&#x79d1;&#x6280;&#x8a71;&#x984c;&#xff0c;&#x8ffd;&#x8e64;&#x503c;&#x5f97;&#x95dc;&#x6ce8;&#x7684; AI &#x8da8;&#x52e2;&#x3002;&#x9080;&#x8acb;&#x4f60;&#x5728;&#x8cc7;&#x8a0a;&#x904e;&#x8f09;&#x7684;&#x6642;&#x4ee3;&#xff0c;&#x6bcf;&#x9031;&#x82b1;&#x4e09;&#x5206;&#x9418;&#x7406;&#x89e3;&#x79d1;&#x6280;&#x4e16;&#x754c;&#x3002;&#x6b61;&#x8fce;&#x81f3;&#x300c;&#x5e33;&#x6236;&#x4e2d;&#x5fc3;&#x300d;&#x7684;&#x300c;&#x96fb;&#x5b50;&#x90f5;&#x4ef6;&#x7ba1;&#x7406;&#x300d;&#xff0c;&#x8a02;&#x95b2;&#x96fb;&#x5b50;&#x4fe1;&#x3002;35%&#xff1a;2025&#x5e74;&#x4e0a;&#x534a;&#x5e74;&#x65b0;&#x4e0a;&#x7dda;&#x7db2;&#x7ad9;&#x4e2d;&#xff0c;&#x5167;&#x5bb9;&#x7531; AI &#x53c3;&#x8207;&#x751f;&#x62",
-      "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/RC2L7OA1CBOO.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Fifth Plenum Breaks Personnel Records",
-      "url": "https://jamestown.org/fifth-plenum-breaks-personnel-records/",
-      "source": "Jamestown Foundation",
-      "language": "en",
-      "type": "thinktank",
-      "published": "2026-11-03T22:46:20+00:00",
-      "summary": "Executive Summary\n\n\n\n\nThe Fifth Plenum of the 20th Central Committee of the Chinese Communist Party (CCP) set records for low attendance and large-scale disciplinary measures in the post-Mao Zedong era.\n\n\n\nZhang Shengmin was added to the Politburo, but there were no promotions to the Central Military Commission. Amid the purge, the military has all but vanished from the Central Committee: only five of its 44 military members formally attended.\n\n\n\nCentral Committee vacancies were not fully filled at this plenum. It filled only ten of 24 vacant full-member seats and skipped five alternate members.\n\n\n\n\n\n\n\n\nThe Fifth Plenum of the 20th Central Committee of the Chinese Communist Party (CCP) announced the Party leadership’s latest personnel decisions publicly for the first time. The meeting, which closed on October 29, was attended by 162 full and 117 alternate members. This constituted fewer than three-quarters of the 376 elected in 2022, making it the lowest attendance since the Mao Zedong",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Spain’s Transport Minister Resigns After Deadly High-Speed Rail Crash",
-      "url": "https://www.nytimes.com/2026/11/03/world/europe/spain-train-crash-transport-minister-resigns-oscar-puente.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-03T22:36:35+00:00",
-      "summary": "Óscar Puente, Spain’s minister of transportation, during a meeting with lawmakers in Madrid on Tuesday.",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-spain-train-crash-photo-gvlj/03int-spain-train-crash-photo-gvlj-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Beijing Uses Mbappé Controversy to Export Censorship",
-      "url": "https://jamestown.org/beijing-uses-mbappe-controversy-to-export-censorship/",
-      "source": "Jamestown Foundation",
-      "language": "en",
-      "type": "thinktank",
-      "published": "2026-11-03T22:29:40+00:00",
-      "summary": "Executive Summary:\n\n\n\n\nFrench soccer player Kylian Mbappé has unexpectedly found himself the subject of a political controversy in the People’s Republic of China (PRC) following the resurfacing of an interview in which he discussed a meme that compared him to Mao Zedong. The controversy originated on fan community platform Dongqiudi and spread into a nationwide “cancellation” campaign against Mbappé due to his perceived slight against the Chinese people and nation.\n\n\n\nThe PRC is leveraging this controversy and its ensuing public anger to show the world that access to the Chinese market is contingent on adherence to the political sensitivities of the Party-state, effectively globalizing its political correctness preferences and censorship.\n\n\n\nParty-state organs such as China Central Television (CCTV) and the Zhejiang provincial propaganda department have latched onto the controversy and issued statements condemning Mbappé, his club Real Madrid, and the Spanish soccer league La Liga. CCT",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "King Charles Says U.K.’s Role in Slave Trade ‘Fills My Heart With Horror’",
-      "url": "https://www.nytimes.com/2026/11/03/world/europe/king-charles-speech-uk-slave-trade-antigua.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-03T22:19:16+00:00",
-      "summary": "The monarch called Britain’s trafficking of enslaved people from Africa a “shameful chapter of history” at a meeting of Commonwealth heads of government in Antigua.",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-king-commonwealth-meeting-01-fzvc/03int-king-commonwealth-meeting-01-fzvc-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "愤怒的选民开启特朗普时代终结的序幕",
-      "url": "https://cn.nytimes.com/usa/20261104/midterm-election-rebuke-of-trump-era/?utm_source=RSS",
-      "source": "纽约时报中文",
-      "language": "zh",
-      "type": "newspaper",
-      "published": "2026-11-03T22:01:42+00:00",
-      "summary": "特朗普刻意将中期选举变成了对他本人的公投，最终为此付出了代价。选民对战争、高油价和总统的牟利行为不满，特朗普已经失去对那个两次将他送入白宫的联盟的掌控。                    Doug Mills/The New York Times                    “我不在选票上，因为我不在选票上，我们无法让足够多的人出来投票，”特朗普周二晚在接受《纽约时报》采访时表示。",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "How Will the Midterms Play Out? These Races May Provide Early Clues.",
-      "url": "https://www.nytimes.com/2026/11/03/us/politics/midterm-elections-polls-early-results-senate-house.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-03T22:01:05+00:00",
-      "summary": "Election results in states where voting ends early could indicate how each party will fare in House and Senate races elsewhere in the country.",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03pol-early-clues-5p-qwhc/03pol-early-clues-5p-qwhc-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "The 2025 ATT Annual Reports: Examining Trends in Compliance and Transparency",
-      "url": "https://www.stimson.org/2026/the-2025-att-annual-reports-examining-trends-in-compliance-and-transparency/",
-      "source": "Stimson Center",
-      "language": "en",
-      "type": "thinktank",
-      "published": "2026-11-03T22:00:00+00:00",
-      "summary": "Introduction\n\n\n\nAdopted by the UN General Assembly in 2013, the Arms Trade Treaty (ATT) was the first — and remains the only — global, legally binding instrument to regulate the international trade in conventional weapons. Over a decade after its adoption, and amidst a challenging international security environment, the ATT remains an important and increasingly relevant mechanism for international cooperation, enduring as a critical tool for improving transparency of the arms trade, building confidence between States, and enabling multilateral engagement on issues of international security.\n\n\n\nArticle 13(3) of the ATT requires States Parties to provide information each year on their authorized or actual conventional arms exports and imports through an annual report submitted to the ATT Secretariat. Eleven years after annual reporting began, this report examines trends in the treaty’s mandatory annual reporting requirements and offers useful insights into how States are implementing the",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Russian Companies Directly Supporting Putin’s War",
-      "url": "https://jamestown.org/russian-companies-directly-supporting-putins-war/",
-      "source": "Jamestown Foundation",
-      "language": "en",
-      "type": "thinktank",
-      "published": "2026-11-03T21:46:45+00:00",
-      "summary": "Executive Summary:\n\n\n\n\nNovatek—the largest independent producer of natural gas in Russia—illustrates how large Russian businesses have had to show political and material support for the Kremlin’s war against Ukraine to maintain operations in Russia, as well as the international costs of aligning with the Kremlin. \n\n\n\nPrivate Russian companies operating in spheres of strategic interest to the Kremlin have never been fully independent. Prior to Russia’s full-scale invasion of Ukraine in 2022, however, they retained the option to at least outwardly distance themselves from politics to preserve their reputations with Western partners.\n\n\n\nSince the beginning of the full-scale invasion of Ukraine, big Russian businesses have been effectively required to support the war. Novatek was paying bonuses for Russian military recruits by 2023 after initially calling the war “tragic” in March 2022.\n\n\n\nThe Kremlin requiring public displays of support from businesses despite the harm this does to the Ru",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Russian Beverage Ban Exposes Limits of Georgian Dream’s Pragmatism",
-      "url": "https://jamestown.org/russian-beverage-ban-exposes-limits-of-georgian-dreams-pragmatism/",
-      "source": "Jamestown Foundation",
-      "language": "en",
-      "type": "thinktank",
-      "published": "2026-11-03T21:40:50+00:00",
-      "summary": "Executive summary:\n\n\n\n\nRussia’s Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing (Rospotrebnadzor) imposed bans on seven Georgian companies on October 9 without citing violations, copying measures used against Armenia since April and pointing to political rather than sanitary motives.\n\n\n\nThe ban tests Georgian Dream’s claim that staying out of Western sanctions against Russia protects Georgia’s economy, even though direct losses are limited because wine makes up only about 3 percent of exports.\n\n\n\nCoinciding with renewed Russian demands at the Geneva peace talks and an approaching European Union ban on the Kulevi refinery, the measure squeezes Tbilisi’s balancing policy between both Moscow and Brussels.\n\n\n\n\n\n\n\n\nOn October 9, Russia’s Federal Service for Surveillance on Consumer Rights Protection and Human Wellbeing (Rospotrebnadzor) ordered a ban on imports and sales of goods from seven Georgian companies. The restrictions cover wine from Teliani Valle",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Killing of ‘Novaya Gazeta’ Points to Dark Future of Russian Media Under Putin",
-      "url": "https://jamestown.org/killing-of-novaya-gazeta-points-to-dark-future-of-russian-media-under-putin/",
-      "source": "Jamestown Foundation",
-      "language": "en",
-      "type": "thinktank",
-      "published": "2026-11-03T21:40:18+00:00",
-      "summary": "Executive Summary:\n\n\n\n\nThe Kremlin’s “killing” of Novaya Gazeta, Moscow’s oldest independent newspaper, is a troubling sign that Russian President Vladimir Putin’s regime is returning the Russian media to what it was before Gorbachev introduced glasnost, one where criticism was possible, but generalization was not.\n\n\n\nBecause of the paper’s prestige, the Kremlin’s forcible closure of this flagship of media freedom sends a chilling message to other outlets. They could be next if they do not fall in line, outraging many but likely leading most to avoid offending the Kremlin.\n\n\n\nNovaya Gazeta journalists will migrate to other newspapers or, more likely, move abroad and work with their counterparts there. Still, the silencing of Novaya Gazeta in Moscow will usher in a dark new media era, one that will not end until Putin leaves the scene.\n\n\n\n\n\n\n\n\nThe Kremlin has “killed” Novaya Gazeta, Moscow’s oldest independent newspaper. Its editors insist on using precisely the word “kill” (Novaya Gaze",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Why Trump Often Mentioned Iran in the Midterm Campaign",
-      "url": "https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-election-strategy.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-03T21:30:27+00:00",
-      "summary": "Visitors at a school in Minab, in Iran’s Hormozgan Province, in September. The school was hit by U.S. strikes on the first day of the war.",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/00int-iran-us-elections-explainer-01-zlfj/00int-iran-us-elections-explainer-01-zlfj-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "West Bank Property Sales Tactics Face a Challenge in Canada",
-      "url": "https://www.nytimes.com/2026/11/03/world/canada/canada-west-bank-lawsuit.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-03T20:58:18+00:00",
-      "summary": "A Palestinian man harvesting olives near the Israeli settlement of Shiloh in the West Bank in October.",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-canada-westbank-properties01a-photo-tzvl/03int-canada-westbank-properties01a-photo-tzvl-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Afghan Woman Is Among Dozens to Be Deported to Afghanistan",
-      "url": "https://www.nytimes.com/2026/11/03/world/asia/afghan-deportation-flight.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-03T20:57:49+00:00",
-      "summary": "The Trump administration has arranged a flight to send dozens of Afghan immigrants back to Afghanistan, despite the risk of persecution by the Taliban.",
-      "image": "https://static01.nyt.com/images/2026/12/02/multimedia/02int-afghan-deport-folo01-photo-pqcf/02int-afghan-deport-folo01-photo-pqcf-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "美国中期选举：民主党赢得两院控制权，选民否决特朗普",
-      "url": "https://cn.nytimes.com/usa/20261104/midterms-2026-election-day-trump/?utm_source=RSS",
-      "source": "纽约时报中文",
-      "language": "zh",
-      "type": "newspaper",
-      "published": "2026-11-03T20:57:34+00:00",
-      "summary": "民主党翻转了多个参议院席位，在得克萨斯、堪萨斯、南卡罗来纳等保守派堡垒州获胜，重夺参议院控制权。选民对特朗普的不满重塑了华盛顿的权力平衡。                                        注：截至北京时间11月4日16时。",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Chinese AI Stocks Are Slumping, Too",
-      "url": "https://foreignpolicy.com/2026/11/03/china-ai-stock-market-downturn-bubble-economics/",
-      "source": "Foreign Policy",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-11-03T20:49:19+00:00",
-      "summary": "The correction is less painful for Chinese firms but reflects broader economic headwinds.",
-      "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/china-ai-expo-GettyImages-2296565789.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Official Assessments Argue Beijing Has Strategic Initiative",
-      "url": "https://jamestown.org/official-assessments-argue-beijing-has-strategic-initiative/",
-      "source": "Jamestown Foundation",
-      "language": "en",
-      "type": "thinktank",
-      "published": "2026-11-03T20:37:28+00:00",
-      "summary": "Executive Summary\n\n\n\n\nChinese Communist Party (CCP) insiders appear to be developing a consensus that portends a more confident foreign policy approach to Washington ahead of leadership summits in late 2026.\n\n\n\nBeijing regards the United States’ apparent acceptance of a “constructive relationship of strategic stability” as a significant diplomatic achievement and evidence of an improving position for the People’s Republic of China (PRC) relative to the ongoing decline of the United States.\n\n\n\nThe PRC is evolving its foreign policy approach from exploiting opportunities toward actively shaping its external environment and seeking strategic initiative. This shift will likely make Beijing more demanding in negotiations with the United States. It remains unclear how that shift might translate into future military aggression or opportunism.\n\n\n\n\n\n\n\n\nOn October 16, 2026, Fu Xiaoqiang (傅小强), president of the China Institutes of Contemporary International Relations (CICIR), published a policy p",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "The Cost of Waiting: Why the Houthis Are Getting More Dangerous and Where to Hit Them",
-      "url": "https://warontherocks.com/the-cost-of-waiting-why-the-houthis-are-getting-more-dangerous-and-where-to-hit-them/",
-      "source": "War on the Rocks",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-11-03T20:00:31+00:00",
-      "summary": "In 2025, Ari Heistein wrote, &#8220;Defeating the Houthis Will Require More Than Killing Their Chief.&#8221; A year later, we asked him to reflect on the Houthis&#8217; Red Sea gains, the limits of killing leaders, and why another ceasefire would only buy them time to rearm.Image: Mehr News Agency via Wikimedia CommonsSince you wrote this piece, the Houthis have launched their most successful offensive in years, seizing much of Yemen&#8217;s Red Sea coast. You described the group as a quasi-state with entrenched control over ports, the economy, and security services. How much of this recent battlefield success do you attribute to\nThe post The Cost of Waiting: Why the Houthis Are Getting More Dangerous and Where to Hit Them appeared first on War on the Rocks.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "特朗普：将接受选举结果，准备与民主党合作",
-      "url": "https://cn.nytimes.com/usa/20261104/trump-midterm-election-results/?utm_source=RSS",
-      "source": "纽约时报中文",
-      "language": "zh",
-      "type": "newspaper",
-      "published": "2026-11-03T19:12:43+00:00",
-      "summary": "特朗普把共和党的失利归咎于自己未出现在选票上，同时他表示不后悔对伊朗开战的决定，坚称尽管共和党遭遇了全面挫败，他对第二任期前两年没有什么遗憾。                    Doug Mills/The New York Times                    特朗普总统周日在艾奥瓦州迪比克的一场竞选集会上。",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "The Danger of Being a Female Livestreamer in China",
-      "url": "https://thediplomat.com/2026/11/the-danger-of-being-a-female-livestreamer-in-china/",
-      "source": "The Diplomat",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-11-03T18:39:00+00:00",
-      "summary": "When a fan thinks he owns you, online entitlement can morph into real-world violence.",
-      "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/11/thediplomat_2026-11-04-034218.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Poland Beefs Up Security at Border With Russia",
-      "url": "https://www.nytimes.com/2026/11/03/world/europe/poland-russia-kaliningrad.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-03T18:18:07+00:00",
-      "summary": "Prime Minister Donald Tusk in October. He accused Russia on Tuesday of provoking tensions at the countries’ border.",
-      "image": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-POLAND-RUSSIA-01-cgwz/03int-POLAND-RUSSIA-01-cgwz-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "China Won’t Bail Out Trump’s Lost War",
-      "url": "https://foreignpolicy.com/2026/11/03/china-iran-trump-xi-middle-east-interests/",
-      "source": "Foreign Policy",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-11-03T18:04:35+00:00",
-      "summary": "Beijing is walking careful lines on Iran.",
-      "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/CHINA-IRAN-GettyImages-957965848.png",
-      "via": "rss"
-    },
-    {
-      "title": "人工智能时代，美中关系将迎来重大变革",
-      "url": "https://cn.nytimes.com/opinion/20261103/us-china-ai-manufacturing-exports-weapons/?utm_source=RSS",
-      "source": "纽约时报中文",
-      "language": "zh",
-      "type": "newspaper",
-      "published": "2026-11-03T17:54:07+00:00",
-      "summary": "此次中国之行让我清楚地看到，人工智能已经在重塑美中关系。它正在地缘政治层面拉近两国的距离，与此同时也加剧了双方的贸易分歧。                    Jason Allen Lee",
-      "image": "",
       "via": "rss"
     }
   ]
