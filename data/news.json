@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T11:18:21.656753+00:00",
+  "last_updated": "2026-11-19T20:08:17.070761+00:00",
   "source_counts": {
     "en": 36,
     "zh": 24
@@ -24,27 +24,27 @@
       "icon": "🏛️",
       "color": "#9b6de8",
       "featured": false,
-      "articles": [
-        {
-          "title": "Military Makes up Majority of Expulsions at Fifth Plenum",
-          "url": "https://jamestown.org/military-makes-up-majority-of-expulsions-at-fifth-plenum/",
-          "source": "jamestown.org",
-          "language": "en",
-          "type": "wire",
-          "published": "2026-11-13T00:45:00+00:00",
-          "summary": "",
-          "image": "",
-          "via": "gdelt",
-          "category": "politics"
-        }
-      ]
+      "articles": []
     },
     "military_security": {
       "label": "Military & Security",
       "icon": "⚔️",
       "color": "#e05f5f",
       "featured": false,
-      "articles": []
+      "articles": [
+        {
+          "title": "解放军14架艘次机舰船位台岛周边活动 _ 军事频道 _ 中华网",
+          "url": "https://military.china.com/news/13004177/20261116/49877119.html",
+          "source": "military.china.com",
+          "language": "zh",
+          "type": "wire",
+          "published": "2026-11-16T08:15:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "military_security"
+        }
+      ]
     },
     "economy": {
       "label": "Economy & Trade",
@@ -80,6 +80,18 @@
       "color": "#6b7de8",
       "featured": false,
       "articles": [
+        {
+          "title": "Саміт Трампа , Сі та Путіна не приніс великої угоди щодо України чи Тайваню Bloomberg",
+          "url": "https://glavnoe.in.ua/news/samit-trampa-si-ta-putina-ne-prynis-velykoyi-uhody-shhodo-ukrayiny-chy-tajvanyu-bloomberg",
+          "source": "glavnoe.in.ua",
+          "language": "en",
+          "type": "wire",
+          "published": "2026-11-19T19:30:00+00:00",
+          "summary": "",
+          "image": "",
+          "via": "gdelt",
+          "category": "bilateral_relations"
+        },
         {
           "title": "Albanese shares the stage with the Putin - Trump - Xi show",
           "url": "https://www.theleader.com.au/story/9394298/albanese-shares-the-stage-with-the-putin-trump-xi-show/",
@@ -128,25 +140,1147 @@
   },
   "latest_rss": [
     {
-      "title": "Badenoch says using amputee athletes to justify cutting disability benefits was ‘message of hope’ – UK politics live",
+      "title": "APEC峰会期间，深圳变“空城”",
+      "url": "https://cn.nytimes.com/china/20261119/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit/?utm_source=RSS",
+      "source": "纽约时报中文",
+      "language": "zh",
+      "type": "newspaper",
+      "published": "2026-11-20T04:18:08+00:00",
+      "summary": "为主办APEC峰会，深圳的学校本周已经停课，地方政府指示企业员工居家办公，许多居民离开了这座城市。峰会期间多条道路封闭，安保举措尤为严密。                    Tingshu Wang/Reuters                    中国深圳的一条高速公路，摄于周三。",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "法国加强选举监管　大型YouTuber首次须遵守政治多元规则",
+      "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261119-%E6%B3%95%E5%9B%BD%E5%8A%A0%E5%BC%BA%E9%80%89%E4%B8%BE%E7%9B%91%E7%AE%A1-%E5%A4%A7%E5%9E%8Byoutuber%E9%A6%96%E6%AC%A1%E9%A1%BB%E9%81%B5%E5%AE%88%E6%94%BF%E6%B2%BB%E5%A4%9A%E5%85%83%E8%A7%84%E5%88%99",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-19T19:41:27+00:00",
+      "summary": "法国法国视听和数字通信监管机构Arcom宣布，在2027年总统大选期间，部分大型网络内容创作者将首次被要求遵守政治报道多元化原则，引发法国网红和视频创作者的反弹。",
+      "image": "https://s.rfi.fr/media/display/5eae1074-1063-11ea-bbc4-005056bf7c53/w:1024/p:16x9/youtube_5_0.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Troublesome trio: Trump, Xi and Putin hold historic meeting - The Latest",
+      "url": "https://www.theguardian.com/news/video/2026/nov/19/troublesome-trio-trump-xi-and-putin-hold-historic-meeting-the-latest",
+      "source": "The Guardian",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T19:37:13+00:00",
+      "summary": "The leaders of China, Russia and the US have held the first ever three-way talks between the three nations. President Xi Jinping likened the talks on the sidelines of the Apec summit in Shenzhen, China, to a ‘peace summit’. Discussions appear to have focused on nuclear arms control, ending the war in Ukraine and US criticism of the international criminal court, which has an arrest warrant for Vladimir Putin. With Europe not at the table, Patrick Wintour tells Lucy Hough why the meeting is raising alarm bells in the west and beyond Continue reading...",
+      "image": "https://i.guim.co.uk/img/media/c5bfa45ca7e13d3c56afa69b4f294057bb035e5b/93_0_1450_1160/master/1450.jpg?width=140&quality=85&auto=format&fit=max&s=7fccf95c34ba75495a3255a232a63597",
+      "via": "rss"
+    },
+    {
+      "title": "Blockbuster GTA VI release shows cultural, economic heft of video games",
+      "url": "https://www.aljazeera.com/news/2026/11/19/blockbuster-gta-vi-release-shows-cultural-economic-heft-of-video-games?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T19:27:32+00:00",
+      "summary": "Runaway success of popular franchise comes as video game industry has struggled with mass layoffs in recent years.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Save the Children: Gaza’s children face ‘unmatched dangers’",
+      "url": "https://www.aljazeera.com/news/2026/11/19/save-the-children-gazas-children-face-unmatched-dangers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T19:23:45+00:00",
+      "summary": "Aid group says one third of violations against children worldwide were in occupied Palestinian territory.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "World reacts to ICJ finding Myanmar guilty of genocide against Rohingya",
+      "url": "https://www.aljazeera.com/news/2026/11/19/world-reacts-to-icj-finding-myanmar-guilty-of-genocide-against-rohingya?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T19:19:06+00:00",
+      "summary": "Landmark judgement in The Hague is the first time a state has been held responsible for genocide at the ICJ.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Rohingya survivors react to landmark genocide ruling against Myanmar",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-survivors-react-to-landmark-genocide-ruling-against-myanmar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T19:16:34+00:00",
+      "summary": "Rohingya refugees in Bangladesh and an activist in New York react as the UN&#039;s top court rules Myanmar committed genocide",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Man protests on roof of Spanish embassy over Fergie Chambers extradition",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/man-protests-on-roof-of-spanish-embassy-over-fergie-chambers-extradition?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T19:15:10+00:00",
+      "summary": "A man protested on the roof of Spain’s embassy in London against the extradition of US media heir Fergie Chambers.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Trump Flaunts Camaraderie With Xi and Putin but Has Little to Show for It",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T19:07:18+00:00",
+      "summary": "President Vladimir V. Putin of Russia, President Xi Jinping of China and President Trump before their trilateral meeting in Shenzhen, China, on Thursday.",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-ledeall-01-cvbz/19trump-summits-ledeall-01-cvbz-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Trump, Xi and Putin Seek to Project Power at Their First Summit",
+      "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T19:06:33+00:00",
+      "summary": "The meeting in China appeared to be largely symbolic. After President Trump departed, President Vladimir V. Putin said that Russia would not negotiate with Ukraine on a cease-fire.",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-promo-7am-et/19trump-summits-nuclear-02-tpbq-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T19:01:00+00:00",
+      "summary": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "美国芯片出口管制遇挑战　CNN称多所中国高校采购英伟达芯片",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261119-%E7%BE%8E%E5%9B%BD%E8%8A%AF%E7%89%87%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E9%81%87%E6%8C%91%E6%88%98-cnn%E7%A7%B0%E5%A4%9A%E6%89%80%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%A0%A1%E9%87%87%E8%B4%AD%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-19T18:59:20+00:00",
+      "summary": "美国对先进人工智能芯片出口限制的执行面临新的挑战。CNN调查中国高校采购记录发现，至少六所被美国政府列入限制名单的中国高校，近年来曾申报购买受出口管制影响的英伟达（Nvidia）芯片。",
+      "image": "https://s.rfi.fr/media/display/4a10553c-e44b-11f1-8e19-e56ab3dc0809/w:1024/p:16x9/2026-11-16T155043Z-758267619-RC2VCZ9SP1V3-RTRMADP-3-USA-CHINA-CHIPS.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Iraq's risky standoff: The state vs. Iran-allied militias",
+      "url": "https://www.dw.com/en/iraq-s-risky-standoff-the-state-vs-iran-allied-militias/a-79995757?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "Deutsche Welle",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T18:59:00+00:00",
+      "summary": "This week, Iraqi security forces surrounded an area run by the Kataib Hezbollah militia. Onlookers describe it as the most dangerous confrontation between the Iraqi state and Iran-allied militias in decades.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh",
+      "url": "https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T18:55:36+00:00",
+      "summary": "Towers in Riyadh, Saudi Arabia, in October, including the skyscraper, left, that houses the country’s Public Investment Fund.",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-saudi-pif-attack-wpcj/19int-saudi-pif-attack-wpcj-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Putin invites European leaders to Moscow for talks on Ukraine",
+      "url": "https://www.ft.com/content/dddd1db4-d9f2-452b-9be8-651b49a8b1c2?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T18:53:08+00:00",
+      "summary": "Russian leader signals he is unwilling to relax hardline demands for ending war",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5886a3b8-6350-4598-a41d-92f5007d75b8.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "France awaits verdict six years after police beat Black music producer",
+      "url": "https://www.aljazeera.com/news/2026/11/19/france-awaits-verdict-six-years-after-police-beat-black-music-producer?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T18:51:50+00:00",
+      "summary": "Three officers are accused of assaulting Michel Zecler in an incident that was filmed by surveillance cameras.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Some leaders flew private to the APEC summit, but not Mexico’s president.",
+      "url": "https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec/claudia-sheinbaum-mexico-flight-china-apec",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T18:48:51+00:00",
+      "summary": "President Claudia Sheinbaum flew commercial, a journey that involved a 15-hour leg. It was a symbol of her government’s commitment to austerity.",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-sheinbaum-flight-gkpq/19trump-summits-sheinbaum-flight-gkpq-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "俄罗斯借GTA 6热潮发布征兵宣传",
+      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261119-%E4%BF%84%E7%BD%97%E6%96%AF%E5%80%9Fgta-vi%E7%83%AD%E6%BD%AE%E5%8F%91%E5%B8%83%E5%BE%81%E5%85%B5%E5%AE%A3%E4%BC%A0",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-19T18:48:27+00:00",
+      "summary": "俄罗斯国防部利用全球热门电子游戏《侠盗猎车手VI》（Grand Theft Auto VI）发布宣传图，鼓励民众加入军队、参与乌克兰战事。",
+      "image": "https://s.rfi.fr/media/display/83f8c334-e396-11f1-a581-ff16da94d1fe/w:1024/p:16x9/000-D6ZV23C.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Dutch and Austrian Embassies Are Damaged as Russian Drones Swarm Kyiv",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/ukraine-dutch-embassy.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T18:47:57+00:00",
+      "summary": "A building near the Netherlands’ embassy in Kyiv that was damaged during a Russian drone strike on Thursday.",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-ukraine-embassy-tpvf/19int-ukraine-embassy-tpvf-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Palestinians in Gaza face new displacement after Israeli army operation",
+      "url": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T18:46:10+00:00",
+      "summary": "Families in Nuseirat spend the night without shelter, while many fear returning despite Israel ending offensive.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "AMD shares fall after short seller report on China links",
+      "url": "https://www.ft.com/content/69fd7870-a2cf-4e75-88bc-a1c4036efded?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T18:40:23+00:00",
+      "summary": "Chipmaker down by as much as 11% following warnings by Hunterbrook in the aftermath of Nvidia scandal",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffd6a8718-2de3-4dfe-8a9b-5509159472be.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "彭博记者遭拒进入美中俄会谈　中国媒体管控再受关注",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261119-%E5%BD%AD%E5%8D%9A%E8%AE%B0%E8%80%85%E9%81%AD%E6%8B%92%E8%BF%9B%E5%85%A5%E7%BE%8E%E4%B8%AD%E4%BF%84%E4%BC%9A%E8%B0%88-%E4%B8%AD%E5%9B%BD%E5%AA%92%E4%BD%93%E7%AE%A1%E6%8E%A7%E5%86%8D%E5%8F%97%E5%85%B3%E6%B3%A8",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-19T18:38:07+00:00",
+      "summary": "中国当局周四禁止彭博社记者安玛丽·霍登（Annmarie Hordern）进入美国、中国和俄罗斯领导人三方会谈现场，事件再次引发外界对中国媒体管控的关注。",
+      "image": "https://s.rfi.fr/media/display/a933f7e6-e435-11f1-b026-1bac47ab2f5d/w:1024/p:16x9/AP26323323725536.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Troublesome trio: Trump, Xi and Putin hold historic meeting - The Latest",
+      "url": "https://www.theguardian.com/news/audio/2026/nov/19/troublesome-trio-trump-xi-putin-historic-meeting-the-latest",
+      "source": "The Guardian",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T18:37:45+00:00",
+      "summary": "The leaders of China, Russia and the US have held the first ever talks between the three nations. Xi Jinping likened the talks on the sidelines of the Apec summit in Shenzhen, China, to a ‘peace summit’. Discussions appear to have focused on nuclear arms control, ending the war in Ukraine and criticism of the international criminal court, which has issued an arrest warrant for Vladimir Putin. With Europe not at the table, Patrick Wintour tells Lucy Hough why the meeting is raising alarm bells in the west and beyond – watch on YouTube Continue reading...",
+      "image": "https://i.guim.co.uk/img/media/82a515f04bc247c4248d7219eb825c2d67060618/615_0_7142_5718/master/7142.jpg?width=140&quality=85&auto=format&fit=max&s=61672239e6f70b9e4bf033dd17d62833",
+      "via": "rss"
+    },
+    {
+      "title": "南非总统拉马福萨考察美国硅谷",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261119-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E5%8D%97%E9%9D%9E%E6%80%BB%E7%BB%9F%E6%8B%89%E9%A9%AC%E7%A6%8F%E8%90%A8%E8%80%83%E5%AF%9F%E7%BE%8E%E5%9B%BD%E7%A1%85%E8%B0%B7",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-19T18:32:50+00:00",
+      "summary": "南非总统西里尔·拉马福萨（le président sud-africain Cyril Ramaphosa）率领着一支庞大的代表团正在对美国展开为期一个星期的跨大西洋访问（une visite outre-Atlantique）。这是本台法广（RFI）非洲通讯员从约翰内斯堡（Johannesbourg）发回的一则法文消息。南非总统于11月15日上星期天出发，专程前往加利福尼亚州（la Californie）的硅谷（la Silicon Valley）考察。整个行程计划为期一周，将于2026年11月21日星期六结束。南非官方发言人特别补充说，此行没有预备在华盛顿（Washington）停靠。",
+      "image": "https://s.rfi.fr/media/display/283f28ca-e446-11f1-b553-13439ca2fe89/w:1024/p:16x9/2026-11-19-J-FMM-Image-Afrique-Cyril-Ramaphosa-%C3%A0-la-Silicon-Valley-archive-RFI.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Myanmar Committed Genocide Against the Rohingya, Top Global Court Finds",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/myanmar-genocide-icj-decision-.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T18:27:57+00:00",
+      "summary": "In a decision with potentially broad implications, the International Court of Justice found a state culpable of genocide for the first time.",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-ICJ-Myanmar-01-fkth/19int-ICJ-Myanmar-01-fkth-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "FCC votes to ban Chinese telecoms from direct access to US phone numbers",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3375128/fcc-votes-ban-chinese-telecoms-direct-access-us-phone-numbers",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T18:21:18+00:00",
+      "summary": "The US ⁠Federal Communications Commission voted on Thursday ⁠to ban Chinese telecoms firms from direct access to US phone numbers on national security grounds – a measure designed to prevent scam-related robocalls.\nThe action will bar China Mobile, China Telecom and China Unicom and other IP-enabled service providers from ‌direct access. The FCC previously barred the three firms from providing international telecommunications services to the US.\nFor telecoms firms providing Voice over Internet...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/f06f4bef-6317-4090-be72-e3b4601f2f6f_ed37d302.jpg?itok=D5740Z5A&v=1795112471",
+      "via": "rss"
+    },
+    {
+      "title": "Iraq reaches compromise with Kataib Hezbollah over armed group stronghold",
+      "url": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T18:16:09+00:00",
+      "summary": "The compromise reached will station forces that include brigades from the Popular Mobilisation Forces.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Anthropic纳斯达克上市首日大涨　市值突破两万亿美元",
+      "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261119-anthropic%E7%BA%B3%E6%96%AF%E8%BE%BE%E5%85%8B%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E5%A4%A7%E6%B6%A8-%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B4%E4%B8%A4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-19T18:15:48+00:00",
+      "summary": "人工智能公司Anthropic周四登陆纳斯达克，首日交易表现强劲，市值一度突破两万亿美元，成为全球规模最大的人工智能首次公开募股（IPO）企业。",
+      "image": "https://s.rfi.fr/media/display/35d6a5a0-e43a-11f1-94c1-ebb478925cf0/w:1024/p:16x9/AP26323605753653.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Trump-Xi-Putin summit: Five things you need to know",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-xi-putin-summit-five-things-you-need-to-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T18:13:52+00:00",
+      "summary": "Donald Trump, Xi Jinping and Vladimir Putin held their first trilateral summit in China.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Russian Communist Split Could Lead to New Breakup of the Empire",
+      "url": "https://jamestown.org/russian-communist-split-could-lead-to-new-breakup-of-the-empire/",
+      "source": "Jamestown Foundation",
+      "language": "en",
+      "type": "thinktank",
+      "published": "2026-11-19T18:13:43+00:00",
+      "summary": "Executive Summary:\n\n\n\n\nThe Communist Party of the Russian Federation (CPRF) is facing growing divisions between its Kremlin-aligned leadership, which supports Moscow’s imperial policies, and regionalist factions advocating greater autonomy, civil rights, and political reform.\n\n\n\nIn the Komi Republic, former State Duma Deputy Oleg Mikhailov headed the local CPRF branch as a regionalist political force, challenging Moscow’s centralization through environmental activism, anti-war positions, and demands for self-government.\n\n\n\nMikhailov was arrested on October 23 and added to the list of terrorists and extremists. The Kremlin is ramping up repression of regionalist opposition, potentially deepening CPRF fractures and fueling broader anti-imperial movements reminiscent of the Soviet Union’s collapse.\n\n\n\n\n\n\n\n\nThe Communist Party of the Russian Federation (CPRF) is experiencing fractures. On October 19, Russian State Duma Deputy Anzhelika Glazkova, “elected” from the Russian-occupied part of ",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Russia and Iran Seek Closer Cooperation",
+      "url": "https://jamestown.org/russia-and-iran-seek-closer-cooperation/",
+      "source": "Jamestown Foundation",
+      "language": "en",
+      "type": "thinktank",
+      "published": "2026-11-19T18:11:04+00:00",
+      "summary": "Executive Summary:\n\n\n\n\nNearly nine months into the U.S.–Israeli military campaign against Iran, Moscow is doubling down on its partnership with Tehran. It has agreed to build eight new nuclear power units and expand political and military coordination.\n\n\n\nFor Russia, a resilient Iran is vital to its Middle East position, a source of leverage in talks on its war against Ukraine, and a partner against the U.S.-backed Trump Route for International Peace and Prosperity (TRIPP) route in the South Caucasus.\n\n\n\nThe partnership remains transactional since their 2025 treaty lacks a mutual defense clause, and many Iranians still question Russia’s limited wartime support, even as sustained pressure pushes Tehran closer to Moscow.\n\n\n\n\n\n\n\n\nRussia and Iran have expanded the scope and accelerated the pace of their cooperation, in areas ranging from nuclear energy to politics (Al Jazeera, October 19). On October 28, Russian State Atomic Energy Corporation (Rosatom) Director General Alexei Likhachev an",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Honor Killings and Blood Feuds Remain Widespread in North Caucasus",
+      "url": "https://jamestown.org/honor-killings-and-blood-feuds-remain-widespread-in-north-caucasus/",
+      "source": "Jamestown Foundation",
+      "language": "en",
+      "type": "thinktank",
+      "published": "2026-11-19T18:08:19+00:00",
+      "summary": "Executive Summary:\n\n\n\n\nHonor killings and blood feuds in the North Caucasus, crimes the Soviet authorities tried to wipe out as “survivals of the past,” remain major problems and even appear to have increased significantly since 1991 despite claims to the contrary by local officials.\n\n\n\nExactly how much they have gone up, however, is difficult to say because of the lack of data. A Dagestani scholar’s suggestion that laws should be softened concerning them, however, has provoked a widespread discussion that has brought far more evidence to light.\n\n\n\nThis information now available underscores that such killings are deeply rooted in the region as a whole, particularly in its eastern third, and that eliminating or even seriously reducing them back to late Soviet-era levels will require enormous and long-term efforts.\n\n\n\n\n\n\n\n\nCrimes the Soviet authorities tried to wipe out as “survivals of the past” remain major problems in the North Caucasus. Honor killings, in which women are killed for v",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Election date? Brexit reset outcome? Farage’s survival chances? Andrew Sparrow answered readers questions",
       "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
       "source": "The Guardian",
       "language": "en",
       "type": "newspaper",
-      "published": "2026-11-19T10:52:26+00:00",
-      "summary": "PM has asked Badenoch to withdraw her suggestion that benefits should be cut because ‘double amputees run marathons’James Cleverly has been selected as the Conservative party’s candidate for the next London mayoral election.The former foreign secretary and former home secretary won 86% of the votes in the ballot, beating Westminster councillor Festus Akinbusoye and former parliamentary candidate Sara Gezdari. A fourth candidate, communications professional Alex Challoner, was eliminated before the shortlist was drawn up for the ballot.People are leaving London, or not choosing to come here in the first place, businesses, job creators, families leaving London, and by the time of the election in 2028, Khan will have been mayor for 12 years, and those two things are related.The problems London faces are the symptoms. Khan is the cause. Continue reading...",
-      "image": "https://i.guim.co.uk/img/media/8c13e43ae8c115541cac6e3f64d48248544771ec/1435_1494_3905_3124/master/3905.jpg?width=140&quality=85&auto=format&fit=max&s=ac4315e50102570681509b0f40f64bec",
+      "published": "2026-11-19T18:02:33+00:00",
+      "summary": "The Guardian’s UK politics blogger answered readers’ questionsThese are from my colleague Peter Walker, who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor.Peter posted this before the result was announced.Khan (who may or may not stand a 4th time) has thus far faced a dilettante who decided to campaign on a racist platform (Zack Goldsmith) and two oddballs in Shaun Bailey and then Susan Hall. Not even he can be lucky yet againInteresting that [the Conservatives] did not say how many votes were cast, just the percentage - which perhaps indicates it was not a huge numberCleverly’s speech is mainly an attack on Labour and Khan, which is likely to be a theme for his campaign: “Burnham can’t stand London and Khan stand up to Burnham.” Also a pitch about building houses and cutting crime, and boosting transport.Cleverly says he would “end Khan’s war on motorists”, which is a sign he might lean into the anti-cycling and walking rhetoric which th",
+      "image": "https://i.guim.co.uk/img/media/8f77a1c29ccfc09c540cebda67f97ebb5c64e440/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e2ef721e3ca50b92112f6e95ee6dd11f",
       "via": "rss"
     },
     {
-      "title": "FIFA confirms Diallo, Tashima as Infantino’s challengers at 2027 election",
-      "url": "https://www.aljazeera.com/sports/2026/11/19/fifa-confirms-diallo-tashima-as-infantinos-challengers-at-2027-election?traffic_source=rss",
+      "title": "U.N. Court Rules Myanmar Committed Genocide Against Rohingya",
+      "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T17:57:09+00:00",
+      "summary": "Myanmar became the first state held accountable for violating the 1948 Genocide Convention. The ruling by the International Court of Justice could have broad implications.",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-hkzc/19myanmar-icj-hkzc-mediumSquareAt3X-v2.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Iran’s ‘Boiling Frog’ Strategy",
+      "url": "https://foreignpolicy.com/2026/11/19/iran-war-us-strikes-dirty-bomb-trump-congress-democrats-vali-nasr/",
+      "source": "Foreign Policy",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-11-19T17:55:24+00:00",
+      "summary": "Why Tehran believes its strategy to hurt the West is working.",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/GettyImages-2302492589-e1794332921921.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "国际法院历史性裁决　认定缅甸对罗兴亚人实施种族灭绝",
+      "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261119-%E5%9B%BD%E9%99%85%E6%B3%95%E9%99%A2%E5%8E%86%E5%8F%B2%E6%80%A7%E8%A3%81%E5%86%B3-%E8%AE%A4%E5%AE%9A%E7%BC%85%E7%94%B8%E5%AF%B9%E7%BD%97%E5%85%B4%E4%BA%9A%E4%BA%BA%E5%AE%9E%E6%96%BD%E7%A7%8D%E6%97%8F%E7%81%AD%E7%BB%9D",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-19T17:55:20+00:00",
+      "summary": "联合国最高司法机构——国际法院周四就冈比亚诉缅甸案作出历史性裁决，以九票对六票认定，缅甸在2017年若开邦北部针对罗兴亚人的军事清剿行动构成种族灭绝，违反《防止及惩治灭绝种族罪公约》。这是国际法院成立八十年来，首次裁定一个国家须为实施种族灭绝承担国际法律责任。",
+      "image": "https://s.rfi.fr/media/display/778c655c-e3a4-11f1-910e-1ba7ddfab527/w:1024/p:16x9/000-92DP8YQ.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Xi-Trump-Putin summit: What did it achieve?",
+      "url": "https://www.dw.com/en/xi-trump-putin-summit-what-did-it-achieve/a-79996668?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "Deutsche Welle",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T17:52:00+00:00",
+      "summary": "The presidents of China, the US and Russia have held an unprecedented summit. While Trump said the three leaders were \"making history,\" Xi described the talks as \"fruitful,\" and Putin called them \"open and candid.\"",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "China’s Xi urges US and Russia to join forces to safeguard world peace",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_chinas-xi-urges-us-and-russia-for-world-peace-191126?traffic_source=rss",
       "source": "Al Jazeera",
       "language": "en",
       "type": "broadcast",
-      "published": "2026-11-19T10:42:53+00:00",
-      "summary": "French football chief Philippe Diallo and Japan&#039;s Kozo Tashima will be the only candidates to run for FIFA presidency.",
+      "published": "2026-11-19T17:50:21+00:00",
+      "summary": "Chinese President Xi urged US President Trump and Russian President Putin to work with China to safeguard world peace.",
       "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Is This the Beginning of the End for Modi?",
+      "url": "https://foreignpolicy.com/2026/11/19/beginning-end-modi-protests/",
+      "source": "Foreign Policy",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-11-19T17:28:42+00:00",
+      "summary": "Political discontent in India—and the government’s response—is beginning to spiral.",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/GettyImages-1229978540.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "At APEC Summit, U.S., China and Russia Vow to Increase Oil Supply Amid Global Energy Transition",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/russia-china-united-states-oil-joint-statement.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T17:25:17+00:00",
+      "summary": "A refinery facility in Pascagoula, Miss., earlier this year. It is unclear how the United States, Russia and China would increase the production of refined petroleum products.",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-petroleum-topart-wcmf/19trump-summits-petroleum-topart-wcmf-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "中美俄元首歷史性會晤 普京獲得外交勝利嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/ck9q84jgpxpjo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-19T17:24:59+00:00",
+      "summary": "中國國家主席習近平、美國總統特朗普及俄羅斯總統普京在APEC深圳峰會期間舉行首次三方會談，聚焦烏克蘭危機與核軍控。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7429/live/f1f7e890-e43d-11f1-99a1-253766e7ad8b.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "‘Not an acquittal’: After impeachment vote, Hegseth still under microscope",
+      "url": "https://www.aljazeera.com/news/2026/11/19/not-an-acquittal-after-impeachment-vote-hegseth-still-under-microscope?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T17:15:30+00:00",
+      "summary": "A week after a fizzled impeachment bid, analysts say Hegseth continues to face backlash for his leadership at Pentagon.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+      "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+      "source": "The Guardian",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T17:13:23+00:00",
+      "summary": "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and ‘protection of diplomatic immunity’China, Russia and the US say they have agreed a peace statement after an unprecedented trilateral summit, but the declaration made no mention of the wars in Ukraine and Iran caused by two of the participants.The declaration on Thursday also outlined a set of priorities that included changing the UN, boosting oil supplies and what it said was the protection of diplomatic immunity. Continue reading...",
+      "image": "https://i.guim.co.uk/img/media/8a7d32d3197bc67811a5805eb05a308525f47b92/153_59_1632_1306/master/1632.jpg?width=140&quality=85&auto=format&fit=max&s=92c6d97e2934ea2f2295ecc777f5fa09",
+      "via": "rss"
+    },
+    {
+      "title": "Trump accused of falling asleep during Xi Jinping speech at Apec summit in China",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/trump-apec-asleep-china",
+      "source": "The Guardian",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T17:12:11+00:00",
+      "summary": "US president appeared to doze off while Chinese leader made speech, but White House insisted he was awakeDonald Trump was, again, accused of falling asleep during a televised event, this time during the speech of the Chinese president, Xi Jinping, at the Asia-Pacific Economic Cooperation (Apec) summit in China.The US president appeared to close his eyes for roughly 10 seconds on Thursday. As his eyes closed, Trump’s head tilted downward, and his hands remained clasped in front of him. Continue reading...",
+      "image": "https://i.guim.co.uk/img/media/9a7a08432aefc55cf68fcacd78775e012efb2000/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=e7dbd1a9b4c3dc24afe5bacd823fc0dc",
+      "via": "rss"
+    },
+    {
+      "title": "At Summit With Xi and Putin, Trump Seeks to Project Power Abroad While Sharing It at Home",
+      "url": "https://www.nytimes.com/2026/11/19/us/politics/trump-summit-power.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T17:05:18+00:00",
+      "summary": "A trilateral meeting in Shenzhen, China, on Thursday offered a welcome respite to President Trump, who has long expressed admiration for authoritarian leaders like President Vladimir V. Putin of Russia and President Xi Jinping of China.",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-power-jpck/19trump-power-jpck-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Trump and Putin ‘hijacked’ China summit",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-and-putin-hijacked-china-summit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T17:02:22+00:00",
+      "summary": "Trump and Putin’s statements during trilateral talks distracted from the planned agenda, Einar Tangen says.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Yemen’s besieged city of Taiz faces a deepening water crisis",
+      "url": "https://www.aljazeera.com/news/2026/11/19/yemens-besieged-city-of-taiz-faces-a-deepening-water-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T16:59:38+00:00",
+      "summary": "Fuel shortages and the loss of access to wells have left residents dependent on unsafe water.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Anthropic starts trading in the US after blockbuster IPO",
+      "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T16:57:26+00:00",
+      "summary": "Anthropic’s IPO surpasses SpaceX, marking the largest initial public offering in US history at $81bn",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "After Bridge Attack, Putin Says He Will ‘Not Be Negotiating’ Ukraine Cease-Fire",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T16:51:57+00:00",
+      "summary": "President Vladimir V. Putin of Russia at a trilateral meeting with Xi Jinping, China’s leader, and President Trump in Shenzhen, China, on Thursday.",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-russia-putin-pvjt/19int-russia-putin-pvjt-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Houthi air strike hits Saudi sovereign wealth fund headquarters",
+      "url": "https://www.ft.com/content/05ed47a5-7cc1-402f-ad0d-826ba09a05c8?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T16:38:08+00:00",
+      "summary": "Attack on powerful Public Investment Fund follows near-daily barrages on the kingdom by Houthi rebels",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbc0b790a-b1e6-490a-8d3d-23a17a3ccaed.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "The Rohingya Crisis Over the Years",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/rohingya-camps-photos-bangladesh.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T16:27:27+00:00",
+      "summary": "After government troops and mobs rampaged through Rohingya communities in Myanmar in 2017, refugees fled to to Bangladesh.",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-Rohingya-Photos-01-cpzw/19int-Rohingya-Photos-01-cpzw-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Anthropic soars in Wall Street debut",
+      "url": "https://www.ft.com/content/7a6b211d-c73b-4953-97ee-ed92dab8ee07?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T16:19:06+00:00",
+      "summary": "AI giant begins trading after raising $81bn in record IPO",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F23b0e23f-c019-424e-a60c-d0b7f1e6684e.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Greenland Pulls Closer to the U.S. — by an Hour",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/greenland-time-zone-change-us.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T16:14:05+00:00",
+      "summary": "The town of Qaanaaq, in northern Greenland, sees little sunlight for much of the year. Starting next October, the country will move its clocks back an hour.",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/00INT-Greenland-Time-Zone-jqlw/00INT-Greenland-Time-Zone-jqlw-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Inside a Rohingya Camp After a Genocide Ruling",
+      "url": "https://www.nytimes.com/video/world/asia/100000011287890/inside-a-rohingya-camp-after-a-genocide-ruling.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T16:10:44+00:00",
+      "summary": "On Thursday, the International Court of Justice ruled that the atrocities against the Rohingya ethnic minority constituted a genocide waged by the Myanmar state. Before the decision, Hannah Beech, a New York Times correspondent, spent a week in the refugee camps in Cox’s Bazar, Bangladesh, home to at least 1.2 million Rohingya.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "In a Rohingya Refugee Camp, Jubilation but Also Apprehension",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-genocide-refugee-camp.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T16:07:50+00:00",
+      "summary": "Watching a broadcast from the International Court of Justice in the Jamtoli refugee camp in Cox’s Bazar, Bangladesh, on Thursday.",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-camps-reax-gwpz/19myanmar-icj-camps-reax-gwpz-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "AI芯片热潮推动韩国出口突破万亿美元，晋升全球第四",
+      "url": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20261119-ai%E8%8A%AF%E7%89%87%E7%83%AD%E6%BD%AE%E6%8E%A8%E5%8A%A8%E9%9F%A9%E5%9B%BD%E5%87%BA%E5%8F%A3%E7%AA%81%E7%A0%B4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%EF%BC%8C%E6%99%8B%E5%8D%87%E5%85%A8%E7%90%83%E7%AC%AC%E5%9B%9B",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-19T16:02:59+00:00",
+      "summary": "韩国贸易部周四表示，在全球人工智能（AI）芯片热潮带动下，韩国今年累计出口额已突破1万亿美元，成为继德国、美国和中国之后，全球第四个达到这一出口额的国家。相比之下，韩国去年全年出口额创下7090亿美元的历史纪录。",
+      "image": "https://s.rfi.fr/media/display/f51709f4-d80b-11f1-aee5-695cb59fade5/w:1024/p:16x9/AP26274135799653.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Businesses have responsibility to stop modern slavery. So do police",
+      "url": "https://www.lowyinstitute.org/the-interpreter/businesses-have-responsibility-to-stop-modern-slavery-so-do-police",
+      "source": "Lowy Institute",
+      "language": "en",
+      "type": "thinktank",
+      "published": "2026-11-19T16:00:00+00:00",
+      "summary": "A criminal offence for modern slavery is now on the table – but laws alone cannot replace proactive policing.",
+      "image": "https://cdn.sanity.io/images/5dcouzig/production/e84a45055a721b9352e03d33be644aa29da848c2-6000x4000.jpg?rect=0,425,6000,3150&w=1200&h=630&fm=webp&q=85&fit=crop",
+      "via": "rss"
+    },
+    {
+      "title": "财务披露文件显示，特朗普9月买入最高26.5万美元的英伟达股票",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261119-%E8%B4%A2%E5%8A%A1%E6%8A%AB%E9%9C%B2%E6%96%87%E4%BB%B6%E6%98%BE%E7%A4%BA%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE9%E6%9C%88%E4%B9%B0%E5%85%A5%E6%9C%80%E9%AB%9826-5%E4%B8%87%E7%BE%8E%E5%85%83%E7%9A%84%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%82%A1%E7%A5%A8",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-19T15:57:03+00:00",
+      "summary": "根据美国总统特朗普最新财务披露文件显示，他今年9月买入价值最高达26.5万美元的英伟达股票，并卖出价值最高1.5万美元的相关持股。与此同时，外界正持续关注特朗普究竟掌握多少有关黄仁勋和据称涉嫌为中国从事间谍活动女子关系的信息。",
+      "image": "https://s.rfi.fr/media/display/5e76ddde-e405-11f1-bc1d-7908c4e1a3c7/w:1024/p:16x9/2026-11-19T093552Z-581928149-RC2WQOARMACK-RTRMADP-3-APEC-SUMMIT.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Nuclear arms, energy supplies - but no Kim: the main takeaways from a historic Apec summit",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3375124/nuclear-arms-energy-supplies-no-kim-main-takeaways-historic-apec-summit",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T15:47:38+00:00",
+      "summary": "Thursday’s Asia-Pacific Economic Cooperation (Apec) summit in Shenzhen saw unprecedented three-way talks between Xi Jinping, Donald Trump and Vladimir Putin as well as separate bilateral meetings between the presidents.\nHere are some of the key events from this important day of China diplomacy.\nNuclear pledge\nIn a peace declaration after the three-way summit, the three heads of state reaffirmed that a nuclear war “cannot be won and must never be fought”.\nThey also pledged to hold further talks...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/feb339a0-9efb-4e05-9a98-b2335efee407_58a0a4f8.jpg?itok=jqC2yyK3&v=1795104836",
+      "via": "rss"
+    },
+    {
+      "title": "美国新规生效，台积电与三星暂停部分中国客户先进制程订单",
+      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261119-%E7%BE%8E%E5%9B%BD%E6%96%B0%E8%A7%84%E7%94%9F%E6%95%88%EF%BC%8C%E5%8F%B0%E7%A7%AF%E7%94%B5%E4%B8%8E%E4%B8%89%E6%98%9F%E6%9A%82%E5%81%9C%E9%83%A8%E5%88%86%E4%B8%AD%E5%9B%BD%E5%AE%A2%E6%88%B7%E5%85%88%E8%BF%9B%E5%88%B6%E7%A8%8B%E8%AE%A2%E5%8D%95",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-19T15:42:35+00:00",
+      "summary": "两名知情人士表示，台积电正进一步收紧对中国芯片设计企业的限制，部分此前仍被允许的先进制程订单将会被暂停，并将受影响客户限制在较成熟工艺节点。根据《金融时报》的报导，三星也采取了相似的做法。路透社称，此举可能切断中国企业生产高性能人工智能处理器的最后几条渠道之一，从而使中国发展国产替代芯片、摆脱对英伟达设计并由台积电代工芯片依赖的努力面临更大挑战。",
+      "image": "https://s.rfi.fr/media/display/af946c1e-df40-11f1-ae1f-3f371022a770/w:1024/p:16x9/2026-11-13T060006Z-1158626735-RC2B6OAFXWA4-RTRMADP-3-EU-SUMMIT.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "COP31 ： 新协议草案难以弥合分歧",
+      "url": "https://www.rfi.fr/cn/%E7%94%9F%E6%80%81/20261119-cop31-%E7%AC%AC%E4%BA%8C%E4%BB%BD%E5%8D%8F%E8%AE%AE%E8%8D%89%E6%A1%88%E6%BF%80%E5%8F%91%E5%8F%8D%E5%93%8D",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-19T15:42:01+00:00",
+      "summary": "正在土耳其举行的联合国气候峰会周三晚间经过数小时的部长级“长沙发”会议之后，周四出台了最新文本，新草案从周一的18页删减成为9页。",
+      "image": "https://s.rfi.fr/media/display/521011e6-e42d-11f1-ab33-e56ab3dc0809/w:1024/p:16x9/887989c7f69aa20d2f2f9bb6b18f8a1ce9b40d18.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "A Village Burned, Its People Killed or Exiled. A Court Ruled It Was Genocide.",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T15:40:39+00:00",
+      "summary": "Mustafa Kamal and Toyuba Khatun once had a prosperous life in Myanmar. But for nearly a decade the couple and their family have been living in a refugee camp in Cox’s Bazar, Bangladesh.",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-rohingya-camps-01-kjtp/19int-rohingya-camps-01-kjtp-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "New page in history? Xi, Trump and Putin summit was more of a footnote",
+      "url": "https://www.theguardian.com/world/2026/nov/19/new-page-in-history-xi-trump-and-putin-summit-was-more-of-a-footnote",
+      "source": "The Guardian",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T15:35:01+00:00",
+      "summary": "Far from the grand ambitions declared in Yalta in 1945, Shenzhen felt like a meeting in search of an agendaIt is arguably true, given it was the first such meeting of the leaders of China, Russia and the US, that Thursday’s gathering in Shenzhen deserved the description of “historic”.But in terms of tangible outcomes, it is unlikely to warrant the “new page in the history of diplomacy” that Vladimir Putin claimed had been written, and will instead be consigned to a smallish footnote in any future volume of the 21st century. Continue reading...",
+      "image": "https://i.guim.co.uk/img/media/82a515f04bc247c4248d7219eb825c2d67060618/1173_38_6573_5258/master/6573.jpg?width=140&quality=85&auto=format&fit=max&s=ff26b505997ed52268622211444bed41",
+      "via": "rss"
+    },
+    {
+      "title": "Myanmar committed genocide against Rohingya minority, top U.N. court rules",
+      "url": "https://www.washingtonpost.com/world/2026/11/19/myanmar-committed-genocide-against-rohingya-minority-top-un-court-rules/",
+      "source": "Washington Post",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T15:30:00+00:00",
+      "summary": "It is the first time the top court of the United Nations ruled a state violated the 1948 Genocide Convention.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "The Gulf Is America’s Next AI Security Test",
+      "url": "https://foreignpolicy.com/2026/11/19/nvidia-huang-scandal-ai-security-chips-export-controls-gulf-saudi-uae/",
+      "source": "Foreign Policy",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-11-19T15:26:55+00:00",
+      "summary": "Even after the Nvidia scandal, new rules leave significant loopholes.",
+      "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/nvidia-huang-scandal-GettyImages-2247490231-e1795101151797.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "China, Russia and US at Apec: 3 presidents, 3 nuclear powers and 1 historic precedent",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3375114/china-russia-and-us-3-presidents-3-nuclear-powers-and-1-historic-precedent",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T15:25:32+00:00",
+      "summary": "When the leaders of the world’s three biggest nuclear powers sat down for talks in the southern Chinese city of Shenzhen on Thursday, they not only made history, they were likely setting a precedent.\nThe presidents of China, Russia and the United States – countries that were once also wartime allies – came together for the first time for a summit on the sidelines of the Apec leaders’ meeting.\nXi Jinping, Vladimir Putin and Donald Trump spent 90 minutes in discussion around a circular table at...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/d54549b0-00b4-41a7-beb0-375538db904b_65902b75.jpg?itok=6UPlFw99&v=1795097675",
+      "via": "rss"
+    },
+    {
+      "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
+      "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T15:24:51+00:00",
+      "summary": "The UK premier is heading to Brussels for the second round of EU talks aimed at deepening post-Brexit cooperation.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Putin pitches Arctic route, calls for investment: Will it work?",
+      "url": "https://www.aljazeera.com/news/2026/11/19/putin-pitches-arctic-route-calls-for-investment-will-it-work?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T15:16:43+00:00",
+      "summary": "Analysts say some Asian investors may show interest, but the route is unlikely to be a viable global shipping lane.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Power plays, verbal displays, Xi-Trump-Putin talk: historic Apec summit explained",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3375122/power-plays-verbal-displays-xi-trump-putin-talk-historic-apec-summit-explained",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T15:13:57+00:00",
+      "summary": "We have put together the top 12 stories from our coverage of the 2026 Apec summit held in Shenzhen, China. If you would like to see more of our reporting, please consider subscribing.\n1. China, Russia and US: 3 presidents, 3 nuclear powers and 1 historic precedent\nWhen Chinese President Xi Jinping, US President Donald Trump and Russian President Vladimir Putin, the leaders of the world’s three biggest nuclear powers, sat down for talks in the southern Chinese city of Shenzhen on Thursday, they...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/914a961c-1be3-4cd2-b0e7-7ad746d2ce1c_3ccca0ee.jpg?itok=sD6OXTwF&v=1795104653",
+      "via": "rss"
+    },
+    {
+      "title": "See how New York Times photographers covered the aftermath of Myanmar’s 2017 attacks on the Rohingya.",
+      "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/see-how-new-york-times-photographers-covered-myanmars-2017-attacks-on-the-rohingya",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T15:08:16+00:00",
+      "summary": "",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-archival-tbmv/19myanmar-icj-archival-tbmv-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Trump, Xi, Putin wrap up historic summit with nuclear arms control on agenda",
+      "url": "https://rfa.org/english/china/2026/11/19/trump-xi-putin-apec-summit/",
+      "source": "Radio Free Asia",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T15:07:24+00:00",
+      "summary": "The leaders of the United States, China and Russia concluded their first-ever trilateral summit in Shenzhen on Thursday, with nuclear arms control and regional conflicts high on the agenda amid deepening geopolitical and technological competition among the world’s major powers.Trump Xi Putin trilateral in ChinaU.S. President Donald Trump met Chinese President Xi Jinping and Russian President Vladimir Putin for more than an hour on the sidelines of the Asia-Pacific Economic Cooperation (APEC) forum, describing the gathering as a historic diplomatic occasion.“As the world’s three largest nuclear powers by far, the United States, Russia and China are uniquely positioned to discuss how to reduce the number of nuclear weapons on Earth and also to lessen the risk that those weapons will ever be used,” Trump said in his opening remarks.Xi called for the prohibition and destruction of nuclear weapons and the establishment of a world free of them, according to Chinese state broadcaster CCTV.Rus",
+      "image": "https://www.rfa.org/resizer/v2/7A23ANAD6RDIVJLJ2RS6FFMSMM.JPG?auth=de81abcfdeba961c3cc718fe7a87ac65bb1a23ce46ddbcb59fbf971fbf92192b&smart=true&width=1500",
+      "via": "rss"
+    },
+    {
+      "title": "EU Commission confirms it was targeted in cyberattack using AI tools",
+      "url": "https://www.dw.com/en/eu-commission-confirms-it-was-targeted-in-cyberattack-using-ai-tools/a-79993016?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "Deutsche Welle",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T14:58:00+00:00",
+      "summary": "The European Commission was targeted by an \"AI-generated cybercampaign,\" a spokesperson has said. This is the first time the bloc has publicly reported an AI-based cyberattack.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Gulf flare-up stokes fears of return to Iran war",
+      "url": "https://www.ft.com/content/090da02e-2ed1-491a-a2cf-3c8a6b10522e?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T14:53:28+00:00",
+      "summary": "A week of tit-for-tat escalation by Iran and the US has brought the countries closer to another full-scale confrontation, analysts say",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F3571237a-712b-4049-91c5-0f0109495e90.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "A geography of hearts: Turkiye and Lebanon, building the Levant together",
+      "url": "https://www.aljazeera.com/opinions/2026/11/19/a-geography-of-hearts-turkiye-and-lebanon-building-the-levant-together?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T14:41:38+00:00",
+      "summary": "Turkiye and Lebanon can build a stronger Levant through partnership, sovereignty and mutual respect.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Photo: Shenzhen Science Museum, by QuantFoto",
+      "url": "https://chinadigitaltimes.net/2026/11/photo-shenzhen-science-museum-by-quantfoto/",
+      "source": "China Digital Times",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-11-19T14:40:57+00:00",
+      "summary": "",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty",
+      "url": "https://www.aljazeera.com/news/2026/11/19/somalia-expels-uae-ambassador-accuses-abu-dhabi-of-violating-sovereignty?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T14:34:22+00:00",
+      "summary": "Somalia says the UAE is interfering in its internal affairs with actions that amount to an &#039;open invasion&#039;.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Global courts under attack and four more takeaways from the Trump, Xi, Putin meeting",
+      "url": "https://www.theguardian.com/world/2026/nov/19/five-takeaways-from-putin-trump-xi-apec-shenzhen-summit",
+      "source": "The Guardian",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T14:32:03+00:00",
+      "summary": "No breakthroughs on major subjects at first trilateral summit between leaders of US, China and RussiaThe presidents of the US, China and Russia met on Thursday for an unprecedented trilateral gathering on the sidelines of the Apec summit in Shenzhen. The session lasted more than an hour and Donald Trump, Xi Jinping and Vladimir Putin touched on nuclear weapons, the war in Ukraine and wider international security.The trio lead the world’s three major nuclear powers and their decisions have far-reaching consequences for global security. However, their meeting in China ended without an announced breakthrough or concrete agreement on the main issues. Here are five key takeaways: Continue reading...",
+      "image": "https://i.guim.co.uk/img/media/97b0e9a1d1b538e5752a97e26f6831abd741d580/168_0_1450_1160/master/1450.jpg?width=140&quality=85&auto=format&fit=max&s=c89b4c215f8070234dd7f66c9bff0524",
+      "via": "rss"
+    },
+    {
+      "title": "What the ICJ genocide ruling means for the Rohingya people",
+      "url": "https://www.aljazeera.com/news/2026/11/19/what-the-icj-ruling-means-for-the-rohingya?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T14:31:47+00:00",
+      "summary": "This is the first time the court has ruled that a state committed genocide.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Putin, Trump and Xi Condemn Nuclear War as Europe Watches Closely",
+      "url": "https://www.nytimes.com/2026/11/19/world/europe/trump-xi-putin-nuclear-weapons-ukraine.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T14:23:07+00:00",
+      "summary": "President Vladimir V. Putin of Russia, left, with President Xi Jinping of China and President Trump at a meeting in Shenzhen, China, on Thursday.",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-nukes-europe-1-zwgv/19trump-summits-nukes-europe-1-zwgv-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Asia watches from the outside waiting to see if Xi-Trump-Putin talks bear fruit",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3375116/asia-watches-outside-waiting-see-if-xi-trump-putin-talks-bear-fruit",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T14:21:20+00:00",
+      "summary": "When the leaders of China, the United States and Russia sat down in Shenzhen, the rest of Asia watched with a mix of cautious optimism and wary anticipation – knowing that any deal struck behind closed doors might redraw the regional balance of power.\nThe historic meeting between Xi Jinping, Donald Trump and Vladimir Putin marked the first-ever three-way talks between the leaders of the world’s major nuclear powers, and another such meeting is a possibility next month when the US hosts the Group...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/20/6ac35764-ce15-410e-889b-e9ff73bc6e38_0ff1f44f.jpg?itok=XXT_7Hoi&v=1795114185",
+      "via": "rss"
+    },
+    {
+      "title": "Wadephul: 'Coalition of the Willing' talks in Berlin send strong signal to Moscow",
+      "url": "https://www.dw.com/en/wadephul-coalition-of-the-willing-talks-in-berlin-send-strong-signal-to-moscow/a-79990664?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "Deutsche Welle",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T13:56:00+00:00",
+      "summary": "German Foreign Minister Wadephul has said the Coalition of the Willing meeting in Berlin sends a clear message to Moscow to take peace talks seriously. He also warned Ukraine should be prepared for peace talks to fail.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
+      "url": "https://www.aljazeera.com/video/al-jazeera-originals/2026/11/19/gaza-syndrome-israels-soldiers-haunted-by-genocide-cost-of-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T13:54:10+00:00",
+      "summary": "The trauma Israeli soldiers bring home — and the consequences of Israel’s genocide in Gaza.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Life in the Rohingya camps in Bangladesh is becoming more precarious.",
+      "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-rohingya-village-refugee-genocide-icj",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T13:50:10+00:00",
+      "summary": "",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-rohingya-camps-bfcp/19myanmar-icj-rohingya-camps-bfcp-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Canada’s beloved Tim Hortons brews ire over ‘excessive’ Israeli data deal",
+      "url": "https://www.aljazeera.com/features/2026/11/19/canadas-beloved-tim-hortons-brews-ire-over-excessive-israeli-data-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T13:49:49+00:00",
+      "summary": "Advocates raised concerns about consumer privacy and data-sharing, involving a firm with ties to Israel&#039;s military.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "FIFA Under-17 World Cup 2026 gets under way in Qatar despite USA withdrawal",
+      "url": "https://www.aljazeera.com/sports/2026/11/19/fifa-under-17-world-cup-2026-gets-under-way-in-qatar-despite-usa-withdrawal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T13:47:50+00:00",
+      "summary": "The 25-day tournament will feature 48 teams, with Dominican Republic replacing USA as FIFA plays down security concerns.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Handshakes, hugs and subtle power plays: decoding the Xi-Trump-Putin dynamic in Shenzhen",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3375112/handshakes-hugs-and-subtle-power-plays-decoding-xi-trump-putin-dynamic-shenzhen",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T13:47:37+00:00",
+      "summary": "After weeks of intense speculation, this year’s Asia-Pacific Economic Cooperation (Apec) summit in Shenzhen delivered an unscripted diplomatic spectacle – where every lingering handshake, pat on the back and side-by-side stride carried as much weight as the closed-door talks.\nThe tone was set before the leaders’ summit even officially began. Breaking with decades of protocol, Chinese President Xi Jinping personally appeared on the tarmac at Shenzhen Baoan International Airport to greet US...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/052457e8-d51f-4f1d-8a48-35213deffa5a_3fd49893.jpg?itok=ubrY38nk&v=1795096048",
+      "via": "rss"
+    },
+    {
+      "title": "The key to Anthropic’s value",
+      "url": "https://www.ft.com/content/aa8290dc-a20a-45af-97ab-1e71f97f236a?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T13:47:00+00:00",
+      "summary": "The AI company needs to become a full enterprise technology platform after IPO",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F977fb242-f3ba-40c2-acaf-d80b84b9217a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "The Daily Roundup",
+      "url": "https://www.thewirechina.com/2026/11/19/the-daily-roundup-november-19-2026/",
+      "source": "The Wire China",
+      "language": "en",
+      "type": "journal",
+      "published": "2026-11-19T13:43:11+00:00",
+      "summary": "November 19th, 2026 &#124; Welcome to The Wire’s daily news roundup. Each day, our staff gathers the top China business, finance, and economics headlines from a selection of the world’s leading news organizations.\nThe post The Daily Roundup appeared first on The Wire China.",
+      "image": "https://www.thewirechina.com/wp-content/uploads/2020/06/News_Final_BLUE_Valentina_Verc_3_smaller-1-300x149.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Where Roots Lie: Surviving Child Grooming and Exploitation",
+      "url": "https://www.aljazeera.com/video/witness/2026/11/19/where-roots-lie-surviving-child-grooming-and-exploitation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T13:30:00+00:00",
+      "summary": "Sosa, a survivor of trafficking and gang exploitation in the UK, returns to Nigeria to search for his missing mother.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Pakistan minister to visit India, but no breakthrough expected",
+      "url": "https://www.dw.com/en/pakistan-minister-to-visit-india-but-no-breakthrough-expected/a-79991717?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "Deutsche Welle",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T13:26:00+00:00",
+      "summary": "A Pakistani minister's visit to India for a Shanghai Cooperation Organization forum marks a rare high-level contact between the two archrivals, but analysts say it does not signal a resumption of bilateral engagement.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "Mosque set on fire in Israel, politicians blame Netanyahu’s ‘incitement’",
+      "url": "https://www.aljazeera.com/news/2026/11/19/mosque-set-on-fire-in-israel-politicians-blame-netanyahus-incitement?traffic_source=rss",
+      "source": "Al Jazeera",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T13:24:12+00:00",
+      "summary": "Knesset MPs call the incident &#039;a hate crime&#039; while Hamas blames Israeli &#039;settler gangs&#039;.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "In an authoritarian economy, Jensen Huang may be too big to fail | Robert Reich",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/19/jensen-huang-authoritarian-economy",
+      "source": "The Guardian",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T13:00:49+00:00",
+      "summary": "A handful of men control the US economy. They have leveraged themselves to be – or seem – indispensableJensen Huang has said he would return to Nvidia as its CEO if its board requests it.“I’ve seen an outpouring of calls from Nvidia’s employees, investors, business partners and customers for me to return as CEO,” Huang said. “If the board of directors decides that my return is in the best interest of our shareholders, our employees, the company and America, I would be honored to answer these calls and return as CEO.” Continue reading...",
+      "image": "https://i.guim.co.uk/img/media/847018c28132eb4f6a81dd32c217d4e4e6e3a851/526_0_2702_2162/master/2702.jpg?width=140&quality=85&auto=format&fit=max&s=ff9a92222fc001ed3d6e24d430835dee",
+      "via": "rss"
+    },
+    {
+      "title": "Xi, Trump and Putin hail ‘groundbreaking’ meeting",
+      "url": "https://www.ft.com/content/3fde6008-d9c4-46a3-89f8-0f7611cd9b3a?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T13:00:44+00:00",
+      "summary": "The world’s three largest nuclear powers agree to talks on preventing proliferation",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd9c62d35-e78b-4224-9bf4-7d215dbc590a.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "假裝身在紐西蘭、提前請假、搶購遊戲主機：粉絲為《GTA 6》發佈做足準備",
+      "url": "https://www.bbc.com/zhongwen/articles/cmg4659lx27ro/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-19T12:43:05+00:00",
+      "summary": "Sensor Tower估計，該遊戲透過PlayStation與Xbox平台的預購，已創造11.8億美元收入。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eb4c/live/4a003210-e1d0-11f1-b8c8-67fa35f5afdb.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Behind Trump Meeting, Xi and Putin Share a Vision of Usurping U.S. Power",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T12:41:50+00:00",
+      "summary": "President Vladimir V. Putin of Russia, Xi Jinping, China’s leader, and President Trump held the first formal trilateral meeting of the leaders of the three nations in Shenzhen, China, on Thursday.",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-xi-putin-kzfw/19int-xi-putin-kzfw-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "中美俄「三巨頭」峰會結束：涉及烏克蘭、伊朗議題，發表和平宣言承諾核對話",
+      "url": "https://www.bbc.com/zhongwen/articles/c38x04eppnpdo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-19T12:22:04+00:00",
+      "summary": "會後發表的中俄美元首和平宣言顯示，三國領導人承諾就「減少核風險、防止核擴散」展開對話，並就聯合國改革、能源穩定和國際刑事法院管轄權等議題達成四點共識。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1b0f/live/68aa4e30-e40f-11f1-b37c-b3a71d7200af.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Netanyahu Associates Acknowledge Role in Setting Off Election Day Arrests",
+      "url": "https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T12:16:39+00:00",
+      "summary": "Prime Minister Benjamin Netanyahu of Israel at the country’s Parliament in Jerusalem on Tuesday. The election has left neither Mr. Netanyahu nor the opposition with a clear path to forming a government.",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18israel-steal-02-zfbq/18israel-steal-02-zfbq-mediumSquareAt3X-v3.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "China Bars Bloomberg Reporter From Trilateral Talks for Asking a Question",
+      "url": "https://www.nytimes.com/2026/11/19/world/asia/trump-summit-china-media-bloomberg-reporter-nvidia.html",
+      "source": "New York Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T12:08:19+00:00",
+      "summary": "President Trump and Xi Jinping, the leader of China, in Shenzhen on Thursday. In the United States, it is routine for the president to answer impromptu questions from the press corps.",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-media-01-tqhf/19trump-summits-media-01-tqhf-mediumSquareAt3X.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "毛里求斯要加入查戈斯群岛讨论",
+      "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20261119-rfi%E6%B3%95%E5%B9%BF-%E4%B8%AD%E6%96%87-%E5%B0%BC%E5%8F%A4%E6%8B%89-%E9%9D%9E%E6%B4%B2-%E6%AF%9B%E9%87%8C%E6%B1%82%E6%96%AF%E8%A6%81%E5%8A%A0%E5%85%A5%E6%9F%A5%E6%88%88%E6%96%AF%E7%BE%A4%E5%B2%9B%E8%AE%A8%E8%AE%BA",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-19T12:07:57+00:00",
+      "summary": "印度洋岛国毛里求斯（Maurice）提出加入美英两国有关查戈斯群岛（Archipel des Chagos）未来的讨论。这是本台法广非洲组(RFI Afrique)今天（2026年11月19日星期四）刊出的最新法文消息之一。路易港方面总是优先考虑通过外交途径来解决（Port-Louis privilégie toujours une solution diplomatique），但不排除将相关问题诉诸司法。毛里求斯的中文国名也有译作模里西斯（Mauritius）。",
+      "image": "https://s.rfi.fr/media/display/b6e642ea-e40d-11f1-8a24-e56ab3dc0809/w:1024/p:16x9/2026-11-19-J-FMM-Image-Afrique-Maurice-des-chagos-archive-RFI.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Japanese PM Takaichi tries to break ice with Xi by thanking him for hosting Apec summit",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3375103/japanese-pm-takaichi-tries-break-ice-xi-thanking-him-hosting-apec-summit",
+      "source": "SCMP",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T11:54:30+00:00",
+      "summary": "Japanese Prime Minister Sanae Takaichi thanked Chinese President Xi Jinping for inviting her to the Apec summit and congratulated him on successfully hosting the event on Thursday.\nSpeaking at a press conference at the end of her visit to Shenzhen, Takaichi described her brief interactions with the Chinese leader.\nUnlike other leaders, she did not have a one-on-one meeting with Xi, but after a quick handshake at Wednesday’s welcome banquet, she spoke to him for around 10 seconds on Thursday...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/d1d00ede-bb67-4542-a66d-5c9fd1242e2b_c27ee8b4.jpg?itok=XJcmImLM&v=1795089171",
+      "via": "rss"
+    },
+    {
+      "title": "Ukraine’s western allies meet in Berlin to counter Yalta 2.0 optics",
+      "url": "https://www.ft.com/content/b102bd7f-175c-4cd3-8f05-6c9dd10115e1?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T11:48:38+00:00",
+      "summary": "Germany hosts 40 delegations in show of solidarity for Kyiv while leaders of Russia, China and US meet in Shenzhen",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F855665d8-87ca-44a2-9700-e595037deb32.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "via": "rss"
+    },
+    {
+      "title": "Myanmar committed genocide against Rohingya, top UN court rules",
+      "url": "https://www.dw.com/en/myanmar-committed-genocide-against-rohingya-top-un-court-rules/a-79987898?maca=en-rss-en-world-4025-xml-mrss",
+      "source": "Deutsche Welle",
+      "language": "en",
+      "type": "broadcast",
+      "published": "2026-11-19T11:39:00+00:00",
+      "summary": "The International Court of Justice has upheld large parts of a genocide case against Myanmar linked to the 2017 conflict with its Rohingya minority. It called for it to pay reparations and let refugees return safely.",
+      "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "特习普结束历史性三方会晤，讨论乌战与核军控并发表联合《和平宣言》",
+      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261119-%E7%89%B9%E4%B9%A0%E6%99%AE%E7%BB%93%E6%9D%9F%E5%8E%86%E5%8F%B2%E6%80%A7%E4%B8%89%E6%96%B9%E4%BC%9A%E6%99%A4%EF%BC%8C%E8%AE%A8%E8%AE%BA%E4%B9%8C%E6%88%98%E4%B8%8E%E6%A0%B8%E5%86%9B%E6%8E%A7%E5%B9%B6%E5%8F%91%E8%A1%A8%E8%81%94%E5%90%88-%E5%92%8C%E5%B9%B3%E5%AE%A3%E8%A8%80",
+      "source": "法广中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-19T11:30:00+00:00",
+      "summary": "周四（11月19日），美国总统特朗普、中国国家主席习近平和俄罗斯总统普京结束了一场前所未有的三方会晤。三位领导人在会谈中讨论了乌克兰战争以及核军备控制等议题。据中国官方媒体报道，中国、俄罗斯和美国三国元首在三方峰会结束后通过了一份联合《和平宣言》，其中表示将增加全球成品油的生产和供应。",
+      "image": "https://s.rfi.fr/media/display/d2647720-e404-11f1-bd10-7908c4e1a3c7/w:1024/p:16x9/2026-11-19T100829Z-181711921-RC2XQOA053U4-RTRMADP-3-APEC-SUMMIT.jpg",
+      "via": "rss"
+    },
+    {
+      "title": "Anthropic is a ‘must own’",
+      "url": "https://www.ft.com/content/4224e2ed-116c-466b-97f4-54a5ef43a54e",
+      "source": "Financial Times",
+      "language": "en",
+      "type": "newspaper",
+      "published": "2026-11-19T11:06:08+00:00",
+      "summary": "Is that good?",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6d9d59a9-88f3-4831-90d4-c619955555c9.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -155,42 +1289,9 @@
       "source": "New York Times",
       "language": "en",
       "type": "newspaper",
-      "published": "2026-11-19T10:41:36+00:00",
+      "published": "2026-11-19T10:41:37+00:00",
       "summary": "President Vladimir V. Putin of Russia, President Xi Jinping of China and President Trump before their meeting on Thursday in Shenzhen, China.",
       "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-nuclear-02-tpbq/19trump-summits-nuclear-02-tpbq-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Here’s the latest.",
-      "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/heres-the-latest",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T10:37:25+00:00",
-      "summary": "",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "UN top court convicts Myanmar of ‘genocidal intent’ against Rohingya",
-      "url": "https://www.aljazeera.com/news/2026/11/19/un-top-court-finds-myanmar-killed-10000-rohingya-as-it-rules-on-genocide?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-19T10:31:36+00:00",
-      "summary": "In case filed at the ICJ in 2019, The Gambia accused Myanmar of breaching the 1948 Genocide Convention.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "How the War in Iran Will Remake the Global Energy Order",
-      "url": "https://www.nytimes.com/2026/11/19/business/cop31-energy-iea.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T10:27:38+00:00",
-      "summary": "Falling costs of solar panels and battery storage are expected to accelerate the shift to renewable energy, though rising fossil fuel use will offset some of the gains.",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19biz-iea-energy-01-mgtf/19biz-iea-energy-01-mgtf-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -224,28 +1325,6 @@
       "published": "2026-11-19T10:17:31+00:00",
       "summary": "Exiled residents of Zammona, Myanmar, in a refugee camp in Cox’s Bazar, in Bangladesh, in November. Clockwise from top left: Rehana Bibi; Mustafa Kamal and Toyuba Khatun; Morijan with her children; Sukura Begum; Mohammed Yunus; and Abdul Rohim.",
       "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-rohingya-camps-version-grid/19int-rohingya-camps-version-grid-mediumSquareAt3X.png",
-      "via": "rss"
-    },
-    {
-      "title": "‘Displacement by design’: Trump’s Gaza peace plan a failure, aid groups say",
-      "url": "https://www.aljazeera.com/news/2026/11/19/displacement-by-design-trumps-gaza-peace-plan-a-failure-aid-groups-say?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-19T10:05:33+00:00",
-      "summary": "With two million Palestinians confined to an area of less than 130sq km, UN-backed Gaza peace plan has collapsed.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Trump calls for nuclear arms reduction at APEC summit",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-calls-for-nuclear-arms-reduction-at-apec-summit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-19T10:03:27+00:00",
-      "summary": "Trump calls for nuclear arms reduction at APEC summit",
-      "image": "",
       "via": "rss"
     },
     {
@@ -304,17 +1383,6 @@
       "via": "rss"
     },
     {
-      "title": "Malaysian weightlifting champion Roslin loses arm after motorbike crash",
-      "url": "https://www.aljazeera.com/sports/2026/11/19/malaysian-weightlifting-champion-hafizuddin-loses-arm-after-motorbike-crash?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-19T09:56:07+00:00",
-      "summary": "Muhammad Hafizuddin Roslin, who won a gold medal at the Commonwealth Games 2026, had his arm amputated after accident.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "APEC 峰会之际 俄罗斯军机再次飞越台湾",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261119-apec-%E5%B3%B0%E4%BC%9A%E4%B9%8B%E9%99%85-%E4%BF%84%E7%BD%97%E6%96%AF%E5%86%9B%E6%9C%BA%E5%86%8D%E6%AC%A1%E9%A3%9E%E8%B6%8A%E5%8F%B0%E6%B9%BE",
       "source": "法广中文",
@@ -337,17 +1405,6 @@
       "via": "rss"
     },
     {
-      "title": "Air strike hits Saudi sovereign wealth fund headquarters",
-      "url": "https://www.ft.com/content/05ed47a5-7cc1-402f-ad0d-826ba09a05c8?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T09:41:38+00:00",
-      "summary": "Attack on powerful Public Investment Fund follows near-daily barrages on the kingdom by Houthi rebels",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbc0b790a-b1e6-490a-8d3d-23a17a3ccaed.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
       "title": "习近平：美国应在台湾问题上“做正确的事情”，避免中美关系出现大的波折",
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261119-%E4%B9%A0%E8%BF%91%E5%B9%B3-%E7%BE%8E%E5%9B%BD%E5%BA%94%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A-%E5%81%9A%E6%AD%A3%E7%A1%AE%E7%9A%84%E4%BA%8B%E6%83%85-%EF%BC%8C%E9%81%BF%E5%85%8D%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E5%87%BA%E7%8E%B0%E5%A4%A7%E7%9A%84%E6%B3%A2%E6%8A%98",
       "source": "法广中文",
@@ -356,17 +1413,6 @@
       "published": "2026-11-19T09:40:56+00:00",
       "summary": "据中国官方通讯社新华社报道，中国国家主席习近平周四(11月19日)表示，美国应在台湾问题上“做正确的事情”，以避免中美关系遭遇重大挫折。此前，习近平在深圳与美国总统特朗普举行了会谈。",
       "image": "https://s.rfi.fr/media/display/3c9f0a34-e3a0-11f1-8e3e-7908c4e1a3c7/w:1024/p:16x9/2026-11-18T110903Z-2031228129-RC29QOATMNEK-RTRMADP-3-APEC-SUMMIT.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "After Crippling Crimea Bridge, Ukraine Attacks It Again",
-      "url": "https://www.nytimes.com/2026/11/18/world/europe/russia-kerch-strait-crimean-bridge.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T09:24:04+00:00",
-      "summary": "Russia has vowed to quickly restore the structure, but engineering specialists say the work could take years.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -403,14 +1449,14 @@
       "via": "rss"
     },
     {
-      "title": "North Korea expanding uranium enrichment facility, UN nuclear watchdog says",
-      "url": "https://www.aljazeera.com/news/2026/11/19/north-korea-expanding-uranium-enrichment-facility-un-nuclear-watchdog-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
+      "title": "AI是做精神導師，發佈教法裁決？穆斯林對此意見不一",
+      "url": "https://www.bbc.com/zhongwen/articles/cmdx1eqdl9vpo/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "language": "zh",
       "type": "broadcast",
-      "published": "2026-11-19T09:16:47+00:00",
-      "summary": "North Korea can produce both highly enriched uranium and weapons-grade plutonium at its facilities, according to IAEA.",
-      "image": "",
+      "published": "2026-11-19T09:16:44+00:00",
+      "summary": "穆斯林社群因伊斯蘭AI助手Qaf能否頒布教法裁決爆發爭議。開發者強調僅供學習，學者則警告不可取代專業裁決，反映AI與傳統宗教的張力。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/420f/live/c60929f0-d6b5-11f1-aacc-5b5f23abff4b.jpg",
       "via": "rss"
     },
     {
@@ -422,17 +1468,6 @@
       "published": "2026-11-19T09:15:31+00:00",
       "summary": "现年81岁的宏碁电脑创办人施振荣出任本届APEC台湾代表，19日上午会场期间，他与习近平、美国总统特朗普和俄罗斯总统普廷等5国领袖握手。施振荣是一位无鲜明政党色彩的科技界元老，能否顺利完成这次代表台湾的任务，将成为观察本届峰会的重要指标。",
       "image": "https://s.rfi.fr/media/display/25736ec0-e3f7-11f1-a59e-c5c0357b2a0c/w:1024/p:16x9/2026-11-19T084350Z-1105585625-RC2WQOAQOPC3-RTRMADP-3-APEC-SUMMIT-TRUMP.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Villa Where Trump, Xi and Putin Met Once Hosted Kim Jong-il",
-      "url": "https://www.nytimes.com/2026/11/19/world/asia/trump-xi-putin-kylin-villa.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T09:15:23+00:00",
-      "summary": "The secluded Kylin Villa resort in the Chinese city of Shenzhen once hosted the North Korean dictator, Xi Jinping’s father and envoys of the Dalai Lama.",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-villa/19trump-summits-villa-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -458,28 +1493,6 @@
       "via": "rss"
     },
     {
-      "title": "Aung San Suu Kyi did not condemn the pogroms against the Rohingya.",
-      "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/aung-san-suu-kyi-did-not-condemn-the-pogroms-against-the-rohingya",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T09:07:24+00:00",
-      "summary": "",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-assk-kbzv/19myanmar-icj-assk-kbzv-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Kenya’s marathon champion Peres Jepchirchir gets three-year ban for doping",
-      "url": "https://www.aljazeera.com/sports/2026/11/19/kenyas-marathon-champion-peres-jepchirchir-gets-three-year-ban-for-doping?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-19T09:06:36+00:00",
-      "summary": "Jepchirchir breached anti-doping rules by testing positive for banned substance EPO, Athletics Integrity Unit says.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "三方会晤前特朗普对习近平表示中国可帮助结束乌克兰战争",
       "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261119-%E4%B8%89%E6%96%B9%E4%BC%9A%E6%99%A4%E5%89%8D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%A1%A8%E7%A4%BA%E4%B8%AD%E5%9B%BD%E5%8F%AF%E5%B8%AE%E5%8A%A9%E7%BB%93%E6%9D%9F%E4%B9%8C%E5%85%8B%E5%85%B0%E6%88%98%E4%BA%89%EF%BC%8C%E5%88%86%E6%9E%90%E4%BA%BA%E5%A3%AB%E8%AE%A4%E4%B8%BA%E4%B8%89%E6%96%B9%E5%BE%88%E9%9A%BE%E8%BE%BE%E6%88%90%E9%87%8D%E5%A4%A7%E5%8D%8F%E8%AE%AE",
       "source": "法广中文",
@@ -488,17 +1501,6 @@
       "published": "2026-11-19T09:03:07+00:00",
       "summary": "美国总统特朗普周四（11月19日）对中国国家主席习近平表示，希望双方共同帮助结束乌克兰战争。晚些时候，两人将与俄罗斯总统普京举行一次前所未有的三方会晤。",
       "image": "https://s.rfi.fr/media/display/e9863ec0-e3f5-11f1-bb2e-ff16da94d1fe/w:1024/p:16x9/2026-11-19T084432Z-1232674317-RC2WQOATF4XP-RTRMADP-3-APEC-SUMMIT.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "What to Know About the Myanmar Genocide Case at the World Court",
-      "url": "https://www.nytimes.com/2026/11/18/world/asia/myanmar-rohingya-muslim-genocide-world-court.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T08:58:46+00:00",
-      "summary": "A Rohingya refugee camp in Cox’s Bazar, Bangladesh, on Tuesday, two days before an International Court of Justice ruling.",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-myanmar-icj-wtk-mtwg/18int-myanmar-icj-wtk-mtwg-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -524,61 +1526,6 @@
       "via": "rss"
     },
     {
-      "title": "Half a world from The Hague, Rohingya refugees know nothing of a genocide trial.",
-      "url": "https://www.nytimes.com/live/2026/11/19/world/myanmar-icj-ruling-genocide/myanmar-icj-genocide-case-rohingya-refugees",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T08:39:44+00:00",
-      "summary": "",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19myanmar-icj-preruling-reax-htvm/19myanmar-icj-preruling-reax-htvm-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "How to Decode the Xi-Trump Hug",
-      "url": "https://www.nytimes.com/2026/11/18/world/asia/xi-trump-hug-shenzhen.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T08:32:47+00:00",
-      "summary": "Observers analyzing the dynamics between world leaders found ample material in the notable embrace between President Xi Jinping of China and President Trump during Mr. Trump’s arrival in Shenzhen, China, on Wednesday.",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-hugging-topart-jmkw/19trump-summits-hugging-topart-jmkw-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Trump meets Putin and Xi for trilateral US, Russia, China talks at APEC",
-      "url": "https://www.aljazeera.com/news/2026/11/19/trump-meets-putin-and-xi-ahead-of-us-russia-china-trilateral-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-19T08:32:10+00:00",
-      "summary": "US president calls both Putin and Xi a &#039;friend&#039; in separate meetings ahead of rare three-way talks in China.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Netanyahu Associates Acknowledge Role in Setting Off Election Day Arrests",
-      "url": "https://www.nytimes.com/2026/11/19/world/middleeast/netanyahu-arab-activists-arrests-israel-election.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T08:31:48+00:00",
-      "summary": "Prime Minister Benjamin Netanyahu of Israel at the country’s Parliament in Jerusalem on Tuesday. The election has left neither Mr. Netanyahu nor the opposition with a clear path to forming a government.",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18israel-steal-02-zfbq/18israel-steal-02-zfbq-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Is Trump helping rehabilitate Putin on the world stage?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/is-trump-helping-rehabilitate-putin-on-the-world-stage?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-19T08:31:14+00:00",
-      "summary": "Is Trump helping rehabilitate Putin on the world stage?",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "The Ground Beneath the Cloud: Dispersion and Dependency in the Digital Age",
       "url": "https://warontherocks.com/the-ground-beneath-the-cloud-dispersion-and-dependency-in-the-digital-age/",
       "source": "War on the Rocks",
@@ -601,25 +1548,14 @@
       "via": "rss"
     },
     {
-      "title": "Xi invokes WWII alliance, Trump raises nuclear cuts in 3-way talks with Putin",
+      "title": "Xi calls on Trump and Putin to avoid conflict, protect energy security in 3-way talks",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3375055/xi-trump-and-putin-meet-landmark-trilateral-talks-apec",
       "source": "SCMP",
       "language": "en",
       "type": "newspaper",
       "published": "2026-11-19T08:28:54+00:00",
-      "summary": "Chinese President Xi Jinping, US President Donald Trump and Russian President Vladimir Putin began a historic trilateral meeting on Thursday afternoon, marking the first-ever three-way summit between the leaders of the world’s major nuclear powers.\nThe meeting is taking place in the southern Chinese city of Shenzhen on the sidelines of the Asia-Pacific Economic Cooperation (Apec) summit. If Putin travels to Miami for the Group of 20 (G20) summit next month, the three could have a second...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/666882e4-1127-45cd-ae64-6c65a18a8ced_0e03e758.jpg?itok=ayNfHUOU&v=1795079307",
-      "via": "rss"
-    },
-    {
-      "title": "Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south",
-      "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-19T08:19:17+00:00",
-      "summary": "Material damage was reported after ​debris fell following the latest Houthi strikes launched towards Saudi Arabia.",
-      "image": "",
+      "summary": "Chinese President Xi Jinping called on Beijing, Washington and Moscow to avoid conflict and safeguard the security and stability of global energy markets during an unprecedented trilateral summit with US President Donald Trump and Russian President Vladimir Putin.\nThe historic meeting on Thursday afternoon marked the first-ever three-way summit between the leaders of the world’s major nuclear powers. It took place in the southern Chinese city of Shenzhen on the sidelines of the Asia-Pacific...",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/9135d162-ea06-4bd7-bdef-c05f2d224ada_01b75bf9.jpg?itok=oYWSjy4X&v=1795079300",
       "via": "rss"
     },
     {
@@ -656,39 +1592,6 @@
       "via": "rss"
     },
     {
-      "title": "建宏福苑火灾纪录库者因揭名医之女涉嫌「请枪」反被控四宗罪：吹哨者变被告",
-      "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261119-%E5%BB%BA%E5%AE%8F%E7%A6%8F%E8%8B%91%E7%81%AB%E7%81%BE%E7%BA%AA%E5%BD%95%E5%BA%93%E8%80%85%E5%9B%A0%E6%8F%AD%E5%90%8D%E5%8C%BB%E4%B9%8B%E5%A5%B3%E6%B6%89%E5%AB%8C-%E8%AF%B7%E6%9E%AA-%E5%8F%8D%E8%A2%AB%E6%8E%A7%E5%9B%9B%E5%AE%97%E7%BD%AA-%E5%90%B9%E5%93%A8%E8%80%85%E5%8F%98%E8%A2%AB%E5%91%8A",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-11-19T07:59:14+00:00",
-      "summary": "曾揭发香港名医之女获奖的 AI 医疗程式「药倍安心」涉嫌是「请枪」开发，并在大埔宏福苑火灾后建立资料库以保存火灾资讯的大学生郑曦琳，从吹哨者变成刑事被告，在公开获美国着名大学收生後，於昨(18日)午被警方正式起诉她四项「起底罪」，明年春季赴美升学的计划亦可能生变。事件引发关注，有评论认为，揭弊者反成被告令人痛心，亦质疑检控是否涉及政治因素。",
-      "image": "https://s.rfi.fr/media/display/176583de-e3ef-11f1-b290-1ba7ddfab527/w:1024/p:16x9/19-11-%E6%8F%AD%E9%9C%B2-%E8%8D%AF%E5%80%8D%E5%AE%89%E5%BF%83-%E6%B6%89%E5%AB%8C-%E8%AF%B7%E6%9E%AA-%E7%9A%84%E9%83%91%E6%9B%A6%E7%90%B3-%E5%9B%BE%E5%B7%A6-%E7%BB%88%E8%A2%AB%E8%AD%A6%E6%96%B9%E8%B5%B7%E8%AF%89-%E5%A5%B9%E4%BA%8B%E5%90%8E%E5%8F%91%E6%96%87-%E6%8B%85%E5%BF%83%E6%A1%88%E4%BB%B6%E5%BD%B1%E5%93%8D%E5%85%B6%E8%B5%B4%E7%BE%8E%E5%8D%87%E5%AD%A6%E8%AE%A1%E5%88%92-%E9%83%91%E6%9B%A6%E7%90%B3%E8%84%B8%E4%B9%A6%E6%88%AA%E5%9B%BE.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Why is Pete Hegseth strengthening US military ties with Venezuela?",
-      "url": "https://www.aljazeera.com/news/2026/11/19/why-is-pete-hegseth-strengthening-us-military-ties-with-venezuela?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-19T07:52:30+00:00",
-      "summary": "Hegseth&#039;s new military deal with Venezuela raises questions about US influence, regional security and Maduro&#039;s removal.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Gaza Syndrome: Why Israeli soldiers’ trauma erases Palestinian victims",
-      "url": "https://www.aljazeera.com/features/2026/11/19/gaza-syndrome-why-israeli-soldiers-trauma-erases-palestinian-victims?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-19T07:51:03+00:00",
-      "summary": "Israeli soldiers describe the psychological toll of the genocide in Gaza, yet many express no remorse.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "Side by side in Shenzhen: inside Xi Jinping and Peng Liyuan’s first-couple diplomacy",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3375044/side-side-shenzhen-inside-xi-jinping-and-peng-liyuans-first-couple-diplomacy",
       "source": "SCMP",
@@ -697,17 +1600,6 @@
       "published": "2026-11-19T07:47:15+00:00",
       "summary": "Vietnamese leader To Lam and his wife, Ngo Phuong Ly, had just moved on. Russian President Vladimir Putin had yet to appear. In the lull, Peng Liyuan took a step towards her husband, Chinese President Xi Jinping.\nShe began to speak, pointing ahead and to her right as Xi’s gaze followed her gesture before returning to her. They stood close while they talked in the brief interval – no more than a minute and a half – before the next guest arrived.\nAs China’s first couple welcomed Asia-Pacific...",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/9209bd33-ebc1-489b-b15b-dd44bfcc2626_1e3917c8.jpg?itok=3mKLnHTZ&v=1795074427",
-      "via": "rss"
-    },
-    {
-      "title": "Trump, Putin and Xi stage historic trilateral meeting",
-      "url": "https://www.ft.com/content/fcf6d27b-a04c-4cef-8b03-ce2423566f1f",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T07:43:13+00:00",
-      "summary": "Summit with three leaders in southern Chinese city of Shenzhen during week of high-stakes diplomacy",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fef3582d4-ef37-448a-ab0f-e5c746bb781c.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -722,36 +1614,14 @@
       "via": "rss"
     },
     {
-      "title": "Charting the world’s biggest IPOs as Anthropic overtakes SpaceX",
-      "url": "https://www.aljazeera.com/news/2026/11/19/charting-the-worlds-biggest-ipos-as-anthropic-overtakes-spacex?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
+      "title": "APEC的特色服飾：從克林頓皮衣到深圳「鯤鵬展翅」絲巾",
+      "url": "https://www.bbc.com/zhongwen/articles/cmly7er4rze9o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "language": "zh",
       "type": "broadcast",
-      "published": "2026-11-19T07:36:08+00:00",
-      "summary": "The AI company behind Claude raised $81.3bn in the largest initial public offering ever, at a $1.5 trillion valuation.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "‘Too early’ to determine impact of US blockade on Iran, with Tehran defiant",
-      "url": "https://www.aljazeera.com/economy/2026/11/19/too-early-to-determine-impact-of-us-siege-on-iran-with-tehran-defiant?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-19T07:08:57+00:00",
-      "summary": "The US blockade of Iranian ports has a crippling effect on the economy, but Tehran insists its economy can survive.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Anthropic raises $81bn in record IPO",
-      "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T07:04:26+00:00",
-      "summary": "Shares in AI giant set to begin trading on Thursday after company sells shares at $1.5tn valuation in blockbuster listing",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F5576ecb8-b4f7-4253-8b53-481d02b68328.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
+      "published": "2026-11-19T07:05:39+00:00",
+      "summary": "在每一年的亞太經合組織峰會上，人們除了關心哪個國的領導人出席、他們之間的互動和談話，還有他們大合照時穿了什麼。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fefc/live/96bdd5d0-e3e7-11f1-99a1-253766e7ad8b.jpg",
       "via": "rss"
     },
     {
@@ -766,17 +1636,6 @@
       "via": "rss"
     },
     {
-      "title": "Netanyahu’s last stand and the dangerous politics of survival",
-      "url": "https://www.aljazeera.com/news/2026/11/19/netanyahus-last-stand-and-the-dangerous-politics-of-survival?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-19T06:58:44+00:00",
-      "summary": "Facing political oblivion, Netanyahu is playing a high-stakes game that could push Israel towards violence and chaos.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "Homo erectus teeth found in China’s rainforest topple theory of human evolution",
       "url": "https://www.scmp.com/news/china/science/article/3374985/homo-erectus-teeth-found-chinas-rainforest-topple-theory-human-evolution",
       "source": "SCMP",
@@ -788,36 +1647,14 @@
       "via": "rss"
     },
     {
-      "title": "Putin Returns to APEC ‘Family Photo,’ Testing Western Leaders",
-      "url": "https://www.nytimes.com/2026/11/19/world/asia/putin-xi-trump-apec-family-photo.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T06:46:07+00:00",
-      "summary": "The leaders of Australia and Canada defended their decision to join the APEC group portrait as a courtesy to the host, China, despite criticism at home.",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trump-summits-family-photo-lqjb/19trump-summits-family-photo-lqjb-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "‘It’s my friend’: Moment Trump greets Putin at China summit",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/its-my-friend-moment-trump-greets-putin-at-china-summit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
+      "title": "Anthropic上市：七位即將成為億萬富翁的創辦人",
+      "url": "https://www.bbc.com/zhongwen/articles/cw4gn9359q37o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "language": "zh",
       "type": "broadcast",
-      "published": "2026-11-19T06:44:59+00:00",
-      "summary": "‘It’s my friend’: Moment Trump greets Putin at China summit",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "A Village Burned, Its People Killed or Exiled. Was It Genocide?",
-      "url": "https://www.nytimes.com/2026/11/19/world/asia/myanmar-rohingya-village-refugee-genocide.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T06:42:09+00:00",
-      "summary": "Mustafa Kamal and Toyuba Khatun once had a prosperous life in Myanmar. But for nearly a decade the couple and their family have been living in a refugee camp in Cox’s Bazar, Bangladesh.",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-rohingya-camps-01-kjtp/19int-rohingya-camps-01-kjtp-mediumSquareAt3X.jpg",
+      "published": "2026-11-19T06:43:09+00:00",
+      "summary": "開發AI聊天機器人Claude的Anthropic在美國上市，這將使其創辦人身價暴增。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
       "via": "rss"
     },
     {
@@ -829,50 +1666,6 @@
       "published": "2026-11-19T06:24:25+00:00",
       "summary": "Xi Jinping has urged his American counterpart, Donald Trump, to “do the right thing” on Taiwan, and called for the two powers to manage their differences to keep tensions in check.\nDuring their talks on the sidelines of the Apec summit in Shenzhen on Thursday, Xi told Trump that sustaining the present stable and positive momentum in ties depended on acting on the consensus reached by the two leaders, and that both sides needed to step up communication, according to state news agency Xinhua.\nXi...",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/b473bd26-35fa-4826-9984-d15560b2f8a8_3581ade5.jpg?itok=d5FUd1-x&v=1795070630",
-      "via": "rss"
-    },
-    {
-      "title": "Could Trump, Putin and Xi end the nuclear age?",
-      "url": "https://www.aljazeera.com/opinions/2026/11/19/could-trump-putin-and-xi-end-the-nuclear-age?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-19T06:15:55+00:00",
-      "summary": "Their meeting could revive the dream of nuclear disarmament that Reagan and Gorbachev nearly realised 40 years ago.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Grand Theft Auto VI launches to rave reviews after 13-year wait",
-      "url": "https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches-to-rave-reviews-after-13-year-wait?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-19T06:08:47+00:00",
-      "summary": "Critics hail GTA 6 as a &#039;masterpiece&#039;, &#039;spectacular&#039;, and an &#039;astonishing American epic&#039;.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "The Xi-Putin-Trump summit will not be a ‘new Yalta’",
-      "url": "https://www.aljazeera.com/opinions/2026/11/19/the-xi-putin-trump-summit-will-not-be-a-new-yalta?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-19T06:07:05+00:00",
-      "summary": "The three leaders have divergent geopolitical goals and visions for the world order.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Ecuadorian footballer gets eight-year ban for throwing rock at referee",
-      "url": "https://www.aljazeera.com/sports/2026/11/19/ecuadorian-footballer-gets-eight-year-ban-for-throwing-rock-at-referee?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-19T06:06:23+00:00",
-      "summary": "Jhon Perlaza threw a stone that struck an assistant referee, who later required surgery, during a third-tier match.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -898,17 +1691,6 @@
       "via": "rss"
     },
     {
-      "title": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
-      "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-19T05:13:13+00:00",
-      "summary": "World court to issue key verdict in its first genocide ruling in more than a decade.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "'It's my friend!': Trump hails 'great relationship' with Putin at Apec summit – video",
       "url": "https://www.theguardian.com/us-news/video/2026/nov/19/trump-greets-putin-before-holding-talks-at-apec-summit-video",
       "source": "The Guardian",
@@ -920,14 +1702,14 @@
       "via": "rss"
     },
     {
-      "title": "After Train Crash, Spain Asks if High-Speed Rail Grew Too Fast",
-      "url": "https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html",
-      "source": "New York Times",
+      "title": "US companies turn to robots to ease labour shortage crisis",
+      "url": "https://www.ft.com/content/747f5533-1bab-4143-a78b-ed4e2b575340?syn-25a6b1a6=1",
+      "source": "Financial Times",
       "language": "en",
       "type": "newspaper",
-      "published": "2026-11-19T05:01:08+00:00",
-      "summary": "Emergency services at the scene of a train crash in southern Spain last month. Spaniards are questioning whether the rail network was serviced well enough.",
-      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19int-spain-trains-01-pvbh/19int-spain-trains-01-pvbh-mediumSquareAt3X.jpg",
+      "published": "2026-11-19T05:00:18+00:00",
+      "summary": "Some say speed of automation is still not fast enough to make country internationally competitive as manufacturing sector struggles",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6b848898-6fdd-48b9-96c5-fd5f2ab71ed2.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
       "via": "rss"
     },
     {
@@ -942,28 +1724,6 @@
       "via": "rss"
     },
     {
-      "title": "AI advances at Anthropic trigger new safety fears on eve of IPO",
-      "url": "https://www.ft.com/content/d8be4655-211c-49a8-bfe4-18a00b8e8619?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T05:00:17+00:00",
-      "summary": "Group disclosed it had activated part of ‘responsible scaling policy’ it set up to ensure AI did not develop so quickly that it caused ‘catastrophic risks’",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc53f5e52-fac8-4db3-abf6-48b0b01cbdf4.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "Retail investors face squeeze in blockbuster Anthropic IPO",
-      "url": "https://www.ft.com/content/38c122d6-b533-4595-9554-3852c52e580f?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T05:00:17+00:00",
-      "summary": "Frenzy for AI stocks is testing how far Wall Street will go to accommodate a new army of individual investors",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fffe47a4c-f930-4bfc-b1e4-8ebe180487e0.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
       "title": "Angry America and its housing market",
       "url": "https://www.ft.com/content/9450175e-3da3-4df3-bd93-050683bbb98a?syn-25a6b1a6=1",
       "source": "Financial Times",
@@ -975,50 +1735,6 @@
       "via": "rss"
     },
     {
-      "title": "Gold loses its lustre for investors",
-      "url": "https://www.ft.com/content/86aaff9a-0d0f-49dd-81fc-4c96bcbf2f32?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T05:00:17+00:00",
-      "summary": "Precious metal long touted as a diversifier for portfolios has not offered protection during recent tech stock fall",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F80d46f25-fa13-44bf-bf4f-6ec5bb0190d7.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "Adani: the billionaire at the heart of Modi’s India",
-      "url": "https://www.ft.com/content/e1867545-5142-4ee5-b092-b7e04ac04b66?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T05:00:11+00:00",
-      "summary": "Three years ago, the tycoon was fending off lawsuits and accusations of fraud. Now, his business empire looks more powerful than ever",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff0f98e0a-c8d9-44e8-8219-316761ec9866.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "Deutsche Bank’s Italian unit hid up to €800mn of mortgage lending losses",
-      "url": "https://www.ft.com/content/06be5c7d-b1f2-44e9-9cad-a2dcb5a2f452?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T05:00:11+00:00",
-      "summary": "German lender did not publicly disclose scandal or findings of damning internal probe codenamed Project Aetos",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F288ee91d-02a8-43f3-bc31-6c1346d6f7df.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "Far from Trump-Putin meeting, Europe to count cost of Ukraine’s defence",
-      "url": "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-19T04:58:36+00:00",
-      "summary": "European leaders set to meet in Berlin as Kyiv faces a 25 billion-euro ($27.4bn) financing gap next year.",
-      "image": "",
-      "via": "rss"
-    },
-    {
       "title": "After days of travel and diplomacy, Trump seems to nod off during Apec speeches",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3375006/after-days-travel-and-diplomacy-trump-seems-nod-during-apec-speeches",
       "source": "SCMP",
@@ -1027,39 +1743,6 @@
       "published": "2026-11-19T04:57:30+00:00",
       "summary": "As world leaders start a new day of talks at the Apec summit in Shenzhen, US President Donald Trump was seen seemingly dozing off in his seat.\nWhile President Xi Jinping was outlining China’s hopes for the Asia-Pacific, the 80-year-old appeared to nod off, live feed showed. Meanwhile, Russian President Vladimir Putin’s gaze remained fixed on the proceedings, and Canadian Prime Minister Mark Carney and Hong Kong’s leader John Lee took notes.\nJapanese Prime Minister Sanae Takaichi was seen smiling...",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/f2b882ee-c851-4c40-9b6c-a894e35d57dc_c9f82ac3.jpg?itok=XG1bjDsZ&v=1795064249",
-      "via": "rss"
-    },
-    {
-      "title": "Trump wants to talk nuclear with Putin and Xi",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/trump-wants-to-talk-nuclear-with-putin-and-xi?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-19T04:50:28+00:00",
-      "summary": "US President Donald Trump says he plans to raise nuclear non-proliferation with China’s Xi and Russia’s Putin.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Trump makes third Supreme Court bid to end Venezuelan migrant protections",
-      "url": "https://www.aljazeera.com/news/2026/11/19/trump-makes-third-supreme-court-bid-to-end-venezuelan-migrant-protections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-19T04:46:59+00:00",
-      "summary": "Emergency appeal follows a California judge&#039;s ruling that ending their temporary protected status was unlawful.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Elon Musk says he feels ‘pretty foolish’ about US midterm spending",
-      "url": "https://www.aljazeera.com/news/2026/11/19/elon-musk-says-he-feels-pretty-foolish-about-us-midterm-spending?traffic_source=rss",
-      "source": "Al Jazeera",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-19T04:46:18+00:00",
-      "summary": "Musk says campaign cash alone cannot decide elections, even as he heavily funded Republican candidates in Texas.",
-      "image": "",
       "via": "rss"
     },
     {
@@ -1085,17 +1768,6 @@
       "via": "rss"
     },
     {
-      "title": "Carney and Trump Hold Unscheduled Trade Meeting at Asia Summit",
-      "url": "https://www.nytimes.com/2026/11/18/world/canada/trump-carney-meeting-asia-us-canada-trade.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T03:58:57+00:00",
-      "summary": "Prime Minister Mark Carney of Canada at a news conference on the sidelines of the APEC summit in Shenzhen, China, on Wednesday,",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-canada-carney-wrap-mjhp/18int-canada-carney-wrap-mjhp-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
       "title": "Apec leaders suit up with Chinese-style scarves for family photo in Shenzhen",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3374995/apec-leaders-suit-scarf-family-photo-shenzhen",
       "source": "SCMP",
@@ -1115,17 +1787,6 @@
       "published": "2026-11-19T03:38:00+00:00",
       "summary": "Jakarta should evaluate its international nuclear partnerships by the extent to which they can contribute to its long-term technological and industrial development.",
       "image": "https://images.thediplomat.com/v1/td-list-l-2/2025/03/thediplomat_2025-03-21-061340.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Florida Man Found Guilty in Plot to Kill Haiti’s President",
-      "url": "https://www.nytimes.com/2026/11/18/world/americas/haiti-pastor-assassination-moise.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T03:36:55+00:00",
-      "summary": "A photo released by a court in Florida showing Christian Emmanuel Sanon, second from left, boarding a plane in Fort Lauderdale, Fla., that was bound for Haiti.",
-      "image": "https://static01.nyt.com/images/2026/11/17/multimedia/18int-haiti-pastor/18int-haiti-pastor-mediumSquareAt3X.jpg",
       "via": "rss"
     },
     {
@@ -1173,17 +1834,6 @@
       "via": "rss"
     },
     {
-      "title": "Was China Sending a Musical Message to Japan’s Takaichi During APEC Welcome?",
-      "url": "https://www.nytimes.com/2026/11/18/world/asia/japan-china-takaichi-song-sukiyaki-apec.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T03:03:43+00:00",
-      "summary": "A song chosen to welcome Sanae Takaichi at the APEC summit in Shenzhen grew out of protests against the American military presence in Japan.",
-      "image": "https://static01.nyt.com/images/2026/11/19/19visualUploader-43868-cover/19visualUploader-43868-cover-mediumSquareAt3X-v2.jpg",
-      "via": "rss"
-    },
-    {
       "title": "For the Pacific, COP31 must make adaptation last",
       "url": "https://www.lowyinstitute.org/the-interpreter/for-the-pacific-cop31-must-make-adaptation-last",
       "source": "Lowy Institute",
@@ -1192,17 +1842,6 @@
       "published": "2026-11-19T03:00:00+00:00",
       "summary": "The hardest test for climate diplomacy is not new finance pledges but whether Pacific projects still work in five years.",
       "image": "https://cdn.sanity.io/images/5dcouzig/production/50c49ac0e0d2aaf72bda3857fef69e98cdd268c9-8192x5464.jpg?rect=0,582,8192,4301&w=1200&h=630&fm=webp&q=85&fit=crop",
-      "via": "rss"
-    },
-    {
-      "title": "‘I look up when I walk’: 1961 hit Sukiyaki welcomes Japan’s Takaichi at Apec gala",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3374988/i-look-when-i-walk-1961-hit-sukiyaki-welcomes-japans-takaichi-apec-gala",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T02:51:51+00:00",
-      "summary": "When Japanese Prime Minister Sanae Takaichi arrived at the Shenzhen International Communication Centre for a welcome banquet for the Apec leaders on Wednesday night, an ensemble on the stage switched to a bittersweet tune.\nThe music arranged to welcome Takaichi was the Japanese hit “Ue O Muite Arukou”, known as the Sukiyaki song in the West. It was first released in Japan in 1961 and performed by the late singer Kyu Sakamoto.\nThe lyrics tell the story of someone who looks up while walking alone,...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/de89acbd-78ab-4481-ab39-0f44765988f2_e420e5ae.jpg?itok=MBfarvG7&v=1795056530",
       "via": "rss"
     },
     {
@@ -1228,17 +1867,6 @@
       "via": "rss"
     },
     {
-      "title": "Musk says he feels ‘foolish’ for donating nearly $500mn to Republicans",
-      "url": "https://www.ft.com/content/1af0d736-d5e5-4601-989d-638c9cea74b2?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T02:19:32+00:00",
-      "summary": "SpaceX CEO backs away from Maga after monetary support for Trump’s party in midterm elections fails to sway voters",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F8393a4fc-e24f-4bcc-9afe-6d860e8e72da.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
       "title": "特朗普抵达深圳：展示友好关系，无视间谍丑闻",
       "url": "https://cn.nytimes.com/world/20261119/trump-xi-shenzhen-spy-scandal/?utm_source=RSS",
       "source": "纽约时报中文",
@@ -1261,17 +1889,6 @@
       "via": "rss"
     },
     {
-      "title": "US launched unarmed ICBM test hours before Trump’s Air Force One landed in China",
-      "url": "https://www.scmp.com/news/china/military/article/3374979/us-launched-unarmed-icbm-test-hours-trumps-air-force-one-landed-china",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T01:42:08+00:00",
-      "summary": "The United States conducted an intercontinental ballistic missile test less than two hours before President Donald Trump landed in China on Wednesday for the Apec summit and a high-stakes trilateral meeting with his Chinese and Russian counterparts.\nAccording to a statement from the US Air Force Global Strike Command, an unarmed Minuteman III missile was launched at 11.01pm Pacific Time on Tuesday from Vandenberg Space Force Base, California, in a test designated Glory Trip 257.\n\n\nThe launch...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/377be208-74ad-4c0d-809b-7dc4aa222723_effd087a.jpg?itok=FYKDHA7J&v=1795052283",
-      "via": "rss"
-    },
-    {
       "title": "Putin arrives at APEC meeting venue in Shenzhen",
       "url": "https://news.cgtn.com/news/2026-11-19/Putin-arrives-at-APEC-meeting-venue-in-Shenzhen-1S8DjKpq9Zm/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
       "source": "CGTN",
@@ -1280,17 +1897,6 @@
       "published": "2026-11-19T01:38:38+00:00",
       "summary": "Russian President Vladimir Putin arrived at the venue of the 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting on Thursday in Shenzhen, south China's Guangdong Province.",
       "image": "https://news.cgtn.com/news/2026-11-19/Putin-arrives-at-APEC-meeting-venue-in-Shenzhen-1S8DjKpq9Zm/img/01553f668a24409294527757e09d72b9/01553f668a24409294527757e09d72b9-1920.jpeg",
-      "via": "rss"
-    },
-    {
-      "title": "‘Natural enemies’: Trump on China-Russia ties as he plays down Nvidia ‘tragedy’",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3374980/natural-enemies-trump-china-russia-ties-he-plays-down-nvidia-tragedy",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T01:38:23+00:00",
-      "summary": "US President Donald Trump has described China and Russia as “natural enemies” whose partnership “should never have been allowed to happen”, while defending former Nvidia CEO Jensen Huang as an irreplaceable genius.\nHe was speaking in a Fox News interview given just before a bilateral meeting with Chinese President Xi Jinping and a trilateral with Xi and Russian leader Vladimir Putin.\nTrump said China and Russia were driven together by competing needs rather than affinity. “They have 1.4 billion...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/a447b3b4-a328-4e5f-9876-be48a44a57b0_57466c02.jpg?itok=SE2ZI8c7&v=1795052302",
       "via": "rss"
     },
     {
@@ -1316,39 +1922,6 @@
       "via": "rss"
     },
     {
-      "title": "Trump seems to doze off, Elon Musk’s son: the Shenzhen Apec details you may have missed",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3374974/pengs-english-and-cantonese-classics-shenzhen-apec-details-you-may-have-missed",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T01:33:25+00:00",
-      "summary": "We have put together stories from our coverage of Apec in Shenzhen. If you would like to see more of our reporting, please consider subscribing.\n1. After days of travel and diplomacy, Trump seems to nod off during Apec speeches\nAs world leaders start a new day of talks at the Apec summit in Shenzhen, US President Donald Trump was seen seemingly dozing off in his seat.\n2. Elon Musk says his 6-year-old son loves China because it’s a ‘toy paradise’\n\nDuring a high-profile trip to the southern tech...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/c177e064-4cce-441c-9ed0-92c804cf4dc1_a9ca8e27.jpg?itok=3L2v4R5u&v=1795075764",
-      "via": "rss"
-    },
-    {
-      "title": "Apec summit: Air Force One departs Shenzhen, ending Trump’s second visit to China in 2026",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3374977/world-leaders-gather-talk-trade-and-investment-apec-chinas-tech-hub-shenzhen",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T01:32:46+00:00",
-      "summary": "This live article is freely available to our registered users. Please log in or create an account.\nWorld leaders are gathering in Shenzhen on Thursday for the Asia-Pacific Economic Cooperation (Apec) plenary, looking for ways to promote trade and investment at a time of rising global uncertainty.\nChinese President Xi Jinping, US President Donald Trump, Russian President Vladimir Putin, Canadian Prime Minister Mark Carney and Australian Prime Minister Anthony Albanese are among the leaders...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/fc547bbe-4784-4cba-865d-6da6f1621903_2db4ac84.jpg?itok=3sUKALFV&v=1795085658",
-      "via": "rss"
-    },
-    {
-      "title": "Treason or not, betraying one’s country won’t be tolerated",
-      "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3374219/treason-or-not-betraying-ones-country-wont-be-tolerated",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T01:30:06+00:00",
-      "summary": "If you ask what constitutes treason, most people would probably answer: treason is assisting an enemy to harm one’s country. If national security laws existed at the time, historical figures like Qin Hui, Wu Sangui and even Wang Jingwei might all have been found guilty of treason. If you further ask whether treason applies only during times of war, the question becomes somewhat complicated.\nLogically and as a matter of principle, treason is an act of betraying one’s country; the emphasis is on...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/17/a59f4558-5927-4b1b-90f3-75029bafa2a2_cf89c5cb.jpg?itok=IkwD-ebE&v=1794901634",
-      "via": "rss"
-    },
-    {
       "title": "Could New US Chip Restrictions Torpedo Southeast Asia’s AI Ambitions?",
       "url": "https://thediplomat.com/2026/11/could-new-us-chip-restrictions-torpedo-southeast-asias-ai-ambitions/",
       "source": "The Diplomat",
@@ -1357,17 +1930,6 @@
       "published": "2026-11-19T01:30:00+00:00",
       "summary": "Washington is targeting the renting of advanced AI computing capacity to Chinese companies in Singapore, Malaysia, Thailand, and Indonesia.",
       "image": "https://images.thediplomat.com/v1/td-list-l-2/2025/03/thediplomat_2025-03-25-040521.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "US-China science ties fray as visa hurdles and security scrutiny grow",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3374973/us-china-science-ties-fray-visa-hurdles-and-security-scrutiny-grow",
-      "source": "SCMP",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-19T01:00:10+00:00",
-      "summary": "Peking University professor Li Yulong’s team celebrated when six scientists detailing their research on detecting neural signals were accepted for the Society for Neuroscience’s 56th annual meeting in Washington – but only four obtained US visas to participate in it.\nLi has been regularly attending the world’s largest neuroscience gathering since he was a student in 2000. He described it as an essential forum for sharing findings with researchers worldwide, but said his team’s visa difficulties...",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/11/19/bd17fa23-1264-4f29-a614-b8724f5ea9ca_33b28f98.jpg?itok=2kH-Y4hY&v=1795050008",
       "via": "rss"
     },
     {
@@ -1390,6 +1952,17 @@
       "published": "2026-11-19T00:34:00+00:00",
       "summary": "Denial of humanitarian access, abductions and sexual violence are among several violations against children that have increased dramtically over the past year, according to a new report by Save the Children.",
       "image": "",
+      "via": "rss"
+    },
+    {
+      "title": "中美俄「三巨頭」坐在了一起，世界正滑向大國共管嗎？",
+      "url": "https://www.bbc.com/zhongwen/articles/cvglr9r243x6o/trad?at_medium=RSS&at_campaign=rss",
+      "source": "BBC中文",
+      "language": "zh",
+      "type": "broadcast",
+      "published": "2026-11-19T00:11:57+00:00",
+      "summary": "「他們能坐下來，就說明這個世界還沒有到第一次或第二次世界大戰那個狀況。」香港科技大學榮休教授丁學良對BBC說。",
+      "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ace6/live/728fbf50-e353-11f1-acd4-25eaaa5def63.jpg",
       "via": "rss"
     },
     {
@@ -1459,24 +2032,13 @@
       "via": "rss"
     },
     {
-      "title": "为填补乌克兰预算缺口，欧盟提议由各成员国向乌克兰提供一笔额外的450亿欧元贷款",
-      "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261118-%E4%B8%BA%E5%A1%AB%E8%A1%A5%E4%B9%8C%E5%85%8B%E5%85%B0%E9%A2%84%E7%AE%97%E7%BC%BA%E5%8F%A3%EF%BC%8C%E6%AC%A7%E7%9B%9F%E6%8F%90%E8%AE%AE%E7%94%B1%E5%90%84%E6%88%90%E5%91%98%E5%9B%BD%E5%90%91%E4%B9%8C%E5%85%8B%E5%85%B0%E6%8F%90%E4%BE%9B%E4%B8%80%E7%AC%94%E9%A2%9D%E5%A4%96%E7%9A%84450%E4%BA%BF%E6%AC%A7%E5%85%83%E8%B4%B7%E6%AC%BE",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-11-18T22:58:27+00:00",
-      "summary": "周三，欧盟提议由各成员国向乌克兰提供一笔额外的450亿欧元贷款，以填补它2027年的预算缺口。 背景是俄罗斯对乌克兰的入侵仍在持续。这笔资金将填补基辅明年所面临的700亿欧元资金缺口中的三分之二；欧盟方面希望借此激励乌克兰的其他支持者来补足剩余部分。",
-      "image": "https://s.rfi.fr/media/display/3a232cec-9ede-11f1-91e4-005056a97e36/w:1024/p:16x9/AP26208314496823.jpg",
-      "via": "rss"
-    },
-    {
       "title": "GTA 6發售：邁阿密如何出租自己的虛擬分身",
       "url": "https://theinitium.com/20261118-international-miami-vice-city-gta-6/",
       "source": "端传媒",
       "language": "zh",
       "type": "journal",
       "published": "2026-11-18T22:58:00+00:00",
-      "summary": "11&#x6708;19&#x65e5;&#x96f6;&#x6642;&#xff0c;&#x300a;GTA VI&#x300b;&#x6b63;&#x5f0f;&#x89e3;&#x9396;&#xff0c;&#x73a9;&#x5bb6;&#x6642;&#x9694;&#x591a;&#x5e74;&#x91cd;&#x8fd4;&#x300c;&#x7f6a;&#x60e1;&#x90fd;&#x5e02;&#x300d;&#x3002;&#x9019;&#x5ea7;&#x865b;&#x69cb;&#x57ce;&#x5e02;&#x4ee5;&#x9081;&#x963f;&#x5bc6;&#x70ba;&#x539f;&#x578b;&#x3002;&#x5f9e;2002&#x5e74;&#x7684;&#x300a;GTA&#xff1a;&#x7f6a;&#x60e1;&#x90fd;&#x5e02;&#x300b;&#x5230;&#x4eca;&#x5929;&#xff0c;&#x5b83;&#x548c;&#x73fe;&#x5be6;&#x4e2d;&#x7684;&#x9081;&#x963f;&#x5bc6;&#x4e00;&#x76f4;&#x5728;&#x4e92;&#x76f8;&#x5f71;&#x97ff;&#x3002;&#x85c9;&#x8457;&#x904a;&#x6232;&#x767c;&#x552e;&#xff0c;&#x6211;&#x5011;&#x520a;&#x51fa;&#x9019;&#x7bc7;&#x6587;&#x7ae0;&#xff0c;&#x804a;&#x804a;&#x300c;&#x7f6a;&#x60e1;&#x90fd;&#x5e02;&#x300d;&#x5f9e;&#x4f55;&#x800c;&#x4f86;&#xff0c;&#x9081;&#x963f;&#x5bc6;&#x53c8;&#x5982;&#x4f55;&#x9762;&#x5c0d;&#x9019;&#x500b;&#x865b;&#x64ec;&#x5206;&#x8eab;&#x3002;10&#x6708;&#x7b2c;&#x4e00;&#x5929;&#xff0c;&#x71b1;&#x70",
+      "summary": "11&#x6708;19&#x65e5;&#x96f6;&#x6642;&#xff0c;&#x300a;GTA VI&#x300b;&#x6b63;&#x5f0f;&#x89e3;&#x9396;&#xff0c;&#x73a9;&#x5bb6;&#x6642;&#x9694;&#x591a;&#x5e74;&#x91cd;&#x8fd4;&#x300c;&#x7f6a;&#x60e1;&#x90fd;&#x5e02;&#x300d;&#x3002;&#x9019;&#x5ea7;&#x865b;&#x69cb;&#x57ce;&#x5e02;&#x4ee5;&#x9081;&#x963f;&#x5bc6;&#x70ba;&#x539f;&#x578b;&#x3002;&#x5f9e;2002&#x5e74;&#x7684;&#x300a;GTA&#xff1a;&#x7f6a;&#x60e1;&#x90fd;&#x5e02;&#x300b;&#x5230;&#x4eca;&#x5929;&#xff0c;&#x5b83;&#x548c;&#x73fe;&#x5be6;&#x4e2d;&#x7684;&#x9081;&#x963f;&#x5bc6;&#x4e00;&#x76f4;&#x5728;&#x4e92;&#x76f8;&#x5f71;&#x97ff;&#x3002;&#x85c9;&#x8457;&#x904a;&#x6232;&#x767c;&#x552e;&#xff0c;&#x6211;&#x5011;&#x520a;&#x51fa;&#x9019;&#x7bc7;&#x6587;&#x7ae0;&#xff0c;&#x804a;&#x804a;&#x300c;&#x7f6a;&#x60e1;&#x90fd;&#x5e02;&#x300d;&#x5f9e;&#x4f55;&#x800c;&#x4f86;&#xff0c;&#x9081;&#x963f;&#x5bc6;&#x53c8;&#x5982;&#x4f55;&#x9762;&#x5c0d;&#x9019;&#x500b;&#x865b;&#x64ec;&#x5206;&#x8eab;&#x3002; 10&#x6708;&#x7b2c;&#x4e00;&#x5929;&#xff0c;&#x71b1;&#x7",
       "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/AP26322012536853.jpg",
       "via": "rss"
     },
@@ -1514,28 +2076,6 @@
       "via": "rss"
     },
     {
-      "title": "借与习近平和特朗普合影，俄罗斯驳斥普京被国际社会边缘化的说法",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261118-%E5%80%9F%E4%B8%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%92%8C%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%88%E5%BD%B1%EF%BC%8C%E4%BF%84%E7%BD%97%E6%96%AF%E9%A9%B3%E6%96%A5%E6%99%AE%E4%BA%AC%E8%A2%AB%E5%9B%BD%E9%99%85%E7%A4%BE%E4%BC%9A%E8%BE%B9%E7%BC%98%E5%8C%96%E7%9A%84%E8%AF%B4%E6%B3%95",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-11-18T22:50:04+00:00",
-      "summary": "特朗普、普京和习近平星期四的会晤，是一个重要的象征，为俄罗斯总统普京提供了一个与中俄两大超级大国领导人并肩亮相的机会。",
-      "image": "https://s.rfi.fr/media/display/f0f04376-e068-11f1-a6cf-29048b396e03/w:1024/p:16x9/xi-jinping-poutine-trump-040226-1.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "特朗普、普京和习近平星期四深圳会晤：乌克兰、台湾、伊朗、人工智能、核武器等领域受关注",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261118-%E7%89%B9%E6%9C%97%E6%99%AE-%E6%99%AE%E4%BA%AC%E5%92%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%98%9F%E6%9C%9F%E5%9B%9B%E6%B7%B1%E5%9C%B3%E4%BC%9A%E6%99%A4-%E4%B9%8C%E5%85%8B%E5%85%B0-%E5%8F%B0%E6%B9%BE-%E4%BC%8A%E6%9C%97-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E6%A0%B8%E6%AD%A6%E5%99%A8%E7%AD%89%E9%A2%86%E5%9F%9F%E5%8F%97%E5%85%B3%E6%B3%A8",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-11-18T22:41:04+00:00",
-      "summary": "特朗普、普京和习近平将于周四下午2:30在中国深圳举行的亚太经合组织（APEC）峰会期间会晤。乌克兰、欧洲和台湾等各方对此高度关注，因为他们担心会晤中可能达成的协议会以牺牲他们的利益为代价。",
-      "image": "https://s.rfi.fr/media/display/78a872f0-e372-11f1-ad47-6d75ed565170/w:1024/p:16x9/AP26322592600688.jpg",
-      "via": "rss"
-    },
-    {
       "title": "特朗普享受超级礼遇 普京相形见绌",
       "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261118-%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%AB%E5%8F%97%E8%B6%85%E7%BA%A7%E7%A4%BC%E9%81%87-%E6%99%AE%E4%BA%AC%E7%9B%B8%E5%BD%A2%E8%A7%81%E7%BB%8C",
       "source": "法广中文",
@@ -1544,17 +2084,6 @@
       "published": "2026-11-18T22:34:53+00:00",
       "summary": "中国国家主席习近平周三亲赴深圳机场为特朗普接机，而且极其罕见地与其拥抱，法新社评论说，中国国家元首几十年来从未如此超级礼遇过一位外国领导人。",
       "image": "https://s.rfi.fr/media/display/3c9f0a34-e3a0-11f1-8e3e-7908c4e1a3c7/w:1024/p:16x9/2026-11-18T110903Z-2031228129-RC29QOATMNEK-RTRMADP-3-APEC-SUMMIT.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "普京在深圳重返国际外交舞台的中心",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261118-%E6%99%AE%E4%BA%AC%E5%9C%A8%E6%B7%B1%E5%9C%B3%E9%87%8D%E8%BF%94%E5%9B%BD%E9%99%85%E5%A4%96%E4%BA%A4%E8%88%9E%E5%8F%B0%E7%9A%84%E4%B8%AD%E5%BF%83",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-11-18T22:22:07+00:00",
-      "summary": "各位好，本期出刊的法国世界报大篇幅多角度多版面关注了在深圳举行的亚太经合组织峰会，以及中美俄历史性峰会。首先一起来看本期社论，题为“这不是一场新的雅尔塔”。",
-      "image": "https://s.rfi.fr/media/display/1fa0fa2c-e360-11f1-a097-6d75ed565170/w:1024/p:16x9/2026-11-18T125441Z-1202914968-RC2BQOA8YS4U-RTRMADP-3-APEC-SUMMIT.jpg",
       "via": "rss"
     },
     {
@@ -1591,17 +2120,6 @@
       "via": "rss"
     },
     {
-      "title": "美政府多项签证措施遭联邦法官挡下　国际学生留美及实习限制暂缓",
-      "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261118-%E7%BE%8E%E6%94%BF%E5%BA%9C%E5%A4%9A%E9%A1%B9%E7%AD%BE%E8%AF%81%E6%8E%AA%E6%96%BD%E9%81%AD%E8%81%94%E9%82%A6%E6%B3%95%E5%AE%98%E6%8C%A1%E4%B8%8B-%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F%E7%95%99%E7%BE%8E%E5%8F%8A%E5%AE%9E%E4%B9%A0%E9%99%90%E5%88%B6%E6%9A%82%E7%BC%93",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-11-18T21:48:12+00:00",
-      "summary": "美国联邦法院近日接连挡下特朗普政府多项涉及国际学生的签证措施，包括原定将学生留美期限限制为最多4年的新规，以及收紧外国学生课程实习训练（CPT）资格的政策。",
-      "image": "https://s.rfi.fr/media/display/e44c5e8c-e2cc-11f1-9a99-ff16da94d1fe/w:1024/p:16x9/0180745315133-web-tete.jpg",
-      "via": "rss"
-    },
-    {
       "title": "Fifth Plenum Resolution Shifts Party Discipline Toward Implementation",
       "url": "https://jamestown.org/fifth-plenum-resolution-shifts-party-discipline-toward-implementation/",
       "source": "Jamestown Foundation",
@@ -1609,17 +2127,6 @@
       "type": "thinktank",
       "published": "2026-11-18T21:39:26+00:00",
       "summary": "Executive Summary:\n\n\n\n\nThe Fifth Plenum’s Resolution downplays the current purge, as it does not use terms such as “political ambition” or “conspiracy,” in contrast to the 2016 Sixth Plenum of the 18th Central Committee. This consolidates the Party’s unity and solidarity, and suggests that Xi no longer sees senior officials as the main threat.\n\n\n\nThe Resolution mainly targets the implementation of the Party Center’s decisions and plans. The word “implementation” (落实) appears 43 times, compared with 15 times in the previous Party-building decision in 2009. Most of the problems it lists arise at the implementation stage, indicating that the center sees officials at all levels responsible for carrying out policy as the root of the problem.\n\n\n\nTo this end, the Resolution puts “strengthening the Party spirit” first in its discussion section and writes Party spirit—essentially loyalty to Xi—into the procedures for examining and appointing officials. It also weakens the personal authority of ",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "APEC峰会期间，深圳变“空城”",
-      "url": "https://cn.nytimes.com/china/20261119/a-tropical-chinese-city-is-half-empty-and-ready-for-the-summit/?utm_source=RSS",
-      "source": "纽约时报中文",
-      "language": "zh",
-      "type": "newspaper",
-      "published": "2026-11-18T21:38:33+00:00",
-      "summary": "为主办APEC峰会，深圳的学校本周已经停课，地方政府指示企业员工居家办公，许多居民离开了这座城市。峰会期间多条道路封闭，安保举措尤为严密。                    Tingshu Wang/Reuters                    中国深圳的一条高速公路，摄于周三。",
       "image": "",
       "via": "rss"
     },
@@ -1643,17 +2150,6 @@
       "published": "2026-11-18T21:22:05+00:00",
       "summary": "Executive Summary:\n\n\n\n\nSlovakia held formal intergovernmental consultations with Russia for the first time since Russia’s full-scale invasion of Ukraine, focusing on energy imports as Bratislava remains heavily reliant on Russian oil and gas.\n\n\n\nPrime Minister Robert Fico’s Government aims to elevate bilateral relations through the Slovak–Russian Intergovernmental Commission, driven by domestic economic and electoral considerations as Slovakia heads for parliamentary elections in 2027.\n\n\n\nWith former Prime Minister Viktor Orbán out of power in Hungary, the Kremlin is looking to consolidate its relationship with the Slovak leader, hoping he will break European unity on strategic issues such as Russian-European energy relations and the war against Ukraine.\n\n\n\n\n\n\n\n\nOn October 26, Slovak Foreign Minister Juraj Blanár led a delegation of government officials to Moscow for a meeting of the Slovak–Russian Intergovernmental Commission (IGC) on Economic, Scientific, and Technical Cooperation. T",
       "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "中美俄峰会：莫斯科渲染“新雅尔塔”，基辅不接受大国势力划分",
-      "url": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261118-%E4%B8%AD%E7%BE%8E%E4%BF%84%E5%B3%B0%E4%BC%9A-%E8%8E%AB%E6%96%AF%E7%A7%91%E6%B8%B2%E6%9F%93-%E6%96%B0%E9%9B%85%E5%B0%94%E5%A1%94-%EF%BC%8C%E5%9F%BA%E8%BE%85%E4%B8%8D%E6%8E%A5%E5%8F%97%E5%A4%A7%E5%9B%BD%E5%8A%BF%E5%8A%9B%E5%88%92%E5%88%86",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-11-18T21:18:29+00:00",
-      "summary": "11月18日，亚太经合组织峰会在中国深圳举行，俄罗斯总统普京、中国国家主席习近平和美国总统特朗普的互动成为外界关注的焦点。根据此前公布的安排，三国领导人计划于11月19日举行三方会晤，讨论包括核裁军在内的话题。",
-      "image": "https://s.rfi.fr/media/display/78a872f0-e372-11f1-ad47-6d75ed565170/w:1024/p:16x9/AP26322592600688.jpg",
       "via": "rss"
     },
     {
@@ -1690,17 +2186,6 @@
       "via": "rss"
     },
     {
-      "title": "Israeli Tanks Advance Across Gaza Cease-Fire Line in Rare Incursion",
-      "url": "https://www.nytimes.com/2026/11/18/world/middleeast/israel-gaza-war-ground-operation.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-18T20:29:31+00:00",
-      "summary": "Palestinians leaving central Gaza on Wednesday after the Israeli military issued an evacuation order.",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-gaza-ground-ktcl/18int-gaza-ground-ktcl-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
       "title": "America and China Are Trying to Alter Their Economic Bargain",
       "url": "https://foreignpolicy.com/2026/11/18/china-united-states-economy-open-derisk/",
       "source": "Foreign Policy",
@@ -1720,17 +2205,6 @@
       "published": "2026-11-18T20:19:30+00:00",
       "summary": "Deterioration in ties with Washington poses serious trouble.",
       "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/GettyImages-2114900615.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "COP31 ： 巴拿马呼吁中国及产油国多做贡献",
-      "url": "https://www.rfi.fr/cn/%E7%94%9F%E6%80%81/20261118-cop31-%E5%B7%B4%E6%8B%BF%E9%A9%AC%E5%91%BC%E5%90%81%E4%B8%AD%E5%9B%BD%E5%8F%8A%E4%BA%A7%E6%B2%B9%E5%9B%BD%E5%A4%9A%E5%81%9A%E8%B4%A1%E7%8C%AE",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-11-18T19:49:35+00:00",
-      "summary": "土耳其气候峰会周四进入最后的谈判，在周三下午举行的记者会上，巴拿马环境部长高调发言，谴责各国的石油公司绑架了全世界，他在接受法广采访时特别呼吁中国以及海海湾产油国做出贡献。",
-      "image": "https://s.rfi.fr/media/display/2070b4fa-e389-11f1-964c-c5c0357b2a0c/w:1024/p:16x9/WhatsApp-Image-2026-11-18-at-20-46-53.jpeg",
       "via": "rss"
     },
     {
@@ -1862,468 +2336,6 @@
       "type": "newspaper",
       "published": "2026-11-18T16:30:00+00:00",
       "summary": "Two ships changed course, and another has halted hundreds of miles from the coast. Analysts say potential buyers probably are worried about the implications of accepting a Russian import.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Muslims to outnumber Christians worldwide by 2035, study finds",
-      "url": "https://www.washingtonpost.com/religion/2026/11/18/muslims-outnumber-christians-worlds-largest-religion-by-2035-study-finds/",
-      "source": "Washington Post",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-18T16:05:46+00:00",
-      "summary": "Demographic patterns suggest Christianity’s center will move to Africa, and America will no longer be majority-Christian, new research finds.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Vietnam’s Opening in Fractured Asia-Pacific Supply Chains",
-      "url": "https://thediplomat.com/2026/11/vietnams-opening-in-fractured-asia-pacific-supply-chains/",
-      "source": "The Diplomat",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-11-18T16:01:00+00:00",
-      "summary": "As supply chains move from “just-in-time” to “just-in-case,” Vietnam has key advantages over its neighbors.",
-      "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/10/thediplomat_2026-10-29-232416.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Fighting fires, sparking curiosity",
-      "url": "https://www.lowyinstitute.org/the-interpreter/fighting-fires-sparking-curiosity",
-      "source": "Lowy Institute",
-      "language": "en",
-      "type": "thinktank",
-      "published": "2026-11-18T16:00:00+00:00",
-      "summary": "Australia’s fire-fighting mission in East Kalimantan may kindle wider interest in Indonesia.",
-      "image": "https://cdn.sanity.io/images/5dcouzig/production/81d0a3679c9318e4e7155f3777898abd18f106bd-3842x2561.jpg?rect=0,273,3842,2017&w=1200&h=630&fm=webp&q=85&fit=crop",
-      "via": "rss"
-    },
-    {
-      "title": "COP31： 公正转型应该是什么？",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E4%BF%9D%E5%A4%A9%E5%9C%B0/20261118-cop31-%E5%85%AC%E6%AD%A3%E8%BD%AC%E5%9E%8B%E5%BA%94%E8%AF%A5%E6%98%AF%E4%BB%80%E4%B9%88",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-11-18T15:39:26+00:00",
-      "summary": "土耳其第31届联合国气候峰会的一大焦点议题是落实去年在巴西敲定的公正转型机制，以便该机制能够尽快地实施运作，推动全球的能源转型以及经济转型。所谓公正转型，简而言之，就是指以公平、包容地方式摒弃高碳活动，迈向绿色经济。不过，一周来的谈判显示，该机制或许不可能在此次峰会上获得落实，缔约方或许需要更长的时间来具体落实。",
-      "image": "https://s.rfi.fr/media/display/524f6e94-e082-11f1-a4e8-695cb59fade5/w:1024/p:16x9/GBD-9104.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "特朗普政府正考虑要求美国企业公开披露使用中国AI模型情况",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261118-%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%AD%A3%E8%80%83%E8%99%91%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9B%BD%E4%BC%81%E4%B8%9A%E5%85%AC%E5%BC%80%E6%8A%AB%E9%9C%B2%E4%BD%BF%E7%94%A8%E4%B8%AD%E5%9B%BDai%E6%A8%A1%E5%9E%8B%E6%83%85%E5%86%B5",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-11-18T15:37:38+00:00",
-      "summary": "路透社18日消息称，三位知情人士向路透社透露，特朗普政府正考虑要求美国企业公开披露其使用中国人工智能（AI）模型的情况。此举旨在减少企业对中国AI技术的依赖，同时避免出台可能激怒业界或北京方面的新限制措施。",
-      "image": "https://s.rfi.fr/media/display/7bbaa4ce-b1ac-11f1-b95a-3ff9dda05487/w:1024/p:16x9/2026-09-07T074857Z-1977748496-RC27ENAPDLW7-RTRMADP-3-MOONSHOT-AI-RESULTS.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "ICJ to Deliver Landmark Verdict on Myanmar",
-      "url": "https://foreignpolicy.com/2026/11/18/icj-myanmar-rohingya-genocide-case-landmark-verdict-israel-gaza/",
-      "source": "Foreign Policy",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-11-18T15:37:12+00:00",
-      "summary": "The Rohingya genocide case will have wide-ranging impacts, including for the court’s forthcoming judgment on Israel.",
-      "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/icj-myanmar-genocide-case-GettyImages-2255371322.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Iran Fires Missiles and Drones at Gulf Arab States as Peace Talks Falter",
-      "url": "https://www.nytimes.com/2026/11/18/world/middleeast/iran-attacks-bahrain-kuwait-ships-hormuz.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-18T15:37:11+00:00",
-      "summary": "A satellite image of the Ali Al Salem Air Base in Kuwait in June. The Iranian military said it had fired drones at the base on Wednesday, state media reported.",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-gulf-attacks-mbvq/18int-gulf-attacks-mbvq-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Smiles and hugs ahead of Trump, Xi and Putin’s highly anticipated meeting",
-      "url": "https://rfa.org/english/china/2026/11/18/china-trump-xi-putin-apec-shenzhen/",
-      "source": "Radio Free Asia",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-18T15:36:49+00:00",
-      "summary": "SHENZHEN, China – U.S. President Donald Trump was greeted by Chinese President Xi Jinping at the bottom of the stairs of Air Force One upon landing in China on Wednesday for this week’s APEC summit. Trump, Xi, Putin at APEC in ShenzhenBoth leaders embraced on the red carpet at Shenzhen Bao’an International Airport as a crowd of women waved American flags and chanted “warm welcome” in Mandarin. Trump had just flown in from Manila where he had attended the ASEAN summit. The scene echoed Trump’s welcome at Joint Base Andrews at the start of Xi’s state visit to the United States in September.Chinese President Xi Jinping welcomes U.S. President Donald Trump as he arrives at Shenzhen Airport to attend the Asia-Pacific Economic Cooperation (APEC) Leaders Summit in Shenzhen, China Nov. 18, 2026.(Carlos Barria/Reuters)Shenzhen is hosting leaders from 21 Asia-Pacific economies during the two-day summit, but the scheduled meeting between Trump, Xi and Russian President Vladimir Putin on Thursday ",
-      "image": "https://www.rfa.org/resizer/v2/DN4WD5RUHFFFRC2OBIGLBU7YQQ.JPG?auth=34642af4ee63f64f83ede1f3ba2f865de2bbc9056e5b1fad07cdaf8ec127fe53&smart=true&width=1500",
-      "via": "rss"
-    },
-    {
-      "title": "Full text: Xi Jinping's toast remarks at 33rd APEC's welcome dinner",
-      "url": "https://news.cgtn.com/news/2026-11-18/Full-text-Xi-Jinping-s-toast-remarks-at-33rd-APEC-s-welcome-dinner-1Sbc97wP58Q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-18T15:30:35+00:00",
-      "summary": "Chinese President Xi Jinping and his wife, Peng Liyuan, on Wednesday hosted a banquet in Shenzhen, south China's Guangdong Province, to welcome guests who are here to attend the 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting.The following is the full text of Xi's toast at the banquet:Dear Colleagues,Distinguished Guests,Ladies and Gentlemen,Dear Friends,Good evening.Tonight, the shores of the South China Sea are ablaze with light, and Shenzhen is at its autumn best. On the eve of the 33rd APEC Economic Leaders' Meeting, I wish to extend, on behalf of the Chinese government and the Chinese people, our warmest welcome to all distinguished guests.I have often said that to see over a few thousand years of China, go to Xi'an; to see 500 years of China, go to Beijing; to see 100 years of China, go to Shanghai. Tonight, let me add this: To see 50 years of China, come to Shenzhen.Shenzhen is a place with a big story to tell. When I first set foot here in 1978, it was l",
-      "image": "https://news.cgtn.com/news/2026-11-18/Full-text-Xi-Jinping-s-toast-remarks-at-33rd-APEC-s-welcome-dinner-1Sbc97wP58Q/img/26a1aba02aa3420f973bcf9efbb36b90/26a1aba02aa3420f973bcf9efbb36b90-750.png",
-      "via": "rss"
-    },
-    {
-      "title": "Translations on Environmental Activist’s Detention: “It’s More Surprising When It Doesn’t Happen.”",
-      "url": "https://chinadigitaltimes.net/2026/11/translations-on-environmental-activists-detention-its-more-surprising-when-it-doesnt-happen/",
-      "source": "China Digital Times",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-11-18T15:26:57+00:00",
-      "summary": "Late last month, veteran environmental campaigner Zhang Wenbin was detained in Xinjiang, where he lives and works, by police who had made the long trip from Jiangxi. Many aspects of Zhang’s detention echo those of citizen journalists Liu Hu and Wu Yingjiao in February. Their case similarly featured cross-border detentions, official opacity, and allegations of “extortion” widely suspected to have been fabricated to silence their online whistleblowing. Liu and Wu&#8217;s detentions, like Zhang&#8217;s, triggered a flurry of online activity including updates, legal analysis, endorsements of their work and character, and hopes for their swift release. In both cases, much of this content was swiftly and aggressively censored.\nAccording to the Aquarian newsletter, two local environmental volunteers, Luo Wenbin and Xiong Qu, were also detained last month in connection with Zhang Wenbin&#8217;s case. Although lawyers were able to meet with Zhang on October 27, The Aquarian reported, police den",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "What Would the ‘Finlandization’ of Taiwan Look Like?",
-      "url": "https://thediplomat.com/2026/11/what-would-the-finlandization-of-taiwan-look-like/",
-      "source": "The Diplomat",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-11-18T15:26:00+00:00",
-      "summary": "Insights from Pekka Virkki.",
-      "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/11/thediplomat_2026-11-19-002919.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "英伟达称已停止向中国供应Hopper高端芯片",
-      "url": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261118-%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%A7%B0%E5%B7%B2%E5%81%9C%E6%AD%A2%E5%90%91%E4%B8%AD%E5%9B%BD%E4%BE%9B%E5%BA%94hopper%E9%AB%98%E7%AB%AF%E8%8A%AF%E7%89%87",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-11-18T15:23:04+00:00",
-      "summary": "在黄仁勋上周辞职后接任代理首席执行官的科莱特·克雷斯（Colette Kress）周二在财报电话会议上表示，第三季度，英伟达向中国销售了价值24亿美元的、获得出口许可的Hopper架构数据中心产品。不过，她同时指出，目前公司不再计划进行新的相关交付。她没有解释英伟达为何停止出口这些处理器，也没有说明这项决定是否具有永久性。",
-      "image": "https://s.rfi.fr/media/display/fa7cf05e-de17-11f1-a141-f71d22e7fea9/w:1024/p:16x9/2026-11-11T142740Z-643956350-RC2QRLAJXW5Q-RTRMADP-3-NVIDIA-STOCKS-RESEARCH.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "North Korea expanded uranium enrichment plant, says IAEA head",
-      "url": "https://www.dw.com/en/north-korea-expanded-uranium-enrichment-plant-says-iaea-head/a-79982758?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "Deutsche Welle",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-18T15:15:00+00:00",
-      "summary": "IAEA chief Rafael Grossi has said the ongoing expansion of North Korea's uranium enrichment program remains \"a cause for serious concern.\"",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Riding the Gelombang Biru: Melaka and the Freezing of Malaysia’s Ethnic Fault Line",
-      "url": "https://thediplomat.com/2026/11/riding-the-gelombang-biru-melaka-and-the-freezing-of-malaysias-fault-line/",
-      "source": "The Diplomat",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-11-18T15:13:00+00:00",
-      "summary": "Melaka's landslide looked like a routine win for the ruling side. Seen from the ground, it was a test of whether Malaysian votes still follow their leaders.",
-      "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/11/thediplomat_2026-11-19-002941.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "The China-US AI Hotline Needs to Be Different",
-      "url": "https://thediplomat.com/2026/11/the-china-us-ai-hotline-needs-to-be-different/",
-      "source": "The Diplomat",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-11-18T15:07:00+00:00",
-      "summary": "China-U.S. hotlines have historically failed when needed most. This one needs to actually work – and here’s how to make sure it does.",
-      "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/11/thediplomat_2026-11-19-001102.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "‘Bienvenue à Phnom Penh’: Why Cambodia’s Francophonie Summit Matters",
-      "url": "https://thediplomat.com/2026/11/bienvenue-a-phnom-penh-why-cambodias-francophonie-summit-matters/",
-      "source": "The Diplomat",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-11-18T14:45:00+00:00",
-      "summary": "By hosting the 20th Francophonie summit, Cambodia has turned a historical legacy into a diplomatic opportunity. Political divisions, however, threaten to overshadow the institution’s Asian ambition.",
-      "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/11/thediplomat_2026-11-18-232436.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Shenzhen robot carnival draws visitors with 500-plus robots",
-      "url": "https://news.cgtn.com/news/2026-11-18/Shenzhen-robot-carnival-draws-visitors-with-500-plus-robots-1Sb5I94RI1q/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-18T14:28:31+00:00",
-      "summary": "A robotics carnival in Longgang District, Shenzhen City, in south China's Guangdong Province is showcasing more than 500 robots from more than 100 robotics companies across more than 120 models. Local organizers expect the event to help push Shenzhen's robotics technology and products onto the global stage.The Robot Carnival, which opened on Tuesday at Xinghe WORLD COCO Park, centered on four major themes: life services, intelligent manufacturing, emergency protection, and human-machine collaboration. The carnival set up 22 robot application scenarios and proved a magnet for visitors, including those from APEC economies.The event opened with a spectacular Chinese-style robot opening show. Thirty-eight robots performed drumming, electronic keyboard and Thousand-Hand Guanyin routines. Robotic dogs performed the lion dance with nimble movements, while humanoid robots demonstrated Taichi and martial arts in turn. The performance broke new ground, blending robotics with traditional Chinese ",
-      "image": "https://news.cgtn.com/news/2026-11-18/Shenzhen-robot-carnival-draws-visitors-with-500-plus-robots-1Sb5I94RI1q/img/353232d2ed3448a19295ba1a65f969c7/353232d2ed3448a19295ba1a65f969c7-1280.jpeg",
-      "via": "rss"
-    },
-    {
-      "title": "India: Online censorship grows after 'Cockroach' protests",
-      "url": "https://www.dw.com/en/india-online-censorship-grows-after-cockroach-protests/a-79976982?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "Deutsche Welle",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-18T14:28:00+00:00",
-      "summary": "Since anti-government Cockroach protests erupted, journalists and creators say their content is increasingly being restricted on social media in India.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "ICJ to rule on Rohingya genocide case against Myanmar: What to know",
-      "url": "https://www.dw.com/en/icj-to-rule-on-rohingya-genocide-case-against-myanmar-what-to-know/a-79981434?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "Deutsche Welle",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-18T14:27:00+00:00",
-      "summary": "The ICJ is set to decide whether Myanmar's military operations in Rakhine State a decade ago were carried out with the intent to destroy the country's Rohingya minority, in whole or in part.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Can Singapore Get the South China Sea COC Over the Finish Line in 2027?",
-      "url": "https://thediplomat.com/2026/11/can-singapore-get-the-south-china-sea-coc-over-the-finish-line-in-2027/",
-      "source": "The Diplomat",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-11-18T14:20:00+00:00",
-      "summary": "Another ASEAN summit ended with no Code of Conduct. With 80% done, can Singapore spearhead the completion of the agreement next year?",
-      "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/11/thediplomat_2026-11-17-095730.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Voters Are Punishing Autocrats. But Many Still Embrace Them. Why?",
-      "url": "https://www.nytimes.com/2026/11/18/world/europe/autocrats-psychology-support.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-18T14:16:41+00:00",
-      "summary": "A demonstrator and riot police during a student-led protest demanding snap parliamentary elections, in Belgrade, Serbia, this year.",
-      "image": "https://static01.nyt.com/images/2026/11/11/multimedia/11authoritarian-heirarchy-01-vctz/11authoritarian-heirarchy-01-vctz-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "中美俄“历史性”峰会 象征意义或大于实际成果",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20261118-%E4%B8%AD%E7%BE%8E%E4%BF%84-%E5%8E%86%E5%8F%B2%E6%80%A7-%E4%B8%89%E6%96%B9%E5%B3%B0%E4%BC%9A-%E8%B1%A1%E5%BE%81%E6%84%8F%E4%B9%89%E6%88%96%E5%A4%A7%E4%BA%8E%E5%AE%9E%E9%99%85%E6%88%90%E6%9E%9C",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-11-18T14:04:40+00:00",
-      "summary": "周二法国主要报纸头版主题各不相同，《费加罗报》聚焦即将在深圳举行的中美俄三国元首峰会，指出欧洲和乌克兰担忧三大国绕过欧洲、重新划分势力范围，形成一个令欧洲利益受损的“新雅尔塔”；相关议题也是今天多报国际版重点报道的内容。《解放报》关注备受期待的游戏《GTA》（侠盗猎车手）六即将于周四的发售，历经13年等待，这款游戏凭借1600万创纪录的预售成绩和开发预算，再次掀起全球游戏产业热潮，同时也折射出行业面临的转型挑战。经济性《回声报》分析极右翼国民联盟总统候选人勒庞提出的养老金改革方案，重点关注将法定退休年龄降至60岁或62岁的财政成本，以及相关融资措施可能给弱势群体带来的负担。《十字架报》则将目光投向医疗保障和公共卫生支出，指出法国民众对社会医疗保险的报销比例普遍缺乏了解，通过六种疾病案例审视公共医疗支出的真实成本。",
-      "image": "https://s.rfi.fr/media/display/6d209156-e345-11f1-9d44-7908c4e1a3c7/w:1024/p:16x9/2026-11-18T113906Z-1386858333-RC2BQOAA6EP9-RTRMADP-3-APEC-SUMMIT-1.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "台湾九合一大选｜中共介选不只为胜选 更为了使台湾社会陷入分裂",
-      "url": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%81%9A%E7%84%A6%E5%8F%B0%E6%B5%B7/20261118-%E5%8F%B0%E6%B9%BE%E4%B9%9D%E5%90%88%E4%B8%80%E5%A4%A7%E9%80%89%EF%BD%9C%E4%B8%AD%E5%85%B1%E4%BB%8B%E9%80%89%E4%B8%8D%E5%8F%AA%E4%B8%BA%E8%83%9C%E9%80%89-%E6%9B%B4%E4%B8%BA%E4%BA%86%E4%BD%BF%E5%8F%B0%E6%B9%BE%E7%A4%BE%E4%BC%9A%E9%99%B7%E5%85%A5%E5%88%86%E8%A3%82",
-      "source": "法广中文",
-      "language": "zh",
-      "type": "broadcast",
-      "published": "2026-11-18T14:03:40+00:00",
-      "summary": "台湾学者警示，中共介选其实不仅针对特定候选人及关键选区，也可能透过长期资讯操作，加剧台湾政治对立，侵蚀民众对选举公平性与民主制度的信任。真正需要防范的，不只是谁当选、谁落选，而是台湾社会是否正在不知不觉中陷入了猜疑与分裂。",
-      "image": "https://s.rfi.fr/media/display/783e8ea2-9d37-11f1-ac59-005056bfb2b6/w:1024/p:16x9/Taiwan-candidat-campagne-electorale.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Cooperating With China on AI Control Is a Fantasy",
-      "url": "https://foreignpolicy.com/2026/11/18/china-ai-trump-arms-control-regulation-openai-anthropic/",
-      "source": "Foreign Policy",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-11-18T14:00:07+00:00",
-      "summary": "Until Beijing can be trusted, Washington should push ahead to win the AI race.",
-      "image": "https://foreignpolicy.com/wp-content/uploads/2026/11/china-ai-trump-arms-control-regulation-openai-anthropic-2296566512-e1795004664758.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "A Russian oligarch and the suspect money that flowed through Deutsche Bank",
-      "url": "https://www.ft.com/content/5789cfd1-1041-454f-b450-ae2015d7c6ff?syn-25a6b1a6=1",
-      "source": "Financial Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-18T14:00:06+00:00",
-      "summary": "Lender discovered a suspected laundromat centred on a Hungarian bank with ties to Viktor Orbán",
-      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F683891e2-ab47-408c-a65d-338a90089c04.jpg?source=next-home-page&dpr=2&width=580&fit=scale-down",
-      "via": "rss"
-    },
-    {
-      "title": "The Daily Roundup",
-      "url": "https://www.thewirechina.com/2026/11/18/the-daily-roundup-november-18-2026/",
-      "source": "The Wire China",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-11-18T13:59:01+00:00",
-      "summary": "November 18th, 2026 &#124; Welcome to The Wire’s daily news roundup. Each day, our staff gathers the top China business, finance, and economics headlines from a selection of the world’s leading news organizations.\nThe post The Daily Roundup appeared first on The Wire China.",
-      "image": "https://www.thewirechina.com/wp-content/uploads/2020/06/News_Final_BLUE_Valentina_Verc_3_smaller-1-300x149.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Leaders of China and Japan Meet Amid Political Feud",
-      "url": "https://www.nytimes.com/2026/11/18/world/asia/xi-jinping-china-sanae-takaichi-japan.html",
-      "source": "New York Times",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-18T13:46:45+00:00",
-      "summary": "Prime Minister Sanae Takaichi of Japan, left, shakes hands with Xi Jinping, China’s leader, before the welcome banquet at the Asia-Pacific Economic Cooperation summit in Shenzhen, China, on Wednesday.",
-      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/18int-xi-takaichi-lcmk/18int-xi-takaichi-lcmk-mediumSquareAt3X.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Congress’s Plan to Control the Chip Flow",
-      "url": "https://www.thewirechina.com/2026/11/18/congresss-plan-to-control-the-chip-flow/",
-      "source": "The Wire China",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-11-18T13:45:00+00:00",
-      "summary": "The fallout from the Nvidia scandal has put a sharper focus on efforts to keep U.S.-made AI chips out of Chinese hands.\nThe post Congress’s Plan to Control the Chip Flow appeared first on The Wire China.",
-      "image": "https://www.thewirechina.com/wp-content/uploads/2026/11/Jensen-Huang-Chips-2026-300x200.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Trump, Xi, and Putin Are Having a Trilateral Summit. But What’s on the Agenda?",
-      "url": "https://thediplomat.com/2026/11/trump-xi-and-putin-are-having-a-trilateral-summit-but-whats-on-the-agenda/",
-      "source": "The Diplomat",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-11-18T13:44:00+00:00",
-      "summary": "Trump wants to talk nuclear weapons; Putin wants to discuss Ukraine. China would prefer not to discuss either. The best-case outcome is a photo-op.",
-      "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/11/thediplomat_2026-11-18-224658.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Xi Jinping's key quotes at APEC CEO Summit in Shenzhen",
-      "url": "https://news.cgtn.com/news/2026-11-18/Xi-Jinping-s-key-quotes-at-APEC-CEO-Summit-in-Shenzhen-1Sb0BfFr3bO/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-18T13:19:29+00:00",
-      "summary": "Chinese President Xi Jinping on Wednesday delivered a keynote speech at the opening ceremony of the Asia-Pacific Economic Cooperation (APEC) CEO Summit 2026 in Shenzhen, south China's Guangdong Province.&nbsp;Xi called for working together to build an Asia-Pacific community and deliver a bright future for the region.Here are some key quotes from his speech.",
-      "image": "https://news.cgtn.com/news/2026-11-18/Xi-Jinping-s-key-quotes-at-APEC-CEO-Summit-in-Shenzhen-1Sb0BfFr3bO/img/f12dcb4e7ebd4f60848a3f28bfc3d35c/f12dcb4e7ebd4f60848a3f28bfc3d35c-1920.jpeg",
-      "via": "rss"
-    },
-    {
-      "title": "Quad! What Is It Good for? | Kashish Parpiani",
-      "url": "https://thediplomat.com/2026/11/quad-what-is-it-good-for-kashish-parpiani/",
-      "source": "The Diplomat",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-11-18T13:10:00+00:00",
-      "summary": "Kashish Parpiani joins host Tushar Shetty to examine whether the Quad still matters as its leaders reconvene after two years.",
-      "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/11/thediplomat_2026-11-18-221258.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Shenzhen initiative released at APEC 2026",
-      "url": "https://news.cgtn.com/news/2026-11-18/Shenzhen-initiative-released-at-APEC-2026--1Sb2VwqwHXG/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-18T13:05:35+00:00",
-      "summary": "The Shenzhen initiative of the Asia-Pacific Economic Cooperation (APEC) CEO Summit 2026 was released on Wednesday, calling for deepening an open regional economy, driving inclusive growth through technological innovation, strengthening regional connectivity, and working together to achieve shared prosperity.This marks the first time in the 30-year history of the summit that an outcome document has been issued in the form of an initiative.The initiative states that, guided by four priority areas – openness and inclusiveness, innovation-driven growth, greater connectivity and mutually beneficial cooperation – the Asia-Pacific business community stands ready to work with all economies to fully implement the Putrajaya Vision 2040 and build an open, dynamic, resilient and peaceful Asia-Pacific community.It also calls for translating this year's APEC theme, \"Building an Asia-Pacific Community to Prosper Together,\" into concrete actions so that the Asia-Pacific region continues to serve as th",
-      "image": "https://news.cgtn.com/news/2026-11-18/Shenzhen-initiative-released-at-APEC-2026--1Sb2VwqwHXG/img/5da4e29de9ac4502a8015df5df776c80/5da4e29de9ac4502a8015df5df776c80-250.png",
-      "via": "rss"
-    },
-    {
-      "title": "Xi personally greets Trump in Shenzhen in rare gesture",
-      "url": "https://www.washingtonpost.com/world/2026/11/18/xi-personally-greets-trump-shenzhen-rare-gesture/",
-      "source": "Washington Post",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-18T12:45:00+00:00",
-      "summary": "The Chinese president reciprocated for an honor President Donald Trump extended him in September.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "APEC CEO Summit 2026 releases 'Shenzhen Initiative'",
-      "url": "https://news.cgtn.com/news/2026-11-18/APEC-CEO-Summit-2026-releases-Shenzhen-Initiative--1Sb0Q5ZwknK/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-18T12:40:56+00:00",
-      "summary": "The \"Shenzhen Initiative,\" a joint policy and commitment document, was released at the closing ceremony of the 2026 APEC CEO Summit on Wednesday, marking the first time in the summit's 30-year history that an outcome document has taken the form of an initiative. It calls on APEC economies to work closer toward a shared future.",
-      "image": "https://news.cgtn.com/news/2026-11-18/APEC-CEO-Summit-2026-releases-Shenzhen-Initiative--1Sb0Q5ZwknK/img/e88b2cf05d6b46f581f6058fd6031f60/e88b2cf05d6b46f581f6058fd6031f60-1280.png",
-      "via": "rss"
-    },
-    {
-      "title": "台灣選舉漫遊錄：鐵票倉裡的搖擺區，是怎麼形成的？｜端聞 Podcast",
-      "url": "https://theinitium.com/20261118-initium-audio-taiwan-election-travelogue-meinong/",
-      "source": "端传媒",
-      "language": "zh",
-      "type": "journal",
-      "published": "2026-11-18T12:30:00+00:00",
-      "summary": "https://open.acast.com/public/streams/66b07190af99592b5329f43a/episodes/6afd6180990afed4ab817580.mp3\n\n\nhttps://shows.acast.com/initium-reports/20261118-initium-audio-taiwan-election-travelogue-meinong\n\n\n&#x5728;&#x4e0d;&#x5c11;&#x53f0;&#x7063;&#x4eba;&#x5fc3;&#x4e2d;&#xff0c;&#x6bcf;&#x500b;&#x7e23;&#x5e02;&#x4f3c;&#x4e4e;&#x90fd;&#x6709;&#x504f;&#x85cd;&#x6216;&#x504f;&#x7da0;&#x7684;&#x65e2;&#x5b9a;&#x5370;&#x8c61;&#x3002;&#x4f46;&#x5982;&#x679c;&#x628a;&#x9078;&#x8209;&#x5730;&#x5716;&#x653e;&#x5927;&#x5230;&#x6bcf;&#x500b;&#x884c;&#x653f;&#x5340;&#xff0c;&#x7e3d;&#x6703;&#x767c;&#x73fe;&#x5e7e;&#x584a;&#x548c;&#x5468;&#x906d;&#x984f;&#x8272;&#x4e0d;&#x4e00;&#x6a23;&#x7684;&#x5730;&#x65b9;&#x3002;&#x7e3d;&#x6703;&#x767c;&#x73fe;&#x5e7e;&#x584a;&#x548c;&#x5468;&#x906d;&#x984f;&#x8272;&#x4e0d;&#x4e00;&#x6a23;&#x7684;&#x5730;&#x65b9;&#x3002;&#x9019;&#x6b21;&#x53f0;&#x7063;&#x5730;&#x65b9;&#x9078;&#x8209;&#xff0c;&#x7aef;&#x50b3;&#x5a92;&#x5718;&#x968a;&#x5be6;&#x5730;&#x8d70;&#x8a2a;&#x59",
-      "image": "https://storage.ghost.io/c/bd/52/bd52a4c1-eed6-4103-b487-e9a77365f6b3/content/images/2026/11/IMGL5562-copy.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "AI takes center stage on first day of APEC CEO Summit",
-      "url": "https://news.cgtn.com/news/2026-11-18/AI-takes-center-stage-on-first-day-of-APEC-CEO-Summit-1SaObU8tqXS/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-18T12:19:56+00:00",
-      "summary": "The Asia-Pacific Economic Cooperation (APEC) CEO Summit 2026 opened on Tuesday in Shenzhen, south China's Guangdong Province, with artificial intelligence (AI) dominating discussions among attending business leaders from across the world.Under the theme \"To Prosper and Win the Future Together,\" the two-day event has attracted more than 2,000 representatives from 21 APEC economies and 13 non-APEC economies, including Britain, France, Germany and Switzerland.One message emerging from their discussions is the need for an open and inclusive AI ecosystem, where the benefits of innovation can reach beyond a handful of leading economies.\"So, how do we make sure that access to compute and access to the models can be affordable? Affordable access to AI is going to be what's going to make sure that you do not have an AI divide,\" said Mohamed Kande, global chairman of PwC.Apart from bridging the digital divide, businesses are also echoing the call for openness and cooperation.Dai Wenyuan, founder",
-      "image": "https://news.cgtn.com/news/2026-11-18/AI-takes-center-stage-on-first-day-of-APEC-CEO-Summit-1SaObU8tqXS/img/5e44899bbc3546dfb82a2ec5e4c318d0/5e44899bbc3546dfb82a2ec5e4c318d0-250.png",
-      "via": "rss"
-    },
-    {
-      "title": "Xi Jinping hosts welcome banquet for APEC meeting guests",
-      "url": "https://news.cgtn.com/news/2026-11-18/Xi-Jinping-hosts-welcome-banquet-for-APEC-meeting-guests-1SaWqmykQlq/p.html?UTM_Source=cgtn&UTM_Medium=rss&UTM_Campaign=China",
-      "source": "CGTN",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-18T11:30:51+00:00",
-      "summary": "Chinese President Xi Jinping and his wife, Peng Liyuan, on Wednesday hosted a banquet in Shenzhen, south China's Guangdong Province, to welcome guests attending the 33rd Asia-Pacific Economic Cooperation (APEC) Economic Leaders' Meeting.\"I wish to extend, on behalf of the Chinese government and the Chinese people, our warmest welcome to all distinguished guests,\" Xi said in his toast.Openness is deeply rooted in Shenzhen's DNA and innovation drives the city's vitality, while cooperation is where its strength comes from, Xi said, adding that the success of Shenzhen is also a microcosm of China's reform and opening up, as well as an example of fruitful cooperation across the Asia-Pacific.Noting that openness, innovation and cooperation have been the distinctive features of APEC since its establishment, Xi said APEC has grasped the pulse of the times and guided the process of regional economic integration, making the Asia-Pacific the most dynamic region and a vital growth engine of the wo",
-      "image": "https://news.cgtn.com/news/2026-11-18/Xi-Jinping-hosts-welcome-banquet-for-APEC-meeting-guests-1SaWqmykQlq/img/6ceed6c3cc804b5eb5473c52a5306a02/6ceed6c3cc804b5eb5473c52a5306a02-750.png",
-      "via": "rss"
-    },
-    {
-      "title": "Trump is trying to put the Iran war behind him, but it’s not over",
-      "url": "https://www.washingtonpost.com/world/2026/11/18/trump-is-trying-put-iran-war-behind-him-its-not-over/",
-      "source": "Washington Post",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-18T11:23:31+00:00",
-      "summary": "Turmoil reigns in the Strait of Hormuz as an emboldened Iran launches fresh attacks on Gulf states, following President Donald Trump’s midterm losses.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Axes and cutlasses: Violence on Nigeria's election campaign trail",
-      "url": "https://www.dw.com/en/axes-and-cutlasses-violence-on-nigeria-s-election-campaign-trail/a-79978467?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "Deutsche Welle",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-18T10:56:00+00:00",
-      "summary": "As Nigeria's January 2027 elections approach, political violence and thuggery at campaign rallies and town hall meetings raise concerns about voter safety.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "The Manila Summit: Promise and Peril for India’s Quad Chairmanship",
-      "url": "https://thediplomat.com/2026/11/the-manila-summit-promise-and-peril-for-indias-quad-chairmanship/",
-      "source": "The Diplomat",
-      "language": "en",
-      "type": "journal",
-      "published": "2026-11-18T10:50:00+00:00",
-      "summary": "Since the Quad’s revival in 2021, New Delhi has not hosted any leaders’ summit on its own soil.",
-      "image": "https://images.thediplomat.com/v1/td-list-l-2/2026/11/thediplomat_2026-11-18-195802.jpg",
-      "via": "rss"
-    },
-    {
-      "title": "Latin America's mega-prisons: Can El Salvador's model work?",
-      "url": "https://www.dw.com/en/latin-america-s-mega-prisons-can-el-salvador-s-model-work/a-79973524?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "Deutsche Welle",
-      "language": "en",
-      "type": "broadcast",
-      "published": "2026-11-18T10:45:00+00:00",
-      "summary": "El Salvador's mega-prison has become a model for governments across Latin America seeking to combat organized crime. But experts question whether the approach is effective, sustainable or compatible with human rights.",
-      "image": "",
-      "via": "rss"
-    },
-    {
-      "title": "Trump arrives in Shenzhen, China, where Xi Jinping’s family history runs deep",
-      "url": "https://www.washingtonpost.com/world/2026/11/18/trump-arrives-shenzhen-china-where-xi-jinpings-family-history-runs-deep/",
-      "source": "Washington Post",
-      "language": "en",
-      "type": "newspaper",
-      "published": "2026-11-18T10:40:23+00:00",
-      "summary": "President Xi Jinping is showcasing China to world leaders in a city that sprang up under his father’s reformist experiments but bears the imprint of his own vision.",
       "image": "",
       "via": "rss"
     }
